@@ -1,43 +1,30 @@
 {
-  "generated_at": "2026-03-10T13:00:00.225766-04:00",
+  "generated_at": "2026-03-10T15:00:05.225147-04:00",
   "window": {
-    "start": "2026-03-10T12:00:00.225766-04:00",
-    "end": "2026-03-10T13:00:00.225766-04:00"
+    "start": "2026-03-10T14:00:05.225147-04:00",
+    "end": "2026-03-10T15:00:05.225147-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Base de Flávia Moretti cresce na Câmara e aproximação com vereadores reforça diálogo em Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/base-de-flavia-moretti-cresce/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-10T12:02:59-04:00",
+        "title": "PRF encontra mais de 52 kg de cocaína escondidos em estepe de caminhão na BR-364 em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/prf-cocaina-escondidos-caminhao-br-364-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-10T14:03:42-04:00",
         "categories": [
-          "Política"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          510
+          16
         ]
       },
       {
-        "title": "Justiça declara goleiro Bruno foragido após descumprimento de regra da liberdade condicional",
-        "link": "https://perrenguematogrosso.com/justica-declara-goleiro-bruno-foragido/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-10T12:31:47-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Câmera registra momento em que raio atinge casa durante temporal; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/325171-2/",
+        "title": "Fotógrafo registra dezenas de araras-azuis reunidas em árvore; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/o-produtor-audiovisual-e-fotografo/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-10T12:57:16-04:00",
+        "published": "2026-03-10T14:46:02-04:00",
         "categories": [
           "Notícias"
         ],
@@ -49,37 +36,24 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Base de Flávia Moretti cresce na Câmara e aproximação com vereadores reforça diálogo em Várzea Grande; veja vídeo",
-        "link": "https://omatogrossense.com/base-de-flavia-moretti-cresce-na-camara/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-10T12:03:30-04:00",
+        "title": "PRF localiza mais de 52 kg de cocaína escondidos em estepe de caminhão durante operação na BR-364; veja vídeo",
+        "link": "https://omatogrossense.com/prf-cocaina-escondidos-caminhao-br-364-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-10T14:02:08-04:00",
         "categories": [
-          "Política"
+          "MT Notícias"
         ],
         "category_ids": [
-          5
+          20
         ]
       },
       {
-        "title": "Justiça declara goleiro Bruno foragido após ele ignorar ordem de prisão e não se apresentar",
-        "link": "https://omatogrossense.com/justica-declara-goleiro-bruno-foragido/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-10T12:38:07-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Raio atinge casa durante temporal e câmera de segurança registra momento do impacto; Veja vídeo",
-        "link": "https://omatogrossense.com/132600-2/",
+        "title": "Fotógrafo registra encontro de dezenas de araras-azuis em árvore; Veja vídeo",
+        "link": "https://omatogrossense.com/o-produtor-audiovisual-e-fotografo/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-10T12:57:02-04:00",
+        "published": "2026-03-10T14:45:57-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -90,47 +64,7 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Vídeo envolvendo Leonardo e seu neto viraliza e provoca reações na internet; veja vídeo",
-        "link": "https://roonoticias.com/um-video-envolvendo-o-cantor-leonardo-e-seu-neto/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-10T12:00:17-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Troca de farpas entre senador e Eduardo Bolsonaro, O assunto voltou a ser discutido após Flávio, mais uma vez, demonstrar resistência em assinar o requerimento da nova CPI contra os magistrados.",
-        "link": "https://roonoticias.com/uma-troca-de-farpas-nas-redes-sociais-colocou-frente/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-10T12:06:45-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Real Madrid confirma nova lesão e tem mais um problema antes de encarar City na Champions",
-        "link": "https://roonoticias.com/o-real-madrid-ganhou-mais-um-problema-para-o-confronto/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-10T12:15:28-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
