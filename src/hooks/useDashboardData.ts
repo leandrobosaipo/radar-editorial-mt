@@ -4,14 +4,19 @@ import { DATA_URL, REFRESH_INTERVAL, DELAY_THRESHOLD_MINUTES, SITE_FEEDS } from 
 import { MOCK_DATA } from "@/data/mockData";
 
 type SiteFeed = {
-  site: { name: string; url: string; timezone?: string };
+  site: { name: string; url: string; timezone?: string; code?: string };
   generated_at: string;
   window: { start: string; end: string };
   totals: { posts: number; categories: number; journalists: number };
   site_last_publication?: string | null;
   site_elapsed_minutes?: number | null;
   site_status?: "OK" | "ATRASO";
-  categories: Record<string, { count: number; last_post: string }>;
+  compliance_status?: "OK" | "ATRASO";
+  compliance?: {
+    overall_status: "OK" | "ATRASO";
+    checks: Array<{ id: string; label: string; status: "OK" | "ATRASO"; detail: string }>;
+  };
+  categories: Record<string, { count: number; last_post: string | null }>;
   journalists: Record<string, { count: number; categories: Record<string, number> }>;
   audit: Array<{
     category: string;
@@ -84,13 +89,14 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
     }));
 
     const computedSiteStatus =
-      typeof feed.site_status === "string"
-        ? feed.site_status
-        : (() => {
-            const ref = feed.site_last_publication || latestPosts[0]?.datetime;
-            if (!ref) return "ATRASO" as const;
-            return minutesSince(ref) <= DELAY_THRESHOLD_MINUTES ? "OK" : "ATRASO";
-          })();
+      (feed.compliance_status as "OK" | "ATRASO" | undefined) ||
+      (feed.compliance?.overall_status as "OK" | "ATRASO" | undefined) ||
+      (typeof feed.site_status === "string" ? feed.site_status : undefined) ||
+      (() => {
+        const ref = feed.site_last_publication || latestPosts[0]?.datetime;
+        if (!ref) return "ATRASO" as const;
+        return minutesSince(ref) <= DELAY_THRESHOLD_MINUTES ? "OK" : "ATRASO";
+      })();
 
     return {
       name: feed.site?.name || "Portal",
