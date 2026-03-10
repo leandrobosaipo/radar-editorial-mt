@@ -1,5 +1,6 @@
 import { PortalData } from "@/types/dashboard";
 import { formatCuiabaTime } from "@/lib/time";
+import { portalShort } from "@/lib/portal";
 
 interface Props {
   portal: PortalData;
@@ -19,8 +20,8 @@ export function PortalCard({ portal }: Props) {
       {/* Header */}
       <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
         <div>
-          <h2 className="text-xl font-bold">{portal.name}</h2>
-          <p className="text-xs text-muted-foreground font-sans">{portal.url}</p>
+          <h2 className="text-xl font-bold">{portalShort(portal.name)}</h2>
+          <p className="text-xs text-muted-foreground font-sans">{portal.name}</p>
         </div>
         <div className="flex items-center gap-3">
           <span className="font-mono text-lg font-bold text-foreground">

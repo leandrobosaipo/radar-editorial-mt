@@ -1,5 +1,6 @@
 import { AuditEntry } from "@/types/dashboard";
 import { formatCuiabaTime, humanizeElapsed } from "@/lib/time";
+import { portalShort } from "@/lib/portal";
 
 interface Props {
   entries: AuditEntry[];
@@ -26,7 +27,7 @@ export function AuditTable({ entries }: Props) {
             <tbody>
               {entries.map((entry, i) => (
                 <tr key={i} className="border-b border-border/50">
-                  <td className="px-4 py-3 font-mono text-xs">{entry.site}</td>
+                  <td className="px-4 py-3 font-mono text-xs" title={entry.site}>{portalShort(entry.site)}</td>
                   <td className="px-4 py-3 font-mono text-xs">{entry.category}</td>
                   <td className="px-4 py-3 font-mono text-xs text-status-amber">
                     {formatCuiabaTime(entry.lastPublication)}
