@@ -73,11 +73,11 @@ function humanizeElapsed(mins: number): string {
 
 export default function TVDashboard() {
   const { data, isLoading } = useDashboardData();
-  const [panelView, setPanelView] = useState<"sites" | "audit">("sites");
+  const [screenView, setScreenView] = useState<"charts" | "sites" | "audit">("charts");
 
   useEffect(() => {
     const t = setInterval(() => {
-      setPanelView((v) => (v === "sites" ? "audit" : "sites"));
+      setScreenView((v) => (v === "charts" ? "sites" : v === "sites" ? "audit" : "charts"));
     }, 30000);
     return () => clearInterval(t);
   }, []);
@@ -166,63 +166,65 @@ export default function TVDashboard() {
         ))}
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 mb-2 h-[42vh] lg:h-[30vh]">
-        <div className="rounded-lg p-3" style={{ background: COLORS.card }}>
-          <div className="text-sm mb-2">Posts por Portal</div>
-          <ResponsiveContainer width="100%" height="90%">
-            <BarChart data={model.postsByPortal} layout="vertical" margin={{ left: 8, right: 8 }}>
-              <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
-              <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <YAxis type="category" dataKey="name" hide />
-              <Bar dataKey="posts" fill={COLORS.blue}>
-                <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
-              </Bar>
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-
-        <div className="rounded-lg p-3" style={{ background: COLORS.card }}>
-          <div className="text-sm mb-2">Posts por Categoria</div>
-          <ResponsiveContainer width="100%" height="90%">
-            <BarChart data={model.postsByCategory} layout="vertical" margin={{ left: 8, right: 8 }}>
-              <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
-              <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <YAxis type="category" dataKey="name" hide />
-              <Bar dataKey="value" fill={COLORS.ok}>
-                <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
-              </Bar>
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-
-        <div className="rounded-lg p-3" style={{ background: COLORS.card }}>
-          <div className="text-sm mb-2">Posts por Jornalista</div>
-          <ResponsiveContainer width="100%" height="90%">
-            <BarChart data={model.postsByJournalist} layout="vertical" margin={{ left: 8, right: 8 }}>
-              <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
-              <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <YAxis type="category" dataKey="name" hide />
-              <Bar dataKey="posts" fill={COLORS.warn}>
-                <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
-              </Bar>
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-      </div>
-
-      <div className="rounded-lg p-2 h-[36vh] lg:h-[32vh] overflow-hidden" style={{ background: COLORS.card }}>
+      <div className="rounded-lg p-2 h-[78vh] overflow-hidden" style={{ background: COLORS.card }}>
         <div className="text-[11px] mb-1 flex items-center justify-between text-slate-300">
-          <span>{panelView === "sites" ? "Status por portal" : "Auditoria crítica"}</span>
+          <span>
+            {screenView === "charts" ? "Gráficos" : screenView === "sites" ? "Status dos 6 portais" : "Auditoria crítica"}
+          </span>
           <span>Auto alterna a cada 30s</span>
         </div>
 
-        {panelView === "sites" ? (
+        {screenView === "charts" && (
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 h-[calc(100%-20px)]">
+            <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
+              <div className="text-xs mb-1">Posts por Portal</div>
+              <ResponsiveContainer width="100%" height="92%">
+                <BarChart data={model.postsByPortal} layout="vertical" margin={{ left: 8, right: 8 }}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
+                  <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+                  <YAxis type="category" dataKey="name" hide />
+                  <Bar dataKey="posts" fill={COLORS.blue}>
+                    <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
+                  </Bar>
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+
+            <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
+              <div className="text-xs mb-1">Posts por Categoria</div>
+              <ResponsiveContainer width="100%" height="92%">
+                <BarChart data={model.postsByCategory} layout="vertical" margin={{ left: 8, right: 8 }}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
+                  <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+                  <YAxis type="category" dataKey="name" hide />
+                  <Bar dataKey="value" fill={COLORS.ok}>
+                    <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
+                  </Bar>
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+
+            <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
+              <div className="text-xs mb-1">Posts por Jornalista</div>
+              <ResponsiveContainer width="100%" height="92%">
+                <BarChart data={model.postsByJournalist} layout="vertical" margin={{ left: 8, right: 8 }}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
+                  <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+                  <YAxis type="category" dataKey="name" hide />
+                  <Bar dataKey="posts" fill={COLORS.warn}>
+                    <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
+                  </Bar>
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+          </div>
+        )}
+
+        {screenView === "sites" && (
           <div className="grid grid-cols-2 lg:grid-cols-3 gap-2 h-[calc(100%-20px)] overflow-hidden">
             {data.portals.slice(0, 6).map((p) => {
               const delayed = p.categories.filter((c) => c.status === "ATRASO").length;
-              const lastMins = p.categories.length
-                ? Math.max(...p.categories.map((c) => minutesSince(c.lastPost)))
-                : null;
+              const lastMins = p.categories.length ? Math.max(...p.categories.map((c) => minutesSince(c.lastPost))) : null;
               return (
                 <div key={p.name} className="rounded-lg p-2" style={{ background: delayed ? "#3f1d1d" : "#123524" }}>
                   <div className="flex justify-between mb-1">
@@ -240,7 +242,7 @@ export default function TVDashboard() {
                         {p.categories
                           .map((c) => ({ ...c, mins: minutesSince(c.lastPost) }))
                           .sort((a, b) => b.mins - a.mins)
-                          .slice(0, 4)
+                          .slice(0, 5)
                           .map((c) => (
                             <tr key={c.name}>
                               <td>{c.name.slice(0, 13)}</td>
@@ -255,7 +257,9 @@ export default function TVDashboard() {
               );
             })}
           </div>
-        ) : (
+        )}
+
+        {screenView === "audit" && (
           <table className="w-full text-[10px]">
             <thead>
               <tr className="text-slate-300">
@@ -267,7 +271,7 @@ export default function TVDashboard() {
               </tr>
             </thead>
             <tbody>
-              {model.auditCritical.slice(0, 16).map((a, i) => (
+              {model.auditCritical.slice(0, 24).map((a, i) => (
                 <tr key={i}>
                   <td>{portalShort(a.site)}</td>
                   <td>{a.category}</td>
