@@ -1,73 +1,55 @@
-# Welcome to your Lovable project
+# Radar Editorial MT
 
-## Project info
+Painel editorial com duas interfaces:
+- `/` Dashboard operacional padrão
+- `/tv` Wallboard (modo telão / redação)
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Rodar no Mac (teste local)
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```bash
+cd /Users/leandrobosaipo/.openclaw/workspace-openrouter-free/projects/codigo5-manutencao/radar-editorial-mt
+npm install
+npm run dev -- --host 0.0.0.0 --port 4173
 ```
 
-**Edit a file directly in GitHub**
+Acesse:
+- Dashboard normal: `http://localhost:4173/`
+- Modo TV: `http://localhost:4173/tv`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Dados usados
 
-**Use GitHub Codespaces**
+1) Prioridade: feeds por site (tempo real)
+- `https://perrenguematogrosso.com.br/wp-json/radar/v1/feed`
+- `https://afolhalivre.com/wp-json/radar/v1/feed`
+- `https://omatogrossense.com/wp-json/radar/v1/feed`
+- `https://portalnortemt.com/wp-json/radar/v1/feed`
+- `https://portalpantanalmt.com/wp-json/radar/v1/feed`
+- `https://roonoticias.com/wp-json/radar/v1/feed`
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+2) Fallback:
+- `latest.json` público
 
-## What technologies are used for this project?
+## Modo TV (/tv)
 
-This project is built with:
+Características:
+- layout 16:9 em tema dark
+- cards KPI grandes
+- gráficos por portal/categoria/jornalista
+- status por portal com top 5 categorias críticas
+- ticker dos últimos posts
+- auditoria crítica ordenada por severidade
+- atualização automática dos dados (intervalo padrão do app)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Publicação e URL para TV
 
-## How can I deploy this project?
+URL pública do app:
+- `https://leandrobosaipo.github.io/radar-editorial-mt/`
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+URL do modo TV (usar a mesma na TV Android):
+- `https://leandrobosaipo.github.io/radar-editorial-mt/tv`
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### Uso na TV
+1. Abra o navegador da TV
+2. Acesse a URL `/tv`
+3. Coloque em tela cheia
+4. Desative suspensão de tela (economia de energia)
