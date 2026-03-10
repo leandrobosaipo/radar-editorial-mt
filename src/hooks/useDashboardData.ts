@@ -42,6 +42,17 @@ function minutesSince(iso: string): number {
   return Math.max(0, Math.floor((now - then) / 60000));
 }
 
+function portalOrderRank(name: string): number {
+  const n = (name || "").toLowerCase();
+  if (n.includes("perrengue")) return 1; // PMT
+  if (n.includes("matogrossense")) return 2; // OMT
+  if (n.includes("roo")) return 3; // ROO
+  if (n.includes("norte")) return 4; // PNMT
+  if (n.includes("pantanal")) return 5; // PPMT
+  if (n.includes("folha")) return 6; // AFL
+  return 99;
+}
+
 function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
   const portals: PortalData[] = feeds.map((feed) => {
     const categories: CategorySummary[] = Object.entries(feed.categories || {})
@@ -91,6 +102,8 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
       latestPosts,
     };
   });
+
+  portals.sort((a, b) => portalOrderRank(a.name) - portalOrderRank(b.name));
 
   const audit: AuditEntry[] = feeds.flatMap((feed) =>
     (feed.audit || [])
@@ -168,6 +181,8 @@ function normalizeLegacyPayload(raw: MonitorPayload): DashboardData {
       latestPosts,
     };
   });
+
+  portals.sort((a, b) => portalOrderRank(a.name) - portalOrderRank(b.name));
 
   const audit: AuditEntry[] = portals.flatMap((portal) =>
     portal.categories
