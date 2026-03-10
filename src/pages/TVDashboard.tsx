@@ -224,15 +224,19 @@ export default function TVDashboard() {
           <div className="grid grid-cols-2 lg:grid-cols-3 gap-2 h-[calc(100%-20px)] overflow-hidden">
             {data.portals.slice(0, 6).map((p) => {
               const delayed = p.categories.filter((c) => c.status === "ATRASO").length;
-              const lastMins = p.categories.length ? Math.max(...p.categories.map((c) => minutesSince(c.lastPost))) : null;
+              const lastPostIso = p.latestPosts?.[0]?.datetime || null;
+              const siteMins = lastPostIso ? minutesSince(lastPostIso) : null;
+              const siteStatus = p.status;
               return (
-                <div key={p.name} className="rounded-lg p-2" style={{ background: delayed ? "#3f1d1d" : "#123524" }}>
+                <div key={p.name} className="rounded-lg p-2" style={{ background: siteStatus === "ATRASO" ? "#3f1d1d" : "#123524" }}>
                   <div className="flex justify-between mb-1">
                     <div className="font-semibold text-xs">{portalShort(p.name)}</div>
                     <div className="text-[10px]">{p.totalPublications} posts</div>
                   </div>
-                  <div className="text-[10px] text-slate-200 mb-1">
-                    Últ. atividade: {lastMins === null ? "sem dados" : humanizeElapsed(lastMins)}
+                  <div className="grid grid-cols-3 gap-1 text-[10px] text-slate-200 mb-1">
+                    <div>Status site: <span style={{ color: siteStatus === "ATRASO" ? COLORS.crit : COLORS.ok }}>{siteStatus}</span></div>
+                    <div>Cat. críticas: {delayed}</div>
+                    <div>Últ. post: {siteMins === null ? "n/d" : humanizeElapsed(siteMins)}</div>
                   </div>
                   {p.categories.length === 0 ? (
                     <div className="text-[10px] text-slate-200">Sem posts na janela atual.</div>
