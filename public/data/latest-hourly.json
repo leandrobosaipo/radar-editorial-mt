@@ -1,27 +1,14 @@
 {
-  "generated_at": "2026-03-10T12:02:23.437207-04:00",
+  "generated_at": "2026-03-10T12:20:06.327298-04:00",
   "window": {
-    "start": "2026-03-10T11:02:23.437207-04:00",
-    "end": "2026-03-10T12:02:23.437207-04:00"
+    "start": "2026-03-10T11:20:06.327298-04:00",
+    "end": "2026-03-10T12:20:06.327298-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Desconto do IPVA 2026 termina hoje para placas finais 1, 2, 3 e 4 em MT: veja como pagar parcelado",
-        "link": "https://perrenguematogrosso.com/ipva-2026-vence-terca-desconto-placas-mt/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-10T11:05:10-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
         "title": "Policial militar fica ferido após Camaro colidir contra poste; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-policial-militar-ficou-ferido-apos/",
+        "link": "https://perrenguematogrosso.com/um-policial-militar/",
         "author": "Karolina silva",
         "author_id": 290,
         "published": "2026-03-10T11:31:29-04:00",
@@ -44,40 +31,26 @@
         "category_ids": [
           16
         ]
-      }
-    ],
-    "afolhalivre": [
-      {
-        "title": "Proprietários de veículos com placas finais 1, 2, 3 e 4 têm até hoje para garantir desconto de 5% no IPVA 2026 em Mato Grosso",
-        "link": "https://afolhalivre.com/os-proprietarios-de-veiculos-com-placas-terminadas-em-1-2-3-e-4-precisam-ficar-atentos-ao-calendario-do-imposto-sobre-a-propriedade-de-veicu/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-10T11:09:28-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
-    "omatogrossense": [
-      {
-        "title": "Desconto do IPVA 2026 termina hoje para placas finais 1, 2, 3 e 4 em MT: confira quais veículos entram no prazo",
-        "link": "https://omatogrossense.com/desconto-ipva-2026-placas-mt/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-10T11:08:31-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
       },
       {
-        "title": "Policial militar perde controle de Camaro e bate em poste na zona leste; Veja vídeo",
-        "link": "https://omatogrossense.com/policial-militar-ficou-ferido-apos-perder-o-controle/",
+        "title": "Base de Flávia Moretti cresce na Câmara e aproximação com vereadores reforça diálogo em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/base-de-flavia-moretti-cresce/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-10T12:02:59-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
+    "afolhalivre": [],
+    "omatogrossense": [
+      {
+        "title": "Policial militar perde controle de Camaro e bate em poste; Veja vídeo",
+        "link": "https://omatogrossense.com/policial-militar-ficou/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
         "published": "2026-03-10T11:31:22-04:00",
@@ -100,24 +73,24 @@
         "category_ids": [
           20
         ]
+      },
+      {
+        "title": "Base de Flávia Moretti cresce na Câmara e aproximação com vereadores reforça diálogo em Várzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/base-de-flavia-moretti-cresce-na-camara/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-10T12:03:30-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": [
-      {
-        "title": "Cratera se abre em rua e engole carro em bairro de Contagem; Veja vídeo",
-        "link": "https://roonoticias.com/uma-cratera-se-abriu-no-meio-de-uma-rua-e-engoliu/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-10T11:03:19-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
       {
         "title": "Ana Paula Siebert celebra parceria e conexão com a Lança Perfume em desfile em SC; veja vídeo",
         "link": "https://roonoticias.com/a-influenciadora-ana-paula-siebert-participou-do-desfile/",
@@ -142,6 +115,32 @@
         ],
         "category_ids": [
           973
+        ]
+      },
+      {
+        "title": "Troca de farpas entre senador e Eduardo Bolsonaro, O assunto voltou a ser discutido após Flávio, mais uma vez, demonstrar resistência em assinar o requerimento da nova CPI contra os magistrados.",
+        "link": "https://roonoticias.com/uma-troca-de-farpas-nas-redes-sociais-colocou-frente/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-10T12:06:45-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Real Madrid confirma nova lesão e tem mais um problema antes de encarar City na Champions",
+        "link": "https://roonoticias.com/o-real-madrid-ganhou-mais-um-problema-para-o-confronto/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-10T12:15:28-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ]
