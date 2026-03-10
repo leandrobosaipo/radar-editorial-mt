@@ -1,17 +1,43 @@
 {
-  "generated_at": "2026-03-10T16:00:05.638647-04:00",
+  "generated_at": "2026-03-10T17:00:05.291573-04:00",
   "window": {
-    "start": "2026-03-10T15:00:05.638647-04:00",
-    "end": "2026-03-10T16:00:05.638647-04:00"
+    "start": "2026-03-10T16:00:05.291573-04:00",
+    "end": "2026-03-10T17:00:05.291573-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Estudante de 14 anos é transferido após aparecer com arma em escola particular de Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/estudante-de-14-anos-e-transferido-apos-aparecer-com-arma-em-escola-particular-de-cuiaba-veja-video/",
+        "title": "Irã divulga vídeo animado com críticas aos EUA e Israel e conteúdo viraliza nas redes; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/ira-divulga-video-animado-com-criticas-aos-eua-e-israel-e-conteudo-viraliza-nas-redes-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-10T16:31:19-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Passageira surpreende motorista ao bater porta do carro várias vezes durante corrida por aplicativo; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/passageira-surpreende-motorista-ao-bater-porta-do-carro-varias-vezes-durante-corrida-por-aplicativo-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-10T16:44:40-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Fiscalização da Secretaria de Ordem Pública interdita posto de combustível irregular em frente à Rodoviária de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/fiscalizacao-interdita-posto-irregular-frente-rodoviaria-cuiaba/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-10T15:13:54-04:00",
+        "published": "2026-03-10T16:49:25-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,24 +46,11 @@
         ]
       },
       {
-        "title": "Mixto abre venda antecipada de ingressos para duelo decisivo na Copa do Brasil contra o Novorizontino",
-        "link": "https://perrenguematogrosso.com/mixto-abre-venda-antecipada-de-ingressos/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-10T15:16:14-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Wellington Fagundes defende política com humildade e diálogo para garantir estabilidade",
-        "link": "https://perrenguematogrosso.com/wellington-fagundes-defende-politica-com-humildade-e-dialogo-para-garantir-estabilidade/",
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/325236-2/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-10T15:29:12-04:00",
+        "published": "2026-03-10T16:56:14-04:00",
         "categories": [
           "Política"
         ],
@@ -49,11 +62,37 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Aluno é transferido de colégio particular após exibir arma em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/aluno-e-transferido-de-colegio-particular-apos-exibir-arma-em-cuiaba-veja-video/",
+        "title": "Vídeo animado divulgado pela TV estatal do Irã provoca EUA e Israel e viraliza nas redes; Veja vídeo",
+        "link": "https://omatogrossense.com/video-animado-divulgado-pela-tv-estatal-do-ira-provoca-eua-e-israel-e-viraliza-nas-redes-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-10T16:28:52-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Corrida de aplicativo termina com cena curiosa após passageira bater porta do carro várias vezes; Veja vídeo",
+        "link": "https://omatogrossense.com/corrida-de-aplicativo-termina-com-cena-curiosa-apos-passageira-bater-porta-do-carro-varias-vezes-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-10T16:45:41-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Fiscalização interdita posto de combustível em frente à Rodoviária de Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/fiscalizacao-interdita-posto-frente-rodoviaria-cuiaba/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-10T15:13:57-04:00",
+        "published": "2026-03-10T16:51:49-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,11 +101,11 @@
         ]
       },
       {
-        "title": "Wellington Fagundes defende política com humildade e diálogo para garantir estabilidade",
-        "link": "https://omatogrossense.com/wellington-fagundes-defende-politica-com-humildade-e-dialogo-para-garantir-estabilidade/",
+        "title": ".",
+        "link": "https://omatogrossense.com/132657-2/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-10T15:29:17-04:00",
+        "published": "2026-03-10T16:56:25-04:00",
         "categories": [
           "Política"
         ],
@@ -79,29 +118,16 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Filipe Luís? O que São Paulo pensa para novo técnico, Após a demissão do técnico Hernán Crespo",
-        "link": "https://roonoticias.com/o-sao-paulo-iniciou-o-planejamento-para-definir-seu-novo/",
+        "title": "Homem armado invade bar e abre fogo contra clientes em MT, câmeras registram ação; veja vídeo",
+        "link": "https://roonoticias.com/um-atirador-executou-rodrigo-belarmino-fulgencio/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-10T15:22:38-04:00",
+        "published": "2026-03-10T16:21:48-04:00",
         "categories": [
-          "Esporte"
+          "MT Notícias"
         ],
         "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Nino no Palmeiras? Leila Pereira atualiza busca por reforços após título: ‘Não tenho dúvida’",
-        "link": "https://roonoticias.com/a-presidente-do-palmeiras-leila-pereira-falou-com-jornalistas/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-10T15:32:09-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
+          20
         ]
       }
     ]
