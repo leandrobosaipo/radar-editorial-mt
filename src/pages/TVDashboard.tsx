@@ -29,6 +29,19 @@ function severityByMinutes(mins: number): "OK" | "ATENCAO" | "CRITICO" {
   return "CRITICO";
 }
 
+function humanizeElapsed(mins: number): string {
+  if (mins < 60) return `${mins}m`;
+  const h = Math.floor(mins / 60);
+  const m = mins % 60;
+  if (h < 24) return m ? `${h}h ${m}m` : `${h}h`;
+  const d = Math.floor(h / 24);
+  const hh = h % 24;
+  if (d < 7) return hh ? `${d}d ${hh}h` : `${d}d`;
+  const w = Math.floor(d / 7);
+  const dd = d % 7;
+  return dd ? `${w}w ${dd}d` : `${w}w`;
+}
+
 export default function TVDashboard() {
   const { data, isLoading } = useDashboardData();
 
@@ -127,12 +140,12 @@ export default function TVDashboard() {
         <div className="rounded-lg p-3" style={{ background: COLORS.card }}>
           <div className="text-sm mb-2">Posts por Portal</div>
           <ResponsiveContainer width="100%" height="90%">
-            <BarChart data={model.postsByPortal}>
+            <BarChart data={model.postsByPortal} layout="vertical" margin={{ left: 8, right: 8 }}>
               <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
-              <XAxis dataKey="name" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <YAxis stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+              <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+              <YAxis type="category" dataKey="name" width={95} stroke="#cbd5e1" tick={{ fontSize: 10 }} />
               <Bar dataKey="posts" fill={COLORS.blue}>
-                <LabelList dataKey="posts" position="top" fill="#cbd5e1" fontSize={10} />
+                <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
               </Bar>
             </BarChart>
           </ResponsiveContainer>
@@ -147,7 +160,6 @@ export default function TVDashboard() {
               <YAxis type="category" dataKey="name" width={90} stroke="#cbd5e1" tick={{ fontSize: 10 }} />
               <Bar dataKey="value" fill={COLORS.ok}>
                 <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
-                <LabelList dataKey="value" position="right" fill="#cbd5e1" fontSize={10} />
               </Bar>
             </BarChart>
           </ResponsiveContainer>
@@ -160,9 +172,7 @@ export default function TVDashboard() {
               <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
               <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
               <YAxis type="category" dataKey="name" width={100} stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <Bar dataKey="posts" fill={COLORS.warn}>
-                <LabelList dataKey="posts" position="right" fill="#cbd5e1" fontSize={10} />
-              </Bar>
+              <Bar dataKey="posts" fill={COLORS.warn} />
             </BarChart>
           </ResponsiveContainer>
         </div>
@@ -201,20 +211,7 @@ export default function TVDashboard() {
         })}
       </div>
 
-      <div className="rounded-lg p-2 mb-3 overflow-hidden" style={{ background: COLORS.card }}>
-        <div className="text-xs mb-1">Feed de atividade (últimos posts)</div>
-        <div className="ticker-wrap">
-          <div className="ticker-track">
-            {[...model.ticker, ...model.ticker].map((t, i) => (
-              <span key={i} className="mr-8 text-xs whitespace-nowrap">
-                <b>{t.portalName}</b> • {t.author} • {new Date(t.datetime).toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" })} • {t.title}
-              </span>
-            ))}
-          </div>
-        </div>
-      </div>
-
-      <div className="rounded-lg p-2 h-[14vh]" style={{ background: COLORS.card }}>
+      <div className="rounded-lg p-2 h-[24vh]" style={{ background: COLORS.card }}>
         <div className="text-xs mb-1">Auditoria crítica</div>
         <table className="w-full text-xs">
           <thead>
@@ -232,7 +229,7 @@ export default function TVDashboard() {
                 <td>{a.site}</td>
                 <td>{a.category}</td>
                 <td>{new Date(a.lastPublication).toLocaleString("pt-BR")}</td>
-                <td className="text-right">{a.mins} min</td>
+                <td className="text-right">{humanizeElapsed(a.mins)}</td>
                 <td className="text-right" style={{ color: a.severity === "CRITICO" ? COLORS.crit : a.severity === "ATENCAO" ? COLORS.warn : COLORS.ok }}>{a.severity}</td>
               </tr>
             ))}
