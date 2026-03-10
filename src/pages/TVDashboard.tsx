@@ -1,4 +1,4 @@
-import { useMemo } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useDashboardData } from "@/hooks/useDashboardData";
 import {
   BarChart,
@@ -18,6 +18,8 @@ const COLORS = {
   card: "#111827",
   bg: "#0b1220",
 };
+
+const WALLBOARD_NAME = "Painel de Operações Editoriais";
 
 const PORTAL_ABBR: Record<string, string> = {
   "O Matogrossense": "OMT",
@@ -39,6 +41,11 @@ function portalShort(name: string): string {
   if (n.includes("pantanal")) return "PPMT";
   if (n.includes("folha")) return "AFL";
   return name.slice(0, 4).toUpperCase();
+}
+
+function journalistShort(name: string): string {
+  const parts = name.trim().split(/\s+/);
+  return parts.slice(0, 2).join(" ");
 }
 
 function minutesSince(iso: string): number {
@@ -66,6 +73,14 @@ function humanizeElapsed(mins: number): string {
 
 export default function TVDashboard() {
   const { data, isLoading } = useDashboardData();
+  const [panelView, setPanelView] = useState<"sites" | "audit">("sites");
+
+  useEffect(() => {
+    const t = setInterval(() => {
+      setPanelView((v) => (v === "sites" ? "audit" : "sites"));
+    }, 30000);
+    return () => clearInterval(t);
+  }, []);
 
   const model = useMemo(() => {
     if (!data) return null;
@@ -93,14 +108,9 @@ export default function TVDashboard() {
       p.journalists.forEach((j) => jornMap.set(j.name, (jornMap.get(j.name) || 0) + j.count))
     );
     const postsByJournalist = Array.from(jornMap.entries())
-      .map(([name, posts]) => ({ name, posts }))
+      .map(([name, posts]) => ({ name: journalistShort(name), posts }))
       .sort((a, b) => b.posts - a.posts)
       .slice(0, 8);
-
-    const ticker = data.portals
-      .flatMap((p) => p.latestPosts.map((lp) => ({ ...lp, portalName: p.name })))
-      .sort((a, b) => new Date(b.datetime).getTime() - new Date(a.datetime).getTime())
-      .slice(0, 30);
 
     const auditCritical = data.portals
       .flatMap((p) => {
@@ -127,7 +137,6 @@ export default function TVDashboard() {
       postsByPortal,
       postsByCategory,
       postsByJournalist,
-      ticker,
       auditCritical,
     };
   }, [data]);
@@ -137,26 +146,27 @@ export default function TVDashboard() {
   }
 
   return (
-    <div className="min-h-screen w-screen overflow-hidden bg-[#0b1220] text-white p-3 md:p-4">      <div className="mb-3">
-        <h1 className="text-2xl md:text-3xl font-bold">Radar Editorial MT</h1>
-        <p className="text-sm text-slate-300">Central de Monitoramento da Redação</p>
+    <div className="min-h-screen w-screen overflow-hidden bg-[#0b1220] text-white p-2 md:p-3">
+      <div className="mb-2 text-[11px] text-slate-300 flex items-center justify-between">
+        <span>{WALLBOARD_NAME}</span>
+        <span>Atualizado: {new Date(data?.lastUpdate || Date.now()).toLocaleString("pt-BR")}</span>
       </div>
 
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 md:gap-3 mb-3">
+      <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 mb-2">
         {[
           ["TOTAL DE POSTS", model.totalPosts, COLORS.blue],
           ["PORTAIS ATIVOS", model.activePortals, COLORS.ok],
           ["CATEGORIAS EM ATRASO", model.delayedCats, model.delayedCats > 0 ? COLORS.crit : COLORS.ok],
           ["JORNALISTAS ATIVOS", model.journalists, COLORS.warn],
         ].map(([label, val, color]) => (
-          <div key={String(label)} className="rounded-lg p-4" style={{ background: COLORS.card }}>
-            <div className="text-xs text-slate-300">{label}</div>
-            <div className="text-3xl md:text-4xl font-extrabold" style={{ color: String(color) }}>{val}</div>
+          <div key={String(label)} className="rounded-lg p-2" style={{ background: COLORS.card }}>
+            <div className="text-[10px] text-slate-300">{label}</div>
+            <div className="text-2xl md:text-3xl font-extrabold" style={{ color: String(color) }}>{val}</div>
           </div>
         ))}
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 md:gap-3 mb-3 h-[42vh] lg:h-[27vh]">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 mb-2 h-[42vh] lg:h-[30vh]">
         <div className="rounded-lg p-3" style={{ background: COLORS.card }}>
           <div className="text-sm mb-2">Posts por Portal</div>
           <ResponsiveContainer width="100%" height="90%">
@@ -188,73 +198,87 @@ export default function TVDashboard() {
         <div className="rounded-lg p-3" style={{ background: COLORS.card }}>
           <div className="text-sm mb-2">Posts por Jornalista</div>
           <ResponsiveContainer width="100%" height="90%">
-            <BarChart data={model.postsByJournalist} layout="vertical">
+            <BarChart data={model.postsByJournalist} layout="vertical" margin={{ left: 8, right: 8 }}>
               <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
               <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <YAxis type="category" dataKey="name" width={100} stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <Bar dataKey="posts" fill={COLORS.warn} />
+              <YAxis type="category" dataKey="name" hide />
+              <Bar dataKey="posts" fill={COLORS.warn}>
+                <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
+              </Bar>
             </BarChart>
           </ResponsiveContainer>
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3 mb-3 h-[35vh] lg:h-[24vh] overflow-hidden">
-        {data.portals.slice(0, 6).map((p) => {
-          const delayed = p.categories.filter((c) => c.status === "ATRASO").length;
-          return (
-            <div key={p.name} className="rounded-lg p-2" style={{ background: delayed ? "#3f1d1d" : "#123524" }}>
-              <div className="flex justify-between mb-1">
-                <div className="font-semibold text-sm">{portalShort(p.name)}</div>
-                <div className="text-xs">{p.totalPublications} posts</div>
-              </div>
-              {p.categories.length === 0 ? (
-                <div className="text-xs text-slate-200 mt-3">Sem posts na janela atual (4h). Verifique cadência do portal.</div>
-              ) : (
-                <table className="w-full text-xs">
-                  <tbody>
-                    {p.categories
-                      .map((c) => ({ ...c, mins: minutesSince(c.lastPost) }))
-                      .sort((a, b) => b.mins - a.mins)
-                      .slice(0, 5)
-                      .map((c) => (
-                        <tr key={c.name}>
-                          <td>{c.name}</td>
-                          <td className="text-right text-slate-200">{c.mins}m</td>
-                          <td className="text-right" style={{ color: c.status === "ATRASO" ? COLORS.crit : COLORS.ok }}>{c.status}</td>
-                        </tr>
-                      ))}
-                  </tbody>
-                </table>
-              )}
-            </div>
-          );
-        })}
-      </div>
+      <div className="rounded-lg p-2 h-[36vh] lg:h-[32vh] overflow-hidden" style={{ background: COLORS.card }}>
+        <div className="text-[11px] mb-1 flex items-center justify-between text-slate-300">
+          <span>{panelView === "sites" ? "Status por portal" : "Auditoria crítica"}</span>
+          <span>Auto alterna a cada 30s</span>
+        </div>
 
-      <div className="rounded-lg p-2 h-[24vh]" style={{ background: COLORS.card }}>
-        <div className="text-xs mb-1">Auditoria crítica</div>
-        <table className="w-full text-xs">
-          <thead>
-            <tr className="text-slate-300">
-              <th className="text-left">Portal</th>
-              <th className="text-left">Categoria</th>
-              <th className="text-left">Última publicação</th>
-              <th className="text-right">Atraso</th>
-              <th className="text-right">Status</th>
-            </tr>
-          </thead>
-          <tbody>
-            {model.auditCritical.map((a, i) => (
-              <tr key={i}>
-                <td>{portalShort(a.site)}</td>
-                <td>{a.category}</td>
-                <td>{new Date(a.lastPublication).toLocaleString("pt-BR")}</td>
-                <td className="text-right">{humanizeElapsed(a.mins)}</td>
-                <td className="text-right" style={{ color: a.severity === "CRITICO" ? COLORS.crit : a.severity === "ATENCAO" ? COLORS.warn : COLORS.ok }}>{a.severity}</td>
+        {panelView === "sites" ? (
+          <div className="grid grid-cols-2 lg:grid-cols-3 gap-2 h-[calc(100%-20px)] overflow-hidden">
+            {data.portals.slice(0, 6).map((p) => {
+              const delayed = p.categories.filter((c) => c.status === "ATRASO").length;
+              const lastMins = p.categories.length
+                ? Math.max(...p.categories.map((c) => minutesSince(c.lastPost)))
+                : null;
+              return (
+                <div key={p.name} className="rounded-lg p-2" style={{ background: delayed ? "#3f1d1d" : "#123524" }}>
+                  <div className="flex justify-between mb-1">
+                    <div className="font-semibold text-xs">{portalShort(p.name)}</div>
+                    <div className="text-[10px]">{p.totalPublications} posts</div>
+                  </div>
+                  <div className="text-[10px] text-slate-200 mb-1">
+                    Últ. atividade: {lastMins === null ? "sem dados" : humanizeElapsed(lastMins)}
+                  </div>
+                  {p.categories.length === 0 ? (
+                    <div className="text-[10px] text-slate-200">Sem posts na janela atual.</div>
+                  ) : (
+                    <table className="w-full text-[10px]">
+                      <tbody>
+                        {p.categories
+                          .map((c) => ({ ...c, mins: minutesSince(c.lastPost) }))
+                          .sort((a, b) => b.mins - a.mins)
+                          .slice(0, 4)
+                          .map((c) => (
+                            <tr key={c.name}>
+                              <td>{c.name.slice(0, 13)}</td>
+                              <td className="text-right text-slate-200">{humanizeElapsed(c.mins)}</td>
+                              <td className="text-right" style={{ color: c.status === "ATRASO" ? COLORS.crit : COLORS.ok }}>{c.status === "ATRASO" ? "ATR" : "OK"}</td>
+                            </tr>
+                          ))}
+                      </tbody>
+                    </table>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        ) : (
+          <table className="w-full text-[10px]">
+            <thead>
+              <tr className="text-slate-300">
+                <th className="text-left">Portal</th>
+                <th className="text-left">Categoria</th>
+                <th className="text-left">Última publicação</th>
+                <th className="text-right">Atraso</th>
+                <th className="text-right">Status</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {model.auditCritical.slice(0, 16).map((a, i) => (
+                <tr key={i}>
+                  <td>{portalShort(a.site)}</td>
+                  <td>{a.category}</td>
+                  <td>{new Date(a.lastPublication).toLocaleString("pt-BR", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" })}</td>
+                  <td className="text-right">{humanizeElapsed(a.mins)}</td>
+                  <td className="text-right" style={{ color: a.severity === "CRITICO" ? COLORS.crit : a.severity === "ATENCAO" ? COLORS.warn : COLORS.ok }}>{a.severity}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        )}
       </div>
     </div>
   );
