@@ -20,7 +20,7 @@ export function PortalCard({ portal }: Props) {
       {/* Header */}
       <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
         <div>
-          <h2 className="text-xl font-bold">{portalShort(portal.name)}</h2>
+          <h2 className="text-xl font-bold">{portalShort(portal.name, portal.url)}</h2>
           <p className="text-xs text-muted-foreground font-sans">{portal.name}</p>
         </div>
         <div className="flex items-center gap-3">

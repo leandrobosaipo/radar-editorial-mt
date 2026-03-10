@@ -1,6 +1,6 @@
 import { AuditEntry } from "@/types/dashboard";
 import { formatCuiabaTime, humanizeElapsed } from "@/lib/time";
-import { portalShort } from "@/lib/portal";
+import { portalRank, portalShort } from "@/lib/portal";
 
 interface Props {
   entries: AuditEntry[];
@@ -8,6 +8,12 @@ interface Props {
 
 export function AuditTable({ entries }: Props) {
   if (entries.length === 0) return null;
+
+  const sortedEntries = [...entries].sort((a, b) => {
+    const rankDiff = portalRank(a.site) - portalRank(b.site);
+    if (rankDiff !== 0) return rankDiff;
+    return new Date(a.lastPublication).getTime() - new Date(b.lastPublication).getTime();
+  });
 
   return (
     <div className="px-4 pb-8 md:px-8">
@@ -25,7 +31,7 @@ export function AuditTable({ entries }: Props) {
               </tr>
             </thead>
             <tbody>
-              {entries.map((entry, i) => (
+              {sortedEntries.map((entry, i) => (
                 <tr key={i} className="border-b border-border/50">
                   <td className="px-4 py-3 font-mono text-xs" title={entry.site}>{portalShort(entry.site)}</td>
                   <td className="px-4 py-3 font-mono text-xs">{entry.category}</td>
