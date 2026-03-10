@@ -48,6 +48,20 @@ function journalistShort(name: string): string {
   return parts.slice(0, 2).join(" ");
 }
 
+function categoryShort(name: string): string {
+  const n = name.toLowerCase();
+  if (n.includes("brasil")) return "BRM";
+  if (n.includes("pol")) return "POL";
+  if (n.includes("esport")) return "ESP";
+  if (n.includes("not")) return "NOT";
+  if (n.includes("vov")) return "VOV";
+  if (n.includes("primavera")) return "PRM";
+  if (n.includes("cáceres") || n.includes("caceres")) return "CAC";
+  if (n.includes("sinop")) return "SNP";
+  if (n.includes("rondon")) return "ROD";
+  return name.slice(0, 3).toUpperCase();
+}
+
 function minutesSince(iso: string): number {
   return Math.max(0, Math.floor((Date.now() - new Date(iso).getTime()) / 60000));
 }
@@ -94,23 +108,23 @@ export default function TVDashboard() {
 
     const postsByPortal = data.portals.map((p) => ({ name: portalShort(p.name), posts: p.totalPublications }));
 
-    const catMap = new Map<string, number>();
-    data.portals.forEach((p) =>
-      p.categories.forEach((c) => catMap.set(c.name, (catMap.get(c.name) || 0) + c.count))
-    );
-    const postsByCategory = Array.from(catMap.entries())
-      .map(([name, value]) => ({ name, value }))
-      .sort((a, b) => b.value - a.value)
-      .slice(0, 8);
+    const siteCategoryRows: Array<{ name: string; value: number }> = [];
+    data.portals.forEach((p) => {
+      const ps = portalShort(p.name);
+      p.categories.forEach((c) => {
+        siteCategoryRows.push({ name: `${ps}-${categoryShort(c.name)}`, value: c.count });
+      });
+    });
+    const postsByCategory = siteCategoryRows.sort((a, b) => b.value - a.value).slice(0, 10);
 
-    const jornMap = new Map<string, number>();
-    data.portals.forEach((p) =>
-      p.journalists.forEach((j) => jornMap.set(j.name, (jornMap.get(j.name) || 0) + j.count))
-    );
-    const postsByJournalist = Array.from(jornMap.entries())
-      .map(([name, posts]) => ({ name: journalistShort(name), posts }))
-      .sort((a, b) => b.posts - a.posts)
-      .slice(0, 8);
+    const siteJournalistRows: Array<{ name: string; posts: number }> = [];
+    data.portals.forEach((p) => {
+      const ps = portalShort(p.name);
+      p.journalists.forEach((j) => {
+        siteJournalistRows.push({ name: `${ps}-${journalistShort(j.name)}`, posts: j.count });
+      });
+    });
+    const postsByJournalist = siteJournalistRows.sort((a, b) => b.posts - a.posts).slice(0, 10);
 
     const auditCritical = data.portals
       .flatMap((p) => {
@@ -175,25 +189,50 @@ export default function TVDashboard() {
         </div>
 
         {screenView === "charts" && (
-          <div className="grid grid-cols-1 gap-2 h-[calc(100%-20px)]">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 h-[calc(100%-20px)]">
             <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
-              <div className="text-xs mb-1">Posts por Portal (SIGLA + total)</div>
-              <ResponsiveContainer width="100%" height="88%">
+              <div className="text-xs mb-1">Posts por Portal</div>
+              <ResponsiveContainer width="100%" height="92%">
                 <BarChart data={model.postsByPortal} layout="vertical" margin={{ left: 8, right: 8, top: 6, bottom: 6 }}>
                   <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
                   <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
                   <YAxis type="category" dataKey="name" hide />
                   <Bar dataKey="posts" fill={COLORS.blue} radius={[0, 6, 6, 0]}>
                     <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={11} />
-                    <LabelList dataKey="posts" position="insideRight" fill="#ffffff" fontSize={11} formatter={(v:any)=>`${v}`} />
+                    <LabelList dataKey="posts" position="insideRight" fill="#ffffff" fontSize={11} />
                   </Bar>
                 </BarChart>
               </ResponsiveContainer>
-              <div className="mt-1 flex flex-wrap gap-1 text-[10px] text-slate-300">
-                {model.postsByPortal.map((p) => (
-                  <span key={p.name} className="px-1.5 py-0.5 rounded bg-slate-800 border border-slate-700">{p.name}: {p.posts}</span>
-                ))}
-              </div>
+            </div>
+
+            <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
+              <div className="text-xs mb-1">Posts por Categoria (SITE-CAT)</div>
+              <ResponsiveContainer width="100%" height="92%">
+                <BarChart data={model.postsByCategory} layout="vertical" margin={{ left: 8, right: 8, top: 6, bottom: 6 }}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
+                  <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+                  <YAxis type="category" dataKey="name" hide />
+                  <Bar dataKey="value" fill={COLORS.ok} radius={[0, 6, 6, 0]}>
+                    <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
+                    <LabelList dataKey="value" position="insideRight" fill="#ffffff" fontSize={10} />
+                  </Bar>
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+
+            <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
+              <div className="text-xs mb-1">Posts por Jornalista (SITE-JOR)</div>
+              <ResponsiveContainer width="100%" height="92%">
+                <BarChart data={model.postsByJournalist} layout="vertical" margin={{ left: 8, right: 8, top: 6, bottom: 6 }}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
+                  <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+                  <YAxis type="category" dataKey="name" hide />
+                  <Bar dataKey="posts" fill={COLORS.warn} radius={[0, 6, 6, 0]}>
+                    <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
+                    <LabelList dataKey="posts" position="insideRight" fill="#ffffff" fontSize={10} />
+                  </Bar>
+                </BarChart>
+              </ResponsiveContainer>
             </div>
           </div>
         )}
