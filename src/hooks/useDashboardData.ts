@@ -8,6 +8,9 @@ type SiteFeed = {
   generated_at: string;
   window: { start: string; end: string };
   totals: { posts: number; categories: number; journalists: number };
+  site_last_publication?: string | null;
+  site_elapsed_minutes?: number | null;
+  site_status?: "OK" | "ATRASO";
   categories: Record<string, { count: number; last_post: string }>;
   journalists: Record<string, { count: number; categories: Record<string, number> }>;
   audit: Array<{
@@ -69,11 +72,20 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
       portal: feed.site?.name || feed.site?.url || "site",
     }));
 
+    const computedSiteStatus =
+      typeof feed.site_status === "string"
+        ? feed.site_status
+        : (() => {
+            const ref = feed.site_last_publication || latestPosts[0]?.datetime;
+            if (!ref) return "ATRASO" as const;
+            return minutesSince(ref) <= DELAY_THRESHOLD_MINUTES ? "OK" : "ATRASO";
+          })();
+
     return {
       name: feed.site?.name || "Portal",
       url: feed.site?.url || "",
       totalPublications: feed.totals?.posts || 0,
-      status: categories.some((c) => c.status === "ATRASO") ? "ATRASO" : "OK",
+      status: computedSiteStatus,
       categories,
       journalists,
       latestPosts,
