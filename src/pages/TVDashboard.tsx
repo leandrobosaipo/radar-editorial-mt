@@ -19,6 +19,28 @@ const COLORS = {
   bg: "#0b1220",
 };
 
+const PORTAL_ABBR: Record<string, string> = {
+  "O Matogrossense": "OMT",
+  "O Matogrossense ": "OMT",
+  "Perrengue Mato Grosso": "PMT",
+  "Roo Notícias – Informação Precisa e Atualizada em Rondonópolis": "ROO",
+  "Portal Norte MT – Notícias do Mato Grosso em Tempo Real": "PNMT",
+  "Portal Pantanal MT: informação que nasce às margens do Rio Paraguai.": "PPMT",
+  "O jornal que reflete seu dia a dia em Primavera do Leste": "AFL",
+};
+
+function portalShort(name: string): string {
+  if (PORTAL_ABBR[name]) return PORTAL_ABBR[name];
+  const n = name.toLowerCase();
+  if (n.includes("perrengue")) return "PMT";
+  if (n.includes("matogrossense")) return "OMT";
+  if (n.includes("roo")) return "ROO";
+  if (n.includes("norte")) return "PNMT";
+  if (n.includes("pantanal")) return "PPMT";
+  if (n.includes("folha")) return "AFL";
+  return name.slice(0, 4).toUpperCase();
+}
+
 function minutesSince(iso: string): number {
   return Math.max(0, Math.floor((Date.now() - new Date(iso).getTime()) / 60000));
 }
@@ -55,7 +77,7 @@ export default function TVDashboard() {
     const delayedCats = allCats.filter((c) => c.status === "ATRASO").length;
     const journalists = new Set(data.portals.flatMap((p) => p.journalists.map((j) => j.name))).size;
 
-    const postsByPortal = data.portals.map((p) => ({ name: p.name.replace("Portal ", "").replace("Mato Grosso", "MT"), posts: p.totalPublications }));
+    const postsByPortal = data.portals.map((p) => ({ name: portalShort(p.name), posts: p.totalPublications }));
 
     const catMap = new Map<string, number>();
     data.portals.forEach((p) =>
@@ -81,8 +103,8 @@ export default function TVDashboard() {
       .slice(0, 30);
 
     const auditCritical = data.portals
-      .flatMap((p) =>
-        p.categories.map((c) => {
+      .flatMap((p) => {
+        const rows = p.categories.map((c) => {
           const mins = minutesSince(c.lastPost);
           return {
             site: p.name,
@@ -91,13 +113,11 @@ export default function TVDashboard() {
             mins,
             severity: severityByMinutes(mins),
           };
-        })
-      )
-      .sort((a, b) => {
+        });
         const rank = { CRITICO: 3, ATENCAO: 2, OK: 1 };
-        return rank[b.severity] - rank[a.severity] || b.mins - a.mins;
+        return rows.sort((a, b) => rank[b.severity] - rank[a.severity] || b.mins - a.mins).slice(0, 3);
       })
-      .slice(0, 12);
+      .slice(0, 18);
 
     return {
       totalPosts,
@@ -143,7 +163,7 @@ export default function TVDashboard() {
             <BarChart data={model.postsByPortal} layout="vertical" margin={{ left: 8, right: 8 }}>
               <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
               <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <YAxis type="category" dataKey="name" width={95} stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+              <YAxis type="category" dataKey="name" hide />
               <Bar dataKey="posts" fill={COLORS.blue}>
                 <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
               </Bar>
@@ -157,7 +177,7 @@ export default function TVDashboard() {
             <BarChart data={model.postsByCategory} layout="vertical" margin={{ left: 8, right: 8 }}>
               <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
               <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <YAxis type="category" dataKey="name" width={90} stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+              <YAxis type="category" dataKey="name" hide />
               <Bar dataKey="value" fill={COLORS.ok}>
                 <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
               </Bar>
@@ -184,7 +204,7 @@ export default function TVDashboard() {
           return (
             <div key={p.name} className="rounded-lg p-2" style={{ background: delayed ? "#3f1d1d" : "#123524" }}>
               <div className="flex justify-between mb-1">
-                <div className="font-semibold text-sm">{p.name}</div>
+                <div className="font-semibold text-sm">{portalShort(p.name)}</div>
                 <div className="text-xs">{p.totalPublications} posts</div>
               </div>
               {p.categories.length === 0 ? (
@@ -226,7 +246,7 @@ export default function TVDashboard() {
           <tbody>
             {model.auditCritical.map((a, i) => (
               <tr key={i}>
-                <td>{a.site}</td>
+                <td>{portalShort(a.site)}</td>
                 <td>{a.category}</td>
                 <td>{new Date(a.lastPublication).toLocaleString("pt-BR")}</td>
                 <td className="text-right">{humanizeElapsed(a.mins)}</td>
