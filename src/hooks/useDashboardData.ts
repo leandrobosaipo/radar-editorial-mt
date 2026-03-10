@@ -98,11 +98,20 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
         return minutesSince(ref) <= DELAY_THRESHOLD_MINUTES ? "OK" : "ATRASO";
       })();
 
+    const siteStatus = (feed.site_status as "OK" | "ATRASO" | undefined) || computedSiteStatus;
+    const complianceStatus =
+      (feed.compliance_status as "OK" | "ATRASO" | undefined) ||
+      (feed.compliance?.overall_status as "OK" | "ATRASO" | undefined) ||
+      computedSiteStatus;
+
     return {
       name: feed.site?.name || "Portal",
       url: feed.site?.url || "",
       totalPublications: feed.totals?.posts || 0,
-      status: computedSiteStatus,
+      status: complianceStatus,
+      siteStatus,
+      complianceStatus,
+      checks: feed.compliance?.checks || [],
       categories,
       journalists,
       latestPosts,
@@ -177,11 +186,15 @@ function normalizeLegacyPayload(raw: MonitorPayload): DashboardData {
       portal: siteKey,
     }));
 
+    const legacyStatus = categories.some((c) => c.status === "ATRASO") ? "ATRASO" : "OK";
     return {
       name: siteKey,
       url: "",
       totalPublications: safePosts.length,
-      status: categories.some((c) => c.status === "ATRASO") ? "ATRASO" : "OK",
+      status: legacyStatus,
+      siteStatus: legacyStatus,
+      complianceStatus: legacyStatus,
+      checks: [],
       categories,
       journalists,
       latestPosts,

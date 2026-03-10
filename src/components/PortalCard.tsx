@@ -7,7 +7,9 @@ interface Props {
 }
 
 export function PortalCard({ portal }: Props) {
-  const isDelayed = portal.status === "ATRASO";
+  const complianceStatus = portal.complianceStatus || portal.status;
+  const siteStatus = portal.siteStatus || portal.status;
+  const isDelayed = complianceStatus === "ATRASO";
 
   return (
     <div
@@ -23,21 +25,44 @@ export function PortalCard({ portal }: Props) {
           <h2 className="text-xl font-bold">{portalShort(portal.name, portal.url)}</h2>
           <p className="text-xs text-muted-foreground font-sans">{portal.name}</p>
         </div>
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2">
           <span className="font-mono text-lg font-bold text-foreground">
             {portal.totalPublications}
           </span>
-          <span
-            className={`rounded px-3 py-1 text-xs font-mono font-bold uppercase ${
-              isDelayed
-                ? "bg-status-delay/20 text-status-delay"
-                : "bg-status-ok/20 text-status-ok"
-            }`}
-          >
-            {portal.status}
+          <span className={`rounded px-2 py-1 text-[10px] font-mono font-bold uppercase ${siteStatus === "ATRASO" ? "bg-status-delay/20 text-status-delay" : "bg-status-ok/20 text-status-ok"}`}>
+            SITE {siteStatus}
+          </span>
+          <span className={`rounded px-2 py-1 text-[10px] font-mono font-bold uppercase ${complianceStatus === "ATRASO" ? "bg-status-delay/20 text-status-delay" : "bg-status-ok/20 text-status-ok"}`}>
+            REGRA {complianceStatus}
           </span>
         </div>
       </div>
+
+      {/* Compliance checks */}
+      {portal.checks && portal.checks.length > 0 && (
+        <div className="mt-6">
+          <h3 className="mb-2 text-xs font-sans uppercase tracking-wider text-muted-foreground">
+            Regras editoriais (checks)
+          </h3>
+          <div className="overflow-x-auto">
+            <table className="w-full text-sm">
+              <tbody>
+                {portal.checks.slice(0, 6).map((c) => (
+                  <tr key={c.id} className="border-b border-border/50">
+                    <td className="py-1 pr-3 font-mono text-xs">{c.label}</td>
+                    <td className="py-1 pr-3 font-mono text-xs text-muted-foreground">{c.detail}</td>
+                    <td className="py-1 text-right">
+                      <span className={`inline-block rounded px-2 py-0.5 text-xs font-mono font-bold ${c.status === "ATRASO" ? "bg-status-delay/20 text-status-delay" : "bg-status-ok/20 text-status-ok"}`}>
+                        {c.status}
+                      </span>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      )}
 
       {/* Categories */}
       <div className="mt-6">

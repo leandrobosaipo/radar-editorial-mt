@@ -20,11 +20,21 @@ export interface JournalistSummary {
   categories: string[];
 }
 
+export interface PortalCheck {
+  id: string;
+  label: string;
+  status: "OK" | "ATRASO";
+  detail: string;
+}
+
 export interface PortalData {
   name: string;
   url: string;
   totalPublications: number;
-  status: "OK" | "ATRASO";
+  status: "OK" | "ATRASO"; // status editorial/compliance (legacy)
+  siteStatus?: "OK" | "ATRASO";
+  complianceStatus?: "OK" | "ATRASO";
+  checks?: PortalCheck[];
   categories: CategorySummary[];
   journalists: JournalistSummary[];
   latestPosts: Post[];
