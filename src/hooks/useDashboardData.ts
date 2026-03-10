@@ -52,7 +52,7 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
 
     const journalists = Object.entries(feed.journalists || {})
       .map(([name, meta]) => ({
-        name,
+        name: name.replace(/\s*\(ID:\d+\)\s*$/, ""),
         count: meta.count,
         categories: Object.entries(meta.categories || {})
           .sort((a, b) => b[1] - a[1])

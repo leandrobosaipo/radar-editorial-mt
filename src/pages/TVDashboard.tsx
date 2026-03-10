@@ -5,12 +5,9 @@ import {
   Bar,
   XAxis,
   YAxis,
-  Tooltip,
   ResponsiveContainer,
   CartesianGrid,
-  PieChart,
-  Pie,
-  Cell,
+  LabelList,
 } from "recharts";
 
 const COLORS = {
@@ -107,13 +104,12 @@ export default function TVDashboard() {
   }
 
   return (
-    <div className="h-screen w-screen overflow-hidden bg-[#0b1220] text-white p-4">
-      <div className="mb-3">
-        <h1 className="text-3xl font-bold">Radar Editorial MT</h1>
+    <div className="min-h-screen w-screen overflow-hidden bg-[#0b1220] text-white p-3 md:p-4">      <div className="mb-3">
+        <h1 className="text-2xl md:text-3xl font-bold">Radar Editorial MT</h1>
         <p className="text-sm text-slate-300">Central de Monitoramento da Redação</p>
       </div>
 
-      <div className="grid grid-cols-4 gap-3 mb-3">
+      <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 md:gap-3 mb-3">
         {[
           ["TOTAL DE POSTS", model.totalPosts, COLORS.blue],
           ["PORTAIS ATIVOS", model.activePortals, COLORS.ok],
@@ -122,12 +118,12 @@ export default function TVDashboard() {
         ].map(([label, val, color]) => (
           <div key={String(label)} className="rounded-lg p-4" style={{ background: COLORS.card }}>
             <div className="text-xs text-slate-300">{label}</div>
-            <div className="text-4xl font-extrabold" style={{ color: String(color) }}>{val}</div>
+            <div className="text-3xl md:text-4xl font-extrabold" style={{ color: String(color) }}>{val}</div>
           </div>
         ))}
       </div>
 
-      <div className="grid grid-cols-3 gap-3 mb-3 h-[27vh]">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 md:gap-3 mb-3 h-[42vh] lg:h-[27vh]">
         <div className="rounded-lg p-3" style={{ background: COLORS.card }}>
           <div className="text-sm mb-2">Posts por Portal</div>
           <ResponsiveContainer width="100%" height="90%">
@@ -135,8 +131,9 @@ export default function TVDashboard() {
               <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
               <XAxis dataKey="name" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
               <YAxis stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <Tooltip />
-              <Bar dataKey="posts" fill={COLORS.blue} />
+              <Bar dataKey="posts" fill={COLORS.blue}>
+                <LabelList dataKey="posts" position="top" fill="#cbd5e1" fontSize={10} />
+              </Bar>
             </BarChart>
           </ResponsiveContainer>
         </div>
@@ -144,14 +141,15 @@ export default function TVDashboard() {
         <div className="rounded-lg p-3" style={{ background: COLORS.card }}>
           <div className="text-sm mb-2">Posts por Categoria</div>
           <ResponsiveContainer width="100%" height="90%">
-            <PieChart>
-              <Pie data={model.postsByCategory} dataKey="value" nameKey="name" outerRadius={85}>
-                {model.postsByCategory.map((_, i) => (
-                  <Cell key={i} fill={["#3b82f6", "#22c55e", "#f59e0b", "#ef4444", "#06b6d4", "#8b5cf6", "#f97316", "#84cc16"][i % 8]} />
-                ))}
-              </Pie>
-              <Tooltip />
-            </PieChart>
+            <BarChart data={model.postsByCategory} layout="vertical" margin={{ left: 8, right: 8 }}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
+              <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+              <YAxis type="category" dataKey="name" width={90} stroke="#cbd5e1" tick={{ fontSize: 10 }} />
+              <Bar dataKey="value" fill={COLORS.ok}>
+                <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
+                <LabelList dataKey="value" position="right" fill="#cbd5e1" fontSize={10} />
+              </Bar>
+            </BarChart>
           </ResponsiveContainer>
         </div>
 
@@ -162,14 +160,15 @@ export default function TVDashboard() {
               <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
               <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
               <YAxis type="category" dataKey="name" width={100} stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-              <Tooltip />
-              <Bar dataKey="posts" fill={COLORS.warn} />
+              <Bar dataKey="posts" fill={COLORS.warn}>
+                <LabelList dataKey="posts" position="right" fill="#cbd5e1" fontSize={10} />
+              </Bar>
             </BarChart>
           </ResponsiveContainer>
         </div>
       </div>
 
-      <div className="grid grid-cols-3 gap-3 mb-3 h-[24vh]">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3 mb-3 h-[35vh] lg:h-[24vh] overflow-hidden">
         {data.portals.slice(0, 6).map((p) => {
           const delayed = p.categories.filter((c) => c.status === "ATRASO").length;
           return (
@@ -178,21 +177,25 @@ export default function TVDashboard() {
                 <div className="font-semibold text-sm">{p.name}</div>
                 <div className="text-xs">{p.totalPublications} posts</div>
               </div>
-              <table className="w-full text-xs">
-                <tbody>
-                  {p.categories
-                    .map((c) => ({ ...c, mins: minutesSince(c.lastPost) }))
-                    .sort((a, b) => b.mins - a.mins)
-                    .slice(0, 5)
-                    .map((c) => (
-                      <tr key={c.name}>
-                        <td>{c.name}</td>
-                        <td className="text-right text-slate-200">{c.mins}m</td>
-                        <td className="text-right" style={{ color: c.status === "ATRASO" ? COLORS.crit : COLORS.ok }}>{c.status}</td>
-                      </tr>
-                    ))}
-                </tbody>
-              </table>
+              {p.categories.length === 0 ? (
+                <div className="text-xs text-slate-200 mt-3">Sem posts na janela atual (4h). Verifique cadência do portal.</div>
+              ) : (
+                <table className="w-full text-xs">
+                  <tbody>
+                    {p.categories
+                      .map((c) => ({ ...c, mins: minutesSince(c.lastPost) }))
+                      .sort((a, b) => b.mins - a.mins)
+                      .slice(0, 5)
+                      .map((c) => (
+                        <tr key={c.name}>
+                          <td>{c.name}</td>
+                          <td className="text-right text-slate-200">{c.mins}m</td>
+                          <td className="text-right" style={{ color: c.status === "ATRASO" ? COLORS.crit : COLORS.ok }}>{c.status}</td>
+                        </tr>
+                      ))}
+                  </tbody>
+                </table>
+              )}
             </div>
           );
         })}
