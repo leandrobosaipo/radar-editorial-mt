@@ -8,7 +8,7 @@ export function portalShort(name: string, url?: string): string {
   if (text.includes("roo")) return "ROO";
   if (text.includes("norte")) return "PNMT";
   if (text.includes("pantanal")) return "PPMT";
-  if (text.includes("afolhalivre") || text.includes("folha")) return "AFL";
+  if (text.includes("afolhalivre") || text.includes("folha") || text.includes("primavera do leste")) return "AFL";
   return (name || "SITE").slice(0, 4).toUpperCase();
 }
 
