@@ -5,7 +5,8 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: mode === "production" ? "/radar-editorial-mt/" : "/",
+  // Relative base works for both: root domains (Lovable) and subpaths (GitHub Pages)
+  base: "./",
   server: {
     host: "::",
     port: 8080,
