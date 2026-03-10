@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-10T15:00:05.225147-04:00",
+  "generated_at": "2026-03-10T16:00:05.638647-04:00",
   "window": {
-    "start": "2026-03-10T14:00:05.225147-04:00",
-    "end": "2026-03-10T15:00:05.225147-04:00"
+    "start": "2026-03-10T15:00:05.638647-04:00",
+    "end": "2026-03-10T16:00:05.638647-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PRF encontra mais de 52 kg de cocaína escondidos em estepe de caminhão na BR-364 em Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/prf-cocaina-escondidos-caminhao-br-364-video/",
+        "title": "Estudante de 14 anos é transferido após aparecer com arma em escola particular de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/estudante-de-14-anos-e-transferido-apos-aparecer-com-arma-em-escola-particular-de-cuiaba-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-10T14:03:42-04:00",
+        "published": "2026-03-10T15:13:54-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,27 +20,40 @@
         ]
       },
       {
-        "title": "Fotógrafo registra dezenas de araras-azuis reunidas em árvore; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/o-produtor-audiovisual-e-fotografo/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-10T14:46:02-04:00",
+        "title": "Mixto abre venda antecipada de ingressos para duelo decisivo na Copa do Brasil contra o Novorizontino",
+        "link": "https://perrenguematogrosso.com/mixto-abre-venda-antecipada-de-ingressos/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-10T15:16:14-04:00",
         "categories": [
-          "Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          5
+          509
+        ]
+      },
+      {
+        "title": "Wellington Fagundes defende política com humildade e diálogo para garantir estabilidade",
+        "link": "https://perrenguematogrosso.com/wellington-fagundes-defende-politica-com-humildade-e-dialogo-para-garantir-estabilidade/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-10T15:29:12-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "PRF localiza mais de 52 kg de cocaína escondidos em estepe de caminhão durante operação na BR-364; veja vídeo",
-        "link": "https://omatogrossense.com/prf-cocaina-escondidos-caminhao-br-364-video/",
+        "title": "Aluno é transferido de colégio particular após exibir arma em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/aluno-e-transferido-de-colegio-particular-apos-exibir-arma-em-cuiaba-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-10T14:02:08-04:00",
+        "published": "2026-03-10T15:13:57-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,22 +62,49 @@
         ]
       },
       {
-        "title": "Fotógrafo registra encontro de dezenas de araras-azuis em árvore; Veja vídeo",
-        "link": "https://omatogrossense.com/o-produtor-audiovisual-e-fotografo/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-10T14:45:57-04:00",
+        "title": "Wellington Fagundes defende política com humildade e diálogo para garantir estabilidade",
+        "link": "https://omatogrossense.com/wellington-fagundes-defende-politica-com-humildade-e-dialogo-para-garantir-estabilidade/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-10T15:29:17-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Política"
         ],
         "category_ids": [
-          973
+          5
         ]
       }
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Filipe Luís? O que São Paulo pensa para novo técnico, Após a demissão do técnico Hernán Crespo",
+        "link": "https://roonoticias.com/o-sao-paulo-iniciou-o-planejamento-para-definir-seu-novo/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-10T15:22:38-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Nino no Palmeiras? Leila Pereira atualiza busca por reforços após título: ‘Não tenho dúvida’",
+        "link": "https://roonoticias.com/a-presidente-do-palmeiras-leila-pereira-falou-com-jornalistas/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-10T15:32:09-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
