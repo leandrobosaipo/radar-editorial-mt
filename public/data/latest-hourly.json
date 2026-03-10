@@ -1,37 +1,11 @@
 {
-  "generated_at": "2026-03-10T12:20:06.327298-04:00",
+  "generated_at": "2026-03-10T13:00:00.225766-04:00",
   "window": {
-    "start": "2026-03-10T11:20:06.327298-04:00",
-    "end": "2026-03-10T12:20:06.327298-04:00"
+    "start": "2026-03-10T12:00:00.225766-04:00",
+    "end": "2026-03-10T13:00:00.225766-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
-      {
-        "title": "Policial militar fica ferido após Camaro colidir contra poste; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-policial-militar/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-10T11:31:29-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Polícia Civil apreende fuzis, pistolas e milhares de munições após denúncia de violência doméstica em Cáceres; veja vídeo",
-        "link": "https://perrenguematogrosso.com/fuzis-pistolas-municoes-denuncia-violencia-caceres-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-10T11:50:39-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
       {
         "title": "Base de Flávia Moretti cresce na Câmara e aproximação com vereadores reforça diálogo em Várzea Grande; veja vídeo",
         "link": "https://perrenguematogrosso.com/base-de-flavia-moretti-cresce/",
@@ -44,36 +18,36 @@
         "category_ids": [
           510
         ]
+      },
+      {
+        "title": "Justiça declara goleiro Bruno foragido após descumprimento de regra da liberdade condicional",
+        "link": "https://perrenguematogrosso.com/justica-declara-goleiro-bruno-foragido/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-10T12:31:47-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Câmera registra momento em que raio atinge casa durante temporal; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/325171-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-10T12:57:16-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
-      {
-        "title": "Policial militar perde controle de Camaro e bate em poste; Veja vídeo",
-        "link": "https://omatogrossense.com/policial-militar-ficou/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-10T11:31:22-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Arsenal é descoberto em propriedade rural de Cáceres durante investigação de violência doméstica; veja vídeo",
-        "link": "https://omatogrossense.com/arsenal-propriedade-rural-caceres-investigacao-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-10T11:50:35-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
       {
         "title": "Base de Flávia Moretti cresce na Câmara e aproximação com vereadores reforça diálogo em Várzea Grande; veja vídeo",
         "link": "https://omatogrossense.com/base-de-flavia-moretti-cresce-na-camara/",
@@ -86,24 +60,37 @@
         "category_ids": [
           5
         ]
-      }
-    ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+      },
       {
-        "title": "Ana Paula Siebert celebra parceria e conexão com a Lança Perfume em desfile em SC; veja vídeo",
-        "link": "https://roonoticias.com/a-influenciadora-ana-paula-siebert-participou-do-desfile/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-10T11:47:29-04:00",
+        "title": "Justiça declara goleiro Bruno foragido após ele ignorar ordem de prisão e não se apresentar",
+        "link": "https://omatogrossense.com/justica-declara-goleiro-bruno-foragido/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-10T12:38:07-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Raio atinge casa durante temporal e câmera de segurança registra momento do impacto; Veja vídeo",
+        "link": "https://omatogrossense.com/132600-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-10T12:57:02-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
         ]
-      },
+      }
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": [
       {
         "title": "Vídeo envolvendo Leonardo e seu neto viraliza e provoca reações na internet; veja vídeo",
         "link": "https://roonoticias.com/um-video-envolvendo-o-cantor-leonardo-e-seu-neto/",
