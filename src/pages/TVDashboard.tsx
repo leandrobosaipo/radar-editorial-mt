@@ -175,47 +175,25 @@ export default function TVDashboard() {
         </div>
 
         {screenView === "charts" && (
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 h-[calc(100%-20px)]">
+          <div className="grid grid-cols-1 gap-2 h-[calc(100%-20px)]">
             <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
-              <div className="text-xs mb-1">Posts por Portal</div>
-              <ResponsiveContainer width="100%" height="92%">
-                <BarChart data={model.postsByPortal} layout="vertical" margin={{ left: 8, right: 8 }}>
+              <div className="text-xs mb-1">Posts por Portal (SIGLA + total)</div>
+              <ResponsiveContainer width="100%" height="88%">
+                <BarChart data={model.postsByPortal} layout="vertical" margin={{ left: 8, right: 8, top: 6, bottom: 6 }}>
                   <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
                   <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
                   <YAxis type="category" dataKey="name" hide />
-                  <Bar dataKey="posts" fill={COLORS.blue}>
-                    <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
+                  <Bar dataKey="posts" fill={COLORS.blue} radius={[0, 6, 6, 0]}>
+                    <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={11} />
+                    <LabelList dataKey="posts" position="insideRight" fill="#ffffff" fontSize={11} formatter={(v:any)=>`${v}`} />
                   </Bar>
                 </BarChart>
               </ResponsiveContainer>
-            </div>
-
-            <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
-              <div className="text-xs mb-1">Posts por Categoria</div>
-              <ResponsiveContainer width="100%" height="92%">
-                <BarChart data={model.postsByCategory} layout="vertical" margin={{ left: 8, right: 8 }}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
-                  <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-                  <YAxis type="category" dataKey="name" hide />
-                  <Bar dataKey="value" fill={COLORS.ok}>
-                    <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
-                  </Bar>
-                </BarChart>
-              </ResponsiveContainer>
-            </div>
-
-            <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
-              <div className="text-xs mb-1">Posts por Jornalista</div>
-              <ResponsiveContainer width="100%" height="92%">
-                <BarChart data={model.postsByJournalist} layout="vertical" margin={{ left: 8, right: 8 }}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
-                  <XAxis type="number" stroke="#cbd5e1" tick={{ fontSize: 10 }} />
-                  <YAxis type="category" dataKey="name" hide />
-                  <Bar dataKey="posts" fill={COLORS.warn}>
-                    <LabelList dataKey="name" position="insideLeft" fill="#0b1220" fontSize={10} />
-                  </Bar>
-                </BarChart>
-              </ResponsiveContainer>
+              <div className="mt-1 flex flex-wrap gap-1 text-[10px] text-slate-300">
+                {model.postsByPortal.map((p) => (
+                  <span key={p.name} className="px-1.5 py-0.5 rounded bg-slate-800 border border-slate-700">{p.name}: {p.posts}</span>
+                ))}
+              </div>
             </div>
           </div>
         )}
