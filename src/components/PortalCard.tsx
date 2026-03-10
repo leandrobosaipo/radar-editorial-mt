@@ -2,13 +2,21 @@ import { PortalData } from "@/types/dashboard";
 import { formatCuiabaTime } from "@/lib/time";
 import { portalShort } from "@/lib/portal";
 
+function ruleModeByPortalCode(code: string): "HORA" | "META" | "ATUAL" {
+  if (code === "PMT" || code === "OMT") return "HORA";
+  if (code === "ROO") return "META";
+  return "ATUAL";
+}
+
 interface Props {
   portal: PortalData;
 }
 
 export function PortalCard({ portal }: Props) {
+  const code = portalShort(portal.name, portal.url);
   const complianceStatus = portal.complianceStatus || portal.status;
   const siteStatus = portal.siteStatus || portal.status;
+  const ruleMode = ruleModeByPortalCode(code);
   const isDelayed = complianceStatus === "ATRASO";
 
   return (
@@ -22,18 +30,18 @@ export function PortalCard({ portal }: Props) {
       {/* Header */}
       <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
         <div>
-          <h2 className="text-xl font-bold">{portalShort(portal.name, portal.url)}</h2>
+          <h2 className="text-xl font-bold">{code}</h2>
           <p className="text-xs text-muted-foreground font-sans">{portal.name}</p>
         </div>
         <div className="flex items-center gap-2">
           <span className="font-mono text-lg font-bold text-foreground">
             {portal.totalPublications}
           </span>
-          <span className={`rounded px-2 py-1 text-[10px] font-mono font-bold uppercase ${siteStatus === "ATRASO" ? "bg-status-delay/20 text-status-delay" : "bg-status-ok/20 text-status-ok"}`}>
-            SITE {siteStatus}
+          <span className={`rounded px-2 py-1 text-[10px] font-mono font-bold uppercase ${siteStatus === "ATRASO" ? "bg-status-delay/20 text-status-delay" : "bg-status-ok/20 text-status-ok"}`} title="Status global do portal (última publicação)">
+            SITE {siteStatus === "ATRASO" ? "DESAT" : "ATIVO"}
           </span>
-          <span className={`rounded px-2 py-1 text-[10px] font-mono font-bold uppercase ${complianceStatus === "ATRASO" ? "bg-status-delay/20 text-status-delay" : "bg-status-ok/20 text-status-ok"}`}>
-            REGRA {complianceStatus}
+          <span className={`rounded px-2 py-1 text-[10px] font-mono font-bold uppercase ${complianceStatus === "ATRASO" ? "bg-status-delay/20 text-status-delay" : "bg-status-ok/20 text-status-ok"}`} title="Status das regras editoriais">
+            {ruleMode} {complianceStatus === "ATRASO" ? "PEND" : "OK"}
           </span>
         </div>
       </div>
