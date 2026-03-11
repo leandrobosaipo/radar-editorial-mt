@@ -34,6 +34,16 @@ export interface PortalDataHistoryDayHourly { date: string; dow: number; is_toda
 export interface PortalDataHistoryCategoryDaily { category: string; category_key?: string; count: number; target?: number | null; met?: boolean | null }
 export interface PortalDataHistoryDayDaily { date: string; dow: number; is_today: boolean; categories: PortalDataHistoryCategoryDaily[] }
 
+export interface EditorialRule {
+  category: string;
+  category_key?: string;
+  kind: "hourly" | "meta" | "ondemand";
+  days: number[];
+  start: number;
+  end: number;
+  target?: number;
+}
+
 export interface PortalData {
   name: string;
   url: string;
@@ -45,6 +55,7 @@ export interface PortalData {
   categories: CategorySummary[];
   journalists: JournalistSummary[];
   latestPosts: Post[];
+  editorialRules?: EditorialRule[];
   history?: {
     timezone: string;
     range_days: number;

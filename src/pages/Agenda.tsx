@@ -205,7 +205,7 @@ export default function Agenda() {
 
     return data.portals.map((p) => {
       const code = portalShort(p.name, p.url);
-      const rules = rulesByPortal(code);
+      const rules = ((p.editorialRules && p.editorialRules.length > 0) ? p.editorialRules : rulesByPortal(code)) as any[];
       const hours = Array.from({ length: 15 }, (_, i) => i + 8);
 
       const postsByDay = new Map<string, typeof p.latestPosts>();
@@ -255,7 +255,6 @@ export default function Agenda() {
       }
 
       const hasHistory = !!p.history?.hourly?.length;
-      const hasHistoryPosts = !!p.history?.posts?.length;
 
       const hourlyGrid = rules
         .filter((r) => r.kind === "hourly")

@@ -33,6 +33,15 @@ type SiteFeed = {
     published: string;
     categories: string[];
   }>;
+  editorial_rules?: Array<{
+    category: string;
+    category_key?: string;
+    kind: "hourly" | "meta" | "ondemand";
+    days: number[];
+    start: number;
+    end: number;
+    target?: number;
+  }>;
   history?: {
     timezone: string;
     range_days: number;
@@ -91,7 +100,17 @@ function categoryKey(name: string): string {
   return "other";
 }
 
-function metaTarget(code: string, categoryName: string, dow: number): number | null {
+function categoryRules(rules: any[] | undefined, categoryName: string, dow: number) {
+  const k = categoryKey(categoryName);
+  return (rules || []).filter((r) => {
+    const rk = (r.category_key || categoryKey(r.category || "")).toLowerCase();
+    return rk === k && (r.days || []).includes(dow);
+  });
+}
+
+function metaTarget(code: string, categoryName: string, dow: number, rules?: any[]): number | null {
+  const matched = categoryRules(rules, categoryName, dow).filter((r) => r.kind === "meta" && typeof r.target === "number");
+  if (matched.length > 0) return matched[0].target;
   const k = categoryKey(categoryName);
   if (code === "ROO") {
     if (["rondonopolis", "mt_noticia", "brasil_mundo", "esporte", "politica"].includes(k)) return 3;
@@ -104,7 +123,9 @@ function metaTarget(code: string, categoryName: string, dow: number): number | n
   return null;
 }
 
-function metaWindowOpen(code: string, categoryName: string, dow: number, hour: number): boolean {
+function metaWindowOpen(code: string, categoryName: string, dow: number, hour: number, rules?: any[]): boolean {
+  const matched = categoryRules(rules, categoryName, dow).filter((r) => r.kind === "meta");
+  if (matched.length > 0) return matched.some((r) => hour <= r.end);
   const k = categoryKey(categoryName);
   if (code === "ROO") return hour <= 22;
   if (code === "PMT") {
@@ -192,6 +213,7 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
       categories,
       journalists,
       latestPosts,
+      editorialRules: feed.editorial_rules || [],
       history: feed.history,
     };
   });
@@ -206,9 +228,9 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
 
     for (const a of feed.audit || []) {
       const count = (feed.categories || {})[a.category]?.count ?? 0;
-      const target = metaTarget(code, a.category, dow);
+      const target = metaTarget(code, a.category, dow, feed.editorial_rules);
       if (target) {
-        const within = metaWindowOpen(code, a.category, dow, hour);
+        const within = metaWindowOpen(code, a.category, dow, hour, feed.editorial_rules);
         if (count < target) {
           rows.push({
             site: siteName,

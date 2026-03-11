@@ -1,4 +1,4 @@
-import { PortalData } from "@/types/dashboard";
+import { PortalData, EditorialRule } from "@/types/dashboard";
 import { formatCuiabaTime } from "@/lib/time";
 import { portalShort } from "@/lib/portal";
 
@@ -34,7 +34,19 @@ function catKey(name: string): string {
   return "other";
 }
 
-function isHourlyWindowActive(code: string, categoryName: string, dow: number, hour: number): boolean | null {
+function categoryRules(rules: EditorialRule[] | undefined, categoryName: string, dow: number) {
+  const k = catKey(categoryName);
+  return (rules || []).filter((r) => {
+    const rk = (r.category_key || catKey(r.category || "")).toLowerCase();
+    return rk === k && (r.days || []).includes(dow);
+  });
+}
+
+function isHourlyWindowActive(code: string, categoryName: string, dow: number, hour: number, rules?: EditorialRule[]): boolean | null {
+  const matched = categoryRules(rules, categoryName, dow).filter((r) => r.kind === "hourly");
+  if (matched.length > 0) {
+    return matched.some((r) => hour >= r.start && hour <= r.end);
+  }
   const k = catKey(categoryName);
   const weekend = dow >= 6;
   if (k === "memes") return null;
@@ -58,7 +70,9 @@ function isHourlyWindowActive(code: string, categoryName: string, dow: number, h
   return null;
 }
 
-function metaTarget(code: string, categoryName: string, dow: number): number | null {
+function metaTarget(code: string, categoryName: string, dow: number, rules?: EditorialRule[]): number | null {
+  const matched = categoryRules(rules, categoryName, dow).filter((r) => r.kind === "meta" && typeof r.target === "number");
+  if (matched.length > 0) return matched[0].target || null;
   const k = catKey(categoryName);
   if (code === "ROO" && ["rondonopolis", "mt_noticia", "brasil_mundo", "esporte", "politica"].includes(k)) return 3;
   if (code === "PMT" || code === "OMT") {
@@ -69,7 +83,11 @@ function metaTarget(code: string, categoryName: string, dow: number): number | n
   return null;
 }
 
-function metaWindowOpen(code: string, categoryName: string, dow: number, hour: number): boolean {
+function metaWindowOpen(code: string, categoryName: string, dow: number, hour: number, rules?: EditorialRule[]): boolean {
+  const matched = categoryRules(rules, categoryName, dow).filter((r) => r.kind === "meta");
+  if (matched.length > 0) {
+    return matched.some((r) => hour <= r.end);
+  }
   const k = catKey(categoryName);
   if (code === "ROO") return hour <= 22;
   if (code === "PMT") {
@@ -83,7 +101,22 @@ function metaWindowOpen(code: string, categoryName: string, dow: number, hour: n
   return true;
 }
 
-function categoryRuleLabel(code: string, categoryName: string, dow: number): { rule: string; window: string; outside: string } {
+function categoryRuleLabel(code: string, categoryName: string, dow: number, rules?: EditorialRule[]): { rule: string; window: string; outside: string } {
+  const matched = categoryRules(rules, categoryName, dow);
+  if (matched.length > 0) {
+    const hasHourly = matched.some((r) => r.kind === "hourly");
+    const meta = matched.find((r) => r.kind === "meta");
+    if (hasHourly) {
+      const h = matched.find((r) => r.kind === "hourly")!;
+      return { rule: "1/h", window: `${h.start}-${h.end}`, outside: "Fora da janela" };
+    }
+    if (meta) {
+      return { rule: "Meta diária", window: `Mín. ${meta.target || 0}/dia`, outside: "Sem horário fixo" };
+    }
+    if (matched.some((r) => r.kind === "ondemand")) {
+      return { rule: "Sob demanda", window: "Sem horário fixo", outside: "Sem atraso" };
+    }
+  }
   const k = catKey(categoryName);
   const weekend = dow >= 6;
 
@@ -197,11 +230,11 @@ export function PortalCard({ portal }: Props) {
             <tbody>
               {portal.categories.map((cat) => {
                 const isMemes = /meme/i.test(cat.name);
-                const rule = categoryRuleLabel(code, cat.name, dow);
-                const inWindow = isHourlyWindowActive(code, cat.name, dow, hour);
-                const target = metaTarget(code, cat.name, dow);
+                const rule = categoryRuleLabel(code, cat.name, dow, portal.editorialRules);
+                const inWindow = isHourlyWindowActive(code, cat.name, dow, hour, portal.editorialRules);
+                const target = metaTarget(code, cat.name, dow, portal.editorialRules);
                 const isMeta = target !== null;
-                const metaInWindow = isMeta ? metaWindowOpen(code, cat.name, dow, hour) : null;
+                const metaInWindow = isMeta ? metaWindowOpen(code, cat.name, dow, hour, portal.editorialRules) : null;
                 const progress = isMeta ? `${cat.count}/${target}` : null;
                 const effectiveStatus = isMemes
                   ? "SOB DEMANDA"
