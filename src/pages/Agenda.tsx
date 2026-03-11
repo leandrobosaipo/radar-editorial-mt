@@ -510,14 +510,27 @@ export default function Agenda() {
                     <tr>
                       <th className="text-left p-2 min-w-[140px]">Categoria</th>
                       {daysAsc.map((d) => (
-                        <th key={d.key} className="text-center p-2 min-w-[78px] border-l border-slate-800">{d.label}</th>
+                        <th
+                          key={d.key}
+                          className={`text-center p-2 min-w-[78px] border-l border-slate-800 ${
+                            d.isToday ? "bg-indigo-500/20 text-indigo-200" : ""
+                          }`}
+                        >
+                          {d.label} {d.isToday ? "• hoje" : ""}
+                        </th>
                       ))}
                     </tr>
                   </thead>
                   <tbody>
-                    {metaRows.map((m: any) => (
+                    {metaRows.map((m: any) => {
+                      const applied = m.byDay.filter((x: any) => x.applies);
+                      const hit = applied.filter((x: any) => x.hasAnyDataForDay && x.count >= x.target).length;
+                      return (
                       <tr key={`meta-${m.category}`} className="border-t border-slate-800">
-                        <td className="p-2 font-medium">{m.category}</td>
+                        <td className="p-2 font-medium">
+                          <div>{m.category}</div>
+                          <div className="text-[10px] text-slate-400">{hit}/{applied.length} dias dentro da meta</div>
+                        </td>
                         {daysAsc.map((d) => {
                           const cell = m.byDay.find((x: any) => x.day.key === d.key);
                           if (!cell || !cell.applies) {
@@ -537,7 +550,7 @@ export default function Agenda() {
                           );
                         })}
                       </tr>
-                    ))}
+                    );})}
                   </tbody>
                 </table>
               </div>
