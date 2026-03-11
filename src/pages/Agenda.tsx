@@ -185,6 +185,8 @@ export default function Agenda() {
     posts: [],
   });
   const [expandedPortalDays, setExpandedPortalDays] = useState<Record<string, boolean>>({});
+  const [onlyProblems, setOnlyProblems] = useState(false);
+  const [shift, setShift] = useState<"all" | "morning" | "afternoon" | "night">("all");
 
   const nowHour = useMemo(() => {
     return Number(
@@ -203,6 +205,13 @@ export default function Agenda() {
       timeStyle: "short",
     }).format(new Date(data?.lastUpdate || Date.now()));
   }, [data?.lastUpdate]);
+
+  const visibleHours = useMemo(() => {
+    if (shift === "morning") return Array.from({ length: 5 }, (_, i) => i + 8); // 8-12
+    if (shift === "afternoon") return Array.from({ length: 6 }, (_, i) => i + 13); // 13-18
+    if (shift === "night") return Array.from({ length: 4 }, (_, i) => i + 19); // 19-22
+    return Array.from({ length: 15 }, (_, i) => i + 8);
+  }, [shift]);
 
   const view = useMemo(() => {
     if (!data) return [] as any[];
@@ -379,6 +388,38 @@ export default function Agenda() {
     });
   }, [data, days]);
 
+  const riskItems = useMemo(() => {
+    const items: Array<{ portal: string; msg: string; score: number }> = [];
+    for (const v of view as any[]) {
+      const today = days[0];
+      let overdue = 0;
+      for (const row of v.hourlyGrid || []) {
+        const dayRow = row.rowsByDay.find((d: any) => d.day.key === today.key);
+        for (const c of dayRow?.rows || []) {
+          if (!c.active) continue;
+          if (c.count > 0) continue;
+          if (c.hour === nowHour) continue; // em andamento
+          if (c.hour < nowHour) overdue++;
+        }
+      }
+      let metaGap = 0;
+      for (const m of v.metaRows || []) {
+        const d = m.byDay.find((x: any) => x.day.key === today.key);
+        if (!d || !d.applies) continue;
+        metaGap += Math.max(0, (d.target || 0) - (d.count || 0));
+      }
+      const score = overdue * 2 + metaGap;
+      if (score > 0) {
+        items.push({
+          portal: `${v.code} — ${v.portal.name}`,
+          msg: `${overdue} janelas horárias vencidas • gap meta ${metaGap}`,
+          score,
+        });
+      }
+    }
+    return items.sort((a, b) => b.score - a.score).slice(0, 5);
+  }, [view, days, nowHour]);
+
   if (isLoading) return <div className="p-6">Carregando agenda semanal…</div>;
 
   return (
@@ -401,6 +442,23 @@ export default function Agenda() {
           <p className="mt-2 text-[11px] text-slate-400">Regras de leitura: hora futura = neutro; meta concluída = verde; acima da meta = azul; abaixo da meta com janela aberta = laranja; abaixo da meta com janela encerrada = vermelho.</p>
         </details>
       </div>
+
+      <div className="flex flex-wrap items-center gap-2 text-xs">
+        <button onClick={() => setShift("all")} className={`rounded px-2 py-1 border ${shift === "all" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Dia todo</button>
+        <button onClick={() => setShift("morning")} className={`rounded px-2 py-1 border ${shift === "morning" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Manhã</button>
+        <button onClick={() => setShift("afternoon")} className={`rounded px-2 py-1 border ${shift === "afternoon" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Tarde</button>
+        <button onClick={() => setShift("night")} className={`rounded px-2 py-1 border ${shift === "night" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Noite</button>
+        <button onClick={() => setOnlyProblems((v) => !v)} className={`rounded px-2 py-1 border ${onlyProblems ? "bg-amber-500/20 border-amber-500 text-amber-300" : "bg-slate-900/40 border-slate-700"}`}>Só problemas</button>
+      </div>
+
+      {riskItems.length > 0 && (
+        <div className="rounded border border-red-900/40 bg-red-950/20 p-2 text-xs">
+          <div className="font-semibold text-red-200 mb-1">Ranking de risco (hoje)</div>
+          <ul className="space-y-1 text-red-100">
+            {riskItems.map((r, i) => <li key={i}>{i + 1}. {r.portal} — {r.msg}</li>)}
+          </ul>
+        </div>
+      )}
 
       {view.map(({ portal, code, hourlyGrid, metaRows, metaByDayCategory, adherence }) => {
         const portalKey = `${code}-${portal.name}`;
@@ -425,6 +483,10 @@ export default function Agenda() {
                 {showAllDays ? "Ocultar outros dias" : "Comparar outros dias"}
               </button>
             </div>
+          </div>
+
+          <div className="rounded border border-slate-700/60 bg-slate-900/30 p-2 text-xs text-slate-200">
+            Situação do dia • Hora: {adherence.hourlyExpected > 0 ? `${adherence.hourlyPct}%` : "N/A"} • Meta: {adherence.metaTarget > 0 ? `${adherence.metaPct}%` : "N/A"}
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
@@ -453,7 +515,7 @@ export default function Agenda() {
                     <thead>
                       <tr>
                         <th className="text-left pr-2">Categoria</th>
-                        {Array.from({ length: 15 }, (_, i) => i + 8).map((h) => (
+                        {visibleHours.map((h) => (
                           <th key={h} className="px-1">
                             {h}h
                           </th>
@@ -461,7 +523,11 @@ export default function Agenda() {
                       </tr>
                     </thead>
                     <tbody>
-                      {hourlyGrid.map((row: any) => {
+                      {hourlyGrid.filter((row: any) => {
+                        if (!onlyProblems) return true;
+                        const dayRow = row.rowsByDay.find((d: any) => d.day.key === day.key);
+                        return (dayRow?.rows || []).some((c: any) => c.active && visibleHours.includes(c.hour) && c.count === 0 && c.hour <= nowHour);
+                      }).map((row: any) => {
                         const dayRow = row.rowsByDay.find((d: any) => d.day.key === day.key);
                         const meta = metaByDayCategory.get(`${day.key}::${categoryKey(row.category)}`);
                         const hasActiveHour = dayRow.rows.some((c: any) => c.active);
@@ -479,7 +545,7 @@ export default function Agenda() {
                               })()}
                             </td>
                             {shouldMergeMeta ? (
-                              <td colSpan={15} className="text-center py-1">
+                              <td colSpan={visibleHours.length} className="text-center py-1">
                                 {!meta.hasAnyDataForDay ? (
                                   <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
                                 ) : meta.count >= meta.target ? (
@@ -491,7 +557,7 @@ export default function Agenda() {
                                 )}
                               </td>
                             ) : (
-                              dayRow.rows.map((cell: any) => (
+                              dayRow.rows.filter((cell: any) => visibleHours.includes(cell.hour)).map((cell: any) => (
                                 <td key={cell.hour} className="text-center">
                                   {!cell.active ? (
                                     <span className="text-slate-500">—</span>
@@ -543,7 +609,7 @@ export default function Agenda() {
             </div>
           )}
 
-          {metaRows.length > 0 && showAllDays && (
+          {metaRows.length > 0 && (
             <div>
               <h3 className="text-sm font-semibold mb-2">Metas diárias (histórico)</h3>
               <div className="overflow-x-auto rounded border border-slate-700/60">
@@ -613,6 +679,15 @@ export default function Agenda() {
               <button className="rounded bg-slate-800 px-2 py-1 text-xs text-slate-200" onClick={() => setDrill((d) => ({ ...d, open: false }))}>Fechar</button>
             </div>
             <p className="mb-2 text-xs text-slate-300">{drill.day} • {drill.category} • {drill.hour}h</p>
+            <button
+              className="mb-2 rounded bg-slate-800 px-2 py-1 text-xs text-slate-200"
+              onClick={() => {
+                const txt = `${drill.portal} | ${drill.day} ${drill.hour}h | ${drill.category} | ${drill.posts.length} posts`;
+                navigator.clipboard?.writeText(txt);
+              }}
+            >
+              Copiar resumo
+            </button>
             <div className="max-h-[60vh] overflow-y-auto space-y-2">
               {drill.posts.length === 0 ? (
                 <p className="text-xs text-slate-400">Sem posts detalhados para esta célula.</p>
