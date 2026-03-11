@@ -159,24 +159,56 @@ export default function Agenda() {
         postsByDay.set(key, arr);
       }
 
+      const historyHourly = new Map<string, Map<string, Map<number, number>>>();
+      const historyMeta = new Map<string, Map<string, { count: number; target?: number | null }>>();
+
+      if (p.history?.hourly?.length) {
+        for (const day of p.history.hourly) {
+          const catMap = new Map<string, Map<number, number>>();
+          for (const cat of day.categories || []) {
+            const hm = new Map<number, number>();
+            for (const h of cat.hours || []) hm.set(h.hour, h.count);
+            catMap.set((cat.category || "").toLowerCase(), hm);
+          }
+          historyHourly.set(day.date, catMap);
+        }
+      }
+
+      if (p.history?.meta?.length) {
+        for (const day of p.history.meta) {
+          const catMap = new Map<string, { count: number; target?: number | null }>();
+          for (const cat of day.categories || []) {
+            catMap.set((cat.category || "").toLowerCase(), { count: cat.count || 0, target: cat.target });
+          }
+          historyMeta.set(day.date, catMap);
+        }
+      }
+
+      const hasHistory = !!p.history?.hourly?.length;
+
       const hourlyGrid = rules
         .filter((r) => r.kind === "hourly")
         .map((r) => ({
           ...r,
           rowsByDay: days.map((day) => {
             const dayPosts = postsByDay.get(day.key) || [];
-            const hasAnyDataForDay = dayPosts.length > 0;
+            const dayHist = historyHourly.get(day.key);
+            const hasAnyDataForDay = hasHistory ? !!dayHist : dayPosts.length > 0;
             return {
               day,
               hasAnyDataForDay,
               rows: hours.map((h) => {
                 const active = r.days.includes(day.dow) && h >= r.start && h <= r.end;
-                const posted = active
-                  ? dayPosts.some(
-                      (lp) =>
-                        (lp.category || "").toLowerCase().includes(r.category.toLowerCase().split(" ")[0]) && inHour(lp.datetime, h)
-                    )
-                  : false;
+                let posted = false;
+                if (active && dayHist) {
+                  const byCat = dayHist.get(r.category.toLowerCase());
+                  posted = !!byCat && (byCat.get(h) || 0) > 0;
+                } else if (active) {
+                  posted = dayPosts.some(
+                    (lp) =>
+                      (lp.category || "").toLowerCase().includes(r.category.toLowerCase().split(" ")[0]) && inHour(lp.datetime, h)
+                  );
+                }
                 return { hour: h, active, posted };
               }),
             };
@@ -186,10 +218,18 @@ export default function Agenda() {
       const metaRows = rules.filter((r) => r.kind === "meta").map((r) => {
         const byDay = days.map((day) => {
           const dayPosts = postsByDay.get(day.key) || [];
-          const count = dayPosts.filter((lp) =>
-            (lp.category || "").toLowerCase().includes(r.category.toLowerCase().split(" ")[0])
-          ).length;
-          return { day, count, target: r.target || 3, applies: r.days.includes(day.dow), hasAnyDataForDay: dayPosts.length > 0 };
+          const dayMeta = historyMeta.get(day.key);
+          const fromHistory = dayMeta?.get(r.category.toLowerCase());
+          const count = fromHistory
+            ? fromHistory.count
+            : dayPosts.filter((lp) => (lp.category || "").toLowerCase().includes(r.category.toLowerCase().split(" ")[0])).length;
+          return {
+            day,
+            count,
+            target: (fromHistory?.target as number | undefined) || r.target || 3,
+            applies: r.days.includes(day.dow),
+            hasAnyDataForDay: hasHistory ? !!dayMeta : dayPosts.length > 0,
+          };
         });
         return { category: r.category, byDay };
       });

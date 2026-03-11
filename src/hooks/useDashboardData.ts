@@ -33,6 +33,15 @@ type SiteFeed = {
     published: string;
     categories: string[];
   }>;
+  history?: {
+    timezone: string;
+    range_days: number;
+    start: string;
+    end: string;
+    daily: any[];
+    hourly: any[];
+    meta: any[];
+  };
 };
 
 type MonitorPayload = {
@@ -182,6 +191,7 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
       categories,
       journalists,
       latestPosts,
+      history: feed.history,
     };
   });
 
