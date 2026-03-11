@@ -1,5 +1,20 @@
 # Changelog Editorial (curado)
 
+## 2026-03-11 (consolidação final da sessão)
+- `26294f2` (plugin) — adiciona `editorial_rules` no feed como fonte única entre telas
+- `2c86ad8` — Dashboard/Agenda passam a consumir `editorial_rules`
+- `4bbf119` — aderência, causa provável e drill-down
+- `6192c6e` — heatmap horário com contagem de posts
+- `09c336d` — metas em colunas por dia
+- `77c553e` — destaque da coluna de hoje e resumo por linha
+- `096bf8b` — acordeão por portal + today-first para meta-only
+- `3baee42` — dedupe categoria horária OMT + ajustes de visibilidade
+- `2d3562b` — pacote UX (filtros turno/só problemas, risco, copiar resumo)
+- `f413d43` — mantém metas visíveis no modo recolhido e move filtros/risco para topbar toggle
+- `dcefeb6` — PMT/OMT com metas ocultas por padrão
+- `15ecb3c` — visibilidade padrão por perfil de regra (misto vs meta-only)
+- `a0fa258` — hora atual tratada como "EM PRAZO"
+
 ## 2026-03-10 / 2026-03-11
 
 ### Agenda

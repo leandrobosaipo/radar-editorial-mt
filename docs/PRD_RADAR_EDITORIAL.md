@@ -1,67 +1,91 @@
-# PRD — Radar Editorial MT
+# PRD — Radar Editorial MT (Consolidado)
 
 ## 1) Objetivo
-Centralizar a operação editorial dos portais em um único sistema com 3 visões:
-- `/` Dashboard operacional
-- `/tv` Painel TV (wallboard)
-- `/agenda` Agenda semanal de execução/plano
+Centralizar monitoramento editorial dos portais em 3 visões sincronizadas:
+- `/` Dashboard operacional (gestão diária)
+- `/tv` Painel TV (leitura rápida em telão)
+- `/agenda` Agenda operacional (execução por hora + metas por dia)
 
 ## 2) Problema que resolve
-- Reduzir ambiguidade de status (site global x regra editorial)
-- Mostrar atraso real por regra correta de cada portal
-- Padronizar leitura para redação e gestão
+- Elimina inconsistência entre regras por portal/categoria.
+- Separa claramente status de site (atividade global) vs status de regra editorial.
+- Permite decisão rápida para coordenação (atrasos, metas pendentes, risco do dia).
 
-## 3) Fonte de verdade de regras
-Arquivo oficial:
-- `../automation/editorial-monitor/RULES_EDITORIAIS_OFICIAIS.md`
+## 3) Fonte única de regra (single source of truth)
+## Backend (plugin nos portais)
+O feed do plugin (`/wp-json/radar/v1/feed`) é a fonte oficial.
+Campos críticos:
+- `compliance_status`
+- `compliance.checks[]`
+- `editorial_rules[]` ✅ (regra unificada usada pelo front)
+- `history.daily[]`
+- `history.hourly[]`
+- `history.posts[]` (drill-down com título/link/autor)
+- `history.meta[]`
 
-O front deve sempre consumir o payload de compliance do feed plugin quando disponível (`compliance_status`, `compliance.checks`).
+## Frontend
+- Agenda, Dashboard e cards devem priorizar `editorial_rules`.
+- Fallback local só quando `editorial_rules` vier vazio.
 
-## 4) Escopo funcional
+## 4) Regras editoriais consolidadas
+- Fuso oficial: `America/Cuiaba`
+- PMT/OMT: regras mistas (hora + meta em fim de semana)
+- ROO/PNMT/PPMT/AFL: foco em meta diária
+- Memes: sob demanda (não entra em atraso por janela horária)
 
-### 4.1 Dashboard (`/`)
+## 5) Escopo funcional atual
+
+### 5.1 Dashboard (`/`)
 - Cards por portal com:
-  - Status SITE
-  - Status REGRA
-  - Regras por categoria (janela/dias)
+  - `SITE` (atividade global)
+  - `REGRA` (compliance editorial)
+- Tabela por categoria com regra/janela/status
 - Auditoria de atrasos
-- Metas diárias com progresso `x/y`
-- Badges claros por tipo (HORA / META / ATUAL)
-- Memes como `SOB DEMANDA` (nunca em atraso por hora)
+- Metas com `x/y`
 
-### 4.2 TV (`/tv`)
-- Visão de telão com rotação de cenas
-- Prioridade de leitura rápida
-- Status sintético por portal
+### 5.2 TV (`/tv`)
+- Cenas rotativas (gráficos, sites, auditoria)
+- Ordem de portais fixa
+- Leitura sintética para operação
 
-### 4.3 Agenda (`/agenda`)
-- Semana completa (Seg–Dom)
-- **Hoje**: execução real (OK/PEND e progresso real)
-- **Demais dias**: PLANO (não replica execução de hoje)
-- Cabeçalho padrão TV em linha fina com:
-  - Nome do sistema
-  - Subtítulo do painel
-  - Período da agenda (início/fim)
-  - Data/hora de atualização
+### 5.3 Agenda (`/agenda`)
+- Janela: dia atual + 6 anteriores
+- Acordeão por portal:
+  - padrão: foco no hoje
+  - ação: “Comparar outros dias”
+- Heatmap horário com semântica:
+  - `N/I` (hora futura)
+  - `OK` / `OK 2+`
+  - `EM PRAZO` (hora atual sem post)
+  - `FORA PRAZO` (hora passada sem post)
+- Metas diárias em tabela com colunas por dia:
+  - PMT/OMT: ocultas por padrão (regra mista)
+  - ROO/PNMT/PPMT/AFL: abertas por padrão (meta-only)
+- Aderência:
+  - por site (hora/meta) no dia
+  - por categoria na linha
+- Drill-down por célula:
+  - título, link, jornalista, horário
+  - botão “Copiar resumo”
 
-## 5) Regras de negócio aprovadas (resumo)
-- PMT/OMT: grade horária + exceções de fim de semana
-- ROO: metas diárias por editoria, sem grade horária
-- AFL/PNMT/PPMT: atualização global simplificada
-- Fuso oficial: America/Cuiaba
-- Memes: sob demanda
+## 6) Critérios de aceite (atualizados)
+1. PMT/OMT não exibem metas diárias abertas por padrão.
+2. Portais de meta-only mantêm meta visível no modo padrão.
+3. Hora atual sem post aparece como `EM PRAZO` (não fora do prazo).
+4. Hora passada sem post aparece como `FORA PRAZO`.
+5. Não há duplicação de categoria horária (ex.: OMT MT Notícias).
+6. Regras usadas nas telas vêm de `editorial_rules` do plugin.
 
-## 6) Critérios de aceite
-1. Nenhum portal de meta diária exibe semântica de atraso horário indevido.
-2. Agenda não replica “resultado de hoje” para outros dias.
-3. Cabeçalho da agenda segue padrão TV com período e atualização.
-4. Dashboard/TV/Agenda são coerentes com a regra oficial.
+## 7) Operação e deploy
+- Deploy front: `radar-editorial-mt` (GitHub Pages)
+- Deploy plugin: SSH/SCP + WP-CLI nos 6 portais
+- Pós deploy obrigatório:
+  - `cache flush`
+  - `transient delete --all`
+  - cron due-now
+  - purge Cloudflare
 
-## 7) Fora de escopo (agora)
-- Histórico retroativo detalhado por dia da semana na agenda
-- Simulador de cenário futuro com dados históricos
-
-## 8) Próximos incrementos sugeridos
-- Toggle na agenda: `Plano` x `Execução (hoje)`
-- Cena dedicada de compliance no `/tv`
-- Legenda global padronizada de cores e estados
+## 8) Próximos incrementos
+- Guardrail: alerta automático quando feed de portal vier sem `editorial_rules`.
+- Testes de regressão para regras de hora atual/atraso/meta.
+- Cena executiva no `/tv` com “semáforo do dia”.

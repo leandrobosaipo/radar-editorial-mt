@@ -1,26 +1,30 @@
-# Open Items — Radar Editorial MT
+# Open Items — Radar Editorial MT (Atual)
 
-## Em aberto
+## Alta prioridade
+- [ ] Criar guardrail para feed sem `editorial_rules` (alerta por portal).
+- [ ] Garantir `editorial_rules` e `history.posts` consistentes no ROO em 100% das respostas.
+- [ ] Validar em produção mobile/desktop a regra de visibilidade de metas:
+  - PMT/OMT (oculta por padrão)
+  - ROO/PNMT/PPMT/AFL (aberta por padrão)
 
-### Alta prioridade
-- [ ] Validar em produção se o novo cabeçalho da `/agenda` está visível em todos os dispositivos.
-- [ ] Confirmar leitura com operação: dias não-hoje marcados como PLANO ficaram claros?
-- [ ] Revisar se todos os portais mostram janela/dias corretos no card do dashboard.
+## Média prioridade
+- [ ] Extrair engine de regras visuais da Agenda para módulo dedicado (`agendaRules.ts`).
+- [ ] Adicionar testes de regressão:
+  - hora atual = EM PRAZO
+  - hora passada = FORA PRAZO
+  - portais mistos vs meta-only
+- [ ] Cena executiva no `/tv` com semáforo de risco por portal.
 
-### Média prioridade
-- [ ] Adicionar toggle na agenda: `Plano` x `Execução (hoje)`.
-- [ ] Levar bloco de checks de compliance para uma cena dedicada no `/tv`.
-- [ ] Padronizar legenda de cores/estados no topo do dashboard e agenda.
-
-### Baixa prioridade
-- [ ] Histórico semanal real (retroativo) na agenda.
-- [ ] Testes automatizados para regras por portal/categoria.
+## Baixa prioridade
+- [ ] Exportar resumo diário para mensagem de operação (auto-formatado).
+- [ ] KPI semanal consolidado por jornalista/categoria.
 
 ---
 
-## Definição de pronto (DoD)
-Cada item só fecha quando:
-1. Implementado
+## DoD (Definition of Done)
+Só fechar item quando:
+1. Implementado e validado com dados reais
 2. Build local OK
 3. Commit + push em `main`
-4. Validado visualmente na URL pública
+4. Changelog atualizado
+5. Regra/legenda compatível com topbar da Agenda
