@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-11T17:00:10.204645-04:00",
+  "generated_at": "2026-03-11T19:00:00.397933-04:00",
   "window": {
-    "start": "2026-03-11T16:00:10.204645-04:00",
-    "end": "2026-03-11T17:00:10.204645-04:00"
+    "start": "2026-03-11T18:00:00.397933-04:00",
+    "end": "2026-03-11T19:00:00.397933-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Câmera de segurança flagra mulher abandonando filhote de cachorro na porta de ONG em Nobres; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-abandonando-filhote-cachorro-nobres-video/",
+        "title": "Câmera de segurança registra dupla armada roubando joias, relógios e dinheiro em açougue de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/dupla-armada-roubando-joias-acougue-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-11T16:01:40-04:00",
+        "published": "2026-03-11T18:06:05-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,106 +20,27 @@
         ]
       },
       {
-        "title": "Brasil reage a plano dos EUA de classificar PCC e CV como organizações terroristas; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/governo-brasileiro-entrou-em-alerta-diplomatico/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-11T16:01:54-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3170/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-11T16:24:00-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Jayme Campos faz forte declaração no mês da mulher e cobra prioridade no combate ao feminicídio em Mato Grosso; veja vídeo",
-        "link": "https://perrenguematogrosso.com/jayme-campos-faz-forte-declaracao-no-mes-da-mulher-e-cobra-prioridade-no-combate-ao-feminicidio-em-mato-grosso-veja-video/",
+        "title": "Regulamentação de motoristas e entregadores por aplicativo pode avançar no Congresso até abril",
+        "link": "https://perrenguematogrosso.com/regulamentacao-de-motoristas-e-entregadores-por-aplicativo-pode-avancar-no-congresso-ate-abril/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-11T16:33:10-04:00",
+        "published": "2026-03-11T18:52:59-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           510
         ]
-      },
-      {
-        "title": "Adolescentes são encontradas com homens de 38 e 25 anos após faltarem aula em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/adolescentes-encontradas-homens-38-e-25-anos-cuiaba/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-11T16:51:03-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
       }
     ],
-    "afolhalivre": [
-      {
-        "title": "Navio britânico é atingido por projétil no Estreito de Ormuz",
-        "link": "https://afolhalivre.com/navio-britanico-e-atingido-por-projetil-no-estreito-de-ormuz/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T16:03:11-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP",
-        "link": "https://afolhalivre.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T16:32:17-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Barcelona de Guayaquil vence Botafogo e avança na Libertadores",
-        "link": "https://afolhalivre.com/barcelona-de-guayaquil-vence-botafogo-e-avanca-na-libertadores/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T16:33:05-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Mulher é detida após abandonar cachorro em frente a ONG em Nobres; veja vídeo",
-        "link": "https://omatogrossense.com/mulher-detida-abandonar-cachorro-ong-nobres-video/",
+        "title": "Dupla armada invade açougue, rende funcionários e foge após roubar dinheiro e joias em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/dupla-armada-invade-acougue-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-11T16:01:23-04:00",
+        "published": "2026-03-11T18:08:21-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -128,160 +49,11 @@
         ]
       },
       {
-        "title": "Plano dos EUA de classificar PCC e Comando Vermelho como terroristas provoca reação do Brasil; Veja vídeo",
-        "link": "https://omatogrossense.com/a-possibilidade-de-os-estados-unidos/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-11T16:01:25-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Entre a Paz e qualquer amor",
-        "link": "https://omatogrossense.com/entre-a-paz-e-qualquer-amor/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-11T16:08:20-04:00",
-        "categories": [
-          "Artigos de opinião"
-        ],
-        "category_ids": [
-          2
-        ]
-      },
-      {
-        "title": "Jayme Campos faz forte declaração no mês da mulher e cobra prioridade no combate ao feminicídio em Mato Grosso; veja vídeo",
-        "link": "https://omatogrossense.com/jayme-campos-faz-forte-declaracao-no-mes-da-mulher-e-cobra-prioridade-no-combate-ao-feminicidio-em-mato-grosso-veja-video/",
+        "title": "Regulamentação de motoristas e entregadores por aplicativo pode avançar no Congresso até abril",
+        "link": "https://omatogrossense.com/regulamentacao-de-motoristas-e-entregadores-por-aplicativo-pode-avancar-no-congresso-ate-abril/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-11T16:34:23-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Homens de 38 e 25 anos são detidos após relação com adolescentes que desapareceram em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/homens-detidos-relacao-adolescentes-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-11T16:51:44-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Torcida do Cruzeiro provoca Leonardo Jardim antes de jogo contra o Flamengo",
-        "link": "https://omatogrossense.com/torcida-do-cruzeiro-provoca-leonardo-jardim/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-11T17:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
-    "portalnortemt": [
-      {
-        "title": "Barcelona de Guayaquil vence Botafogo e avança na Libertadores",
-        "link": "https://portalnortemt.com/barcelona-de-guayaquil-vence-botafogo-e-avanca-na-libertadores/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T16:03:09-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP",
-        "link": "https://portalnortemt.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T16:23:03-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "Navio cargueiro britânico é atingido por projétil no Estreito de Ormuz",
-        "link": "https://portalpantanalmt.com/navio-cargueiro-britanico-e-atingido-por-projetil-no-estreito-de-ormuz/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T16:02:20-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP?",
-        "link": "https://portalpantanalmt.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T16:31:46-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Pantanal: novas regras para pesca esportiva em 2024",
-        "link": "https://portalpantanalmt.com/pantanal-novas-regras-para-pesca-esportiva-em-2024-9/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T16:32:14-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
-    "roonoticias": [
-      {
-        "title": "Barcelona de Guayaquil elimina Botafogo e garante vaga na fase de grupos da Libertadores",
-        "link": "https://roonoticias.com/o-barcelona-de-guayaquil-confirmou-sua-classificacao-para/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-11T16:03:09-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Ala do PT defende Marina Silva como vice de Haddad em SP",
-        "link": "https://roonoticias.com/a-corrida-eleitoral-para-o-governo-de-sao-paulo-em-2026/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-11T16:23:03-04:00",
+        "published": "2026-03-11T18:53:30-04:00",
         "categories": [
           "Política"
         ],
@@ -289,7 +61,10 @@
           5
         ]
       }
-    ]
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
