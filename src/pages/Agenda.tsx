@@ -563,7 +563,7 @@ export default function Agenda() {
                                     <span className="text-slate-500">—</span>
                                   ) : !dayRow.hasAnyDataForDay ? (
                                     <span className="rounded bg-slate-500/20 px-1 text-slate-300">SEM DADOS</span>
-                                  ) : day.isToday && cell.hour > nowHour ? (
+                                  ) : day.isToday && cell.hour >= nowHour ? (
                                     <span className="rounded bg-slate-500/20 px-1 text-slate-300">N/I</span>
                                   ) : cell.posted ? (
                                     <button
@@ -591,9 +591,9 @@ export default function Agenda() {
                                   ) : (
                                     <span
                                       title={cell.cause}
-                                      className={`rounded px-1 ${day.isToday && cell.hour > nowHour ? "bg-amber-500/20 text-amber-300" : "bg-red-500/20 text-red-300"}`}
+                                      className={`rounded px-1 ${day.isToday && cell.hour >= nowHour ? "bg-amber-500/20 text-amber-300" : "bg-red-500/20 text-red-300"}`}
                                     >
-                                      {day.isToday && cell.hour > nowHour ? "EM PRAZO" : "FORA PRAZO"}
+                                      {day.isToday && cell.hour >= nowHour ? "EM PRAZO" : "FORA PRAZO"}
                                     </span>
                                   )}
                                 </td>
