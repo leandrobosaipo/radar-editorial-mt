@@ -181,6 +181,7 @@ export default function Agenda() {
   const { data, isLoading } = useDashboardData();
 
   const days = useMemo(() => getLast7Days(), []);
+  const daysAsc = useMemo(() => [...days].reverse(), [days]);
 
   const [drill, setDrill] = useState<DrillState>({
     open: false,
@@ -254,6 +255,7 @@ export default function Agenda() {
       }
 
       const hasHistory = !!p.history?.hourly?.length;
+      const hasHistoryPosts = !!p.history?.posts?.length;
 
       const hourlyGrid = rules
         .filter((r) => r.kind === "hourly")
@@ -502,24 +504,42 @@ export default function Agenda() {
           {metaRows.length > 0 && (
             <div>
               <h3 className="text-sm font-semibold mb-2">Metas diárias (histórico)</h3>
-              <div className="flex flex-wrap gap-2">
-                {metaRows.flatMap((m: any) =>
-                  m.byDay
-                    .filter((d: any) => d.applies)
-                    .map((d: any) => {
-                      const color = !d.hasAnyDataForDay
-                        ? "bg-slate-500/20 text-slate-300"
-                        : d.count >= d.target
-                        ? "bg-green-500/20 text-green-300"
-                        : "bg-red-500/20 text-red-300";
-
-                      return (
-                        <span key={`${m.category}-${d.day.key}`} className={`rounded px-2 py-1 text-xs ${color}`}>
-                          {m.category} • {d.day.label} : {d.hasAnyDataForDay ? `${d.count}/${d.target}` : "SEM DADOS"}
-                        </span>
-                      );
-                    })
-                )}
+              <div className="overflow-x-auto rounded border border-slate-700/60">
+                <table className="w-full text-xs">
+                  <thead className="bg-slate-900/50">
+                    <tr>
+                      <th className="text-left p-2 min-w-[140px]">Categoria</th>
+                      {daysAsc.map((d) => (
+                        <th key={d.key} className="text-center p-2 min-w-[78px] border-l border-slate-800">{d.label}</th>
+                      ))}
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {metaRows.map((m: any) => (
+                      <tr key={`meta-${m.category}`} className="border-t border-slate-800">
+                        <td className="p-2 font-medium">{m.category}</td>
+                        {daysAsc.map((d) => {
+                          const cell = m.byDay.find((x: any) => x.day.key === d.key);
+                          if (!cell || !cell.applies) {
+                            return <td key={`${m.category}-${d.key}`} className="text-center p-2 border-l border-slate-800 text-slate-500">—</td>;
+                          }
+                          const color = !cell.hasAnyDataForDay
+                            ? "bg-slate-500/20 text-slate-300"
+                            : cell.count >= cell.target
+                            ? "bg-green-500/20 text-green-300"
+                            : "bg-amber-500/20 text-amber-300";
+                          return (
+                            <td key={`${m.category}-${d.key}`} className="text-center p-2 border-l border-slate-800">
+                              <span className={`rounded px-2 py-0.5 ${color}`}>
+                                {cell.hasAnyDataForDay ? `${cell.count}/${cell.target}` : "SEM DADOS"}
+                              </span>
+                            </td>
+                          );
+                        })}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
               </div>
             </div>
           )}
