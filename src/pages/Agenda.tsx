@@ -62,6 +62,11 @@ function inHour(iso: string, hour: number) {
 export default function Agenda() {
   const { data, isLoading } = useDashboardData();
 
+  const todayDow = useMemo(() => {
+    const wd = new Intl.DateTimeFormat("en-US", { timeZone: "America/Cuiaba", weekday: "short" }).format(new Date()).toLowerCase();
+    return wd.startsWith("mon") ? 1 : wd.startsWith("tue") ? 2 : wd.startsWith("wed") ? 3 : wd.startsWith("thu") ? 4 : wd.startsWith("fri") ? 5 : wd.startsWith("sat") ? 6 : 7;
+  }, []);
+
   const view = useMemo(() => {
     if (!data) return [] as any[];
     return data.portals.map((p) => {
@@ -103,7 +108,7 @@ export default function Agenda() {
   return (
     <div className="p-4 md:p-8 space-y-8">
       <h1 className="text-2xl font-bold">Agenda Semanal de Publicações</h1>
-      <p className="text-sm text-muted-foreground">Calendário operacional (Cuiabá). Marcações com base nos posts do dia atual no feed.</p>
+      <p className="text-sm text-muted-foreground">Calendário operacional (Cuiabá). Hoje mostra execução real (OK/PEND); demais dias mostram PLANO.</p>
 
       {view.map(({ portal, code, hourlyGrid, metaRows }) => (
         <section key={portal.name} className="rounded-lg border p-4 space-y-4">
@@ -116,9 +121,10 @@ export default function Agenda() {
             <div className="space-y-3">
               {[1,2,3,4,5,6,7].map((day) => {
                 const dayName = ["", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"][day];
+                const isToday = day === todayDow;
                 return (
                   <div key={day} className="overflow-x-auto">
-                    <div className="text-xs font-semibold mb-1">{dayName}</div>
+                    <div className="text-xs font-semibold mb-1">{dayName} {isToday ? "• hoje" : "• plano"}</div>
                     <table className="w-full text-xs">
                       <thead>
                         <tr>
@@ -138,6 +144,8 @@ export default function Agenda() {
                                 <td key={cell.hour} className="text-center">
                                   {!cell.active ? (
                                     <span className="text-slate-500">—</span>
+                                  ) : !isToday ? (
+                                    <span className="rounded bg-blue-500/20 px-1 text-blue-300">PLANO</span>
                                   ) : cell.posted ? (
                                     <span className="rounded bg-green-500/20 px-1 text-green-300">OK</span>
                                   ) : (
@@ -158,16 +166,19 @@ export default function Agenda() {
 
           {metaRows.length > 0 && (
             <div>
-              <h3 className="text-sm font-semibold mb-2">Metas diárias (hoje)</h3>
+              <h3 className="text-sm font-semibold mb-2">Metas diárias</h3>
               <div className="flex flex-wrap gap-2">
-                {metaRows.map((m: any) => (
-                  <span
-                    key={`${m.category}-${m.days.join('-')}`}
-                    className={`rounded px-2 py-1 text-xs ${m.count >= m.target ? "bg-green-500/20 text-green-300" : "bg-yellow-500/20 text-yellow-300"}`}
-                  >
-                    {m.category} ({m.days.map((d:number)=>["","Seg","Ter","Qua","Qui","Sex","Sáb","Dom"][d]).join('/')}) : {m.count}/{m.target}
-                  </span>
-                ))}
+                {metaRows.map((m: any) => {
+                  const appliesToday = m.days.includes(todayDow);
+                  return (
+                    <span
+                      key={`${m.category}-${m.days.join('-')}`}
+                      className={`rounded px-2 py-1 text-xs ${!appliesToday ? "bg-blue-500/20 text-blue-300" : m.count >= m.target ? "bg-green-500/20 text-green-300" : "bg-yellow-500/20 text-yellow-300"}`}
+                    >
+                      {m.category} ({m.days.map((d:number)=>["","Seg","Ter","Qua","Qui","Sex","Sáb","Dom"][d]).join('/')}) : {appliesToday ? `${m.count}/${m.target}` : `meta ${m.target}`}
+                    </span>
+                  );
+                })}
               </div>
             </div>
           )}
