@@ -27,7 +27,8 @@ export interface PortalCheck {
   detail: string;
 }
 
-export interface PortalDataHistoryCategoryHour { hour: number; count: number }
+export interface PortalDataHistoryPostRef { title: string; link: string; author: string; published: string }
+export interface PortalDataHistoryCategoryHour { hour: number; count: number; posts?: PortalDataHistoryPostRef[] }
 export interface PortalDataHistoryCategoryHourly { category: string; category_key?: string; hours: PortalDataHistoryCategoryHour[] }
 export interface PortalDataHistoryDayHourly { date: string; dow: number; is_today: boolean; categories: PortalDataHistoryCategoryHourly[] }
 export interface PortalDataHistoryCategoryDaily { category: string; category_key?: string; count: number; target?: number | null; met?: boolean | null }
@@ -51,6 +52,7 @@ export interface PortalData {
     end: string;
     daily: PortalDataHistoryDayDaily[];
     hourly: PortalDataHistoryDayHourly[];
+    posts?: PortalDataHistoryDayHourly[];
     meta: PortalDataHistoryDayDaily[];
   };
 }

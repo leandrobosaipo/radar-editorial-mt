@@ -40,6 +40,7 @@ type SiteFeed = {
     end: string;
     daily: any[];
     hourly: any[];
+    posts?: any[];
     meta: any[];
   };
 };

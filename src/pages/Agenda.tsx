@@ -1,4 +1,4 @@
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import { useDashboardData } from "@/hooks/useDashboardData";
 import { portalShort } from "@/lib/portal";
 
@@ -20,6 +20,16 @@ type DayRef = {
   dow: number;
   label: string;
   isToday: boolean;
+};
+
+type DrillPost = { title: string; link: string; author: string; published?: string };
+type DrillState = {
+  open: boolean;
+  portal: string;
+  day: string;
+  category: string;
+  hour: number;
+  posts: DrillPost[];
 };
 
 function normalizeText(s: string) {
@@ -115,6 +125,14 @@ function heatLevelClass(count: number) {
   return "bg-emerald-500/50 text-emerald-100";
 }
 
+function probableCause(opts: { hasData: boolean; active: boolean; count: number; hasPostsOutOfHour?: boolean }) {
+  if (!opts.active) return "Fora da janela da regra";
+  if (!opts.hasData) return "Sem dados do feed para o dia";
+  if (opts.count > 0) return "Cobertura OK na janela";
+  if (opts.hasPostsOutOfHour) return "Houve post na categoria, mas fora da hora esperada";
+  return "Não houve post na categoria dentro da janela";
+}
+
 function getLast7Days(now = new Date()): DayRef[] {
   const base = new Date(now.toLocaleString("en-US", { timeZone: "America/Cuiaba" }));
   base.setHours(12, 0, 0, 0);
@@ -164,6 +182,15 @@ export default function Agenda() {
 
   const days = useMemo(() => getLast7Days(), []);
 
+  const [drill, setDrill] = useState<DrillState>({
+    open: false,
+    portal: "",
+    day: "",
+    category: "",
+    hour: 0,
+    posts: [],
+  });
+
   const updatedAtLabel = useMemo(() => {
     return new Intl.DateTimeFormat("pt-BR", {
       timeZone: "America/Cuiaba",
@@ -190,6 +217,7 @@ export default function Agenda() {
 
       const historyHourly = new Map<string, Map<string, Map<number, number>>>();
       const historyMeta = new Map<string, Map<string, { count: number; target?: number | null }>>();
+      const historyPosts = new Map<string, Map<string, Map<number, DrillPost[]>>>();
 
       if (p.history?.hourly?.length) {
         for (const day of p.history.hourly) {
@@ -213,6 +241,18 @@ export default function Agenda() {
         }
       }
 
+      if (p.history?.posts?.length) {
+        for (const day of p.history.posts) {
+          const catMap = new Map<string, Map<number, DrillPost[]>>();
+          for (const cat of day.categories || []) {
+            const hm = new Map<number, DrillPost[]>();
+            for (const h of cat.hours || []) hm.set(h.hour, (h.posts || []) as DrillPost[]);
+            catMap.set(categoryKey(cat.category || ""), hm);
+          }
+          historyPosts.set(day.date, catMap);
+        }
+      }
+
       const hasHistory = !!p.history?.hourly?.length;
 
       const hourlyGrid = rules
@@ -229,16 +269,31 @@ export default function Agenda() {
               rows: hours.map((h) => {
                 const active = r.days.includes(day.dow) && h >= r.start && h <= r.end;
                 let count = 0;
+                const catKey = categoryKey(r.category);
+                const dayPostsForCategory = dayPosts.filter((lp) => categoryKey(lp.category || "") === catKey);
+                const dayHistPosts = historyPosts.get(day.key)?.get(catKey)?.get(h) || [];
+
                 if (active && dayHist) {
-                  const byCat = dayHist.get(categoryKey(r.category));
+                  const byCat = dayHist.get(catKey);
                   count = byCat?.get(h) || 0;
                 } else if (active) {
-                  count = dayPosts.filter(
-                    (lp) =>
-                      categoryKey(lp.category || "") === categoryKey(r.category) && inHour(lp.datetime, h)
-                  ).length;
+                  count = dayPostsForCategory.filter((lp) => inHour(lp.datetime, h)).length;
                 }
-                return { hour: h, active, count, posted: count > 0 };
+
+                return {
+                  hour: h,
+                  active,
+                  count,
+                  posted: count > 0,
+                  hasPostsOutOfHour: dayPostsForCategory.length > 0,
+                  cause: probableCause({
+                    hasData: hasAnyDataForDay,
+                    active,
+                    count,
+                    hasPostsOutOfHour: dayPostsForCategory.length > 0,
+                  }),
+                  drillPosts: dayHistPosts.length ? dayHistPosts : dayPostsForCategory.filter((lp) => inHour(lp.datetime, h)),
+                };
               }),
             };
           }),
@@ -276,7 +331,37 @@ export default function Agenda() {
         }
       }
 
-      return { portal: p, code, hourlyGrid, metaRows, metaByDayCategory };
+      const today = days[0];
+      let hourlyExpected = 0;
+      let hourlyDone = 0;
+      for (const row of hourlyGrid) {
+        const dayRow = row.rowsByDay.find((d: any) => d.day.key === today.key);
+        for (const cell of dayRow.rows) {
+          if (!cell.active) continue;
+          hourlyExpected += 1;
+          if (cell.count > 0) hourlyDone += 1;
+        }
+      }
+
+      let metaTarget = 0;
+      let metaDone = 0;
+      for (const m of metaRows) {
+        const d = m.byDay.find((x: any) => x.day.key === today.key);
+        if (!d || !d.applies) continue;
+        metaTarget += d.target;
+        metaDone += Math.min(d.count, d.target);
+      }
+
+      const adherence = {
+        hourlyExpected,
+        hourlyDone,
+        hourlyPct: hourlyExpected > 0 ? Math.round((hourlyDone / hourlyExpected) * 100) : null,
+        metaTarget,
+        metaDone,
+        metaPct: metaTarget > 0 ? Math.round((metaDone / metaTarget) * 100) : null,
+      };
+
+      return { portal: p, code, hourlyGrid, metaRows, metaByDayCategory, adherence };
     });
   }, [data, days]);
 
@@ -302,13 +387,32 @@ export default function Agenda() {
         <span className="text-slate-400">Heatmap horário: mais posts = verde mais forte</span>
       </div>
 
-      {view.map(({ portal, code, hourlyGrid, metaRows, metaByDayCategory }) => (
+      <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2 text-[11px] text-slate-300">
+        <span className="font-semibold text-slate-100">Causa provável:</span> sem dados do feed no dia, post fora da hora esperada, ausência de post na janela ou fora da janela da regra.
+      </div>
+
+      {view.map(({ portal, code, hourlyGrid, metaRows, metaByDayCategory, adherence }) => (
         <section key={portal.name} className="rounded-lg border p-4 space-y-4">
           <div className="flex items-center justify-between">
             <h2 className="text-lg font-bold">
               {code} — {portal.name}
             </h2>
             <span className="text-xs text-muted-foreground">Hoje + 6 dias anteriores</span>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
+            <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2">
+              <div className="text-slate-300">Aderência por hora (hoje)</div>
+              <div className="mt-1 font-semibold text-white">
+                {adherence.hourlyExpected > 0 ? `${adherence.hourlyDone}/${adherence.hourlyExpected} (${adherence.hourlyPct}%)` : "N/A"}
+              </div>
+            </div>
+            <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2">
+              <div className="text-slate-300">Aderência por meta (hoje)</div>
+              <div className="mt-1 font-semibold text-white">
+                {adherence.metaTarget > 0 ? `${adherence.metaDone}/${adherence.metaTarget} (${adherence.metaPct}%)` : "N/A"}
+              </div>
+            </div>
           </div>
 
           {hourlyGrid.length > 0 && (
@@ -357,11 +461,30 @@ export default function Agenda() {
                                   ) : !dayRow.hasAnyDataForDay ? (
                                     <span className="rounded bg-slate-500/20 px-1 text-slate-300">SEM DADOS</span>
                                   ) : cell.posted ? (
-                                    <span className={`rounded px-1 ${heatLevelClass(cell.count)}`}>
+                                    <button
+                                      type="button"
+                                      title={cell.cause}
+                                      onClick={() =>
+                                        setDrill({
+                                          open: true,
+                                          portal: `${code} — ${portal.name}`,
+                                          day: day.label,
+                                          category: row.category,
+                                          hour: cell.hour,
+                                          posts: (cell.drillPosts || []).map((p: any) => ({
+                                            title: p.title,
+                                            link: p.link,
+                                            author: p.author,
+                                            published: p.published || p.datetime,
+                                          })),
+                                        })
+                                      }
+                                      className={`rounded px-1 ${heatLevelClass(cell.count)}`}
+                                    >
                                       {cell.count > 1 ? `OK ${cell.count}` : "OK"}
-                                    </span>
+                                    </button>
                                   ) : (
-                                    <span className="rounded bg-red-500/20 px-1 text-red-300">PEND</span>
+                                    <span title={cell.cause} className="rounded bg-red-500/20 px-1 text-red-300">PEND</span>
                                   )}
                                 </td>
                               ))
@@ -402,6 +525,30 @@ export default function Agenda() {
           )}
         </section>
       ))}
+
+      {drill.open && (
+        <div className="fixed inset-0 z-50 bg-black/60 p-4" onClick={() => setDrill((d) => ({ ...d, open: false }))}>
+          <div className="mx-auto max-w-2xl rounded-lg border border-slate-700 bg-slate-950 p-4" onClick={(e) => e.stopPropagation()}>
+            <div className="mb-3 flex items-center justify-between">
+              <h3 className="text-sm font-semibold text-white">Drill-down • {drill.portal}</h3>
+              <button className="rounded bg-slate-800 px-2 py-1 text-xs text-slate-200" onClick={() => setDrill((d) => ({ ...d, open: false }))}>Fechar</button>
+            </div>
+            <p className="mb-2 text-xs text-slate-300">{drill.day} • {drill.category} • {drill.hour}h</p>
+            <div className="max-h-[60vh] overflow-y-auto space-y-2">
+              {drill.posts.length === 0 ? (
+                <p className="text-xs text-slate-400">Sem posts detalhados para esta célula.</p>
+              ) : (
+                drill.posts.map((p, idx) => (
+                  <div key={`${p.link}-${idx}`} className="rounded border border-slate-800 p-2">
+                    <a href={p.link} target="_blank" rel="noreferrer" className="text-sm text-blue-300 hover:underline">{p.title}</a>
+                    <div className="mt-1 text-xs text-slate-400">{p.author}{p.published ? ` • ${new Date(p.published).toLocaleString("pt-BR", { timeZone: "America/Cuiaba" })}` : ""}</div>
+                  </div>
+                ))
+              )}
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
