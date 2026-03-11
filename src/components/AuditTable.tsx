@@ -46,12 +46,25 @@ export function AuditTable({ entries }: Props) {
                       {formatCuiabaTime(entry.lastPublication)}
                     </td>
                     <td className="px-4 py-3 font-mono text-xs text-muted-foreground">
-                      {humanizeElapsed(entry.lastPublication)}
+                      {entry.mode === "META" ? entry.elapsed : humanizeElapsed(entry.lastPublication)}
                     </td>
                     <td className="px-4 py-3 text-right">
-                      <span className={`rounded px-2 py-0.5 font-mono text-xs font-bold ${isMemes ? "bg-status-ok/20 text-status-ok" : "bg-status-delay/20 text-status-delay"}`}>
-                        {isMemes ? "SOB DEMANDA" : entry.status}
-                      </span>
+                      {(() => {
+                        if (isMemes) {
+                          return <span className="rounded px-2 py-0.5 font-mono text-xs font-bold bg-status-ok/20 text-status-ok">SOB DEMANDA</span>;
+                        }
+                        if (entry.mode === "META") {
+                          const ok = (entry.count || 0) >= (entry.target || 0);
+                          const warn = !ok && entry.withinWindow;
+                          const cls = ok
+                            ? "bg-status-ok/20 text-status-ok"
+                            : warn
+                            ? "bg-yellow-500/20 text-yellow-300"
+                            : "bg-status-delay/20 text-status-delay";
+                          return <span className={`rounded px-2 py-0.5 font-mono text-xs font-bold ${cls}`}>{entry.elapsed}</span>;
+                        }
+                        return <span className="rounded px-2 py-0.5 font-mono text-xs font-bold bg-status-delay/20 text-status-delay">{entry.status}</span>;
+                      })()}
                     </td>
                   </tr>
                 );

@@ -46,6 +46,10 @@ export interface AuditEntry {
   lastPublication: string;
   elapsed: string;
   status: "ATRASO";
+  mode?: "TIME" | "META";
+  count?: number;
+  target?: number;
+  withinWindow?: boolean;
 }
 
 export interface DashboardData {

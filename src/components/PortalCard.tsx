@@ -58,6 +58,31 @@ function isHourlyWindowActive(code: string, categoryName: string, dow: number, h
   return null;
 }
 
+function metaTarget(code: string, categoryName: string, dow: number): number | null {
+  const k = catKey(categoryName);
+  if (code === "ROO" && ["rondonopolis", "mt_noticia", "brasil_mundo", "esporte", "politica"].includes(k)) return 3;
+  if (code === "PMT" || code === "OMT") {
+    if (dow === 6 && (k === "politica" || k === "esporte")) return 2;
+    if (dow === 7 && k === "politica") return 2;
+    if (dow === 7 && k === "esporte") return 4;
+  }
+  return null;
+}
+
+function metaWindowOpen(code: string, categoryName: string, dow: number, hour: number): boolean {
+  const k = catKey(categoryName);
+  if (code === "ROO") return hour <= 22;
+  if (code === "PMT") {
+    if (dow === 6 && (k === "politica" || k === "esporte")) return hour <= 22;
+    if (dow === 7 && (k === "politica" || k === "esporte")) return hour <= 22;
+  }
+  if (code === "OMT") {
+    if (dow === 6 && (k === "politica" || k === "esporte")) return hour <= 20;
+    if (dow === 7 && (k === "politica" || k === "esporte")) return hour <= 20;
+  }
+  return true;
+}
+
 function categoryRuleLabel(code: string, categoryName: string, dow: number): { rule: string; window: string; outside: string } {
   const k = catKey(categoryName);
   const weekend = dow >= 6;
@@ -174,8 +199,18 @@ export function PortalCard({ portal }: Props) {
                 const isMemes = /meme/i.test(cat.name);
                 const rule = categoryRuleLabel(code, cat.name, dow);
                 const inWindow = isHourlyWindowActive(code, cat.name, dow, hour);
+                const target = metaTarget(code, cat.name, dow);
+                const isMeta = target !== null;
+                const metaInWindow = isMeta ? metaWindowOpen(code, cat.name, dow, hour) : null;
+                const progress = isMeta ? `${cat.count}/${target}` : null;
                 const effectiveStatus = isMemes
                   ? "SOB DEMANDA"
+                  : isMeta
+                  ? (cat.count >= (target || 0)
+                      ? progress
+                      : inWindow === false
+                      ? progress
+                      : progress)
                   : inWindow === false
                   ? "FORA JANELA"
                   : cat.status;
@@ -200,7 +235,15 @@ export function PortalCard({ portal }: Props) {
                     <td className="py-2 text-right">
                       <span
                         className={`inline-block rounded px-2 py-0.5 text-xs font-mono font-bold ${
-                          effectiveStatus === "ATRASO"
+                          isMemes
+                            ? "bg-status-ok/20 text-status-ok"
+                            : isMeta
+                            ? cat.count >= (target || 0)
+                              ? "bg-status-ok/20 text-status-ok"
+                              : metaInWindow === false
+                              ? "bg-status-delay/20 text-status-delay"
+                              : "bg-yellow-500/20 text-yellow-300"
+                            : effectiveStatus === "ATRASO"
                             ? "bg-status-delay/20 text-status-delay"
                             : "bg-status-ok/20 text-status-ok"
                         }`}

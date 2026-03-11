@@ -51,6 +51,65 @@ function isMemesCategory(name: string): boolean {
   return /meme/i.test(name || "");
 }
 
+function portalCode(name: string): "PMT"|"OMT"|"ROO"|"PNMT"|"PPMT"|"AFL"|"SITE" {
+  const n = (name || "").toLowerCase();
+  if (n.includes("perrengue")) return "PMT";
+  if (n.includes("matogrossense")) return "OMT";
+  if (n.includes("roo")) return "ROO";
+  if (n.includes("norte")) return "PNMT";
+  if (n.includes("pantanal")) return "PPMT";
+  if (n.includes("folha") || n.includes("primavera")) return "AFL";
+  return "SITE";
+}
+
+function cuiabaNow() {
+  const parts = new Intl.DateTimeFormat("en-US", { timeZone: "America/Cuiaba", weekday: "short", hour: "2-digit", hour12: false }).formatToParts(new Date());
+  const wd = (parts.find((p) => p.type === "weekday")?.value || "Mon").toLowerCase();
+  const hour = Number(parts.find((p) => p.type === "hour")?.value || "0");
+  const dow = wd.startsWith("mon") ? 1 : wd.startsWith("tue") ? 2 : wd.startsWith("wed") ? 3 : wd.startsWith("thu") ? 4 : wd.startsWith("fri") ? 5 : wd.startsWith("sat") ? 6 : 7;
+  return { dow, hour };
+}
+
+function categoryKey(name: string): string {
+  const n = (name || "").toLowerCase();
+  if (n.includes("meme")) return "memes";
+  if (n.includes("pol")) return "politica";
+  if (n.includes("esport")) return "esporte";
+  if (n.includes("rondon")) return "rondonopolis";
+  if (n.includes("brasil")) return "brasil_mundo";
+  if (n.includes("mt") && n.includes("not")) return "mt_noticia";
+  return "other";
+}
+
+function metaTarget(code: string, categoryName: string, dow: number): number | null {
+  const k = categoryKey(categoryName);
+  if (code === "ROO") {
+    if (["rondonopolis", "mt_noticia", "brasil_mundo", "esporte", "politica"].includes(k)) return 3;
+  }
+  if (code === "PMT" || code === "OMT") {
+    if (dow === 6 && (k === "politica" || k === "esporte")) return 2;
+    if (dow === 7 && k === "politica") return 2;
+    if (dow === 7 && k === "esporte") return 4;
+  }
+  return null;
+}
+
+function metaWindowOpen(code: string, categoryName: string, dow: number, hour: number): boolean {
+  const k = categoryKey(categoryName);
+  if (code === "ROO") return hour <= 22;
+  if (code === "PMT") {
+    if (dow === 6 && (k === "politica" || k === "esporte")) return hour <= 22;
+    if (dow === 7 && k === "politica") return hour <= 22;
+    if (dow === 7 && k === "esporte") return hour <= 22;
+  }
+  if (code === "OMT") {
+    if (dow === 6 && (k === "politica" || k === "esporte")) return hour <= 20;
+    if (dow === 7 && k === "politica") return hour <= 20;
+    if (dow === 7 && k === "esporte") return hour <= 20;
+  }
+  return false;
+}
+
 function portalOrderRank(name: string): number {
   const n = (name || "").toLowerCase();
   if (n.includes("perrengue")) return 1; // PMT
@@ -128,17 +187,44 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
 
   portals.sort((a, b) => portalOrderRank(a.name) - portalOrderRank(b.name));
 
-  const audit: AuditEntry[] = feeds.flatMap((feed) =>
-    (feed.audit || [])
-      .filter((a) => a.status === "ATRASO")
-      .map((a) => ({
-        site: feed.site?.name || feed.site?.url || "site",
-        category: a.category,
-        lastPublication: a.last_publication,
-        elapsed: a.elapsed_human || `${a.elapsed_minutes} min`,
-        status: "ATRASO" as const,
-      }))
-  );
+  const { dow, hour } = cuiabaNow();
+  const audit: AuditEntry[] = feeds.flatMap((feed) => {
+    const siteName = feed.site?.name || feed.site?.url || "site";
+    const code = portalCode(siteName);
+    const rows: AuditEntry[] = [];
+
+    for (const a of feed.audit || []) {
+      const count = (feed.categories || {})[a.category]?.count ?? 0;
+      const target = metaTarget(code, a.category, dow);
+      if (target) {
+        const within = metaWindowOpen(code, a.category, dow, hour);
+        if (count < target) {
+          rows.push({
+            site: siteName,
+            category: a.category,
+            lastPublication: a.last_publication || feed.generated_at,
+            elapsed: `${count}/${target}`,
+            status: "ATRASO",
+            mode: "META",
+            count,
+            target,
+            withinWindow: within,
+          });
+        }
+      } else if (a.status === "ATRASO") {
+        rows.push({
+          site: siteName,
+          category: a.category,
+          lastPublication: a.last_publication || feed.generated_at,
+          elapsed: a.elapsed_human || `${a.elapsed_minutes} min`,
+          status: "ATRASO",
+          mode: "TIME",
+        });
+      }
+    }
+
+    return rows;
+  });
 
   const lastUpdate = feeds
     .map((f) => f.generated_at)
