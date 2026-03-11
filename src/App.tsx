@@ -6,6 +6,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import Index from "./pages/Index.tsx";
 import TVDashboard from "./pages/TVDashboard.tsx";
 import Agenda from "./pages/Agenda.tsx";
+import AgendaWall from "./pages/AgendaWall.tsx";
 import NotFound from "./pages/NotFound.tsx";
 import "./App.css";
 
@@ -21,6 +22,7 @@ const App = () => (
           <Route path="/" element={<Index />} />
           <Route path="/tv" element={<TVDashboard />} />
           <Route path="/agenda" element={<Agenda />} />
+          <Route path="/agenda-wall" element={<AgendaWall />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>

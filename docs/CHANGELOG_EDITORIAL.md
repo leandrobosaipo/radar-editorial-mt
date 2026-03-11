@@ -31,7 +31,11 @@
 - `2c86ad8` — front passa a consumir `editorial_rules` do plugin (fonte única)
 - `096bf8b` — acordeão por portal (mostrar hoje/abrir outros dias), semântica de cores revisada e aderência por categoria
 - `3baee42` — metas históricas dentro do acordeão, deduplicação de categoria horária (OMT MT Notícias), e ocultação de aderência horária/meta quando não aplicável
-- `(atual)` — implementação de 5 melhorias UX: filtro só problemas, visão por turno, ranking de risco, faixa de situação diária e copiar resumo no drill-down
+- `2d3562b` — implementação de 5 melhorias UX: filtro só problemas, visão por turno, ranking de risco, faixa de situação diária e copiar resumo no drill-down
+- `f413d43` — filtros e ranking movidos para toggle da topbar + meta do dia visível no recolhido
+- `dcefeb6` — PMT/OMT com metas ocultas por padrão
+- `15ecb3c` — regra de abertura por perfil (misto vs meta-only)
+- `(atual)` — criação da rota `/agenda-wall` (primeira dobra comando + agenda detalhada no scroll)
 
 ### Dashboard
 - `11fa79a` — separou status SITE x REGRA e adicionou checks

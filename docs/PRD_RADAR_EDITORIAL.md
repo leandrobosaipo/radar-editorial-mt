@@ -5,6 +5,7 @@ Centralizar monitoramento editorial dos portais em 3 visões sincronizadas:
 - `/` Dashboard operacional (gestão diária)
 - `/tv` Painel TV (leitura rápida em telão)
 - `/agenda` Agenda operacional (execução por hora + metas por dia)
+- `/agenda-wall` Agenda Wall Command (visão de comando na primeira dobra)
 
 ## 2) Problema que resolve
 - Elimina inconsistência entre regras por portal/categoria.
