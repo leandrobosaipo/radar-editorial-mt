@@ -1,33 +1,31 @@
 {
-  "generated_at": "2026-03-11T10:00:03.764771-04:00",
+  "generated_at": "2026-03-11T11:00:05.360540-04:00",
   "window": {
-    "start": "2026-03-11T09:00:03.764771-04:00",
-    "end": "2026-03-11T10:00:03.764771-04:00"
+    "start": "2026-03-11T10:00:05.360540-04:00",
+    "end": "2026-03-11T11:00:05.360540-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
+    "perrenguematogrosso": [],
+    "afolhalivre": [
       {
-        "title": "Câmera flagra criança jogando cabeça de peixe para tentar envenenar cachorro no CPA, em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/camera-flagra-crianca-jogando-cabeca-de-peixe-para-tentar-envenenar-cachorro-no-cpa-em-cuiaba-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-11T09:21:17-04:00",
+        "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
+        "link": "https://afolhalivre.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-11T10:49:53-04:00",
         "categories": [
-          "Vovô de Olho"
+          "MT Notícias"
         ],
         "category_ids": [
-          16
+          20
         ]
-      }
-    ],
-    "afolhalivre": [],
-    "omatogrossense": [
+      },
       {
-        "title": "Câmera flagra criança jogando cabeça de peixe para tentar envenenar cachorro no CPA, em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/camera-flagra-crianca-jogando-cabeca-de-peixe-para-tentar-envenenar-cachorro-no-cpa-em-cuiaba-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-11T09:21:10-04:00",
+        "title": "Ônibus: Câmeras registram queda de passageira em movimento",
+        "link": "https://afolhalivre.com/onibus-cameras-registram-queda-de-passageira-em-movimento/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-11T10:51:14-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -36,33 +34,114 @@
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+    "omatogrossense": [],
+    "portalnortemt": [
       {
-        "title": "Janela despenca e passageira morre ao ser lançada pra fora de ônibus; veja vídeo",
-        "link": "https://roonoticias.com/imagens-de-cameras-internas-de-um-onibus-registraram/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-11T09:54:45-04:00",
+        "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
+        "link": "https://portalnortemt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-11T10:11:18-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
+        "link": "https://portalpantanalmt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-11T10:49:22-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
         ]
       },
       {
-        "title": "São Paulo anuncia a contratação de Roger Machado como técnico após demissão de Crespo",
-        "link": "https://roonoticias.com/o-sao-paulo-definiu-seu-novo-comandante-para-a-sequencia/",
+        "title": "Câmeras de ônibus registram queda de passageira em movimento",
+        "link": "https://portalpantanalmt.com/cameras-de-onibus-registram-queda-de-passageira-em-movimento/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-11T10:50:22-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Mais de 52 kg de cocaína são descobertos escondidos em caminhonete durante fiscalização policial em Rondonópolis, veja vídeo",
+        "link": "https://roonoticias.com/durante-uma-fiscalizacao-de-rotina-na-br-364-em-rondonopolis-mato-grosso-policiais-rodoviarios-federais-encontraram-mais-de-52-quilos/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-11T10:01:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Neymar terá cronograma especial no Santos para jogar contra o Corinthians",
+        "link": "https://roonoticias.com/a-ausencia-de-neymar-na-partida-entre-santos-e-mirassol/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-11T09:57:18-04:00",
+        "published": "2026-03-11T10:02:06-04:00",
         "categories": [
           "Esporte"
         ],
         "category_ids": [
           7
+        ]
+      },
+      {
+        "title": "TSE julga ação que pode levar à cassação do governador Cláudio Castro",
+        "link": "https://roonoticias.com/o-tribunal-superior-eleitoral-retoma-nesta-terca-feira/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-11T10:11:18-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem arremessa cadeira e em outro cliente do bar e provoca confusão em Cuiabá; veja vídeo",
+        "link": "https://roonoticias.com/uma-confusao-registrada-em-um-bar-de-cuiaba-terminou/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-11T10:34:51-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Larva mata-porco pode provocar intoxicação fatal em animais e preocupa produtores rurais; veja vídeo",
+        "link": "https://roonoticias.com/produtores-rurais-de-diferentes-regioes-do-brasil/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-11T10:55:24-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
         ]
       }
     ]
