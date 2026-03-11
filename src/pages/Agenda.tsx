@@ -108,6 +108,13 @@ function dateKeyCuiaba(iso: string) {
   }).format(new Date(iso));
 }
 
+function heatLevelClass(count: number) {
+  if (count <= 0) return "bg-red-500/20 text-red-300";
+  if (count === 1) return "bg-emerald-500/20 text-emerald-300";
+  if (count === 2) return "bg-emerald-500/35 text-emerald-200";
+  return "bg-emerald-500/50 text-emerald-100";
+}
+
 function getLast7Days(now = new Date()): DayRef[] {
   const base = new Date(now.toLocaleString("en-US", { timeZone: "America/Cuiaba" }));
   base.setHours(12, 0, 0, 0);
@@ -221,17 +228,17 @@ export default function Agenda() {
               hasAnyDataForDay,
               rows: hours.map((h) => {
                 const active = r.days.includes(day.dow) && h >= r.start && h <= r.end;
-                let posted = false;
+                let count = 0;
                 if (active && dayHist) {
                   const byCat = dayHist.get(categoryKey(r.category));
-                  posted = !!byCat && (byCat.get(h) || 0) > 0;
+                  count = byCat?.get(h) || 0;
                 } else if (active) {
-                  posted = dayPosts.some(
+                  count = dayPosts.filter(
                     (lp) =>
                       categoryKey(lp.category || "") === categoryKey(r.category) && inHour(lp.datetime, h)
-                  );
+                  ).length;
                 }
-                return { hour: h, active, posted };
+                return { hour: h, active, count, posted: count > 0 };
               }),
             };
           }),
@@ -284,6 +291,15 @@ export default function Agenda() {
           </span>
           <span>Atualizado: {updatedAtLabel}</span>
         </div>
+      </div>
+
+      <div className="flex flex-wrap items-center gap-2 text-[11px] text-slate-300">
+        <span className="rounded bg-emerald-500/20 px-2 py-0.5 text-emerald-300">OK</span>
+        <span className="rounded bg-emerald-500/35 px-2 py-0.5 text-emerald-200">OK 2</span>
+        <span className="rounded bg-emerald-500/50 px-2 py-0.5 text-emerald-100">OK 3+</span>
+        <span className="rounded bg-red-500/20 px-2 py-0.5 text-red-300">PEND</span>
+        <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
+        <span className="text-slate-400">Heatmap horário: mais posts = verde mais forte</span>
       </div>
 
       {view.map(({ portal, code, hourlyGrid, metaRows, metaByDayCategory }) => (
@@ -341,7 +357,9 @@ export default function Agenda() {
                                   ) : !dayRow.hasAnyDataForDay ? (
                                     <span className="rounded bg-slate-500/20 px-1 text-slate-300">SEM DADOS</span>
                                   ) : cell.posted ? (
-                                    <span className="rounded bg-green-500/20 px-1 text-green-300">OK</span>
+                                    <span className={`rounded px-1 ${heatLevelClass(cell.count)}`}>
+                                      {cell.count > 1 ? `OK ${cell.count}` : "OK"}
+                                    </span>
                                   ) : (
                                     <span className="rounded bg-red-500/20 px-1 text-red-300">PEND</span>
                                   )}
