@@ -2,6 +2,9 @@ import { useMemo } from "react";
 import { useDashboardData } from "@/hooks/useDashboardData";
 import { portalShort } from "@/lib/portal";
 
+const SYSTEM_NAME = "RADAR EDITORIAL MT";
+const AGENDA_SUBTITLE = "Painel da Agenda";
+
 type Rule = { category: string; start: number; end: number; kind: "hourly" | "meta" | "ondemand"; days: number[]; target?: number };
 
 function rulesByPortal(code: string): Rule[] {
@@ -59,6 +62,30 @@ function inHour(iso: string, hour: number) {
   return h === hour;
 }
 
+function getWeekRangeCuiaba(now = new Date()) {
+  const inTz = new Date(now.toLocaleString("en-US", { timeZone: "America/Cuiaba" }));
+  const day = inTz.getDay();
+  const mondayOffset = day === 0 ? -6 : 1 - day;
+
+  const start = new Date(inTz);
+  start.setDate(inTz.getDate() + mondayOffset);
+  start.setHours(0, 0, 0, 0);
+
+  const end = new Date(start);
+  end.setDate(start.getDate() + 6);
+  end.setHours(23, 59, 59, 999);
+
+  return { start, end };
+}
+
+function formatDayMonth(date: Date) {
+  return new Intl.DateTimeFormat("pt-BR", {
+    timeZone: "America/Cuiaba",
+    day: "2-digit",
+    month: "2-digit",
+  }).format(date);
+}
+
 export default function Agenda() {
   const { data, isLoading } = useDashboardData();
 
@@ -66,6 +93,16 @@ export default function Agenda() {
     const wd = new Intl.DateTimeFormat("en-US", { timeZone: "America/Cuiaba", weekday: "short" }).format(new Date()).toLowerCase();
     return wd.startsWith("mon") ? 1 : wd.startsWith("tue") ? 2 : wd.startsWith("wed") ? 3 : wd.startsWith("thu") ? 4 : wd.startsWith("fri") ? 5 : wd.startsWith("sat") ? 6 : 7;
   }, []);
+
+  const weekRange = useMemo(() => getWeekRangeCuiaba(), []);
+
+  const updatedAtLabel = useMemo(() => {
+    return new Intl.DateTimeFormat("pt-BR", {
+      timeZone: "America/Cuiaba",
+      dateStyle: "short",
+      timeStyle: "short",
+    }).format(new Date(data?.lastUpdate || Date.now()));
+  }, [data?.lastUpdate]);
 
   const view = useMemo(() => {
     if (!data) return [] as any[];
@@ -107,6 +144,15 @@ export default function Agenda() {
 
   return (
     <div className="p-4 md:p-8 space-y-8">
+      <div className="rounded border border-slate-700/70 bg-slate-950/70 px-3 py-2 text-[11px] text-slate-300">
+        <div className="flex flex-wrap items-center justify-between gap-2">
+          <span>
+            {SYSTEM_NAME} • {AGENDA_SUBTITLE} • Período: {formatDayMonth(weekRange.start)} → {formatDayMonth(weekRange.end)}
+          </span>
+          <span>Atualizado: {updatedAtLabel}</span>
+        </div>
+      </div>
+
       <h1 className="text-2xl font-bold">Agenda Semanal de Publicações</h1>
       <p className="text-sm text-muted-foreground">Calendário operacional (Cuiabá). Hoje mostra execução real (OK/PEND); demais dias mostram PLANO.</p>
 
