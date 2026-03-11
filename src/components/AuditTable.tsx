@@ -31,23 +31,31 @@ export function AuditTable({ entries }: Props) {
               </tr>
             </thead>
             <tbody>
-              {sortedEntries.map((entry, i) => (
-                <tr key={i} className="border-b border-border/50">
-                  <td className="px-4 py-3 font-mono text-xs" title={entry.site}>{portalShort(entry.site)}</td>
-                  <td className="px-4 py-3 font-mono text-xs">{entry.category}</td>
-                  <td className="px-4 py-3 font-mono text-xs text-status-amber">
-                    {formatCuiabaTime(entry.lastPublication)}
-                  </td>
-                  <td className="px-4 py-3 font-mono text-xs text-muted-foreground">
-                    {humanizeElapsed(entry.lastPublication)}
-                  </td>
-                  <td className="px-4 py-3 text-right">
-                    <span className="rounded bg-status-delay/20 px-2 py-0.5 font-mono text-xs font-bold text-status-delay">
-                      {entry.status}
-                    </span>
-                  </td>
-                </tr>
-              ))}
+              {sortedEntries.map((entry, i) => {
+                const isMemes = /meme/i.test(entry.category);
+                return (
+                  <tr key={i} className="border-b border-border/50">
+                    <td className="px-4 py-3 font-mono text-xs" title={entry.site}>{portalShort(entry.site)}</td>
+                    <td className="px-4 py-3 font-mono text-xs">
+                      {entry.category}
+                      {isMemes && (
+                        <span className="ml-2 rounded bg-status-ok/20 px-1.5 py-0.5 text-[10px] font-bold text-status-ok">SOB DEMANDA</span>
+                      )}
+                    </td>
+                    <td className="px-4 py-3 font-mono text-xs text-status-amber">
+                      {formatCuiabaTime(entry.lastPublication)}
+                    </td>
+                    <td className="px-4 py-3 font-mono text-xs text-muted-foreground">
+                      {humanizeElapsed(entry.lastPublication)}
+                    </td>
+                    <td className="px-4 py-3 text-right">
+                      <span className={`rounded px-2 py-0.5 font-mono text-xs font-bold ${isMemes ? "bg-status-ok/20 text-status-ok" : "bg-status-delay/20 text-status-delay"}`}>
+                        {isMemes ? "SOB DEMANDA" : entry.status}
+                      </span>
+                    </td>
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>

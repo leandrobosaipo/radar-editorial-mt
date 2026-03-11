@@ -88,26 +88,36 @@ export function PortalCard({ portal }: Props) {
               </tr>
             </thead>
             <tbody>
-              {portal.categories.map((cat) => (
-                <tr key={cat.name} className="border-b border-border/50">
-                  <td className="py-2 pr-4 font-mono text-xs">{cat.name}</td>
-                  <td className="py-2 pr-4 font-mono text-xs text-right">{cat.count}</td>
-                  <td className="py-2 pr-4 font-mono text-xs text-status-amber">
-                    {formatCuiabaTime(cat.lastPost)}
-                  </td>
-                  <td className="py-2 text-right">
-                    <span
-                      className={`inline-block rounded px-2 py-0.5 text-xs font-mono font-bold ${
-                        cat.status === "ATRASO"
-                          ? "bg-status-delay/20 text-status-delay"
-                          : "bg-status-ok/20 text-status-ok"
-                      }`}
-                    >
-                      {cat.status}
-                    </span>
-                  </td>
-                </tr>
-              ))}
+              {portal.categories.map((cat) => {
+                const isMemes = /meme/i.test(cat.name);
+                return (
+                  <tr key={cat.name} className="border-b border-border/50">
+                    <td className="py-2 pr-4 font-mono text-xs">
+                      {cat.name}
+                      {isMemes && (
+                        <span className="ml-2 rounded bg-status-ok/20 px-1.5 py-0.5 text-[10px] font-bold text-status-ok">
+                          SOB DEMANDA
+                        </span>
+                      )}
+                    </td>
+                    <td className="py-2 pr-4 font-mono text-xs text-right">{cat.count}</td>
+                    <td className="py-2 pr-4 font-mono text-xs text-status-amber">
+                      {formatCuiabaTime(cat.lastPost)}
+                    </td>
+                    <td className="py-2 text-right">
+                      <span
+                        className={`inline-block rounded px-2 py-0.5 text-xs font-mono font-bold ${
+                          isMemes || cat.status !== "ATRASO"
+                            ? "bg-status-ok/20 text-status-ok"
+                            : "bg-status-delay/20 text-status-delay"
+                        }`}
+                      >
+                        {isMemes ? "SOB DEMANDA" : cat.status}
+                      </span>
+                    </td>
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>

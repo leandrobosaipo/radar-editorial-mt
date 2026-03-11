@@ -261,14 +261,14 @@ export default function TVDashboard() {
                     <table className="w-full text-[10px]">
                       <tbody>
                         {p.categories
-                          .map((c) => ({ ...c, mins: minutesSince(c.lastPost) }))
+                          .map((c) => ({ ...c, mins: minutesSince(c.lastPost), isMemes: /meme/i.test(c.name) }))
                           .sort((a, b) => b.mins - a.mins)
                           .slice(0, 5)
                           .map((c) => (
                             <tr key={c.name}>
                               <td>{c.name.slice(0, 13)}</td>
                               <td className="text-right text-slate-200">{humanizeElapsed(c.mins)}</td>
-                              <td className="text-right" style={{ color: c.status === "ATRASO" ? COLORS.crit : COLORS.ok }}>{c.status === "ATRASO" ? "ATR" : "OK"}</td>
+                              <td className="text-right" style={{ color: c.isMemes || c.status !== "ATRASO" ? COLORS.ok : COLORS.crit }}>{c.isMemes ? "DEM" : c.status === "ATRASO" ? "ATR" : "OK"}</td>
                             </tr>
                           ))}
                       </tbody>
