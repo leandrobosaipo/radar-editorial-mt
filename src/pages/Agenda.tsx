@@ -470,7 +470,11 @@ export default function Agenda() {
           ? (todayFirstMeta ? [days[0], ...daysAsc.filter((d) => !d.isToday)] : daysAsc)
           : [days[0]];
 
-        const metaOpenByDefault = !["PMT", "OMT"].includes(code);
+        const hasHourlyRules = hourlyGrid.length > 0;
+        const hasMetaRules = metaRows.length > 0;
+        // Regra robusta: portais com regra mista (hora + meta) iniciam com metas recolhidas.
+        // Portais só de meta diária iniciam com metas abertas.
+        const metaOpenByDefault = !(hasHourlyRules && hasMetaRules);
         const showMetaSection = showAllDays || metaOpenByDefault;
 
         return (
