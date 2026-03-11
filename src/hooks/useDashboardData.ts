@@ -47,6 +47,10 @@ function minutesSince(iso: string): number {
   return Math.max(0, Math.floor((now - then) / 60000));
 }
 
+function isMemesCategory(name: string): boolean {
+  return /meme/i.test(name || "");
+}
+
 function portalOrderRank(name: string): number {
   const n = (name || "").toLowerCase();
   if (n.includes("perrengue")) return 1; // PMT
@@ -64,8 +68,12 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
       .map(([name, meta]) => ({
         name,
         count: meta.count,
-        lastPost: meta.last_post,
-        status: minutesSince(meta.last_post) <= DELAY_THRESHOLD_MINUTES ? "OK" : "ATRASO",
+        lastPost: meta.last_post || feed.generated_at,
+        status: isMemesCategory(name)
+          ? "OK"
+          : minutesSince(meta.last_post || feed.generated_at) <= DELAY_THRESHOLD_MINUTES
+          ? "OK"
+          : "ATRASO",
       }))
       .sort((a, b) => b.count - a.count);
 
