@@ -110,7 +110,7 @@ export default function AgendaWall() {
 
       const details = [
         overdue > 0 ? `⚠ ${overdue} janelas vencidas` : "✔ nenhum atraso horário vencido",
-        `⏳ ${inProgress} em andamento`,
+        `⏳ ${inProgress} em prazo (hora atual)`,
         metaTarget > 0 ? `Déficit de meta: ${metaDeficit}` : "Sem meta diária hoje",
       ];
 
@@ -159,7 +159,7 @@ export default function AgendaWall() {
         </div>
         <div className="mt-1 flex flex-wrap gap-2">
           <span className="rounded bg-emerald-500/20 px-2 py-0.5 text-emerald-300">OK</span>
-          <span className="rounded bg-amber-500/20 px-2 py-0.5 text-amber-300">EM ANDAMENTO</span>
+          <span className="rounded bg-amber-500/20 px-2 py-0.5 text-amber-300">EM PRAZO (hora atual)</span>
           <span className="rounded bg-red-500/20 px-2 py-0.5 text-red-300">VENCIDO</span>
           <span className="rounded bg-blue-500/20 px-2 py-0.5 text-blue-200">ACIMA DA META</span>
         </div>
