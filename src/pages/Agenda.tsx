@@ -430,7 +430,7 @@ export default function Agenda() {
           <span>Atualizado: {updatedAtLabel}</span>
         </div>
         <details className="mt-1">
-          <summary className="cursor-pointer text-slate-400">Ver legenda e regras dos indicadores</summary>
+          <summary className="cursor-pointer text-slate-400">Ver legenda, filtros e regras dos indicadores</summary>
           <div className="mt-2 flex flex-wrap items-center gap-2 text-[11px]">
             <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">N/I (hora futura)</span>
             <span className="rounded bg-emerald-500/20 px-2 py-0.5 text-emerald-300">OK</span>
@@ -440,25 +440,25 @@ export default function Agenda() {
             <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
           </div>
           <p className="mt-2 text-[11px] text-slate-400">Regras de leitura: hora futura = neutro; meta concluída = verde; acima da meta = azul; abaixo da meta com janela aberta = laranja; abaixo da meta com janela encerrada = vermelho.</p>
+
+          <div className="mt-2 flex flex-wrap items-center gap-2 text-xs">
+            <button onClick={() => setShift("all")} className={`rounded px-2 py-1 border ${shift === "all" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Dia todo</button>
+            <button onClick={() => setShift("morning")} className={`rounded px-2 py-1 border ${shift === "morning" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Manhã</button>
+            <button onClick={() => setShift("afternoon")} className={`rounded px-2 py-1 border ${shift === "afternoon" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Tarde</button>
+            <button onClick={() => setShift("night")} className={`rounded px-2 py-1 border ${shift === "night" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Noite</button>
+            <button onClick={() => setOnlyProblems((v) => !v)} className={`rounded px-2 py-1 border ${onlyProblems ? "bg-amber-500/20 border-amber-500 text-amber-300" : "bg-slate-900/40 border-slate-700"}`}>Só problemas</button>
+          </div>
+
+          {riskItems.length > 0 && (
+            <div className="mt-2 rounded border border-red-900/40 bg-red-950/20 p-2 text-xs">
+              <div className="font-semibold text-red-200 mb-1">Ranking de risco (hoje)</div>
+              <ul className="space-y-1 text-red-100">
+                {riskItems.map((r, i) => <li key={i}>{i + 1}. {r.portal} — {r.msg}</li>)}
+              </ul>
+            </div>
+          )}
         </details>
       </div>
-
-      <div className="flex flex-wrap items-center gap-2 text-xs">
-        <button onClick={() => setShift("all")} className={`rounded px-2 py-1 border ${shift === "all" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Dia todo</button>
-        <button onClick={() => setShift("morning")} className={`rounded px-2 py-1 border ${shift === "morning" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Manhã</button>
-        <button onClick={() => setShift("afternoon")} className={`rounded px-2 py-1 border ${shift === "afternoon" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Tarde</button>
-        <button onClick={() => setShift("night")} className={`rounded px-2 py-1 border ${shift === "night" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Noite</button>
-        <button onClick={() => setOnlyProblems((v) => !v)} className={`rounded px-2 py-1 border ${onlyProblems ? "bg-amber-500/20 border-amber-500 text-amber-300" : "bg-slate-900/40 border-slate-700"}`}>Só problemas</button>
-      </div>
-
-      {riskItems.length > 0 && (
-        <div className="rounded border border-red-900/40 bg-red-950/20 p-2 text-xs">
-          <div className="font-semibold text-red-200 mb-1">Ranking de risco (hoje)</div>
-          <ul className="space-y-1 text-red-100">
-            {riskItems.map((r, i) => <li key={i}>{i + 1}. {r.portal} — {r.msg}</li>)}
-          </ul>
-        </div>
-      )}
 
       {view.map(({ portal, code, hourlyGrid, metaRows, metaByDayCategory, adherence }) => {
         const portalKey = `${code}-${portal.name}`;
@@ -563,7 +563,7 @@ export default function Agenda() {
                                     <span className="text-slate-500">—</span>
                                   ) : !dayRow.hasAnyDataForDay ? (
                                     <span className="rounded bg-slate-500/20 px-1 text-slate-300">SEM DADOS</span>
-                                  ) : day.isToday && cell.hour >= nowHour ? (
+                                  ) : day.isToday && cell.hour > nowHour ? (
                                     <span className="rounded bg-slate-500/20 px-1 text-slate-300">N/I</span>
                                   ) : cell.posted ? (
                                     <button
@@ -591,9 +591,9 @@ export default function Agenda() {
                                   ) : (
                                     <span
                                       title={cell.cause}
-                                      className={`rounded px-1 ${day.isToday && cell.hour >= nowHour ? "bg-amber-500/20 text-amber-300" : "bg-red-500/20 text-red-300"}`}
+                                      className={`rounded px-1 ${day.isToday && cell.hour === nowHour ? "bg-amber-500/20 text-amber-300" : "bg-red-500/20 text-red-300"}`}
                                     >
-                                      {day.isToday && cell.hour >= nowHour ? "EM PRAZO" : "FORA PRAZO"}
+                                      {day.isToday && cell.hour === nowHour ? "EM PRAZO" : "FORA PRAZO"}
                                     </span>
                                   )}
                                 </td>
