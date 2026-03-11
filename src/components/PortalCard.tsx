@@ -8,6 +8,86 @@ function ruleModeByPortalCode(code: string): "HORA" | "META" | "ATUAL" {
   return "ATUAL";
 }
 
+function cuiabaNow() {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/Cuiaba",
+    weekday: "short",
+    hour: "2-digit",
+    hour12: false,
+  }).formatToParts(new Date());
+  const wd = (parts.find((p) => p.type === "weekday")?.value || "Mon").toLowerCase();
+  const hour = Number(parts.find((p) => p.type === "hour")?.value || "0");
+  const dow = wd.startsWith("mon") ? 1 : wd.startsWith("tue") ? 2 : wd.startsWith("wed") ? 3 : wd.startsWith("thu") ? 4 : wd.startsWith("fri") ? 5 : wd.startsWith("sat") ? 6 : 7;
+  return { dow, hour };
+}
+
+function catKey(name: string): string {
+  const n = (name || "").toLowerCase();
+  if (n.includes("meme")) return "memes";
+  if (n.includes("vov")) return "vovo";
+  if (n.includes("esport")) return "esporte";
+  if (n.includes("pol")) return "politica";
+  if (n.includes("not")) return "noticia";
+  if (n.includes("rondon")) return "rondonopolis";
+  if (n.includes("brasil")) return "brasil_mundo";
+  if (n.includes("mt")) return "mt_noticia";
+  return "other";
+}
+
+function isHourlyWindowActive(code: string, categoryName: string, dow: number, hour: number): boolean | null {
+  const k = catKey(categoryName);
+  const weekend = dow >= 6;
+  if (k === "memes") return null;
+  if (code === "ROO" || code === "AFL" || code === "PNMT" || code === "PPMT") return null;
+
+  const endWeekend = code === "OMT" ? 20 : 22;
+  if (!weekend) {
+    if (k === "noticia" || k === "vovo") return hour >= 8 && hour <= 22;
+    if (k === "politica" || k === "esporte") return hour >= 12 && hour <= 22;
+    return null;
+  }
+  if (dow === 6) {
+    if (k === "noticia" || k === "vovo") return hour >= 8 && hour <= endWeekend;
+    return null;
+  }
+  if (dow === 7) {
+    if (k === "noticia" || k === "vovo") return hour >= 8 && hour <= endWeekend;
+    if (k === "esporte") return hour >= 15 && hour <= endWeekend;
+    return null;
+  }
+  return null;
+}
+
+function categoryRuleLabel(code: string, categoryName: string, dow: number): { rule: string; window: string; outside: string } {
+  const k = catKey(categoryName);
+  const weekend = dow >= 6;
+
+  if (k === "memes") return { rule: "Sob demanda", window: "Sem horário fixo", outside: "Sem atraso" };
+
+  if (code === "ROO") {
+    return { rule: "Meta diária", window: "Mín. 3/dia", outside: "Sem horário fixo" };
+  }
+
+  if (code === "AFL" || code === "PNMT" || code === "PPMT") {
+    return { rule: "Atualização global", window: "Portal <=6h", outside: "Sem grade por hora" };
+  }
+
+  const endWeekend = code === "OMT" ? 20 : 22;
+  if (!weekend) {
+    if (k === "noticia" || k === "vovo") return { rule: "1/h", window: "Seg-Sex 08-22", outside: "Fora da janela" };
+    if (k === "politica" || k === "esporte") return { rule: "1/h", window: "Seg-Sex 12-22", outside: "Fora da janela" };
+  } else if (dow === 6) {
+    if (k === "noticia" || k === "vovo") return { rule: "1/h", window: `Sáb 08-${endWeekend}`, outside: "Fora da janela" };
+    if (k === "politica" || k === "esporte") return { rule: "Meta diária", window: "Sáb mín. 2/dia", outside: "Sem horário fixo" };
+  } else if (dow === 7) {
+    if (k === "noticia" || k === "vovo") return { rule: "1/h", window: `Dom 08-${endWeekend}`, outside: "Fora da janela" };
+    if (k === "politica") return { rule: "Meta diária", window: "Dom mín. 2/dia", outside: "Sem horário fixo" };
+    if (k === "esporte") return { rule: "Meta diária", window: code === "OMT" ? "Dom 15-20 (4+)" : "Dom 15-22 (4+)", outside: "Fora da janela" };
+  }
+
+  return { rule: "Informativo", window: "Sob demanda", outside: "Sem atraso" };
+}
+
 interface Props {
   portal: PortalData;
 }
@@ -17,6 +97,7 @@ export function PortalCard({ portal }: Props) {
   const complianceStatus = portal.complianceStatus || portal.status;
   const siteStatus = portal.siteStatus || portal.status;
   const ruleMode = ruleModeByPortalCode(code);
+  const { dow, hour } = cuiabaNow();
   const isDelayed = complianceStatus === "ATRASO";
 
   return (
@@ -83,6 +164,7 @@ export function PortalCard({ portal }: Props) {
               <tr className="border-b border-border text-left">
                 <th className="pb-2 pr-4 font-sans text-xs text-muted-foreground">Categoria</th>
                 <th className="pb-2 pr-4 font-sans text-xs text-muted-foreground text-right">Total</th>
+                <th className="pb-2 pr-4 font-sans text-xs text-muted-foreground">Regra / Janela</th>
                 <th className="pb-2 pr-4 font-sans text-xs text-muted-foreground">Último Post</th>
                 <th className="pb-2 font-sans text-xs text-muted-foreground text-right">Status</th>
               </tr>
@@ -90,6 +172,13 @@ export function PortalCard({ portal }: Props) {
             <tbody>
               {portal.categories.map((cat) => {
                 const isMemes = /meme/i.test(cat.name);
+                const rule = categoryRuleLabel(code, cat.name, dow);
+                const inWindow = isHourlyWindowActive(code, cat.name, dow, hour);
+                const effectiveStatus = isMemes
+                  ? "SOB DEMANDA"
+                  : inWindow === false
+                  ? "FORA JANELA"
+                  : cat.status;
                 return (
                   <tr key={cat.name} className="border-b border-border/50">
                     <td className="py-2 pr-4 font-mono text-xs">
@@ -101,18 +190,22 @@ export function PortalCard({ portal }: Props) {
                       )}
                     </td>
                     <td className="py-2 pr-4 font-mono text-xs text-right">{cat.count}</td>
+                    <td className="py-2 pr-4 font-mono text-xs text-muted-foreground">
+                      <div>{rule.rule}</div>
+                      <div className="text-[10px]">{rule.window}</div>
+                    </td>
                     <td className="py-2 pr-4 font-mono text-xs text-status-amber">
                       {formatCuiabaTime(cat.lastPost)}
                     </td>
                     <td className="py-2 text-right">
                       <span
                         className={`inline-block rounded px-2 py-0.5 text-xs font-mono font-bold ${
-                          isMemes || cat.status !== "ATRASO"
-                            ? "bg-status-ok/20 text-status-ok"
-                            : "bg-status-delay/20 text-status-delay"
+                          effectiveStatus === "ATRASO"
+                            ? "bg-status-delay/20 text-status-delay"
+                            : "bg-status-ok/20 text-status-ok"
                         }`}
                       >
-                        {isMemes ? "SOB DEMANDA" : cat.status}
+                        {effectiveStatus}
                       </span>
                     </td>
                   </tr>
