@@ -260,10 +260,19 @@ export default function Agenda() {
 
       const hasHistory = !!p.history?.hourly?.length;
 
-      const hourlyGrid = rules
-        .filter((r) => r.kind === "hourly")
-        .map((r) => ({
-          ...r,
+      const hourlyRules = rules.filter((r) => r.kind === "hourly");
+      const hourlyGrouped = Array.from(
+        hourlyRules.reduce((acc, r) => {
+          const key = categoryKey(r.category);
+          if (!acc.has(key)) acc.set(key, [] as any[]);
+          acc.get(key)!.push(r);
+          return acc;
+        }, new Map<string, any[]>()).entries()
+      );
+
+      const hourlyGrid = hourlyGrouped.map(([catKey, groupRules]) => ({
+          category: groupRules[0].category,
+          category_key: catKey,
           rowsByDay: days.map((day) => {
             const dayPosts = postsByDay.get(day.key) || [];
             const dayHist = historyHourly.get(day.key);
@@ -272,9 +281,9 @@ export default function Agenda() {
               day,
               hasAnyDataForDay,
               rows: hours.map((h) => {
-                const active = r.days.includes(day.dow) && h >= r.start && h <= r.end;
+                const active = groupRules.some((rr: any) => rr.days.includes(day.dow) && h >= rr.start && h <= rr.end);
                 let count = 0;
-                const catKey = categoryKey(r.category);
+                const catKey = categoryKey(groupRules[0].category);
                 const dayPostsForCategory = dayPosts.filter((lp) => categoryKey(lp.category || "") === catKey);
                 const dayHistPosts = historyPosts.get(day.key)?.get(catKey)?.get(h) || [];
 
@@ -419,12 +428,12 @@ export default function Agenda() {
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
-            <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2">
-              <div className="text-slate-300">Aderência por hora (hoje)</div>
-              <div className="mt-1 font-semibold text-white">
-                {adherence.hourlyExpected > 0 ? `${adherence.hourlyDone}/${adherence.hourlyExpected} (${adherence.hourlyPct}%)` : "N/A"}
+            {adherence.hourlyExpected > 0 && (
+              <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2">
+                <div className="text-slate-300">Aderência por hora (hoje)</div>
+                <div className="mt-1 font-semibold text-white">{`${adherence.hourlyDone}/${adherence.hourlyExpected} (${adherence.hourlyPct}%)`}</div>
               </div>
-            </div>
+            )}
             {adherence.metaTarget > 0 && (
               <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2">
                 <div className="text-slate-300">Aderência por meta (hoje)</div>
@@ -514,7 +523,12 @@ export default function Agenda() {
                                       {cell.count > 1 ? `OK ${cell.count}` : "OK"}
                                     </button>
                                   ) : (
-                                    <span title={cell.cause} className="rounded bg-amber-500/20 px-1 text-amber-300">EM PRAZO</span>
+                                    <span
+                                      title={cell.cause}
+                                      className={`rounded px-1 ${day.isToday && cell.hour > nowHour ? "bg-amber-500/20 text-amber-300" : "bg-red-500/20 text-red-300"}`}
+                                    >
+                                      {day.isToday && cell.hour > nowHour ? "EM PRAZO" : "FORA PRAZO"}
+                                    </span>
                                   )}
                                 </td>
                               ))
@@ -529,7 +543,7 @@ export default function Agenda() {
             </div>
           )}
 
-          {metaRows.length > 0 && (
+          {metaRows.length > 0 && showAllDays && (
             <div>
               <h3 className="text-sm font-semibold mb-2">Metas diárias (histórico)</h3>
               <div className="overflow-x-auto rounded border border-slate-700/60">

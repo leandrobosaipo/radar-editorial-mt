@@ -14,7 +14,8 @@
 - `09c336d` — metas diárias em tabela por colunas de data
 - `77c553e` — destaque da coluna HOJE + resumo por linha
 - `2c86ad8` — front passa a consumir `editorial_rules` do plugin (fonte única)
-- `(atual)` — acordeão por portal (mostrar hoje/abrir outros dias), semântica de cores revisada e aderência por categoria
+- `096bf8b` — acordeão por portal (mostrar hoje/abrir outros dias), semântica de cores revisada e aderência por categoria
+- `(atual)` — metas históricas dentro do acordeão, deduplicação de categoria horária (OMT MT Notícias), e ocultação de aderência horária/meta quando não aplicável
 
 ### Dashboard
 - `11fa79a` — separou status SITE x REGRA e adicionou checks

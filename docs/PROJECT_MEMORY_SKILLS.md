@@ -26,7 +26,8 @@ Sempre que houver solicitação da editora:
   - N/I (hora futura) = cinza
   - OK (1) = verde
   - OK 2+ = azul
-  - sem post em hora ativa = laranja (em prazo)
+  - hora ativa sem post e ainda no prazo = laranja
+  - hora ativa sem post após prazo = vermelho
 - Heatmap de metas:
   - meta concluída = verde
   - meta em andamento com janela aberta = laranja
