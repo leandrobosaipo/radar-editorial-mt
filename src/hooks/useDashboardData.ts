@@ -146,7 +146,7 @@ function normalizeFromSiteFeeds(feeds: SiteFeed[]): DashboardData {
       }))
       .sort((a, b) => b.count - a.count);
 
-    const latestPosts = (feed.latest_posts || []).slice(0, 8).map((p) => ({
+    const latestPosts = (feed.latest_posts || []).slice(0, 120).map((p) => ({
       title: p.title,
       author: p.author,
       datetime: p.published,
@@ -271,7 +271,7 @@ function normalizeLegacyPayload(raw: MonitorPayload): DashboardData {
       .map(([name, v]) => ({ name, count: v.count, categories: Array.from(v.categories) }))
       .sort((a, b) => b.count - a.count);
 
-    const latestPosts = safePosts.slice(0, 8).map((p: any) => ({
+    const latestPosts = safePosts.slice(0, 120).map((p: any) => ({
       title: p.title,
       author: p.author,
       datetime: p.published,
