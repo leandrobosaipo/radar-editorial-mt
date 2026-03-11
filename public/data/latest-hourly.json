@@ -1,106 +1,13 @@
 {
-  "generated_at": "2026-03-10T20:00:05.435851-04:00",
+  "generated_at": "2026-03-11T08:00:07.056241-04:00",
   "window": {
-    "start": "2026-03-10T19:00:05.435851-04:00",
-    "end": "2026-03-10T20:00:05.435851-04:00"
+    "start": "2026-03-11T07:00:07.056241-04:00",
+    "end": "2026-03-11T08:00:07.056241-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Ossada é encontrada em canavial em Nova Olímpia; veja vídeo",
-        "link": "https://perrenguematogrosso.com/ossada-e-encontrada-em-canavial-em-nova-olimpia/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-10T19:16:57-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Colisão frontal entre um carro e uma carreta deixou um homem morto e uma mulher gravemente ferida; veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-grave-acidente-de-transito-resultou-na-morte-de-um-homem-e-deixou-uma-mulher-em-estado-gravissimo-na-tarde-desta-terca-feira-em-concordia/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-03-10T19:33:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Luverdense estreia contra Fidas-DF na Copa do Brasil de Futsal 2026",
-        "link": "https://perrenguematogrosso.com/luverdense-estreia-contra-fidas-df/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-10T19:52:47-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Ossada é encontrada em canavial em Nova Olímpia; veja vídeo",
-        "link": "https://omatogrossense.com/ossada-e-encontrada-em-canavial-em-nova-olimpia/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-10T19:16:57-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Colisão frontal entre um carro e uma carreta deixou um homem morto e uma mulher gravemente ferida; veja vídeo",
-        "link": "https://omatogrossense.com/um-grave-acidente-de-transito-resultou-na-morte-de-um-homem-e-deixou-uma-mulher-em-estado-gravissimo-na-tarde-desta-terca-feira-em-concordia/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-10T19:32:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "VÍDEO: Cuiabá anuncia goleiro Jean Carlos como 17º reforço para a temporada",
-        "link": "https://omatogrossense.com/cuiaba-anuncia-goleiro-jean-carlos/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-10T19:32:08-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Homem arremessa cadeira e em outro cliente do bar e provoca confusão em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/arremessa-cadeira-confusao/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-10T20:00:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
