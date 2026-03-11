@@ -1,150 +1,16 @@
 {
-  "generated_at": "2026-03-11T11:00:05.360540-04:00",
+  "generated_at": "2026-03-11T12:00:04.898438-04:00",
   "window": {
-    "start": "2026-03-11T10:00:05.360540-04:00",
-    "end": "2026-03-11T11:00:05.360540-04:00"
+    "start": "2026-03-11T11:00:04.898438-04:00",
+    "end": "2026-03-11T12:00:04.898438-04:00"
   },
   "sites": {
     "perrenguematogrosso": [],
-    "afolhalivre": [
-      {
-        "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
-        "link": "https://afolhalivre.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T10:49:53-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Ônibus: Câmeras registram queda de passageira em movimento",
-        "link": "https://afolhalivre.com/onibus-cameras-registram-queda-de-passageira-em-movimento/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T10:51:14-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [],
-    "portalnortemt": [
-      {
-        "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
-        "link": "https://portalnortemt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T10:11:18-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
-        "link": "https://portalpantanalmt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T10:49:22-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Câmeras de ônibus registram queda de passageira em movimento",
-        "link": "https://portalpantanalmt.com/cameras-de-onibus-registram-queda-de-passageira-em-movimento/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T10:50:22-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "roonoticias": [
-      {
-        "title": "Mais de 52 kg de cocaína são descobertos escondidos em caminhonete durante fiscalização policial em Rondonópolis, veja vídeo",
-        "link": "https://roonoticias.com/durante-uma-fiscalizacao-de-rotina-na-br-364-em-rondonopolis-mato-grosso-policiais-rodoviarios-federais-encontraram-mais-de-52-quilos/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-11T10:01:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      },
-      {
-        "title": "Neymar terá cronograma especial no Santos para jogar contra o Corinthians",
-        "link": "https://roonoticias.com/a-ausencia-de-neymar-na-partida-entre-santos-e-mirassol/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-11T10:02:06-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "TSE julga ação que pode levar à cassação do governador Cláudio Castro",
-        "link": "https://roonoticias.com/o-tribunal-superior-eleitoral-retoma-nesta-terca-feira/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-11T10:11:18-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Homem arremessa cadeira e em outro cliente do bar e provoca confusão em Cuiabá; veja vídeo",
-        "link": "https://roonoticias.com/uma-confusao-registrada-em-um-bar-de-cuiaba-terminou/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-11T10:34:51-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Larva mata-porco pode provocar intoxicação fatal em animais e preocupa produtores rurais; veja vídeo",
-        "link": "https://roonoticias.com/produtores-rurais-de-diferentes-regioes-do-brasil/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-11T10:55:24-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ]
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
