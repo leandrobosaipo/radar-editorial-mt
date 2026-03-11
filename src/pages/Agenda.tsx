@@ -22,6 +22,28 @@ type DayRef = {
   isToday: boolean;
 };
 
+function normalizeText(s: string) {
+  return (s || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .trim();
+}
+
+function categoryKey(name: string) {
+  const n = normalizeText(name);
+  if (n.includes("meme")) return "memes";
+  if (n.includes("vovo")) return "vovo";
+  if (n.includes("noticia") || n.includes("noticias") || n.includes("mt noticia")) return "noticia";
+  if (n.includes("polit")) return "politica";
+  if (n.includes("esport")) return "esporte";
+  if (n.includes("rondon")) return "rondonopolis";
+  if (n.includes("brasil") && n.includes("mundo")) return "brasil_mundo";
+  if (n.includes("entreten")) return "entretenimento";
+  if (n.includes("opin")) return "opiniao";
+  return n;
+}
+
 function rulesByPortal(code: string): Rule[] {
   if (code === "PMT") {
     return [
@@ -168,7 +190,7 @@ export default function Agenda() {
           for (const cat of day.categories || []) {
             const hm = new Map<number, number>();
             for (const h of cat.hours || []) hm.set(h.hour, h.count);
-            catMap.set((cat.category || "").toLowerCase(), hm);
+            catMap.set(categoryKey(cat.category || ""), hm);
           }
           historyHourly.set(day.date, catMap);
         }
@@ -178,7 +200,7 @@ export default function Agenda() {
         for (const day of p.history.meta) {
           const catMap = new Map<string, { count: number; target?: number | null }>();
           for (const cat of day.categories || []) {
-            catMap.set((cat.category || "").toLowerCase(), { count: cat.count || 0, target: cat.target });
+            catMap.set(categoryKey(cat.category || ""), { count: cat.count || 0, target: cat.target });
           }
           historyMeta.set(day.date, catMap);
         }
@@ -201,12 +223,12 @@ export default function Agenda() {
                 const active = r.days.includes(day.dow) && h >= r.start && h <= r.end;
                 let posted = false;
                 if (active && dayHist) {
-                  const byCat = dayHist.get(r.category.toLowerCase());
+                  const byCat = dayHist.get(categoryKey(r.category));
                   posted = !!byCat && (byCat.get(h) || 0) > 0;
                 } else if (active) {
                   posted = dayPosts.some(
                     (lp) =>
-                      (lp.category || "").toLowerCase().includes(r.category.toLowerCase().split(" ")[0]) && inHour(lp.datetime, h)
+                      categoryKey(lp.category || "") === categoryKey(r.category) && inHour(lp.datetime, h)
                   );
                 }
                 return { hour: h, active, posted };
@@ -219,10 +241,10 @@ export default function Agenda() {
         const byDay = days.map((day) => {
           const dayPosts = postsByDay.get(day.key) || [];
           const dayMeta = historyMeta.get(day.key);
-          const fromHistory = dayMeta?.get(r.category.toLowerCase());
+          const fromHistory = dayMeta?.get(categoryKey(r.category));
           const count = fromHistory
             ? fromHistory.count
-            : dayPosts.filter((lp) => (lp.category || "").toLowerCase().includes(r.category.toLowerCase().split(" ")[0])).length;
+            : dayPosts.filter((lp) => categoryKey(lp.category || "") === categoryKey(r.category)).length;
           return {
             day,
             count,
@@ -234,7 +256,20 @@ export default function Agenda() {
         return { category: r.category, byDay };
       });
 
-      return { portal: p, code, hourlyGrid, metaRows };
+      const metaByDayCategory = new Map<string, { count: number; target: number; applies: boolean; hasAnyDataForDay: boolean }>();
+      for (const m of metaRows) {
+        for (const d of m.byDay) {
+          if (!d.applies) continue;
+          metaByDayCategory.set(`${d.day.key}::${categoryKey(m.category)}`, {
+            count: d.count,
+            target: d.target,
+            applies: d.applies,
+            hasAnyDataForDay: d.hasAnyDataForDay,
+          });
+        }
+      }
+
+      return { portal: p, code, hourlyGrid, metaRows, metaByDayCategory };
     });
   }, [data, days]);
 
@@ -251,7 +286,7 @@ export default function Agenda() {
         </div>
       </div>
 
-      {view.map(({ portal, code, hourlyGrid, metaRows }) => (
+      {view.map(({ portal, code, hourlyGrid, metaRows, metaByDayCategory }) => (
         <section key={portal.name} className="rounded-lg border p-4 space-y-4">
           <div className="flex items-center justify-between">
             <h2 className="text-lg font-bold">
@@ -281,22 +316,38 @@ export default function Agenda() {
                     <tbody>
                       {hourlyGrid.map((row: any) => {
                         const dayRow = row.rowsByDay.find((d: any) => d.day.key === day.key);
+                        const meta = metaByDayCategory.get(`${day.key}::${categoryKey(row.category)}`);
+                        const hasActiveHour = dayRow.rows.some((c: any) => c.active);
+                        const shouldMergeMeta = !hasActiveHour && !!meta;
+
                         return (
                           <tr key={`${row.category}-${day.key}`} className="border-t">
                             <td className="py-1 pr-2 font-medium">{row.category}</td>
-                            {dayRow.rows.map((cell: any) => (
-                              <td key={cell.hour} className="text-center">
-                                {!cell.active ? (
-                                  <span className="text-slate-500">—</span>
-                                ) : !dayRow.hasAnyDataForDay ? (
-                                  <span className="rounded bg-slate-500/20 px-1 text-slate-300">SEM DADOS</span>
-                                ) : cell.posted ? (
-                                  <span className="rounded bg-green-500/20 px-1 text-green-300">OK</span>
+                            {shouldMergeMeta ? (
+                              <td colSpan={15} className="text-center py-1">
+                                {!meta.hasAnyDataForDay ? (
+                                  <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
+                                ) : meta.count >= meta.target ? (
+                                  <span className="rounded bg-green-500/20 px-2 py-0.5 text-green-300">{meta.count}/{meta.target}</span>
                                 ) : (
-                                  <span className="rounded bg-red-500/20 px-1 text-red-300">PEND</span>
+                                  <span className="rounded bg-amber-500/20 px-2 py-0.5 text-amber-300">{meta.count}/{meta.target}</span>
                                 )}
                               </td>
-                            ))}
+                            ) : (
+                              dayRow.rows.map((cell: any) => (
+                                <td key={cell.hour} className="text-center">
+                                  {!cell.active ? (
+                                    <span className="text-slate-500">—</span>
+                                  ) : !dayRow.hasAnyDataForDay ? (
+                                    <span className="rounded bg-slate-500/20 px-1 text-slate-300">SEM DADOS</span>
+                                  ) : cell.posted ? (
+                                    <span className="rounded bg-green-500/20 px-1 text-green-300">OK</span>
+                                  ) : (
+                                    <span className="rounded bg-red-500/20 px-1 text-red-300">PEND</span>
+                                  )}
+                                </td>
+                              ))
+                            )}
                           </tr>
                         );
                       })}
