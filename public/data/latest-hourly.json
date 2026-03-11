@@ -1,16 +1,84 @@
 {
-  "generated_at": "2026-03-11T08:00:07.056241-04:00",
+  "generated_at": "2026-03-11T09:00:00.793347-04:00",
   "window": {
-    "start": "2026-03-11T07:00:07.056241-04:00",
-    "end": "2026-03-11T08:00:07.056241-04:00"
+    "start": "2026-03-11T08:00:00.793347-04:00",
+    "end": "2026-03-11T09:00:00.793347-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Projétil atinge navio e provoca incêndio em alto mar; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/projetil-atinge-navio-e-provoca-incendio-em-alto-mar-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-11T08:10:22-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Polícia Civil cumpre 40 ordens judiciais contra membros de facção criminosa ligada ao tráfico de drogas em Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/policia-civil-cumpre-40-ordens-judiciais-contra-membros-de-faccao-criminosa-ligada-ao-trafico-de-drogas-em-sinop-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-11T08:28:16-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Navio cargueiro é atingido por projétil e pega fogo; Veja vídeo",
+        "link": "https://omatogrossense.com/navio-cargueiro-e-atingido-por-projetil-e-pega-fogo-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-11T08:09:43-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Polícia Civil deflagra Operação Offline e cumpre 40 ordens contra facção do tráfico em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/policia-civil-deflagra-operacao-offline-e-cumpre-40-ordens-contra-faccao-do-trafico-em-sinop-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-11T08:29:36-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Foragido condenado por tráfico é localizado e preso em oficina mecânica em Rondonópolis",
+        "link": "https://roonoticias.com/a-policia-civil-de-mato-grosso-prendeu-um-homem-de-59-anos-condenado-pelo-crime-de-trafico-de-drogas-a-prisao-ocorreu-na-manha-desta-terca/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-11T08:02:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
