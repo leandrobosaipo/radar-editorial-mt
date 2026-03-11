@@ -412,7 +412,7 @@ export default function Agenda() {
       if (score > 0) {
         items.push({
           portal: `${v.code} — ${v.portal.name}`,
-          msg: `${overdue} janelas horárias vencidas • gap meta ${metaGap}`,
+          msg: `${overdue} janelas horárias vencidas • déficit de meta ${metaGap}`,
           score,
         });
       }
@@ -452,6 +452,7 @@ export default function Agenda() {
           {riskItems.length > 0 && (
             <div className="mt-2 rounded border border-red-900/40 bg-red-950/20 p-2 text-xs">
               <div className="font-semibold text-red-200 mb-1">Ranking de risco (hoje)</div>
+              <div className="text-[11px] text-red-300/90 mb-1">Déficit de meta = quantas publicações faltam para bater a meta diária.</div>
               <ul className="space-y-1 text-red-100">
                 {riskItems.map((r, i) => <li key={i}>{i + 1}. {r.portal} — {r.msg}</li>)}
               </ul>
@@ -468,6 +469,9 @@ export default function Agenda() {
         const metaCols = showAllDays
           ? (todayFirstMeta ? [days[0], ...daysAsc.filter((d) => !d.isToday)] : daysAsc)
           : [days[0]];
+
+        const metaOpenByDefault = !["PMT", "OMT"].includes(code);
+        const showMetaSection = showAllDays || metaOpenByDefault;
 
         return (
         <section key={portal.name} className="rounded-lg border p-4 space-y-4">
@@ -609,7 +613,7 @@ export default function Agenda() {
             </div>
           )}
 
-          {metaRows.length > 0 && (
+          {metaRows.length > 0 && showMetaSection && (
             <div>
               <h3 className="text-sm font-semibold mb-2">Metas diárias (histórico)</h3>
               <div className="overflow-x-auto rounded border border-slate-700/60">
