@@ -18,10 +18,23 @@ Sempre que houver solicitação da editora:
 3. Evitar regra duplicada no front (usar compliance do feed plugin)
 
 ### Skill: Agenda
-- Hoje = execução real
-- Demais dias = PLANO
+- Hoje = execução real (visível por padrão)
+- Outros dias = comparação sob demanda (acordeão por portal)
 - Nunca replicar resultado de hoje em outros dias
-- Cabeçalho padrão TV com período e atualização
+- Cabeçalho padrão TV em topbar fina/sticky, com legenda em dropdown
+- Heatmap horário:
+  - N/I (hora futura) = cinza
+  - OK (1) = verde
+  - OK 2+ = azul
+  - sem post em hora ativa = laranja (em prazo)
+- Heatmap de metas:
+  - meta concluída = verde
+  - meta em andamento com janela aberta = laranja
+  - meta não concluída com janela encerrada = vermelho
+- Drill-down por célula: listar título + link + jornalista
+- Aderência:
+  - por site (hora/meta) no dia atual
+  - por categoria na linha da tabela
 
 ### Skill: Status
 - Separar `SITE` de `REGRA`

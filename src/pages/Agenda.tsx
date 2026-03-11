@@ -118,13 +118,6 @@ function dateKeyCuiaba(iso: string) {
   }).format(new Date(iso));
 }
 
-function heatLevelClass(count: number) {
-  if (count <= 0) return "bg-red-500/20 text-red-300";
-  if (count === 1) return "bg-emerald-500/20 text-emerald-300";
-  if (count === 2) return "bg-emerald-500/35 text-emerald-200";
-  return "bg-emerald-500/50 text-emerald-100";
-}
-
 function probableCause(opts: { hasData: boolean; active: boolean; count: number; hasPostsOutOfHour?: boolean }) {
   if (!opts.active) return "Fora da janela da regra";
   if (!opts.hasData) return "Sem dados do feed para o dia";
@@ -191,6 +184,17 @@ export default function Agenda() {
     hour: 0,
     posts: [],
   });
+  const [expandedPortalDays, setExpandedPortalDays] = useState<Record<string, boolean>>({});
+
+  const nowHour = useMemo(() => {
+    return Number(
+      new Intl.DateTimeFormat("en-US", {
+        timeZone: "America/Cuiaba",
+        hour: "2-digit",
+        hour12: false,
+      }).format(new Date())
+    );
+  }, []);
 
   const updatedAtLabel = useMemo(() => {
     return new Intl.DateTimeFormat("pt-BR", {
@@ -316,7 +320,7 @@ export default function Agenda() {
             hasAnyDataForDay: hasHistory ? !!dayMeta : dayPosts.length > 0,
           };
         });
-        return { category: r.category, byDay };
+        return { category: r.category, deadlineHour: r.end, byDay };
       });
 
       const metaByDayCategory = new Map<string, { count: number; target: number; applies: boolean; hasAnyDataForDay: boolean }>();
@@ -370,35 +374,48 @@ export default function Agenda() {
 
   return (
     <div className="p-4 md:p-8 space-y-6">
-      <div className="rounded border border-slate-700/70 bg-slate-950/70 px-3 py-2 text-[11px] text-slate-300">
+      <div className="sticky top-0 z-20 rounded border border-slate-700/70 bg-slate-950/90 px-3 py-2 text-[11px] text-slate-300 backdrop-blur">
         <div className="flex flex-wrap items-center justify-between gap-2">
-          <span>
-            {SYSTEM_NAME} • {AGENDA_SUBTITLE} • Período: {days[6]?.label} → {days[0]?.label}
-          </span>
+          <span>{SYSTEM_NAME} • {AGENDA_SUBTITLE} • Período: {days[6]?.label} → {days[0]?.label}</span>
           <span>Atualizado: {updatedAtLabel}</span>
         </div>
+        <details className="mt-1">
+          <summary className="cursor-pointer text-slate-400">Ver legenda e regras dos indicadores</summary>
+          <div className="mt-2 flex flex-wrap items-center gap-2 text-[11px]">
+            <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">N/I (hora futura)</span>
+            <span className="rounded bg-emerald-500/20 px-2 py-0.5 text-emerald-300">OK</span>
+            <span className="rounded bg-blue-500/30 px-2 py-0.5 text-blue-200">OK 2+</span>
+            <span className="rounded bg-amber-500/20 px-2 py-0.5 text-amber-300">EM PRAZO</span>
+            <span className="rounded bg-red-500/20 px-2 py-0.5 text-red-300">FORA DO PRAZO</span>
+            <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
+          </div>
+          <p className="mt-2 text-[11px] text-slate-400">Regras de leitura: hora futura = neutro; meta concluída = verde; acima da meta = azul; abaixo da meta com janela aberta = laranja; abaixo da meta com janela encerrada = vermelho.</p>
+        </details>
       </div>
 
-      <div className="flex flex-wrap items-center gap-2 text-[11px] text-slate-300">
-        <span className="rounded bg-emerald-500/20 px-2 py-0.5 text-emerald-300">OK</span>
-        <span className="rounded bg-emerald-500/35 px-2 py-0.5 text-emerald-200">OK 2</span>
-        <span className="rounded bg-emerald-500/50 px-2 py-0.5 text-emerald-100">OK 3+</span>
-        <span className="rounded bg-red-500/20 px-2 py-0.5 text-red-300">PEND</span>
-        <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
-        <span className="text-slate-400">Heatmap horário: mais posts = verde mais forte</span>
-      </div>
+      {view.map(({ portal, code, hourlyGrid, metaRows, metaByDayCategory, adherence }) => {
+        const portalKey = `${code}-${portal.name}`;
+        const showAllDays = !!expandedPortalDays[portalKey];
+        const showDays = showAllDays ? days : [days[0]];
+        const todayFirstMeta = ["ROO", "PPMT", "PNMT", "AFL"].includes(code);
+        const metaCols = showAllDays
+          ? (todayFirstMeta ? [days[0], ...daysAsc.filter((d) => !d.isToday)] : daysAsc)
+          : [days[0]];
 
-      <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2 text-[11px] text-slate-300">
-        <span className="font-semibold text-slate-100">Causa provável:</span> sem dados do feed no dia, post fora da hora esperada, ausência de post na janela ou fora da janela da regra.
-      </div>
-
-      {view.map(({ portal, code, hourlyGrid, metaRows, metaByDayCategory, adherence }) => (
+        return (
         <section key={portal.name} className="rounded-lg border p-4 space-y-4">
-          <div className="flex items-center justify-between">
-            <h2 className="text-lg font-bold">
-              {code} — {portal.name}
-            </h2>
-            <span className="text-xs text-muted-foreground">Hoje + 6 dias anteriores</span>
+          <div className="flex items-center justify-between gap-2">
+            <h2 className="text-lg font-bold">{code} — {portal.name}</h2>
+            <div className="flex items-center gap-2">
+              <span className="text-xs text-muted-foreground">{showAllDays ? "Comparando 7 dias" : "Somente hoje"}</span>
+              <button
+                type="button"
+                onClick={() => setExpandedPortalDays((s) => ({ ...s, [portalKey]: !showAllDays }))}
+                className="rounded border border-slate-700 bg-slate-900/40 px-2 py-1 text-xs text-slate-200"
+              >
+                {showAllDays ? "Ocultar outros dias" : "Comparar outros dias"}
+              </button>
+            </div>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
@@ -408,17 +425,17 @@ export default function Agenda() {
                 {adherence.hourlyExpected > 0 ? `${adherence.hourlyDone}/${adherence.hourlyExpected} (${adherence.hourlyPct}%)` : "N/A"}
               </div>
             </div>
-            <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2">
-              <div className="text-slate-300">Aderência por meta (hoje)</div>
-              <div className="mt-1 font-semibold text-white">
-                {adherence.metaTarget > 0 ? `${adherence.metaDone}/${adherence.metaTarget} (${adherence.metaPct}%)` : "N/A"}
+            {adherence.metaTarget > 0 && (
+              <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2">
+                <div className="text-slate-300">Aderência por meta (hoje)</div>
+                <div className="mt-1 font-semibold text-white">{`${adherence.metaDone}/${adherence.metaTarget} (${adherence.metaPct}%)`}</div>
               </div>
-            </div>
+            )}
           </div>
 
           {hourlyGrid.length > 0 && (
             <div className="space-y-3">
-              {days.map((day) => (
+              {showDays.map((day) => (
                 <div key={day.key} className="overflow-x-auto">
                   <div className="text-xs font-semibold mb-1">
                     {day.label} {day.isToday ? "• hoje" : "• histórico"}
@@ -443,15 +460,25 @@ export default function Agenda() {
 
                         return (
                           <tr key={`${row.category}-${day.key}`} className="border-t">
-                            <td className="py-1 pr-2 font-medium">{row.category}</td>
+                            <td className="py-1 pr-2 font-medium">
+                              <div>{row.category}</div>
+                              {day.isToday && (() => {
+                                const activeN = dayRow.rows.filter((c: any) => c.active).length;
+                                const doneN = dayRow.rows.filter((c: any) => c.active && c.count > 0).length;
+                                const pct = activeN > 0 ? Math.round((doneN / activeN) * 100) : 0;
+                                return <div className="text-[10px] text-slate-400">Aderência: {doneN}/{activeN} ({pct}%)</div>;
+                              })()}
+                            </td>
                             {shouldMergeMeta ? (
                               <td colSpan={15} className="text-center py-1">
                                 {!meta.hasAnyDataForDay ? (
                                   <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
                                 ) : meta.count >= meta.target ? (
                                   <span className="rounded bg-green-500/20 px-2 py-0.5 text-green-300">{meta.count}/{meta.target}</span>
-                                ) : (
+                                ) : day.isToday ? (
                                   <span className="rounded bg-amber-500/20 px-2 py-0.5 text-amber-300">{meta.count}/{meta.target}</span>
+                                ) : (
+                                  <span className="rounded bg-red-500/20 px-2 py-0.5 text-red-300">{meta.count}/{meta.target}</span>
                                 )}
                               </td>
                             ) : (
@@ -461,6 +488,8 @@ export default function Agenda() {
                                     <span className="text-slate-500">—</span>
                                   ) : !dayRow.hasAnyDataForDay ? (
                                     <span className="rounded bg-slate-500/20 px-1 text-slate-300">SEM DADOS</span>
+                                  ) : day.isToday && cell.hour > nowHour ? (
+                                    <span className="rounded bg-slate-500/20 px-1 text-slate-300">N/I</span>
                                   ) : cell.posted ? (
                                     <button
                                       type="button"
@@ -480,12 +509,12 @@ export default function Agenda() {
                                           })),
                                         })
                                       }
-                                      className={`rounded px-1 ${heatLevelClass(cell.count)}`}
+                                      className={`rounded px-1 ${cell.count > 1 ? "bg-blue-500/30 text-blue-200" : "bg-emerald-500/20 text-emerald-300"}`}
                                     >
                                       {cell.count > 1 ? `OK ${cell.count}` : "OK"}
                                     </button>
                                   ) : (
-                                    <span title={cell.cause} className="rounded bg-red-500/20 px-1 text-red-300">PEND</span>
+                                    <span title={cell.cause} className="rounded bg-amber-500/20 px-1 text-amber-300">EM PRAZO</span>
                                   )}
                                 </td>
                               ))
@@ -508,7 +537,7 @@ export default function Agenda() {
                   <thead className="bg-slate-900/50">
                     <tr>
                       <th className="text-left p-2 min-w-[140px]">Categoria</th>
-                      {daysAsc.map((d) => (
+                      {metaCols.map((d) => (
                         <th
                           key={d.key}
                           className={`text-center p-2 min-w-[78px] border-l border-slate-800 ${
@@ -530,15 +559,19 @@ export default function Agenda() {
                           <div>{m.category}</div>
                           <div className="text-[10px] text-slate-400">{hit}/{applied.length} dias dentro da meta</div>
                         </td>
-                        {daysAsc.map((d) => {
+                        {metaCols.map((d) => {
                           const cell = m.byDay.find((x: any) => x.day.key === d.key);
                           if (!cell || !cell.applies) {
                             return <td key={`${m.category}-${d.key}`} className="text-center p-2 border-l border-slate-800 text-slate-500">—</td>;
                           }
+                          const deadlineHour = m.deadlineHour ?? 22;
+                          const late = d.isToday ? nowHour > deadlineHour : true;
                           const color = !cell.hasAnyDataForDay
                             ? "bg-slate-500/20 text-slate-300"
                             : cell.count >= cell.target
                             ? "bg-green-500/20 text-green-300"
+                            : late
+                            ? "bg-red-500/20 text-red-300"
                             : "bg-amber-500/20 text-amber-300";
                           return (
                             <td key={`${m.category}-${d.key}`} className="text-center p-2 border-l border-slate-800">
@@ -556,7 +589,7 @@ export default function Agenda() {
             </div>
           )}
         </section>
-      ))}
+      );})}
 
       {drill.open && (
         <div className="fixed inset-0 z-50 bg-black/60 p-4" onClick={() => setDrill((d) => ({ ...d, open: false }))}>

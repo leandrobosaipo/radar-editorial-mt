@@ -6,7 +6,15 @@
 - `d8869b8` — criou página `/agenda` (grade semanal + metas)
 - `1cfe0d5` — incluiu sábado e domingo na agenda
 - `f0cc280` — agenda inteligente: hoje=execução real, demais dias=PLANO
-- `(este commit)` — cabeçalho padrão TV na agenda (sistema + subtítulo + período + atualizado)
+- `17b3010` — cabeçalho padrão TV + docs base de produto
+- `122a9b3` — modo produtividade: hoje + 6 dias anteriores
+- `66902b1` — consumo de histórico 7d com fallback SEM DADOS
+- `6192c6e` — heatmap horário com contagem (OK/OK2/OK3+)
+- `4bbf119` — aderência + causa provável + drill-down modal
+- `09c336d` — metas diárias em tabela por colunas de data
+- `77c553e` — destaque da coluna HOJE + resumo por linha
+- `2c86ad8` — front passa a consumir `editorial_rules` do plugin (fonte única)
+- `(atual)` — acordeão por portal (mostrar hoje/abrir outros dias), semântica de cores revisada e aderência por categoria
 
 ### Dashboard
 - `11fa79a` — separou status SITE x REGRA e adicionou checks
