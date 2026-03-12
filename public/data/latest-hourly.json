@@ -1,75 +1,102 @@
 {
-  "generated_at": "2026-03-12T13:07:42.768821-04:00",
+  "generated_at": "2026-03-12T14:00:05.096402-04:00",
   "window": {
-    "start": "2026-03-12T12:07:42.768821-04:00",
-    "end": "2026-03-12T13:07:42.768821-04:00"
+    "start": "2026-03-12T13:00:05.096402-04:00",
+    "end": "2026-03-12T14:00:05.096402-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Campeão mato-grossense, Mixto joga por vaga na Copa do Brasil e premiação milionária; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mixto-joga-por-vaga-na-copa-do-brasil/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-12T12:08:46-04:00",
+        "title": "Motociclista para em frente de carreta para tentar retorno e sofre acidente em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motociclista-para-em-frente-de-carreta-para-tentar-retorno-e-sofre-acidente-em-varzea-grande-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-12T13:24:03-04:00",
         "categories": [
-          "Esporte"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          509
+          16
         ]
       },
       {
-        "title": "Ultraleve bate em fios e causa apagão em bairros; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-ultraleve-provocou-tensao-em-riacho/",
+        "title": "Adolescente dirige carro e se envolve em acidente ao voltar da escola; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-acidente-de-transito-em-sao-paulo/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-12T12:43:21-04:00",
+        "published": "2026-03-12T13:48:07-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
-      },
+      }
+    ],
+    "afolhalivre": [],
+    "omatogrossense": [
       {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/325636-2/",
+        "title": "Abilio Brunini nega interferência na disputa pela presidência da Câmara, mas sucessão já movimenta bastidores em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/133022-2/",
         "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-12T12:59:19-04:00",
+        "author_id": 25,
+        "published": "2026-03-12T13:01:31-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
-          510
+          5
         ]
       },
       {
-        "title": "Mixto reforça elenco feminino e anuncia contratação da extrema Thayná para a temporada",
-        "link": "https://perrenguematogrosso.com/mixto-reforca-elenco-feminino/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-12T13:00:00-04:00",
+        "title": "Motociclista para em frente de carreta para fazer manobra e acaba atropelado em VG; veja vídeo",
+        "link": "https://omatogrossense.com/motociclista-carreta-manobra-acaba-atropelado-vg/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-12T13:22:45-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Adolescentes se envolvem em acidente de trânsito e câmera registra o momento; Veja vídeo",
+        "link": "https://omatogrossense.com/um-acidente-de-transito-chamou/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-12T13:49:29-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Nota de torcida reacende polêmica após jogo entre Luverdense e Mixto em Lucas do Rio Verde",
+        "link": "https://omatogrossense.com/nota-de-torcida-reacende-polemica-apos-jogo-entre-luverdense-e-mixto/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-12T14:00:00-04:00",
         "categories": [
           "Esporte"
         ],
         "category_ids": [
-          509
+          7
         ]
       }
     ],
-    "afolhalivre": [],
-    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Governo propõe programa para ajudar servidores de MT a renegociar dívidas; veja vídeo",
-        "link": "https://roonoticias.com/o-governo-de-mato-grosso-enviou-a-assembleia-legislativa/",
+        "title": "Motorista de Cuiabá é preso com mais de 200 pneus escondidos em carreta durante fiscalização; veja vídeo",
+        "link": "https://roonoticias.com/um-motorista-de-45-anos-natural-de-cuiaba/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-12T12:35:50-04:00",
+        "published": "2026-03-12T13:11:23-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -78,16 +105,42 @@
         ]
       },
       {
-        "title": "Criminosos armados invadem açougue, rendem vítimas e levam joias e dinheiro em Cuiabá; veja vídeo",
-        "link": "https://roonoticias.com/cameras-de-seguranca-registraram-um-assalto-que-provocou/",
+        "title": "Entenda como funcionam as minas usadas pelo Irã no Estreito de Ormuz; veja vídeo",
+        "link": "https://roonoticias.com/o-ira-iniciou-a-instalacao-de-minas-no-estreito-de-ormuz/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-12T12:51:02-04:00",
+        "published": "2026-03-12T13:27:45-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
+          973
+        ]
+      },
+      {
+        "title": "Flamengo? Seleção brasileira? Jorge Jesus define ‘plano A’ na carreira para quando deixar o Al Nassr em junho",
+        "link": "https://roonoticias.com/o-tecnico-jorge-jesus-ja-definiu-um-objetivo-claro-para/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-12T13:37:49-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "São Paulo terá que pagar três salários a Crespo por multa, mas ainda deve rescisão da 1ª passagem; veja vídeo",
+        "link": "https://roonoticias.com/o-sao-paulo-iniciou-uma-nova-fase-no-comando-tecnico/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-12T13:55:01-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ]
@@ -107,7 +160,12 @@
       973,
       3032
     ],
-    "omatogrossense": [],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
     "portalnortemt": [
       5,
       7,

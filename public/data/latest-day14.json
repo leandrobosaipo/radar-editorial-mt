@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-03-11T14:07:48.907208-04:00",
+  "generated_at": "2026-03-12T14:00:05.096398-04:00",
   "window": {
-    "start": "2026-03-11T00:00:00-04:00",
-    "end": "2026-03-11T14:00:00-04:00"
+    "start": "2026-03-12T00:00:00-04:00",
+    "end": "2026-03-12T14:00:00-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Projétil atinge navio e provoca incêndio em alto mar; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-navio-cargueiro-do-reino-unido/",
+        "title": "Adolescente de 17 anos é encontrada morta em córrego de Cuiabá; irmão é preso suspeito do crime; veja vídeo",
+        "link": "https://perrenguematogrosso.com/adolescente-encontrada-morta-corrego-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-12T08:54:01-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Homem tenta levar irmã de 7 anos para motel e é preso após ação de casal; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-homem-tentou-levar-a-propria-irma/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-11T08:10:22-04:00",
+        "published": "2026-03-12T11:40:35-04:00",
         "categories": [
           "Notícias"
         ],
@@ -20,11 +33,11 @@
         ]
       },
       {
-        "title": "Polícia Civil cumpre 40 ordens judiciais contra membros de facção criminosa ligada ao tráfico de drogas em Sinop; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-judiciais-membros-faccao-trafico-drogas-sinop-video/",
+        "title": "Criminoso acusado de matar irmã deixa delegacia chorando após prisão pelo crime em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/criminoso-acusado-de-matar-irma-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-11T08:28:16-04:00",
+        "published": "2026-03-12T12:05:56-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,37 +46,11 @@
         ]
       },
       {
-        "title": "Câmera flagra criança jogando cabeça de peixe para tentar envenenar cachorro no CPA, em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/camera-flagra-crianca-jogando-cabeca-de-peixe-para-tentar-envenenar-cachorro-no-cpa-em-cuiaba-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-11T09:21:17-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Governo de MT entrega 212 casas populares e realiza sonho da casa própria no bairro Pedra 90 em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/governo-mt-entrega-212-casas-bairro-pedra-90-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-11T12:11:00-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Papa pega camisa do Flamengo no ar no Vaticano e cena viraliza entre fiéis e torcedores; veja vídeo",
-        "link": "https://perrenguematogrosso.com/papa-pega-camisa-do-flamengo/",
+        "title": "Campeão mato-grossense, Mixto joga por vaga na Copa do Brasil e premiação milionária; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mixto-joga-por-vaga-na-copa-do-brasil/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-03-11T12:15:19-04:00",
+        "published": "2026-03-12T12:08:46-04:00",
         "categories": [
           "Esporte"
         ],
@@ -72,11 +59,11 @@
         ]
       },
       {
-        "title": "Procuradora sofre ataques misóginos após participação em seminário ambiental; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/a-procuradora-da/",
+        "title": "Homem em ultraleve atinge fios e causa apagão em bairros; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-ultraleve-provocou-tensao-em-riacho/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-11T12:17:54-04:00",
+        "published": "2026-03-12T12:43:21-04:00",
         "categories": [
           "Notícias"
         ],
@@ -85,11 +72,11 @@
         ]
       },
       {
-        "title": "Mauro Mendes entrega 212 casas em Cuiabá e anuncia mais 1.340 moradias para famílias do Pedra 90; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mauro-mendes-entrega-212-casas/",
+        "title": "Abilio Brunini nega interferência na disputa pela presidência da Câmara, mas sucessão já movimenta bastidores em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/325636-2/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-11T12:38:48-04:00",
+        "published": "2026-03-12T12:59:19-04:00",
         "categories": [
           "Política"
         ],
@@ -98,11 +85,11 @@
         ]
       },
       {
-        "title": "Gabigol cobra atenção de Ancelotti a Neymar após empate entre Santos e Mirassol; veja vídeo",
-        "link": "https://perrenguematogrosso.com/gabigol-cobra-atencao-de-ancelotti-a-neymar/",
+        "title": "Mixto reforça elenco feminino e anuncia contratação da extrema Thayná para a temporada",
+        "link": "https://perrenguematogrosso.com/mixto-reforca-elenco-feminino/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-03-11T13:00:00-04:00",
+        "published": "2026-03-12T13:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -111,37 +98,11 @@
         ]
       },
       {
-        "title": "Declaração de Alana Passos sobre mulheres trans provoca forte reação na Câmara do Rio; veja vídeo",
-        "link": "https://perrenguematogrosso.com/declaracao-de-alana-passos/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-11T13:22:10-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Jiboia invade pista da BR-060 e PRF realiza resgate para evitar acidente; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/jiboia-invade-pista-da-br-060-e-prf-realiza-resgate-para-evitar-acidente-em-anapolis/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-11T13:26:09-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Sefaz-MT promove leilão on-line com celulares, videogames, jetskis e até escavadeiras; veja como participar",
-        "link": "https://perrenguematogrosso.com/sefaz-mt-promove-leilao-on-line-veja/",
+        "title": "Motociclista para em frente de carreta para tentar retorno e sofre acidente em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motociclista-para-em-frente-de-carreta-para-tentar-retorno-e-sofre-acidente-em-varzea-grande-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-11T13:32:04-04:00",
+        "published": "2026-03-12T13:24:03-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -150,52 +111,52 @@
         ]
       },
       {
-        "title": "Alexandre Pato declara amor ao Corinthians e relembra polêmico pênalti de 2013; veja vídeo",
-        "link": "https://perrenguematogrosso.com/alexandre-pato-declara-amor-ao-corinthians/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-11T14:00:00-04:00",
+        "title": "Adolescente dirige carro e se envolve em acidente ao voltar da escola; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-acidente-de-transito-em-sao-paulo/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-12T13:48:07-04:00",
         "categories": [
-          "Esporte"
+          "Notícias"
         ],
         "category_ids": [
-          509
+          5
         ]
       }
     ],
     "afolhalivre": [
       {
-        "title": "Motorista fica ferido após caminhonete capotar na MT-130 em Primavera do Leste",
-        "link": "https://afolhalivre.com/um-acidente-mobilizou-equipes-de-resgate-na-rodovia-mt-130-em-primavera-do-leste-apos-um-motorista-de-55-anos-sofrer-ferimentos-durante/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-11T07:55:00-04:00",
+        "title": "Santos poupa Neymar contra Mirassol em planejamento físico",
+        "link": "https://afolhalivre.com/santos-poupa-neymar-contra-mirassol-em-planejamento-fisico-2/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T05:25:41-04:00",
         "categories": [
-          "Primavera"
+          "Esporte"
         ],
         "category_ids": [
-          3032
+          7
         ]
       },
       {
-        "title": "Caminhão fica destruído após tombar na entrada da cidade de Paranatinga; veja vídeo",
-        "link": "https://afolhalivre.com/um-caminhao-ficou-completamente-destruido-apos-tombar-nesta-terca-feira-10-na-mt-130-nas-proximidades-da-entrada-do-municipio-de/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-11T09:59:00-04:00",
+        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP",
+        "link": "https://afolhalivre.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp-2/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T05:25:49-04:00",
         "categories": [
-          "Primavera"
+          "MT Notícias"
         ],
         "category_ids": [
-          3032
+          20
         ]
       },
       {
         "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
-        "link": "https://afolhalivre.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro/",
+        "link": "https://afolhalivre.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro-3/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T10:49:53-04:00",
+        "published": "2026-03-12T05:25:55-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -204,50 +165,24 @@
         ]
       },
       {
-        "title": "Ônibus: Câmeras registram queda de passageira em movimento",
-        "link": "https://afolhalivre.com/onibus-cameras-registram-queda-de-passageira-em-movimento/",
+        "title": "Barcelona de Guayaquil vence Botafogo e avança na Libertadores",
+        "link": "https://afolhalivre.com/barcelona-de-guayaquil-vence-botafogo-e-avanca-na-libertadores-2/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T10:51:14-04:00",
+        "published": "2026-03-12T05:26:41-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       },
       {
-        "title": "Prefeitura planeja investir R$ 4,6 milhões para recuperar importante avenida em Primavera do Leste",
-        "link": "https://afolhalivre.com/a-prefeitura-de-primavera-do-leste-anunciou-um-projeto-para-recuperar-completamente-a-avenida-belo-horizonte-um-dos-principais-corredore/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-11T12:03:00-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      },
-      {
-        "title": "Ônibus: passageira cai e morre após queda em rodovia",
-        "link": "https://afolhalivre.com/onibus-passageira-cai-e-morre-apos-queda-em-rodovia/",
+        "title": "Novas regras para o ENEM 2024: o que muda para os estudantes",
+        "link": "https://afolhalivre.com/novas-regras-para-o-enem-2024-o-que-muda-para-os-estudantes/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T12:58:18-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Ônibus: Câmeras registram queda de passageira em movimento",
-        "link": "https://afolhalivre.com/onibus-cameras-registram-queda-de-passageira-em-movimento-2/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T12:58:19-04:00",
+        "published": "2026-03-12T05:30:16-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -257,10 +192,10 @@
       },
       {
         "title": "Santos poupa Neymar contra Mirassol em planejamento físico",
-        "link": "https://afolhalivre.com/santos-poupa-neymar-contra-mirassol-em-planejamento-fisico/",
+        "link": "https://afolhalivre.com/santos-poupa-neymar-contra-mirassol-em-planejamento-fisico-3/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T13:01:47-04:00",
+        "published": "2026-03-12T05:30:40-04:00",
         "categories": [
           "Esporte"
         ],
@@ -270,38 +205,168 @@
       },
       {
         "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
-        "link": "https://afolhalivre.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro-2/",
+        "link": "https://afolhalivre.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro-4/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T13:01:53-04:00",
+        "published": "2026-03-12T05:30:49-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
+        ]
+      },
+      {
+        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP",
+        "link": "https://afolhalivre.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp-3/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T05:30:49-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Barcelona de Guayaquil vence Botafogo e avança na Libertadores",
+        "link": "https://afolhalivre.com/barcelona-de-guayaquil-vence-botafogo-e-avanca-na-libertadores-3/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T05:31:39-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Santos poupa Neymar contra Mirassol em planejamento físico",
+        "link": "https://afolhalivre.com/santos-poupa-neymar-contra-mirassol-em-planejamento-fisico-4/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T06:00:18-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP",
+        "link": "https://afolhalivre.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp-4/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T06:00:24-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
+        "link": "https://afolhalivre.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro-5/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T06:00:27-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP",
+        "link": "https://afolhalivre.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp-5/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T06:01:15-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "barcelona de guayaquil elimina botafogo da libertadores",
+        "link": "https://afolhalivre.com/barcelona-de-guayaquil-elimina-botafogo-da-libertadores/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T06:34:56-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Casos de gripe aumentam em Primavera do Leste e autoridades reforçam alerta para vacinação e cuidados",
+        "link": "https://afolhalivre.com/a-secretaria-municipal-de-saude-identificou-um-aumento-nos-casos-de-influenza-e-emitiu-um-alerta-a-populacao-em-primavera-do-leste-no-sudeste/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-12T07:59:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Tarifa social da água é ampliada e quase 1.800 famílias passam a receber desconto automático em Primavera do  Leste",
+        "link": "https://afolhalivre.com/familias-em-situacao-de-vulnerabilidade-social-passam-a-ter-mais-acesso-ao-beneficio-da-tarifa-social-da-agua-em-primavera-do-leste/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-12T10:00:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Farm Show atrai multidão e amplia programação com tecnologia e atividades para famílias em Primavera do Leste",
+        "link": "https://afolhalivre.com/a-10a-edicao-da-farm-show-registrou-grande-movimentacao-no-parque-de-exposicoes-em-primavera-do-leste-durante-esta-quarta-feira-11/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-12T11:56:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
         ]
       }
     ],
     "omatogrossense": [
       {
-        "title": "Navio cargueiro é atingido por projétil e pega fogo; Veja vídeo",
-        "link": "https://omatogrossense.com/um-navio-cargueiro-do-reino-unido/",
+        "title": "Vídeo: Adolescente é encontrada morta em córrego de Cuiabá; irmão é preso suspeito do crime",
+        "link": "https://omatogrossense.com/video-adolescente-encontrada-morta-corrego-cuiaba/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-12T08:53:45-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Tentativa de crime contra criança termina com prisão após atitude corajosa de casal; Veja vídeo",
+        "link": "https://omatogrossense.com/um-homem-foi-preso-na-tarde-do/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-11T08:09:43-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Polícia Civil deflagra Operação Offline e cumpre 40 ordens contra facção do tráfico em Sinop; veja vídeo",
-        "link": "https://omatogrossense.com/policia-operacao-offline-faccao-trafico-sinop-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-11T08:29:36-04:00",
+        "published": "2026-03-12T09:21:35-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -310,11 +375,11 @@
         ]
       },
       {
-        "title": "Câmera flagra criança jogando cabeça de peixe para tentar envenenar cachorro no CPA, em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/camera-flagra-crianca-jogando-cabeca-de-peixe-para-tentar-envenenar-cachorro-no-cpa-em-cuiaba-veja-video/",
+        "title": "Suspeito de matar a própria irmã é filmado algemado e chorando ao deixar delegacia em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/suspeito-de-matar-irma-chorando-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-11T09:21:10-04:00",
+        "published": "2026-03-12T12:06:21-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -323,24 +388,11 @@
         ]
       },
       {
-        "title": "Governo entrega 212 moradias populares e transforma realidade de famílias no bairro Pedra 90 em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/governo-212-moradias-familias-bairro-pedra-90-cuiaba/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-11T12:12:19-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "VÍDEO: Camisa do Flamengo é arremessada a Papa no Vaticano e cena repercute entre brasileiros",
-        "link": "https://omatogrossense.com/camisa-do-flamengo-e-arremessada-a-papa/",
+        "title": "Mixto entra em campo por vaga e prêmio milionário contra o Novorizontino na Copa do Brasil",
+        "link": "https://omatogrossense.com/mixto-entra-em-campo-por-vaga-e-premio-milionario/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-11T12:28:05-04:00",
+        "published": "2026-03-12T12:18:53-04:00",
         "categories": [
           "Esporte"
         ],
@@ -349,11 +401,11 @@
         ]
       },
       {
-        "title": "Procuradora vira alvo de ataques após participação em seminário ambiental; Veja vídeo",
-        "link": "https://omatogrossense.com/a-procuradora-da-republica-g/",
+        "title": "Homem pilota ultraleve, bate em fios e deixa bairros sem energia; Veja vídeo",
+        "link": "https://omatogrossense.com/um-ultraleve-causou-grande/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-11T12:34:19-04:00",
+        "published": "2026-03-12T12:43:43-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -362,24 +414,11 @@
         ]
       },
       {
-        "title": "Mauro Mendes entrega 212 casas em Cuiabá e anuncia mais 1.340 moradias para famílias do Pedra 90; veja vídeo",
-        "link": "https://omatogrossense.com/mauro-mendes-entrega-212-casas/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-11T12:38:54-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "VÍDEO: Gabigol marca duas vezes, empata para o Santos e manda recado direto a Ancelotti",
-        "link": "https://omatogrossense.com/gabigol-marca-duas-vezes/",
+        "title": "Mixto reforça ataque das Tigresas com contratação de Thayná para temporada decisiva",
+        "link": "https://omatogrossense.com/mixto-reforca-ataque-das-tigresas/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-11T13:00:00-04:00",
+        "published": "2026-03-12T13:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -388,11 +427,11 @@
         ]
       },
       {
-        "title": "Declaração de Alana Passos sobre mulheres trans provoca forte reação na Câmara do Rio; veja vídeo",
-        "link": "https://omatogrossense.com/declaracao-de-alana-passos/",
+        "title": "Abilio Brunini nega interferência na disputa pela presidência da Câmara, mas sucessão já movimenta bastidores em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/133022-2/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-11T13:22:41-04:00",
+        "published": "2026-03-12T13:01:31-04:00",
         "categories": [
           "Política"
         ],
@@ -401,24 +440,11 @@
         ]
       },
       {
-        "title": "Jiboia tenta atravessar rodovia e mobiliza PRF em resgate; Veja vídeo",
-        "link": "https://omatogrossense.com/jiboia-tenta-atravessar-rodovia-e-mobiliza-prf-em-resgate-veja-video/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-11T13:23:25-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Sefaz-MT promove leilão on-line com celulares, videogames, jetskis e até escavadeiras; veja como participar",
-        "link": "https://omatogrossense.com/sefaz-mt-leilao-on-line-veja-participar/",
+        "title": "Motociclista para em frente de carreta para fazer manobra e acaba atropelado em VG; veja vídeo",
+        "link": "https://omatogrossense.com/motociclista-carreta-manobra-acaba-atropelado-vg/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-11T13:33:48-04:00",
+        "published": "2026-03-12T13:22:45-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -427,11 +453,24 @@
         ]
       },
       {
-        "title": "VÍDEO: Pato relembra pênalti polêmico, mas surpreende ao declarar amor ao Corinthians",
-        "link": "https://omatogrossense.com/pato-relembra-penalti-polemico/",
+        "title": "Adolescentes se envolvem em acidente de trânsito e câmera registra o momento; Veja vídeo",
+        "link": "https://omatogrossense.com/um-acidente-de-transito-chamou/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-12T13:49:29-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Nota de torcida reacende polêmica após jogo entre Luverdense e Mixto em Lucas do Rio Verde",
+        "link": "https://omatogrossense.com/nota-de-torcida-reacende-polemica-apos-jogo-entre-luverdense-e-mixto/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-11T14:00:00-04:00",
+        "published": "2026-03-12T14:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -442,11 +481,11 @@
     ],
     "portalnortemt": [
       {
-        "title": "DNA confirma identidade de ossada encontrada em lavoura em Sinop e polícia investiga possível execução",
-        "link": "https://portalnortemt.com/a-policia-civil-confirmou-a-identidade-da-ossada-humana-localizada-em-uma-area-de-lavoura-proxima-a-estrada-monalisa-em-sinop-os-exames-de/",
+        "title": "Operação mira facção e cumpre 40 ordens judiciais contra rede de tráfico de drogas em Sinop; veja vídeos",
+        "link": "https://portalnortemt.com/a-policia-civil-intensificou-o-combate-ao-crime-organizado-e-deflagrou-na-manha-desta-quarta-feira-11-a-operacao-offline-para-atingir-uma/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-11T07:58:00-04:00",
+        "published": "2026-03-12T07:56:00-04:00",
         "categories": [
           "Sinop"
         ],
@@ -455,50 +494,11 @@
         ]
       },
       {
-        "title": "Câmeras de ônibus registram queda de passageira em movimento",
-        "link": "https://portalnortemt.com/cameras-de-onibus-registram-queda-de-passageira-em-movimento-3/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T09:54:45-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Câmeras de ônibus registram queda de passageira em movimento",
-        "link": "https://portalnortemt.com/cameras-de-onibus-registram-queda-de-passageira-em-movimento-2/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T09:54:45-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Câmeras de ônibus registram queda de passageira em movimento",
-        "link": "https://portalnortemt.com/cameras-de-onibus-registram-queda-de-passageira-em-movimento/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T09:54:45-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Carro bate em caminhão, sai da pista e atinge poste após acidente em rodovia em Sinop",
-        "link": "https://portalnortemt.com/um-acidente-envolvendo-um-carro-e-um-caminhao-mobilizou-equipes-de-resgate-na-tarde-desta-terca-feira-em-sinop-no-norte-de-mato-grosso/",
+        "title": "Mulher ligada a facção de Sorriso sofre tentativa de execução a tiros dentro de casa em Cáceres",
+        "link": "https://portalnortemt.com/uma-tentativa-de-execucao-mobilizou-forcas-de-seguranca-na-noite-desta-terca-feira-10-em-caceres-no-oeste-de-mato-grosso-o-ataque-ocorreu/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-11T09:57:00-04:00",
+        "published": "2026-03-12T09:59:00-04:00",
         "categories": [
           "Sinop"
         ],
@@ -507,63 +507,11 @@
         ]
       },
       {
-        "title": "Neymar poupado pelo Santos: entenda o plano de controle físico",
-        "link": "https://portalnortemt.com/neymar-poupado-pelo-santos-entenda-o-plano-de-controle-fisico/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T10:02:06-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
-        "link": "https://portalnortemt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro-2/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T10:11:18-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
-        "link": "https://portalnortemt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T10:11:18-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Larva “mata-porco” preocupa criadores e exige atenção em pastagens",
-        "link": "https://portalnortemt.com/larva-mata-porco-preocupa-criadores-e-exige-atencao-em-pastagens/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T10:55:24-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Caminhonete sai da pista e para em terreno baldio após forte colisão entre veículos em Sinop",
-        "link": "https://portalnortemt.com/um-acidente-de-transito-chamou-a-atencao-de-moradores-no-inicio-da-tarde-desta-terca-feira-em-sinop-no-norte-de-mato-grosso-a-colisao-envol/",
+        "title": "Mulher é presa suspeita de participar de sequestro, tortura e execução de jovem em Sorriso",
+        "link": "https://portalnortemt.com/a-policia-civil-prendeu-uma-mulher-suspeita-de-participar-de-um-crime-marcado-por-extrema-violencia-em-sorriso-no-norte-de-mato-grosso/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-11T11:56:00-04:00",
+        "published": "2026-03-12T12:03:00-04:00",
         "categories": [
           "Sinop"
         ],
@@ -574,37 +522,37 @@
     ],
     "portalpantanalmt": [
       {
-        "title": "Arsenal com 50 armas e mais de 8 mil munições é descoberto após denúncia de ameaça familiar; veja vídeo",
-        "link": "https://portalpantanalmt.com/uma-investigacao-de-violencia-domestica-levou-a-policia-civil-a-descobrir-um-grande-arsenal-escondido-em-uma-propriedade-rural-em-mato-grosso/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-11T07:55:00-04:00",
+        "title": "Pantanal: novas regras para pesca esportiva entram em vigor",
+        "link": "https://portalpantanalmt.com/pantanal-novas-regras-para-pesca-esportiva-entram-em-vigor-17/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T05:25:19-04:00",
         "categories": [
-          "Cáceres"
+          "Esporte"
         ],
         "category_ids": [
-          3105
+          7
         ]
       },
       {
-        "title": "Cáceres poderá ganhar duas novas escolas cívico-militares após consulta à comunidade escolar",
-        "link": "https://portalpantanalmt.com/a-cidade-de-caceres-em-mato-grosso-podera-ampliar-o-numero-de-unidades-da-rede-estadual-que-adotam-o-modelo-de-gestao-civico-militar/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-11T09:59:00-04:00",
+        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP?",
+        "link": "https://portalpantanalmt.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp-2/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T05:25:22-04:00",
         "categories": [
-          "Cáceres"
+          "MT Notícias"
         ],
         "category_ids": [
-          3105
+          20
         ]
       },
       {
         "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
-        "link": "https://portalpantanalmt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro/",
+        "link": "https://portalpantanalmt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro-3/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T10:49:22-04:00",
+        "published": "2026-03-12T05:25:24-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -613,50 +561,24 @@
         ]
       },
       {
-        "title": "Câmeras de ônibus registram queda de passageira em movimento",
-        "link": "https://portalpantanalmt.com/cameras-de-onibus-registram-queda-de-passageira-em-movimento/",
+        "title": "Pantanal: novas regras para pesca esportiva em 2024",
+        "link": "https://portalpantanalmt.com/pantanal-novas-regras-para-pesca-esportiva-em-2024-10/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T10:50:22-04:00",
+        "published": "2026-03-12T05:25:48-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       },
       {
-        "title": "Programa leva consultas oftalmológicas a estudantes da rede municipal de Cáceres",
-        "link": "https://portalpantanalmt.com/a-prefeitura-de-caceres-iniciou-um-programa-de-atendimento-oftalmologico-destinado-aos-estudantes-da-rede-municipal-de-ensino-fundamental/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-11T12:04:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      },
-      {
-        "title": "Câmeras de ônibus registram queda de passageira em movimento",
-        "link": "https://portalpantanalmt.com/cameras-de-onibus-registram-queda-de-passageira-em-movimento-2/",
+        "title": "Pantanal: novas regras para pesca esportiva em Mato Grosso",
+        "link": "https://portalpantanalmt.com/pantanal-novas-regras-para-pesca-esportiva-em-mato-grosso-5/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T12:57:13-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Câmeras de ônibus registram queda de passageira em movimento",
-        "link": "https://portalpantanalmt.com/cameras-de-onibus-registram-queda-de-passageira-em-movimento-3/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-03-11T12:57:30-04:00",
+        "published": "2026-03-12T05:29:55-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -666,10 +588,10 @@
       },
       {
         "title": "Pantanal: novas regras para pesca esportiva entram em vigor",
-        "link": "https://portalpantanalmt.com/pantanal-novas-regras-para-pesca-esportiva-entram-em-vigor-16/",
+        "link": "https://portalpantanalmt.com/pantanal-novas-regras-para-pesca-esportiva-entram-em-vigor-18/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T13:01:24-04:00",
+        "published": "2026-03-12T05:30:17-04:00",
         "categories": [
           "Esporte"
         ],
@@ -679,10 +601,10 @@
       },
       {
         "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
-        "link": "https://portalpantanalmt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro-2/",
+        "link": "https://portalpantanalmt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro-4/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T13:01:27-04:00",
+        "published": "2026-03-12T05:30:20-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -691,11 +613,11 @@
         ]
       },
       {
-        "title": "Vídeo de Leonardo com neto gera repercussão nas redes sociais",
-        "link": "https://portalpantanalmt.com/video-de-leonardo-com-neto-gera-repercussao-nas-redes-sociais/",
+        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP?",
+        "link": "https://portalpantanalmt.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp-3/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T13:01:56-04:00",
+        "published": "2026-03-12T05:30:21-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -704,26 +626,143 @@
         ]
       },
       {
-        "title": "Larva “mata-porco” preocupa criadores no Pantanal",
-        "link": "https://portalpantanalmt.com/larva-mata-porco-preocupa-criadores-no-pantanal/",
+        "title": "Pantanal: novas regras para pesca esportiva em 2024",
+        "link": "https://portalpantanalmt.com/pantanal-novas-regras-para-pesca-esportiva-em-2024-11/",
         "author": "Redação",
         "author_id": 4,
-        "published": "2026-03-11T13:02:09-04:00",
+        "published": "2026-03-12T05:30:45-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Pantanal: novas regras para pesca esportiva entram em vigor",
+        "link": "https://portalpantanalmt.com/pantanal-novas-regras-para-pesca-esportiva-entram-em-vigor-19/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T05:59:54-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP?",
+        "link": "https://portalpantanalmt.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp-4/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T05:59:54-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
+        ]
+      },
+      {
+        "title": "TSE retoma julgamento que pode cassar mandato de Cláudio Castro",
+        "link": "https://portalpantanalmt.com/tse-retoma-julgamento-que-pode-cassar-mandato-de-claudio-castro-5/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T05:59:55-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Pantanal MT: novas regras para pesca esportiva em 2024",
+        "link": "https://portalpantanalmt.com/pantanal-mt-novas-regras-para-pesca-esportiva-em-2024-10/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T06:00:23-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Eleições 2026: Marina Silva pode ser vice de Haddad em SP",
+        "link": "https://portalpantanalmt.com/eleicoes-2026-marina-silva-pode-ser-vice-de-haddad-em-sp-5/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T06:00:45-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "barcelona de guayaquil elimina botafogo da libertadores",
+        "link": "https://portalpantanalmt.com/barcelona-de-guayaquil-elimina-botafogo-da-libertadores/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-12T06:34:02-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Criminosos executam duas vítimas, ferem outra e fogem de moto após ataque armado em Cáceres",
+        "link": "https://portalpantanalmt.com/uma-sequencia-de-disparos-de-arma-de-fogo-provocou-duas-mortes-e-deixou-um-homem-ferido-na-manha-desta-quarta-feira-11-em-caceres/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-12T07:54:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      },
+      {
+        "title": "Tiros em residência deixam mulher ferida em Cáceres durante ataque ligado à guerra de facções",
+        "link": "https://portalpantanalmt.com/uma-tentativa-de-execucao-mobilizou-forcas-de-seguranca-na-noite-desta-terca-feira-10-em-caceres-no-oeste-de-mato-grosso-o-ataque-ocorreu/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-12T09:57:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      },
+      {
+        "title": "Prefeitura de Cáceres amplia transporte acessível para pacientes em tratamentos especializados no CER",
+        "link": "https://portalpantanalmt.com/a-prefeitura-reforcou-a-estrutura-de-atendimento-do-centro-especializado-em-reabilitacao-ao-entregar-uma-nova-van-adaptada-para-o-transporte/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-12T11:59:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
         ]
       }
     ],
     "roonoticias": [
       {
-        "title": "Foragido condenado por tráfico é localizado e preso em oficina mecânica em Rondonópolis",
-        "link": "https://roonoticias.com/a-policia-civil-de-mato-grosso-prendeu-um-homem-de-59-anos-condenado-pelo-crime-de-trafico-de-drogas-a-prisao-ocorreu-na-manha-desta-terca/",
+        "title": "Polícia apreende Porsche de R$ 1 milhão ligado a liderança de facção criminosa em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/a-policia-civil-intensificou-o-combate-ao-crime-organizado-e-apreendeu-um-carro-de-luxo-avaliado-em-cerca-de-r-1-milhao-durante-investigacoe/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-11T08:02:00-04:00",
+        "published": "2026-03-12T07:58:00-04:00",
         "categories": [
           "Rondonópolis"
         ],
@@ -732,11 +771,37 @@
         ]
       },
       {
-        "title": "Janela despenca e passageira morre ao ser lançada pra fora de ônibus; veja vídeo",
-        "link": "https://roonoticias.com/imagens-de-cameras-internas-de-um-onibus-registraram/",
+        "title": "Motociclista trafega na contramão, levanta suspeitas e acaba detido durante abordagem policial em Rondonópolis",
+        "link": "https://roonoticias.com/um-patrulhamento-da-policia-militar-terminou-com-a-detencao-de-um-motociclista-na-tarde-desta-quarta-feira-11-em-rondonopolis-no-sul-de-mat/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-12T10:02:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Foragido condenado por homicídio acaba preso durante patrulhamento policial em Rondonópolis",
+        "link": "https://roonoticias.com/a-policia-militar-prendeu-um-homem-com-mandado-de-prisao-em-aberto-na-manha-desta-quarta-feira-11-em-rondonopolis-municipio-localizado-a/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-12T12:05:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Governo propõe programa para ajudar servidores de MT a renegociar dívidas; veja vídeo",
+        "link": "https://roonoticias.com/o-governo-de-mato-grosso-enviou-a-assembleia-legislativa/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-11T09:54:45-04:00",
+        "published": "2026-03-12T12:35:50-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -745,11 +810,50 @@
         ]
       },
       {
-        "title": "São Paulo anuncia a contratação de Roger Machado como técnico após demissão de Crespo",
-        "link": "https://roonoticias.com/o-sao-paulo-definiu-seu-novo-comandante-para-a-sequencia/",
+        "title": "Criminosos armados invadem açougue, rendem vítimas e levam joias e dinheiro em Cuiabá; veja vídeo",
+        "link": "https://roonoticias.com/cameras-de-seguranca-registraram-um-assalto-que-provocou/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-11T09:57:18-04:00",
+        "published": "2026-03-12T12:51:02-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Motorista de Cuiabá é preso com mais de 200 pneus escondidos em carreta durante fiscalização; veja vídeo",
+        "link": "https://roonoticias.com/um-motorista-de-45-anos-natural-de-cuiaba/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-12T13:11:23-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Entenda como funcionam as minas usadas pelo Irã no Estreito de Ormuz; veja vídeo",
+        "link": "https://roonoticias.com/o-ira-iniciou-a-instalacao-de-minas-no-estreito-de-ormuz/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-12T13:27:45-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Flamengo? Seleção brasileira? Jorge Jesus define ‘plano A’ na carreira para quando deixar o Al Nassr em junho",
+        "link": "https://roonoticias.com/o-tecnico-jorge-jesus-ja-definiu-um-objetivo-claro-para/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-12T13:37:49-04:00",
         "categories": [
           "Esporte"
         ],
@@ -758,81 +862,16 @@
         ]
       },
       {
-        "title": "Mais de 52 kg de cocaína são descobertos escondidos em caminhonete durante fiscalização policial em Rondonópolis, veja vídeo",
-        "link": "https://roonoticias.com/durante-uma-fiscalizacao-de-rotina-na-br-364-em-rondonopolis-mato-grosso-policiais-rodoviarios-federais-encontraram-mais-de-52-quilos/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-11T10:01:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      },
-      {
-        "title": "Neymar terá cronograma especial no Santos para jogar contra o Corinthians",
-        "link": "https://roonoticias.com/a-ausencia-de-neymar-na-partida-entre-santos-e-mirassol/",
+        "title": "São Paulo terá que pagar três salários a Crespo por multa, mas ainda deve rescisão da 1ª passagem; veja vídeo",
+        "link": "https://roonoticias.com/o-sao-paulo-iniciou-uma-nova-fase-no-comando-tecnico/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-11T10:02:06-04:00",
+        "published": "2026-03-12T13:55:01-04:00",
         "categories": [
           "Esporte"
         ],
         "category_ids": [
           7
-        ]
-      },
-      {
-        "title": "TSE julga ação que pode levar à cassação do governador Cláudio Castro",
-        "link": "https://roonoticias.com/o-tribunal-superior-eleitoral-retoma-nesta-terca-feira/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-11T10:11:18-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Homem arremessa cadeira e em outro cliente do bar e provoca confusão em Cuiabá; veja vídeo",
-        "link": "https://roonoticias.com/uma-confusao-registrada-em-um-bar-de-cuiaba-terminou/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-11T10:34:51-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Larva mata-porco pode provocar intoxicação fatal em animais e preocupa produtores rurais; veja vídeo",
-        "link": "https://roonoticias.com/produtores-rurais-de-diferentes-regioes-do-brasil/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-11T10:55:24-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Recepção da UPA em Rondonópolis passa por modernização e marca início de nova fase na saúde pública",
-        "link": "https://roonoticias.com/a-saude-publica-de-rondonopolis-iniciou-uma-nova-fase-de-melhorias-estruturais-com-a-entrega-da-primeira-etapa-da-reforma-da-unidade-de-pron/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-11T11:58:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
         ]
       }
     ]
