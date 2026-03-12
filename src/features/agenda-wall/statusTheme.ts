@@ -27,8 +27,10 @@ export function chipClass(state: ChipState) {
   return STATUS_THEME[state].chip;
 }
 
-export function heatmapClass(count: number) {
-  if (count > 1) return STATUS_THEME.acima.chip;
-  if (count === 1) return STATUS_THEME.prazo.chip;
+export function heatmapClass(status: "future" | "missed" | "ok" | "above" | "current") {
+  if (status === "above") return STATUS_THEME.acima.chip;
+  if (status === "ok") return STATUS_THEME.prazo.chip;
+  if (status === "current") return STATUS_THEME.andamento.chip;
+  if (status === "missed") return STATUS_THEME.atrasado.chip;
   return "bg-slate-700 text-slate-300 border-slate-600/40";
 }

@@ -119,13 +119,30 @@ export default function AgendaWall() {
 
       const startHour = Math.max(8, nowHour - 5);
       const endHour = Math.max(8, Math.min(22, nowHour));
+      const activeHours = new Set<number>();
+      for (const r of rules.filter((x: any) => x.kind === "hourly")) {
+        for (let h = Math.max(8, r.start); h <= Math.min(22, r.end); h++) activeHours.add(h);
+      }
+
       const timeline = Array.from({ length: endHour - startHour + 1 }, (_, i) => startHour + i).map((h) => {
         let count = 0;
         for (const c of dayHourly?.categories || []) {
           const hm = new Map<number, number>((c.hours || []).map((x: any) => [x.hour, x.count]));
           count += hm.get(h) || 0;
         }
-        return { hour: h, count };
+
+        const inRule = activeHours.has(h);
+        const status: "future" | "missed" | "ok" | "above" | "current" = !inRule
+          ? "future"
+          : h < nowHour && count === 0
+          ? "missed"
+          : h === nowHour && count === 0
+          ? "current"
+          : count > 1
+          ? "above"
+          : "ok";
+
+        return { hour: h, count, status };
       });
 
       const details = [

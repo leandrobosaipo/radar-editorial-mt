@@ -64,25 +64,25 @@ export function PortalWallCard({ item, onDetail }: Props) {
         </div>
       </div>
 
-      <div className="mt-2 rounded-lg border border-slate-700/60 bg-slate-950/50 p-2 text-xs">
-        <p className="mb-1 text-[10px] uppercase tracking-wider text-slate-400">Categorias (visão rápida)</p>
-        <div className="flex flex-wrap gap-1">
-          {item.categoryChips.slice(0, isMetaOnly ? 4 : 6).map((c, i) => (
-            <span key={`${c.label}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${chipClass(c.state)}`}>
-              {c.label}
-            </span>
-          ))}
+      <div className={`mt-2 grid gap-2 ${isMetaOnly ? "grid-cols-1" : "grid-cols-2"}`}>
+        <div className="rounded-lg border border-slate-700/60 bg-slate-950/50 p-2 text-xs">
+          <div className="flex flex-wrap gap-1">
+            {item.categoryChips.slice(0, isMetaOnly ? 5 : 6).map((c, i) => (
+              <span key={`${c.label}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${chipClass(c.state)}`}>
+                {c.label}
+              </span>
+            ))}
+          </div>
         </div>
-      </div>
 
-      <div className="mt-2 rounded-lg border border-slate-700/60 bg-slate-950/50 p-2 text-xs">
-        <p className="mb-1 text-[10px] uppercase tracking-wider text-slate-400">Jornalistas (top 3)</p>
-        <div className="flex flex-wrap gap-1">
-          {item.journalistChips.slice(0, isMetaOnly ? 2 : 3).map((j, i) => (
-            <span key={`${j.label}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${chipClass(j.state)}`}>
-              {j.label}
-            </span>
-          ))}
+        <div className="rounded-lg border border-slate-700/60 bg-slate-950/50 p-2 text-xs">
+          <div className="flex flex-wrap gap-1">
+            {item.journalistChips.slice(0, isMetaOnly ? 2 : 3).map((j, i) => (
+              <span key={`${j.label}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${chipClass(j.state)}`}>
+                {j.label}
+              </span>
+            ))}
+          </div>
         </div>
       </div>
 

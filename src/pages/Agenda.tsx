@@ -3,6 +3,7 @@ import { useDashboardData } from "@/hooks/useDashboardData";
 import { portalShort } from "@/lib/portal";
 import { REFRESH_INTERVAL } from "@/config";
 import { RefreshProgress } from "@/components/RefreshProgress";
+import { STATUS_THEME } from "@/features/agenda-wall/statusTheme";
 
 const SYSTEM_NAME = "RADAR EDITORIAL MT";
 const AGENDA_SUBTITLE = "Painel de metas de publicação";
@@ -451,10 +452,10 @@ export default function Agenda() {
           <summary className="cursor-pointer text-slate-400">Ver explicações e filtros do painel</summary>
           <div className="mt-2 flex flex-wrap items-center gap-2 text-[11px]">
             <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">N/I (hora futura)</span>
-            <span className="rounded bg-emerald-500/20 px-2 py-0.5 text-emerald-300">OK</span>
-            <span className="rounded bg-blue-500/30 px-2 py-0.5 text-blue-200">OK 2+</span>
-            <span className="rounded bg-amber-500/20 px-2 py-0.5 text-amber-300">EM PRAZO</span>
-            <span className="rounded bg-red-500/20 px-2 py-0.5 text-red-300">FORA DO PRAZO</span>
+            <span className={`rounded px-2 py-0.5 ${STATUS_THEME.prazo.chip}`}>OK</span>
+            <span className={`rounded px-2 py-0.5 ${STATUS_THEME.acima.chip}`}>OK 2+</span>
+            <span className={`rounded px-2 py-0.5 ${STATUS_THEME.andamento.chip}`}>EM PRAZO</span>
+            <span className={`rounded px-2 py-0.5 ${STATUS_THEME.atrasado.chip}`}>FORA DO PRAZO</span>
             <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
           </div>
           <p className="mt-2 text-[11px] text-slate-400">Leitura rápida: verde = em dia; azul = acima do combinado; laranja = ainda dentro do prazo; vermelho = atraso; cinza = sem dado para avaliar.</p>
@@ -619,7 +620,7 @@ export default function Agenda() {
                                   ) : (
                                     <span
                                       title={cell.cause}
-                                      className={`rounded px-1 ${day.isToday && cell.hour === nowHour ? "bg-amber-500/20 text-amber-300" : "bg-red-500/20 text-red-300"}`}
+                                      className={`rounded px-1 ${day.isToday && cell.hour === nowHour ? STATUS_THEME.andamento.chip : STATUS_THEME.atrasado.chip}`}
                                     >
                                       {day.isToday && cell.hour === nowHour ? "EM PRAZO" : "FORA PRAZO"}
                                     </span>
@@ -677,12 +678,12 @@ export default function Agenda() {
                           const color = !cell.hasAnyDataForDay
                             ? "bg-slate-500/20 text-slate-300"
                             : cell.count > cell.target
-                            ? "bg-blue-500/25 text-blue-200"
+                            ? STATUS_THEME.acima.chip
                             : cell.count === cell.target
-                            ? "bg-green-500/20 text-green-300"
+                            ? STATUS_THEME.prazo.chip
                             : late
-                            ? "bg-red-500/20 text-red-300"
-                            : "bg-amber-500/20 text-amber-300";
+                            ? STATUS_THEME.atrasado.chip
+                            : STATUS_THEME.andamento.chip;
                           return (
                             <td key={`${m.category}-${d.key}`} className="text-center p-2 border-l border-slate-800">
                               <span className={`rounded px-2 py-0.5 ${color}`}>
