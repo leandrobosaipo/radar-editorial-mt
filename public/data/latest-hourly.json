@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-11T19:00:00.397933-04:00",
+  "generated_at": "2026-03-11T20:00:00.471745-04:00",
   "window": {
-    "start": "2026-03-11T18:00:00.397933-04:00",
-    "end": "2026-03-11T19:00:00.397933-04:00"
+    "start": "2026-03-11T19:00:00.471745-04:00",
+    "end": "2026-03-11T20:00:00.471745-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Câmera de segurança registra dupla armada roubando joias, relógios e dinheiro em açougue de Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/dupla-armada-roubando-joias-acougue-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-11T18:06:05-04:00",
+        "title": "Kombi pega fogo em avenida movimentada de Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/kombi-pega-fogo-em-avenida-movimentada-de-sinop-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-03-11T19:11:14-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,27 +20,27 @@
         ]
       },
       {
-        "title": "Regulamentação de motoristas e entregadores por aplicativo pode avançar no Congresso até abril",
-        "link": "https://perrenguematogrosso.com/regulamentacao-de-motoristas-e-entregadores-por-aplicativo-pode-avancar-no-congresso-ate-abril/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-11T18:52:59-04:00",
+        "title": "Filho grava mãe gari trabalhando nas ruas e gesto de carinho emociona nas redes socias; veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-video-compartilhado-nas-redes-sociais-emocionou-milhares-de-pessoas-ao-mostrar-um-momento-simples-porem-cheio-de-significado/",
+        "author": "Lindy Oliveira",
+        "author_id": 292,
+        "published": "2026-03-11T19:28:00-04:00",
         "categories": [
-          "Política"
+          "Notícias"
         ],
         "category_ids": [
-          510
+          5
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Dupla armada invade açougue, rende funcionários e foge após roubar dinheiro e joias em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/dupla-armada-invade-acougue-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-11T18:08:21-04:00",
+        "title": "Kombi pega fogo em avenida movimentada de Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/kombi-pega-fogo-em-avenida-movimentada-de-sinop-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-03-11T19:13:08-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,16 +49,29 @@
         ]
       },
       {
-        "title": "Regulamentação de motoristas e entregadores por aplicativo pode avançar no Congresso até abril",
-        "link": "https://omatogrossense.com/regulamentacao-de-motoristas-e-entregadores-por-aplicativo-pode-avancar-no-congresso-ate-abril/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-11T18:53:30-04:00",
+        "title": "Filho grava mãe gari trabalhando nas ruas e gesto de carinho emociona nas redes socias; veja vídeo",
+        "link": "https://omatogrossense.com/um-video-compartilhado-nas-redes-sociais-emocionou-milhares-de-pessoas-ao-mostrar-um-momento-simples-porem-cheio-de-significado/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-11T19:28:00-04:00",
         "categories": [
-          "Política"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          5
+          973
+        ]
+      },
+      {
+        "title": "VÍDEO: Quadra da Praça Edir Benedito Barreto é revitalizada e reaberta para moradores do CPA 4",
+        "link": "https://omatogrossense.com/quadra-da-praca-edir-benedito-barreto-e-revitalizada/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-11T20:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ],
