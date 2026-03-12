@@ -46,6 +46,7 @@ function categoryKey(name: string) {
   const n = normalizeText(name);
   if (n.includes("meme")) return "memes";
   if (n.includes("vovo")) return "vovo";
+  if (n.includes("mt_noticia")) return "mt_noticia";
   if (n.includes("noticia") || n.includes("noticias") || n.includes("mt noticia")) return "noticia";
   if (n.includes("polit")) return "politica";
   if (n.includes("esport")) return "esporte";
@@ -221,6 +222,7 @@ export default function Agenda() {
     return data.portals.map((p) => {
       const code = portalShort(p.name, p.url);
       const rules = ((p.editorialRules && p.editorialRules.length > 0) ? p.editorialRules : rulesByPortal(code)) as any[];
+      const ruleCatKey = (r: any) => normalizeText((r.category_key || categoryKey(r.category || "")) as string);
       const hours = Array.from({ length: 15 }, (_, i) => i + 8);
 
       const postsByDay = new Map<string, typeof p.latestPosts>();
@@ -251,7 +253,8 @@ export default function Agenda() {
         for (const day of p.history.meta) {
           const catMap = new Map<string, { count: number; target?: number | null }>();
           for (const cat of day.categories || []) {
-            catMap.set(categoryKey(cat.category || ""), { count: cat.count || 0, target: cat.target });
+            const k = normalizeText((cat.category_key || categoryKey(cat.category || "")) as string);
+            catMap.set(k, { count: cat.count || 0, target: cat.target });
           }
           historyMeta.set(day.date, catMap);
         }
@@ -325,13 +328,14 @@ export default function Agenda() {
         }));
 
       const metaRows = rules.filter((r) => r.kind === "meta").map((r) => {
+        const rk = ruleCatKey(r);
         const byDay = days.map((day) => {
           const dayPosts = postsByDay.get(day.key) || [];
           const dayMeta = historyMeta.get(day.key);
-          const fromHistory = dayMeta?.get(categoryKey(r.category));
+          const fromHistory = dayMeta?.get(rk);
           const count = fromHistory
             ? fromHistory.count
-            : dayPosts.filter((lp) => categoryKey(lp.category || "") === categoryKey(r.category)).length;
+            : dayPosts.filter((lp) => categoryKey(lp.category || "") === rk).length;
           return {
             day,
             count,
@@ -340,14 +344,15 @@ export default function Agenda() {
             hasAnyDataForDay: hasHistory ? !!dayMeta : dayPosts.length > 0,
           };
         });
-        return { category: r.category, deadlineHour: r.end, byDay };
+        return { category: r.category, category_key: rk, deadlineHour: r.end, byDay };
       });
 
       const metaByDayCategory = new Map<string, { count: number; target: number; applies: boolean; hasAnyDataForDay: boolean }>();
       for (const m of metaRows) {
+        const mk = normalizeText((m as any).category_key || categoryKey(m.category));
         for (const d of m.byDay) {
           if (!d.applies) continue;
-          metaByDayCategory.set(`${d.day.key}::${categoryKey(m.category)}`, {
+          metaByDayCategory.set(`${d.day.key}::${mk}`, {
             count: d.count,
             target: d.target,
             applies: d.applies,
@@ -571,7 +576,9 @@ export default function Agenda() {
                               <td colSpan={visibleHours.length} className="text-center py-1">
                                 {!meta.hasAnyDataForDay ? (
                                   <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
-                                ) : meta.count >= meta.target ? (
+                                ) : meta.count > meta.target ? (
+                                  <span className="rounded bg-blue-500/25 px-2 py-0.5 text-blue-200">{meta.count}/{meta.target}</span>
+                                ) : meta.count === meta.target ? (
                                   <span className="rounded bg-green-500/20 px-2 py-0.5 text-green-300">{meta.count}/{meta.target}</span>
                                 ) : day.isToday ? (
                                   <span className="rounded bg-amber-500/20 px-2 py-0.5 text-amber-300">{meta.count}/{meta.target}</span>
@@ -671,7 +678,9 @@ export default function Agenda() {
                           const late = d.isToday ? nowHour > deadlineHour : true;
                           const color = !cell.hasAnyDataForDay
                             ? "bg-slate-500/20 text-slate-300"
-                            : cell.count >= cell.target
+                            : cell.count > cell.target
+                            ? "bg-blue-500/25 text-blue-200"
+                            : cell.count === cell.target
                             ? "bg-green-500/20 text-green-300"
                             : late
                             ? "bg-red-500/20 text-red-300"

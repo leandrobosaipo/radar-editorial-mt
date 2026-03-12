@@ -13,6 +13,7 @@ export function PortalWallCard({ item, onDetail }: Props) {
       : item.score > 0
       ? "border-amber-500/40 bg-amber-500/10 text-amber-200"
       : "border-emerald-500/40 bg-emerald-500/10 text-emerald-200";
+  const riskLabel = item.score > 6 ? "Alto" : item.score > 0 ? "Médio" : "Baixo";
 
 
   const stateClass = (state: "prazo" | "andamento" | "atrasado") =>
@@ -30,7 +31,7 @@ export function PortalWallCard({ item, onDetail }: Props) {
           <p className="text-xs text-slate-400">{item.portal.name}</p>
         </div>
         <span className={`rounded-full border px-2.5 py-1 text-xs font-semibold ${riskClass}`}>
-          Nível de atenção: {item.score}
+          Atenção {riskLabel} ({item.score})
         </span>
       </div>
 
