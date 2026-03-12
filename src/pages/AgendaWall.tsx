@@ -164,7 +164,7 @@ export default function AgendaWall() {
     inLanguage: "pt-BR",
     primaryImageOfPage: {
       "@type": "ImageObject",
-      url: "https://leandrobosaipo.github.io/radar-editorial-mt/images/agenda-wall-thumb.png",
+      url: "https://leandrobosaipo.github.io/radar-editorial-mt/images/agenda-wall-thumb.jpg",
       width: 1200,
       height: 630,
     },
@@ -178,7 +178,7 @@ export default function AgendaWall() {
         title="Agenda Wall | Radar Editorial em Tempo Real"
         description="Painel operacional em tempo real com status, risco e aderência por portal."
         canonicalPath="/agenda-wall"
-        imagePath="/images/agenda-wall-thumb.png"
+        imagePath="/images/agenda-wall-thumb.jpg"
         robots="index,follow"
         jsonLd={jsonLd}
       />
