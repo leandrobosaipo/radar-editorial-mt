@@ -19,11 +19,16 @@ export function WallHeader({ updatedAt }: Props) {
         </div>
       </div>
 
-      <div className="mt-2 flex flex-wrap gap-1.5 text-[10px]">
-        <span className="rounded-full border border-emerald-500/40 bg-emerald-500/15 px-2.5 py-1 text-emerald-300">Tudo em dia</span>
-        <span className="rounded-full border border-amber-500/40 bg-amber-500/15 px-2.5 py-1 text-amber-300">Ainda dentro do horário</span>
-        <span className="rounded-full border border-rose-500/40 bg-rose-500/15 px-2.5 py-1 text-rose-300">Atrasado</span>
-        <span className="rounded-full border border-blue-400/40 bg-blue-500/15 px-2.5 py-1 text-blue-200">Acima do combinado</span>
+      <div className="mt-1 flex items-center justify-between text-[10px] text-slate-400">
+        <details>
+          <summary className="cursor-pointer">Legenda de cores</summary>
+          <div className="mt-1 flex flex-wrap gap-1.5 text-[10px]">
+            <span className="rounded-full border border-emerald-500/40 bg-emerald-500/15 px-2 py-0.5 text-emerald-300">No prazo</span>
+            <span className="rounded-full border border-amber-500/40 bg-amber-500/15 px-2 py-0.5 text-amber-300">Andando</span>
+            <span className="rounded-full border border-rose-500/40 bg-rose-500/15 px-2 py-0.5 text-rose-300">Atrasado</span>
+            <span className="rounded-full border border-blue-400/40 bg-blue-500/15 px-2 py-0.5 text-blue-200">Acima do combinado</span>
+          </div>
+        </details>
       </div>
 
       <RefreshProgress intervalMs={REFRESH_INTERVAL} />

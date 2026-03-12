@@ -14,24 +14,6 @@ export function PortalWallCard({ item, onDetail }: Props) {
       ? "border-amber-500/40 bg-amber-500/10 text-amber-200"
       : "border-emerald-500/40 bg-emerald-500/10 text-emerald-200";
 
-  const lateCategoryKeys = new Set(item.topLate.map((x) => x.split(" ⚠")[0].toLowerCase()));
-  const compactCategories = item.portal.categories.slice(0, 6).map((c) => {
-    const key = c.name.toLowerCase();
-    const short = c.name.length > 10 ? `${c.name.slice(0, 8)}…` : c.name;
-    const state: "prazo" | "andamento" | "atrasado" =
-      c.status === "ATRASO" || lateCategoryKeys.has(key) ? "atrasado" : item.inProgress > 0 ? "andamento" : "prazo";
-    return { short, state };
-  });
-
-  const topJournalists = [...item.portal.journalists]
-    .sort((a, b) => b.count - a.count)
-    .slice(0, 3)
-    .map((j) => {
-      const hasLateCategory = j.categories.some((c) => lateCategoryKeys.has(c.toLowerCase()));
-      const state: "prazo" | "andamento" | "atrasado" = hasLateCategory ? "atrasado" : item.inProgress > 0 ? "andamento" : "prazo";
-      const short = j.name.split(" ").slice(0, 2).join(" ");
-      return { short, state };
-    });
 
   const stateClass = (state: "prazo" | "andamento" | "atrasado") =>
     state === "atrasado"
@@ -84,9 +66,9 @@ export function PortalWallCard({ item, onDetail }: Props) {
       <div className="mt-3 rounded-lg border border-slate-700/60 bg-slate-950/50 p-2.5 text-xs">
         <p className="mb-1 text-[10px] uppercase tracking-wider text-slate-400">Categorias (visão rápida)</p>
         <div className="flex flex-wrap gap-1.5">
-          {compactCategories.map((c, i) => (
-            <span key={`${c.short}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${stateClass(c.state)}`}>
-              {c.short}
+          {item.categoryChips.map((c, i) => (
+            <span key={`${c.label}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${stateClass(c.state)}`}>
+              {c.label}
             </span>
           ))}
         </div>
@@ -95,18 +77,12 @@ export function PortalWallCard({ item, onDetail }: Props) {
       <div className="mt-2 rounded-lg border border-slate-700/60 bg-slate-950/50 p-2.5 text-xs">
         <p className="mb-1 text-[10px] uppercase tracking-wider text-slate-400">Jornalistas (top 3)</p>
         <div className="flex flex-wrap gap-1.5">
-          {topJournalists.map((j, i) => (
-            <span key={`${j.short}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${stateClass(j.state)}`}>
-              {j.short}
+          {item.journalistChips.map((j, i) => (
+            <span key={`${j.label}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${stateClass(j.state)}`}>
+              {j.label}
             </span>
           ))}
         </div>
-      </div>
-
-      <div className="mt-2 flex flex-wrap items-center gap-2 text-[10px] text-slate-400">
-        <span className="inline-flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-emerald-400" />No prazo</span>
-        <span className="inline-flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-amber-400" />Andando</span>
-        <span className="inline-flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-rose-400" />Atrasado</span>
       </div>
 
       <MiniHeatmap timeline={item.timeline} />

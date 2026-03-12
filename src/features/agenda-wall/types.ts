@@ -1,5 +1,7 @@
 import { PortalData } from "@/types/dashboard";
 
+export type ChipState = "prazo" | "andamento" | "atrasado";
+
 export type AgendaWallItem = {
   portal: PortalData;
   code: string;
@@ -14,4 +16,6 @@ export type AgendaWallItem = {
   details: string[];
   samplePosts: any[];
   score: number;
+  categoryChips: Array<{ label: string; state: ChipState }>;
+  journalistChips: Array<{ label: string; state: ChipState }>;
 };

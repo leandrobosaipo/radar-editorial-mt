@@ -46,8 +46,8 @@ export default function AgendaWall() {
   const { data, isLoading } = useDashboardData();
   const [drill, setDrill] = useState<Drill>({ open: false, portal: "", details: [], posts: [] });
 
-  const nowHour = useMemo(() => nowCuiabaHour(), []);
-  const today = useMemo(() => todayKeyCuiaba(), []);
+  const nowHour = nowCuiabaHour();
+  const today = todayKeyCuiaba();
 
   const model = useMemo(() => {
     if (!data) return [] as AgendaWallItem[];
@@ -64,6 +64,8 @@ export default function AgendaWall() {
       let overdue = 0;
       let inProgress = 0;
       const lateByCategory = new Map<string, number>();
+      const overdueByKey = new Map<string, number>();
+      const inProgressByKey = new Map<string, number>();
 
       for (const r of rules.filter((x: any) => x.kind === "hourly")) {
         const cat = categoryKey(r.category);
@@ -77,8 +79,10 @@ export default function AgendaWall() {
           else if (h < nowHour) {
             overdue++;
             lateByCategory.set(r.category, (lateByCategory.get(r.category) || 0) + 1);
+            overdueByKey.set(cat, (overdueByKey.get(cat) || 0) + 1);
           } else if (h === nowHour) {
             inProgress++;
+            inProgressByKey.set(cat, (inProgressByKey.get(cat) || 0) + 1);
           }
         }
       }
@@ -89,7 +93,7 @@ export default function AgendaWall() {
       let metaPending = 0;
       for (const r of rules.filter((x: any) => x.kind === "meta")) {
         const cat = categoryKey(r.category);
-        const m = dayMeta?.categories?.find((c: any) => categoryKey(c.category) === cat);
+        const m = dayMeta?.categories?.find((c: any) => categoryKey(c.category) === cat && c.meta_applicable !== false);
         const count = m?.count || 0;
         const target = r.target || m?.target || 0;
         const deficit = Math.max(0, target - count);
@@ -142,6 +146,50 @@ export default function AgendaWall() {
         )
         .slice(0, 8);
 
+      const categoryChips = p.categories.slice(0, 6).map((cat: any) => {
+        const key = categoryKey(cat.name);
+        const hasHourlyRule = rules.some((r: any) => r.kind === "hourly" && categoryKey(r.category) === key);
+        const hasMetaRule = rules.some((r: any) => r.kind === "meta" && categoryKey(r.category) === key);
+        const overdueCount = overdueByKey.get(key) || 0;
+        const inProgressCount = inProgressByKey.get(key) || 0;
+
+        let state: "prazo" | "andamento" | "atrasado" = "prazo";
+
+        if (overdueCount > 0) {
+          state = "atrasado";
+        } else if (inProgressCount > 0) {
+          state = "andamento";
+        } else if (hasMetaRule) {
+          const m = dayMeta?.categories?.find((c: any) => categoryKey(c.category) === key && c.meta_applicable !== false);
+          const rule = rules.find((r: any) => r.kind === "meta" && categoryKey(r.category) === key);
+          const deadlineHour = typeof rule?.end === "number" ? rule.end : 23;
+          const target = rule?.target || m?.target || 0;
+          const count = m?.count || 0;
+          const deficit = Math.max(0, target - count);
+
+          if (deficit > 0 && nowHour > deadlineHour) state = "atrasado";
+          else if (deficit > 0) state = "andamento";
+        } else if (hasHourlyRule) {
+          state = "prazo";
+        }
+
+        const label = cat.name.length > 10 ? `${cat.name.slice(0, 8)}…` : cat.name;
+        return { label, state };
+      });
+
+      const journalistChips = [...p.journalists]
+        .sort((a: any, b: any) => b.count - a.count)
+        .slice(0, 3)
+        .map((j: any) => {
+          const states = j.categories.map((c: string) => {
+            const key = categoryKey(c);
+            const found = categoryChips.find((x) => categoryKey(x.label) === key);
+            return found?.state || "prazo";
+          });
+          const state = states.includes("atrasado") ? "atrasado" : states.includes("andamento") ? "andamento" : "prazo";
+          return { label: j.name.split(" ").slice(0, 2).join(" "), state };
+        });
+
       return {
         portal: p,
         code,
@@ -156,6 +204,8 @@ export default function AgendaWall() {
         details,
         samplePosts,
         score: overdue * 2 + metaDeficit,
+        categoryChips,
+        journalistChips,
       };
     });
   }, [data, nowHour, today]);
