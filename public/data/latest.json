@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-03-12T08:00:00.754966-04:00",
+  "generated_at": "2026-03-12T10:00:00.838031-04:00",
   "window": {
-    "start": "2026-03-12T07:00:00.754966-04:00",
-    "end": "2026-03-12T08:00:00.754966-04:00"
+    "start": "2026-03-12T09:00:00.838031-04:00",
+    "end": "2026-03-12T10:00:00.838031-04:00"
   },
   "sites": {
     "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Tentativa de crime contra criança termina com prisão após atitude corajosa de casal; Veja vídeo",
+        "link": "https://omatogrossense.com/um-homem-foi-preso-na-tarde-do/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-12T09:21:35-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
