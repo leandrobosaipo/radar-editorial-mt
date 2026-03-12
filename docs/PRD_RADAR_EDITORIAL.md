@@ -57,7 +57,7 @@ Campos críticos:
 - Heatmap horário com semântica:
   - `N/I` (hora futura)
   - `OK` / `OK 2+`
-  - `EM PRAZO` (hora atual sem post)
+  - `NO PRAZO` (hora atual sem post)
   - `FORA PRAZO` (hora passada sem post)
 - Metas diárias em tabela com colunas por dia:
   - PMT/OMT: ocultas por padrão (regra mista)
@@ -72,7 +72,7 @@ Campos críticos:
 ## 6) Critérios de aceite (atualizados)
 1. PMT/OMT não exibem metas diárias abertas por padrão.
 2. Portais de meta-only mantêm meta visível no modo padrão.
-3. Hora atual sem post aparece como `EM PRAZO` (não fora do prazo).
+3. Hora atual sem post aparece como `NO PRAZO` (não fora do prazo).
 4. Hora passada sem post aparece como `FORA PRAZO`.
 5. Não há duplicação de categoria horária (ex.: OMT MT Notícias).
 6. Regras usadas nas telas vêm de `editorial_rules` do plugin.

@@ -454,7 +454,7 @@ export default function Agenda() {
             <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">N/I (hora futura)</span>
             <span className={`rounded px-2 py-0.5 ${STATUS_THEME.prazo.chip}`}>OK</span>
             <span className={`rounded px-2 py-0.5 ${STATUS_THEME.acima.chip}`}>OK 2+</span>
-            <span className={`rounded px-2 py-0.5 ${STATUS_THEME.andamento.chip}`}>EM PRAZO</span>
+            <span className={`rounded px-2 py-0.5 ${STATUS_THEME.andamento.chip}`}>NO PRAZO</span>
             <span className={`rounded px-2 py-0.5 ${STATUS_THEME.atrasado.chip}`}>FORA DO PRAZO</span>
             <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
           </div>
@@ -622,7 +622,7 @@ export default function Agenda() {
                                       title={cell.cause}
                                       className={`rounded px-1 ${day.isToday && cell.hour === nowHour ? STATUS_THEME.andamento.chip : STATUS_THEME.atrasado.chip}`}
                                     >
-                                      {day.isToday && cell.hour === nowHour ? "EM PRAZO" : "FORA PRAZO"}
+                                      {day.isToday && cell.hour === nowHour ? "NO PRAZO" : "FORA PRAZO"}
                                     </span>
                                   )}
                                 </td>

@@ -10,7 +10,7 @@
 ## Média prioridade
 - [ ] Extrair engine de regras visuais da Agenda para módulo dedicado (`agendaRules.ts`).
 - [ ] Adicionar testes de regressão:
-  - hora atual = EM PRAZO
+  - hora atual = NO PRAZO
   - hora passada = FORA PRAZO
   - portais mistos vs meta-only
 - [ ] Cena executiva no `/tv` com semáforo de risco por portal.

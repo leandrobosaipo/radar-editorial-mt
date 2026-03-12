@@ -38,7 +38,7 @@ Campos mandatórios para consistência:
 - `N/I` (hora futura) = cinza
 - `OK` (1) = verde
 - `OK 2+` = azul
-- hora atual sem post = laranja (`EM PRAZO`)
+- hora atual sem post = laranja (`NO PRAZO`)
 - hora passada sem post = vermelho (`FORA PRAZO`)
 
 #### Meta diária

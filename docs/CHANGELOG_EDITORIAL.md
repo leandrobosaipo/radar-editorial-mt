@@ -13,7 +13,7 @@
 - `f413d43` — mantém metas visíveis no modo recolhido e move filtros/risco para topbar toggle
 - `dcefeb6` — PMT/OMT com metas ocultas por padrão
 - `15ecb3c` — visibilidade padrão por perfil de regra (misto vs meta-only)
-- `a0fa258` — hora atual tratada como "EM PRAZO"
+- `a0fa258` — hora atual tratada como "NO PRAZO"
 
 ## 2026-03-10 / 2026-03-11
 
