@@ -18,7 +18,7 @@ export function AuditTable({ entries }: Props) {
   return (
     <div className="px-4 pb-8 md:px-8">
       <div className="container mx-auto max-w-7xl">
-        <h2 className="mb-4 text-lg font-bold">Auditoria de Atrasos</h2>
+        <h2 className="mb-4 text-lg font-bold">Onde estamos com atraso</h2>
         <div className="overflow-x-auto rounded-lg border border-border bg-card">
           <table className="w-full text-sm">
             <thead>
@@ -26,8 +26,8 @@ export function AuditTable({ entries }: Props) {
                 <th className="px-4 py-3 text-left font-sans text-xs uppercase tracking-wider text-muted-foreground">Site</th>
                 <th className="px-4 py-3 text-left font-sans text-xs uppercase tracking-wider text-muted-foreground">Categoria</th>
                 <th className="px-4 py-3 text-left font-sans text-xs uppercase tracking-wider text-muted-foreground">Última Publicação</th>
-                <th className="px-4 py-3 text-left font-sans text-xs uppercase tracking-wider text-muted-foreground">Tempo Decorrido</th>
-                <th className="px-4 py-3 text-right font-sans text-xs uppercase tracking-wider text-muted-foreground">Status</th>
+                <th className="px-4 py-3 text-left font-sans text-xs uppercase tracking-wider text-muted-foreground">Há quanto tempo</th>
+                <th className="px-4 py-3 text-right font-sans text-xs uppercase tracking-wider text-muted-foreground">Situação</th>
               </tr>
             </thead>
             <tbody>

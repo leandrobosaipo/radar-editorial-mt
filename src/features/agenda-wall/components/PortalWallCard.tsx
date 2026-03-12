@@ -51,8 +51,11 @@ export function PortalWallCard({ item, onDetail }: Props) {
           <p className="text-base font-bold">{item.inProgress}</p>
         </div>
         <div className="rounded-md border border-slate-500/30 bg-slate-800/60 p-2 text-center text-slate-200">
-          <p className="text-[10px] text-slate-400">Faltando no dia</p>
+          <p className="text-[10px] text-slate-400">Faltando no dia (após prazo)</p>
           <p className="text-base font-bold">{item.metaDeficit}</p>
+          {item.metaDeficit === 0 && item.metaPending > 0 ? (
+            <p className="text-[10px] text-amber-300">Em andamento: {item.metaPending}</p>
+          ) : null}
         </div>
       </div>
 

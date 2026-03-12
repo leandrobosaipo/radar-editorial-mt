@@ -3,7 +3,7 @@ import { useDashboardData } from "@/hooks/useDashboardData";
 import { portalShort } from "@/lib/portal";
 
 const SYSTEM_NAME = "RADAR EDITORIAL MT";
-const AGENDA_SUBTITLE = "Painel da Agenda";
+const AGENDA_SUBTITLE = "Painel de metas de publicação";
 
 type Rule = {
   category: string;
@@ -430,7 +430,7 @@ export default function Agenda() {
           <span>Atualizado: {updatedAtLabel}</span>
         </div>
         <details className="mt-1">
-          <summary className="cursor-pointer text-slate-400">Ver legenda, filtros e regras dos indicadores</summary>
+          <summary className="cursor-pointer text-slate-400">Ver explicações e filtros do painel</summary>
           <div className="mt-2 flex flex-wrap items-center gap-2 text-[11px]">
             <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">N/I (hora futura)</span>
             <span className="rounded bg-emerald-500/20 px-2 py-0.5 text-emerald-300">OK</span>
@@ -439,7 +439,7 @@ export default function Agenda() {
             <span className="rounded bg-red-500/20 px-2 py-0.5 text-red-300">FORA DO PRAZO</span>
             <span className="rounded bg-slate-500/20 px-2 py-0.5 text-slate-300">SEM DADOS</span>
           </div>
-          <p className="mt-2 text-[11px] text-slate-400">Regras de leitura: hora futura = neutro; meta concluída = verde; acima da meta = azul; abaixo da meta com janela aberta = laranja; abaixo da meta com janela encerrada = vermelho.</p>
+          <p className="mt-2 text-[11px] text-slate-400">Leitura rápida: verde = em dia; azul = acima do combinado; laranja = ainda dentro do prazo; vermelho = atraso; cinza = sem dado para avaliar.</p>
 
           <div className="mt-2 flex flex-wrap items-center gap-2 text-xs">
             <button onClick={() => setShift("all")} className={`rounded px-2 py-1 border ${shift === "all" ? "bg-slate-700 border-slate-500" : "bg-slate-900/40 border-slate-700"}`}>Dia todo</button>
@@ -451,8 +451,8 @@ export default function Agenda() {
 
           {riskItems.length > 0 && (
             <div className="mt-2 rounded border border-red-900/40 bg-red-950/20 p-2 text-xs">
-              <div className="font-semibold text-red-200 mb-1">Ranking de risco (hoje)</div>
-              <div className="text-[11px] text-red-300/90 mb-1">Déficit de meta = quantas publicações faltam para bater a meta diária.</div>
+              <div className="font-semibold text-red-200 mb-1">Portais que pedem atenção hoje</div>
+              <div className="text-[11px] text-red-300/90 mb-1">“Faltando no dia” mostra quantas publicações ainda faltam para bater o objetivo diário.</div>
               <ul className="space-y-1 text-red-100">
                 {riskItems.map((r, i) => <li key={i}>{i + 1}. {r.portal} — {r.msg}</li>)}
               </ul>
@@ -494,19 +494,19 @@ export default function Agenda() {
           </div>
 
           <div className="rounded border border-slate-700/60 bg-slate-900/30 p-2 text-xs text-slate-200">
-            Situação do dia • Hora: {adherence.hourlyExpected > 0 ? `${adherence.hourlyPct}%` : "N/A"} • Meta: {adherence.metaTarget > 0 ? `${adherence.metaPct}%` : "N/A"}
+            Situação do dia • Meta por hora cumprida: {adherence.hourlyExpected > 0 ? `${adherence.hourlyPct}%` : "N/A"} • Meta diária cumprida: {adherence.metaTarget > 0 ? `${adherence.metaPct}%` : "N/A"}
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
             {adherence.hourlyExpected > 0 && (
               <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2">
-                <div className="text-slate-300">Aderência por hora (hoje)</div>
+                <div className="text-slate-300">Meta por hora cumprida (hoje)</div>
                 <div className="mt-1 font-semibold text-white">{`${adherence.hourlyDone}/${adherence.hourlyExpected} (${adherence.hourlyPct}%)`}</div>
               </div>
             )}
             {adherence.metaTarget > 0 && (
               <div className="rounded border border-slate-700/60 bg-slate-900/40 p-2">
-                <div className="text-slate-300">Aderência por meta (hoje)</div>
+                <div className="text-slate-300">Meta diária cumprida (hoje)</div>
                 <div className="mt-1 font-semibold text-white">{`${adherence.metaDone}/${adherence.metaTarget} (${adherence.metaPct}%)`}</div>
               </div>
             )}
@@ -549,7 +549,7 @@ export default function Agenda() {
                                 const activeN = dayRow.rows.filter((c: any) => c.active).length;
                                 const doneN = dayRow.rows.filter((c: any) => c.active && c.count > 0).length;
                                 const pct = activeN > 0 ? Math.round((doneN / activeN) * 100) : 0;
-                                return <div className="text-[10px] text-slate-400">Aderência: {doneN}/{activeN} ({pct}%)</div>;
+                                return <div className="text-[10px] text-slate-400">Cumprimento do dia: {doneN}/{activeN} ({pct}%)</div>;
                               })()}
                             </td>
                             {shouldMergeMeta ? (

@@ -19,7 +19,7 @@ const COLORS = {
   bg: "#0b1220",
 };
 
-const WALLBOARD_NAME = "Painel de Operações Editoriais";
+const WALLBOARD_NAME = "Painel editorial da redação";
 
 const PORTAL_ABBR: Record<string, string> = {
   "O Matogrossense": "OMT",
@@ -168,10 +168,10 @@ export default function TVDashboard() {
 
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 mb-2">
         {[
-          ["TOTAL DE POSTS", model.totalPosts, COLORS.blue],
-          ["PORTAIS ATIVOS", model.activePortals, COLORS.ok],
-          ["CATEGORIAS EM ATRASO", model.delayedCats, model.delayedCats > 0 ? COLORS.crit : COLORS.ok],
-          ["JORNALISTAS ATIVOS", model.journalists, COLORS.warn],
+          ["TOTAL PUBLICADO", model.totalPosts, COLORS.blue],
+          ["PORTAIS COM ATIVIDADE", model.activePortals, COLORS.ok],
+          ["CATEGORIAS COM ATRASO", model.delayedCats, model.delayedCats > 0 ? COLORS.crit : COLORS.ok],
+          ["JORNALISTAS COM PUBLICAÇÃO", model.journalists, COLORS.warn],
         ].map(([label, val, color]) => (
           <div key={String(label)} className="rounded-lg p-2" style={{ background: COLORS.card }}>
             <div className="text-[10px] text-slate-300">{label}</div>
@@ -183,7 +183,7 @@ export default function TVDashboard() {
       <div className="rounded-lg p-2 h-[78vh] overflow-hidden" style={{ background: COLORS.card }}>
         <div className="text-[11px] mb-1 flex items-center justify-between text-slate-300">
           <span>
-            {screenView === "charts" ? "Gráficos" : screenView === "sites" ? "Status dos 6 portais" : "Auditoria crítica"}
+            {screenView === "charts" ? "Visão por gráficos" : screenView === "sites" ? "Situação dos 6 portais" : "Atrasos que precisam de ação"}
           </span>
           <span>Auto alterna a cada 30s</span>
         </div>
@@ -191,7 +191,7 @@ export default function TVDashboard() {
         {screenView === "charts" && (
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 h-[calc(100%-20px)]">
             <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
-              <div className="text-xs mb-1">Posts por Portal</div>
+              <div className="text-xs mb-1">Publicações por portal</div>
               <ResponsiveContainer width="100%" height="92%">
                 <BarChart data={model.postsByPortal} layout="vertical" margin={{ left: 8, right: 8, top: 6, bottom: 6 }}>
                   <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
@@ -206,7 +206,7 @@ export default function TVDashboard() {
             </div>
 
             <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
-              <div className="text-xs mb-1">Posts por Categoria (SITE-CAT)</div>
+              <div className="text-xs mb-1">Publicações por categoria</div>
               <ResponsiveContainer width="100%" height="92%">
                 <BarChart data={model.postsByCategory} layout="vertical" margin={{ left: 8, right: 8, top: 6, bottom: 6 }}>
                   <CartesianGrid strokeDasharray="3 3" stroke="#334155" />
@@ -221,7 +221,7 @@ export default function TVDashboard() {
             </div>
 
             <div className="rounded-lg p-2" style={{ background: "#0f172a" }}>
-              <div className="text-xs mb-1">Posts por Jornalista (SITE-JOR)</div>
+              <div className="text-xs mb-1">Publicações por jornalista</div>
               <ResponsiveContainer width="100%" height="92%">
                 <BarChart data={model.postsByJournalist} layout="vertical" margin={{ left: 8, right: 8, top: 6, bottom: 6 }}>
                   <CartesianGrid strokeDasharray="3 3" stroke="#334155" />

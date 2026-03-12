@@ -86,14 +86,23 @@ export default function AgendaWall() {
       let metaTarget = 0;
       let metaDone = 0;
       let metaDeficit = 0;
+      let metaPending = 0;
       for (const r of rules.filter((x: any) => x.kind === "meta")) {
         const cat = categoryKey(r.category);
         const m = dayMeta?.categories?.find((c: any) => categoryKey(c.category) === cat);
         const count = m?.count || 0;
         const target = r.target || m?.target || 0;
+        const deficit = Math.max(0, target - count);
+        const deadlineHour = typeof r.end === "number" ? r.end : 23;
+
         metaTarget += target;
         metaDone += Math.min(count, target);
-        metaDeficit += Math.max(0, target - count);
+        metaPending += deficit;
+
+        // Só vira atraso real depois do horário-limite da regra.
+        if (nowHour > deadlineHour) {
+          metaDeficit += deficit;
+        }
       }
 
       const hourPct = hourlyExpected > 0 ? Math.round((hourlyDone / hourlyExpected) * 100) : null;
@@ -116,7 +125,13 @@ export default function AgendaWall() {
       const details = [
         overdue > 0 ? `⚠ ${overdue} horas com atraso de publicação` : "✔ nenhuma hora atrasada",
         `⏳ ${inProgress} faixa(s) ainda dentro do horário`,
-        metaTarget > 0 ? `Faltando no objetivo do dia: ${metaDeficit}` : "Sem objetivo diário configurado hoje",
+        metaTarget > 0
+          ? metaDeficit > 0
+            ? `Meta diária em atraso: faltam ${metaDeficit}`
+            : metaPending > 0
+            ? `Meta diária em andamento: faltam ${metaPending}`
+            : "✔ meta diária cumprida"
+          : "Sem objetivo diário configurado hoje",
       ];
 
       const samplePosts = (dayPosts?.categories || [])
@@ -133,6 +148,7 @@ export default function AgendaWall() {
         overdue,
         inProgress,
         metaDeficit,
+        metaPending,
         topLate,
         timeline,
         details,

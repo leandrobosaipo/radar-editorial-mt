@@ -177,10 +177,10 @@ export function PortalCard({ portal }: Props) {
             {portal.totalPublications}
           </span>
           <span className={`rounded px-2 py-1 text-[10px] font-mono font-bold uppercase ${siteStatus === "ATRASO" ? "bg-status-delay/20 text-status-delay" : "bg-status-ok/20 text-status-ok"}`} title="Status global do portal (última publicação)">
-            SITE {siteStatus === "ATRASO" ? "DESAT" : "ATIVO"}
+            Portal {siteStatus === "ATRASO" ? "Atrasado" : "Em dia"}
           </span>
-          <span className={`rounded px-2 py-1 text-[10px] font-mono font-bold uppercase ${complianceStatus === "ATRASO" ? "bg-status-delay/20 text-status-delay" : "bg-status-ok/20 text-status-ok"}`} title="Status das regras editoriais">
-            {ruleMode} {complianceStatus === "ATRASO" ? "PEND" : "OK"}
+          <span className={`rounded px-2 py-1 text-[10px] font-mono font-bold uppercase ${complianceStatus === "ATRASO" ? "bg-status-delay/20 text-status-delay" : "bg-status-ok/20 text-status-ok"}`} title="Cumprimento das regras de publicação">
+            Regras {complianceStatus === "ATRASO" ? "Pendentes" : "OK"}
           </span>
         </div>
       </div>
@@ -189,7 +189,7 @@ export function PortalCard({ portal }: Props) {
       {portal.checks && portal.checks.length > 0 && (
         <div className="mt-6">
           <h3 className="mb-2 text-xs font-sans uppercase tracking-wider text-muted-foreground">
-            Regras editoriais (checks)
+Regras de publicação
           </h3>
           <div className="overflow-x-auto">
             <table className="w-full text-sm">
@@ -222,8 +222,8 @@ export function PortalCard({ portal }: Props) {
               <tr className="border-b border-border text-left">
                 <th className="pb-2 pr-4 font-sans text-xs text-muted-foreground">Categoria</th>
                 <th className="pb-2 pr-4 font-sans text-xs text-muted-foreground text-right">Total</th>
-                <th className="pb-2 pr-4 font-sans text-xs text-muted-foreground">Regra / Janela</th>
-                <th className="pb-2 pr-4 font-sans text-xs text-muted-foreground">Último Post</th>
+                <th className="pb-2 pr-4 font-sans text-xs text-muted-foreground">Meta combinada</th>
+                <th className="pb-2 pr-4 font-sans text-xs text-muted-foreground">Última publicação</th>
                 <th className="pb-2 font-sans text-xs text-muted-foreground text-right">Status</th>
               </tr>
             </thead>

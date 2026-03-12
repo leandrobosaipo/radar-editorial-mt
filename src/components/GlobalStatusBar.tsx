@@ -12,10 +12,10 @@ export function GlobalStatusBar({ lastUpdate }: Props) {
           Radar Editorial MT
         </h1>
         <p className="mt-1 text-sm text-muted-foreground font-sans">
-          Monitor de Publicações — Fuso America/Cuiaba
+          Acompanhamento das publicações dos portais — horário de Cuiabá
         </p>
         <p className="mt-1 text-xs font-sans italic text-muted-foreground">
-          Publicou? Apareceu. Atrasou? Alertou.
+          Aqui você vê rápido o que já foi publicado e o que está atrasado.
         </p>
         <p className="mt-3 text-xs font-mono text-status-amber">
           Última atualização: {formatCuiabaTime(lastUpdate)}

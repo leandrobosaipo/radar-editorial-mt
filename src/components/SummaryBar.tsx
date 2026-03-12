@@ -7,10 +7,10 @@ interface Props {
 
 export function SummaryBar({ totalPublications, activePortals, delayedCategories, activeJournalists }: Props) {
   const items = [
-    { label: "Publicações", value: totalPublications },
-    { label: "Portais Ativos", value: activePortals },
-    { label: "Categorias em Atraso", value: delayedCategories, isDelay: true },
-    { label: "Jornalistas Ativos", value: activeJournalists },
+    { label: "Total publicado hoje", value: totalPublications },
+    { label: "Portais com atividade", value: activePortals },
+    { label: "Categorias com atraso", value: delayedCategories, isDelay: true },
+    { label: "Jornalistas com publicação", value: activeJournalists },
   ];
 
   return (

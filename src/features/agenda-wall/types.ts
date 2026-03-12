@@ -8,6 +8,7 @@ export type AgendaWallItem = {
   overdue: number;
   inProgress: number;
   metaDeficit: number;
+  metaPending: number;
   topLate: string[];
   timeline: Array<{ hour: number; count: number }>;
   details: string[];
