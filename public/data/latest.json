@@ -1,27 +1,93 @@
 {
-  "generated_at": "2026-03-12T11:00:05.262817-04:00",
+  "generated_at": "2026-03-12T13:07:42.768821-04:00",
   "window": {
-    "start": "2026-03-12T10:00:05.262817-04:00",
-    "end": "2026-03-12T11:00:05.262817-04:00"
+    "start": "2026-03-12T12:07:42.768821-04:00",
+    "end": "2026-03-12T13:07:42.768821-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Campeão mato-grossense, Mixto joga por vaga na Copa do Brasil e premiação milionária; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mixto-joga-por-vaga-na-copa-do-brasil/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-12T12:08:46-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Ultraleve bate em fios e causa apagão em bairros; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-ultraleve-provocou-tensao-em-riacho/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-12T12:43:21-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/325636-2/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-12T12:59:19-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Mixto reforça elenco feminino e anuncia contratação da extrema Thayná para a temporada",
+        "link": "https://perrenguematogrosso.com/mixto-reforca-elenco-feminino/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-12T13:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      }
+    ],
     "afolhalivre": [],
     "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Motociclista trafega na contramão, levanta suspeitas e acaba detido durante abordagem policial em Rondonópolis",
-        "link": "https://roonoticias.com/um-patrulhamento-da-policia-militar-terminou-com-a-detencao-de-um-motociclista-na-tarde-desta-quarta-feira-11-em-rondonopolis-no-sul-de-mat/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-12T10:02:00-04:00",
+        "title": "Governo propõe programa para ajudar servidores de MT a renegociar dívidas; veja vídeo",
+        "link": "https://roonoticias.com/o-governo-de-mato-grosso-enviou-a-assembleia-legislativa/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-12T12:35:50-04:00",
         "categories": [
-          "Rondonópolis"
+          "MT Notícias"
         ],
         "category_ids": [
-          3118
+          20
+        ]
+      },
+      {
+        "title": "Criminosos armados invadem açougue, rendem vítimas e levam joias e dinheiro em Cuiabá; veja vídeo",
+        "link": "https://roonoticias.com/cameras-de-seguranca-registraram-um-assalto-que-provocou/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-12T12:51:02-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
         ]
       }
     ]
@@ -41,12 +107,7 @@
       973,
       3032
     ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
+    "omatogrossense": [],
     "portalnortemt": [
       5,
       7,
