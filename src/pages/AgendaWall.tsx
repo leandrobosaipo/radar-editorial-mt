@@ -2,6 +2,11 @@ import { useMemo, useState } from "react";
 import Agenda from "./Agenda";
 import { useDashboardData } from "@/hooks/useDashboardData";
 import { portalShort } from "@/lib/portal";
+import { SeoMeta } from "@/components/seo/SeoMeta";
+import { WallHeader } from "@/features/agenda-wall/components/WallHeader";
+import { PortalWallCard } from "@/features/agenda-wall/components/PortalWallCard";
+import { DrillModal } from "@/features/agenda-wall/components/DrillModal";
+import { AgendaWallItem } from "@/features/agenda-wall/types";
 
 function categoryKey(name: string) {
   const n = (name || "")
@@ -45,7 +50,7 @@ export default function AgendaWall() {
   const today = useMemo(() => todayKeyCuiaba(), []);
 
   const model = useMemo(() => {
-    if (!data) return [] as any[];
+    if (!data) return [] as AgendaWallItem[];
 
     return data.portals.map((p) => {
       const code = portalShort(p.name, p.url);
@@ -114,9 +119,11 @@ export default function AgendaWall() {
         metaTarget > 0 ? `Déficit de meta: ${metaDeficit}` : "Sem meta diária hoje",
       ];
 
-      const samplePosts = (dayPosts?.categories || []).flatMap((c: any) =>
-        (c.hours || []).flatMap((h: any) => (h.posts || []).map((p: any) => ({ ...p, category: c.category, hour: h.hour })))
-      ).slice(0, 8);
+      const samplePosts = (dayPosts?.categories || [])
+        .flatMap((c: any) =>
+          (c.hours || []).flatMap((h: any) => (h.posts || []).map((post: any) => ({ ...post, category: c.category, hour: h.hour })))
+        )
+        .slice(0, 8);
 
       return {
         portal: p,
@@ -148,96 +155,61 @@ export default function AgendaWall() {
     [data?.lastUpdate]
   );
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: "Agenda Wall | Radar Editorial MT",
+    description: "Painel operacional em tempo real com risco, atrasos e aderência por portal.",
+    url: "https://leandrobosaipo.github.io/radar-editorial-mt/agenda-wall",
+    inLanguage: "pt-BR",
+    primaryImageOfPage: {
+      "@type": "ImageObject",
+      url: "https://leandrobosaipo.github.io/radar-editorial-mt/images/agenda-wall-thumb.png",
+      width: 1200,
+      height: 630,
+    },
+  };
+
   if (isLoading) return <div className="p-6">Carregando agenda wall…</div>;
 
   return (
-    <div className="space-y-6 p-4 md:p-6">
-      <div className="sticky top-0 z-20 rounded border border-slate-700/70 bg-slate-950/90 px-3 py-2 text-[11px] text-slate-300 backdrop-blur">
-        <div className="flex flex-wrap items-center justify-between gap-2">
-          <span>RADAR EDITORIAL MT • Agenda Wall (Comando) • Atualizado: {updatedAt}</span>
-          <span>Objetivo: responder em 3s “faltou?” e “quem atrasou?”</span>
-        </div>
-        <div className="mt-1 flex flex-wrap gap-2">
-          <span className="rounded bg-emerald-500/20 px-2 py-0.5 text-emerald-300">OK</span>
-          <span className="rounded bg-amber-500/20 px-2 py-0.5 text-amber-300">EM PRAZO (hora atual)</span>
-          <span className="rounded bg-red-500/20 px-2 py-0.5 text-red-300">VENCIDO</span>
-          <span className="rounded bg-blue-500/20 px-2 py-0.5 text-blue-200">ACIMA DA META</span>
-        </div>
+    <>
+      <SeoMeta
+        title="Agenda Wall | Radar Editorial em Tempo Real"
+        description="Painel operacional em tempo real com status, risco e aderência por portal."
+        canonicalPath="/agenda-wall"
+        imagePath="/images/agenda-wall-thumb.png"
+        robots="index,follow"
+        jsonLd={jsonLd}
+      />
+
+      <div className="space-y-6 p-4 md:p-6">
+        <WallHeader updatedAt={updatedAt} />
+
+        <section className="grid grid-cols-1 gap-3 lg:grid-cols-3">
+          {sorted.map((item) => (
+            <PortalWallCard
+              key={item.portal.name}
+              item={item}
+              onDetail={(selected) =>
+                setDrill({
+                  open: true,
+                  portal: `${selected.code} — ${selected.portal.name}`,
+                  details: selected.details,
+                  posts: selected.samplePosts,
+                })
+              }
+            />
+          ))}
+        </section>
+
+        <section className="rounded-lg border border-slate-700 bg-slate-950/30 p-2">
+          <div className="mb-2 text-sm font-semibold">Agenda detalhada (análise)</div>
+          <Agenda />
+        </section>
+
+        <DrillModal drill={drill} onClose={() => setDrill((d) => ({ ...d, open: false }))} />
       </div>
-
-      <section className="grid grid-cols-1 gap-3 lg:grid-cols-3">
-        {sorted.map((m) => (
-          <article key={m.portal.name} className="rounded-lg border border-slate-700 bg-slate-950/50 p-3">
-            <div className="flex items-start justify-between">
-              <div>
-                <h2 className="text-base font-bold">{m.code}</h2>
-                <p className="text-[11px] text-slate-400">{m.portal.name}</p>
-              </div>
-              <span className={`rounded px-2 py-0.5 text-xs font-semibold ${m.score > 6 ? "bg-red-500/20 text-red-300" : m.score > 0 ? "bg-amber-500/20 text-amber-300" : "bg-emerald-500/20 text-emerald-300"}`}>
-                risco {m.score}
-              </span>
-            </div>
-
-            <div className="mt-2 grid grid-cols-2 gap-2 text-xs">
-              <div className="rounded bg-slate-900/60 p-2">Hora: <span className="font-semibold">{m.hourPct ?? "N/A"}%</span></div>
-              <div className="rounded bg-slate-900/60 p-2">Meta: <span className="font-semibold">{m.metaPct ?? "N/A"}%</span></div>
-            </div>
-
-            <div className="mt-2 space-y-1 text-xs">
-              <div className="text-red-300">⚠ {m.overdue} janelas vencidas</div>
-              <div className="text-amber-300">⏳ {m.inProgress} em andamento</div>
-              <div className="text-slate-300">Déficit meta: {m.metaDeficit}</div>
-            </div>
-
-            <div className="mt-2 text-xs">
-              <div className="mb-1 text-slate-400">Responsáveis (top 3)</div>
-              <div className="space-y-1">{m.topLate.length ? m.topLate.map((t: string, i: number) => <div key={i}>{t}</div>) : <div className="text-emerald-300">✔ Sem categoria crítica</div>}</div>
-            </div>
-
-            <div className="mt-2 flex items-center gap-1 text-[10px]">
-              {m.timeline.map((t: any) => (
-                <span key={t.hour} className={`rounded px-1 py-0.5 ${t.count === 0 ? "bg-slate-700 text-slate-300" : t.count === 1 ? "bg-emerald-500/20 text-emerald-300" : "bg-blue-500/20 text-blue-200"}`} title={`${t.hour}h: ${t.count}`}>
-                  {t.hour}h
-                </span>
-              ))}
-            </div>
-
-            <button
-              className="mt-2 rounded border border-slate-700 bg-slate-900/60 px-2 py-1 text-xs"
-              onClick={() => setDrill({ open: true, portal: `${m.code} — ${m.portal.name}`, details: m.details, posts: m.samplePosts })}
-            >
-              Ver detalhe
-            </button>
-          </article>
-        ))}
-      </section>
-
-      <section className="rounded-lg border border-slate-700 bg-slate-950/30 p-2">
-        <div className="mb-2 text-sm font-semibold">Agenda detalhada (análise)</div>
-        <Agenda />
-      </section>
-
-      {drill.open && (
-        <div className="fixed inset-0 z-50 bg-black/60 p-4" onClick={() => setDrill((d) => ({ ...d, open: false }))}>
-          <div className="mx-auto max-w-2xl rounded-lg border border-slate-700 bg-slate-950 p-4" onClick={(e) => e.stopPropagation()}>
-            <div className="mb-2 flex items-center justify-between">
-              <h3 className="text-sm font-semibold">{drill.portal}</h3>
-              <button className="rounded bg-slate-800 px-2 py-1 text-xs" onClick={() => setDrill((d) => ({ ...d, open: false }))}>Fechar</button>
-            </div>
-            <div className="space-y-1 text-xs text-slate-300">
-              {drill.details.map((d, i) => <div key={i}>{d}</div>)}
-            </div>
-            <div className="mt-2 max-h-[45vh] space-y-2 overflow-y-auto">
-              {drill.posts.map((p, i) => (
-                <div key={i} className="rounded border border-slate-800 p-2 text-xs">
-                  <a className="text-blue-300 hover:underline" href={p.link} target="_blank" rel="noreferrer">{p.title}</a>
-                  <div className="mt-1 text-slate-400">{p.author} • {p.category} • {p.hour}h</div>
-                </div>
-              ))}
-            </div>
-          </div>
-        </div>
-      )}
-    </div>
+    </>
   );
 }
