@@ -114,9 +114,9 @@ export default function AgendaWall() {
       });
 
       const details = [
-        overdue > 0 ? `⚠ ${overdue} janelas vencidas` : "✔ nenhum atraso horário vencido",
-        `⏳ ${inProgress} em prazo (hora atual)`,
-        metaTarget > 0 ? `Déficit de meta: ${metaDeficit}` : "Sem meta diária hoje",
+        overdue > 0 ? `⚠ ${overdue} horas com atraso de publicação` : "✔ nenhuma hora atrasada",
+        `⏳ ${inProgress} faixa(s) ainda dentro do horário`,
+        metaTarget > 0 ? `Faltando no objetivo do dia: ${metaDeficit}` : "Sem objetivo diário configurado hoje",
       ];
 
       const samplePosts = (dayPosts?.categories || [])
@@ -182,7 +182,7 @@ export default function AgendaWall() {
     <>
       <SeoMeta
         title="Agenda Wall | Radar Editorial em Tempo Real"
-        description="Painel operacional em tempo real com status, risco e aderência por portal."
+        description="Painel em tempo real com metas de publicação por hora e por dia para cada portal."
         canonicalPath="/agenda-wall"
         imagePath="/images/agenda-wall-thumb.jpg"
         robots="index,follow"
@@ -210,7 +210,7 @@ export default function AgendaWall() {
         </section>
 
         <section className="rounded-lg border border-slate-700 bg-slate-950/30 p-2">
-          <div className="mb-2 text-sm font-semibold">Agenda detalhada (análise)</div>
+          <div className="mb-2 text-sm font-semibold">Detalhamento completo da agenda</div>
           <Agenda />
         </section>
 

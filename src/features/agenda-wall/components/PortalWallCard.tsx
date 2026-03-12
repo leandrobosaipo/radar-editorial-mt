@@ -22,42 +22,46 @@ export function PortalWallCard({ item, onDetail }: Props) {
           <p className="text-xs text-slate-400">{item.portal.name}</p>
         </div>
         <span className={`rounded-full border px-2.5 py-1 text-xs font-semibold ${riskClass}`}>
-          Risco {item.score}
+          Nível de atenção: {item.score}
         </span>
       </div>
 
-      <div className="mt-3 grid grid-cols-2 gap-2">
+      <p className="mt-3 text-[11px] text-slate-400">
+        Percentual de cumprimento das publicações combinadas (por hora e por dia).
+      </p>
+
+      <div className="mt-2 grid grid-cols-2 gap-2">
         <div className="rounded-lg border border-cyan-500/20 bg-slate-950/60 p-2.5">
-          <p className="text-[10px] uppercase tracking-wider text-slate-400">Aderência hora</p>
+          <p className="text-[10px] uppercase tracking-wider text-slate-400">Meta por hora cumprida</p>
           <p className="mt-1 text-xl font-bold text-cyan-300">{item.hourPct ?? "—"}%</p>
         </div>
         <div className="rounded-lg border border-blue-500/20 bg-slate-950/60 p-2.5">
-          <p className="text-[10px] uppercase tracking-wider text-slate-400">Aderência meta</p>
+          <p className="text-[10px] uppercase tracking-wider text-slate-400">Meta diária cumprida</p>
           <p className="mt-1 text-xl font-bold text-blue-300">{item.metaPct ?? "—"}%</p>
         </div>
       </div>
 
       <div className="mt-3 grid grid-cols-3 gap-2 text-[11px]">
         <div className="rounded-md border border-rose-500/20 bg-rose-500/10 p-2 text-center text-rose-200">
-          <p className="text-[10px] text-rose-300/80">Vencido</p>
+          <p className="text-[10px] text-rose-300/80">Horas em atraso</p>
           <p className="text-base font-bold">{item.overdue}</p>
         </div>
         <div className="rounded-md border border-amber-500/20 bg-amber-500/10 p-2 text-center text-amber-200">
-          <p className="text-[10px] text-amber-300/80">Andamento</p>
+          <p className="text-[10px] text-amber-300/80">Hora atual</p>
           <p className="text-base font-bold">{item.inProgress}</p>
         </div>
         <div className="rounded-md border border-slate-500/30 bg-slate-800/60 p-2 text-center text-slate-200">
-          <p className="text-[10px] text-slate-400">Déficit</p>
+          <p className="text-[10px] text-slate-400">Faltando no dia</p>
           <p className="text-base font-bold">{item.metaDeficit}</p>
         </div>
       </div>
 
       <div className="mt-3 rounded-lg border border-slate-700/60 bg-slate-950/50 p-2.5 text-xs">
-        <p className="mb-1 text-[10px] uppercase tracking-wider text-slate-400">Categorias críticas</p>
+        <p className="mb-1 text-[10px] uppercase tracking-wider text-slate-400">Onde está faltando publicação</p>
         {item.topLate.length ? (
           <div className="space-y-1 text-slate-200">{item.topLate.map((t, i) => <div key={i}>• {t}</div>)}</div>
         ) : (
-          <div className="text-emerald-300">✔ Sem categoria crítica</div>
+          <div className="text-emerald-300">✔ Nenhuma categoria com atraso</div>
         )}
       </div>
 

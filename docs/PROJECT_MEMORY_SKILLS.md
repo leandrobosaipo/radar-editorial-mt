@@ -6,6 +6,12 @@
 - `docs/OPEN_ITEMS.md` → backlog objetivo
 - `../automation/editorial-monitor/RULES_EDITORIAIS_OFICIAIS.md` → regra editorial oficial
 
+## 1.1) Caminhos oficiais (absolutos)
+- Frontend Radar (deploy GitHub/Lovable):
+  - `/Users/leandrobosaipo/.openclaw/workspace-openrouter-free/projects/codigo5-manutencao/radar-editorial-mt`
+- Automação e sync de dados:
+  - `/Users/leandrobosaipo/.openclaw/workspace-openrouter-free/projects/codigo5-manutencao/automation/editorial-monitor`
+
 ## 2) Arquitetura de dados (plugin ↔ painel)
 ## Feed por portal
 Endpoint: `/wp-json/radar/v1/feed`
@@ -55,13 +61,15 @@ Campos mandatórios para consistência:
 ## 5) Ritual obrigatório de mudança
 Antes:
 1. Conferir regra oficial
-2. Validar impacto nas 3 telas (`/`, `/tv`, `/agenda`)
+2. Validar impacto nas telas (`/`, `/tv`, `/agenda`, `/agenda-wall`)
+3. Validar que está no repo certo (`pwd`, `git remote -v`, `git branch --show-current`)
 
 Depois:
-1. Build local OK
-2. Commit/push
-3. Atualizar changelog/open items
-4. Validar visual nas 3 telas
+1. Build local OK (`npm run build`)
+2. Commit/push no repo correto
+3. Confirmar workflow `Deploy dashboard to GitHub Pages` em success
+4. Atualizar changelog/open items
+5. Validar visual nas telas alteradas
 
 ## 6) Não fazer
 - Não criar regra nova só no front sem refletir no plugin.

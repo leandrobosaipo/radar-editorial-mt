@@ -1,8 +1,9 @@
 # Radar Editorial MT
 
-Painel editorial com duas interfaces:
+Painel editorial com três interfaces:
 - `/` Dashboard operacional padrão
 - `/tv` Wallboard (modo telão / redação)
+- `/agenda-wall` Painel humanizado de metas por hora e por dia
 
 ## Rodar no Mac (teste local)
 
@@ -15,6 +16,7 @@ npm run dev -- --host 0.0.0.0 --port 4173
 Acesse:
 - Dashboard normal: `http://localhost:4173/`
 - Modo TV: `http://localhost:4173/tv`
+- Agenda Wall: `http://localhost:4173/agenda-wall`
 
 ## Dados usados
 
@@ -53,3 +55,30 @@ URL do modo TV (usar a mesma na TV Android):
 2. Acesse a URL `/tv`
 3. Coloque em tela cheia
 4. Desative suspensão de tela (economia de energia)
+
+## Pastas oficiais do projeto (source of truth)
+- Frontend Radar (este repositório):
+  - `/Users/leandrobosaipo/.openclaw/workspace-openrouter-free/projects/codigo5-manutencao/radar-editorial-mt`
+- Automação/sincronização de dados:
+  - `/Users/leandrobosaipo/.openclaw/workspace-openrouter-free/projects/codigo5-manutencao/automation/editorial-monitor`
+
+## Rotina segura de deploy (evitar rota/projeto errado)
+1. **Entrar no repositório correto**:
+   - `cd /Users/leandrobosaipo/.openclaw/workspace-openrouter-free/projects/codigo5-manutencao/radar-editorial-mt`
+2. **Validar remoto e branch antes de alterar**:
+   - `git remote -v` (deve apontar para `leandrobosaipo/radar-editorial-mt`)
+   - `git branch --show-current` (deve ser `main`, salvo orientação contrária)
+3. **Rodar local e validar tela alterada**:
+   - `npm run dev -- --host 0.0.0.0 --port 4173`
+4. **Build obrigatório**:
+   - `npm run build`
+5. **Commit + push**:
+   - `git add ... && git commit -m "..." && git push origin main`
+6. **Confirmar GitHub Actions** (`Deploy dashboard to GitHub Pages`) com status success.
+
+### Regra operacional para futuros agentes
+- Nunca assumir caminho de memória antiga.
+- Sempre pedir/confirmar e depois validar com `git remote -v` + `pwd` antes do deploy.
+- Se existirem múltiplos projetos parecidos, tratar este caminho como padrão oficial do Radar.
+
+Guia completo: `docs/DEPLOY_SAFE_ROUTINE.md`

@@ -8,7 +8,7 @@ export function WallHeader({ updatedAt }: Props) {
       <div className="flex flex-wrap items-center justify-between gap-3">
         <div>
           <p className="text-[10px] uppercase tracking-[0.18em] text-slate-400">Radar Editorial MT</p>
-          <h1 className="text-base font-semibold">Agenda Wall Operacional</h1>
+          <h1 className="text-base font-semibold">Painel da agenda editorial</h1>
         </div>
         <div className="text-right text-xs">
           <p className="text-slate-400">Última atualização</p>
@@ -17,10 +17,10 @@ export function WallHeader({ updatedAt }: Props) {
       </div>
 
       <div className="mt-3 flex flex-wrap gap-2 text-[11px]">
-        <span className="rounded-full border border-emerald-500/40 bg-emerald-500/15 px-2.5 py-1 text-emerald-300">OK</span>
-        <span className="rounded-full border border-amber-500/40 bg-amber-500/15 px-2.5 py-1 text-amber-300">EM PRAZO</span>
-        <span className="rounded-full border border-rose-500/40 bg-rose-500/15 px-2.5 py-1 text-rose-300">VENCIDO</span>
-        <span className="rounded-full border border-blue-400/40 bg-blue-500/15 px-2.5 py-1 text-blue-200">ACIMA DA META</span>
+        <span className="rounded-full border border-emerald-500/40 bg-emerald-500/15 px-2.5 py-1 text-emerald-300">Tudo em dia</span>
+        <span className="rounded-full border border-amber-500/40 bg-amber-500/15 px-2.5 py-1 text-amber-300">Ainda dentro do horário</span>
+        <span className="rounded-full border border-rose-500/40 bg-rose-500/15 px-2.5 py-1 text-rose-300">Atrasado</span>
+        <span className="rounded-full border border-blue-400/40 bg-blue-500/15 px-2.5 py-1 text-blue-200">Acima do combinado</span>
       </div>
     </header>
   );
