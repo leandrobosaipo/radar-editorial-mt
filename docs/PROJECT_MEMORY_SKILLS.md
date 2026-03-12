@@ -51,6 +51,12 @@ Campos mandatórios para consistência:
 - PMT/OMT (regra mista hora+meta): metas diárias ocultas por padrão
 - ROO/PNMT/PPMT/AFL (meta-only): metas abertas por padrão
 
+### Mapeamento oficial de categorias (meta-only)
+- ROO: `rondonopolis`, `mt_noticia`, `brasil_mundo`, `politica`, `esporte`
+- PNMT: `sinop`, `mt_noticia`, `brasil_mundo`, `politica`, `esporte`
+- PPMT: `caceres`, `mt_noticia`, `brasil_mundo`, `politica`, `esporte`
+- AFL: `primavera`, `mt_noticia`, `brasil_mundo`, `politica`, `esporte`
+
 ## 4) Skill de decisão rápida (UX)
 - Topbar fina sticky com legenda em dropdown
 - filtros no dropdown (turno + só problemas)
