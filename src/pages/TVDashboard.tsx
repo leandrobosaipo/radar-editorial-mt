@@ -1,5 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { useDashboardData } from "@/hooks/useDashboardData";
+import { REFRESH_INTERVAL } from "@/config";
+import { RefreshProgress } from "@/components/RefreshProgress";
 import {
   BarChart,
   Bar,
@@ -165,6 +167,7 @@ export default function TVDashboard() {
         <span>{WALLBOARD_NAME}</span>
         <span>Atualizado: {new Date(data?.lastUpdate || Date.now()).toLocaleString("pt-BR")}</span>
       </div>
+      <RefreshProgress intervalMs={REFRESH_INTERVAL} />
 
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 mb-2">
         {[

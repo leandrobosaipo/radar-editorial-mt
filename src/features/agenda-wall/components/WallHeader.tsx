@@ -1,3 +1,6 @@
+import { REFRESH_INTERVAL } from "@/config";
+import { RefreshProgress } from "@/components/RefreshProgress";
+
 type Props = {
   updatedAt: string;
 };
@@ -22,6 +25,8 @@ export function WallHeader({ updatedAt }: Props) {
         <span className="rounded-full border border-rose-500/40 bg-rose-500/15 px-2.5 py-1 text-rose-300">Atrasado</span>
         <span className="rounded-full border border-blue-400/40 bg-blue-500/15 px-2.5 py-1 text-blue-200">Acima do combinado</span>
       </div>
+
+      <RefreshProgress intervalMs={REFRESH_INTERVAL} />
     </header>
   );
 }

@@ -1,6 +1,8 @@
 import { useMemo, useState } from "react";
 import { useDashboardData } from "@/hooks/useDashboardData";
 import { portalShort } from "@/lib/portal";
+import { REFRESH_INTERVAL } from "@/config";
+import { RefreshProgress } from "@/components/RefreshProgress";
 
 const SYSTEM_NAME = "RADAR EDITORIAL MT";
 const AGENDA_SUBTITLE = "Painel de metas de publicação";
@@ -441,6 +443,7 @@ export default function Agenda() {
           <span>{SYSTEM_NAME} • {AGENDA_SUBTITLE} • Período: {days[6]?.label} → {days[0]?.label}</span>
           <span>Atualizado: {updatedAtLabel}</span>
         </div>
+        <RefreshProgress intervalMs={REFRESH_INTERVAL} />
         <details className="mt-1">
           <summary className="cursor-pointer text-slate-400">Ver explicações e filtros do painel</summary>
           <div className="mt-2 flex flex-wrap items-center gap-2 text-[11px]">

@@ -3,6 +3,8 @@ interface Props {
 }
 
 import { formatCuiabaTime } from "@/lib/time";
+import { REFRESH_INTERVAL } from "@/config";
+import { RefreshProgress } from "@/components/RefreshProgress";
 
 export function GlobalStatusBar({ lastUpdate }: Props) {
   return (
@@ -20,6 +22,7 @@ export function GlobalStatusBar({ lastUpdate }: Props) {
         <p className="mt-3 text-xs font-mono text-status-amber">
           Última atualização: {formatCuiabaTime(lastUpdate)}
         </p>
+        <RefreshProgress intervalMs={REFRESH_INTERVAL} />
       </div>
     </header>
   );
