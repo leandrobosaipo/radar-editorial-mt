@@ -1,6 +1,6 @@
 import { PortalData } from "@/types/dashboard";
 
-export type ChipState = "prazo" | "andamento" | "atrasado";
+export type ChipState = "prazo" | "andamento" | "atrasado" | "acima";
 
 export type AgendaWallItem = {
   portal: PortalData;
@@ -12,7 +12,7 @@ export type AgendaWallItem = {
   metaDeficit: number;
   metaPending: number;
   topLate: string[];
-  timeline: Array<{ hour: number; count: number }>;
+  timeline: Array<{ hour: number; count: number; status: "future" | "missed" | "ok" | "above" | "current" }>;
   details: string[];
   samplePosts: any[];
   score: number;

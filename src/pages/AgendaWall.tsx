@@ -170,7 +170,7 @@ export default function AgendaWall() {
         const overdueCount = overdueByKey.get(key) || 0;
         const inProgressCount = inProgressByKey.get(key) || 0;
 
-        let state: "prazo" | "andamento" | "atrasado" = "prazo";
+        let state: "prazo" | "andamento" | "atrasado" | "acima" = "prazo";
 
         if (overdueCount > 0) {
           state = "atrasado";
@@ -184,7 +184,8 @@ export default function AgendaWall() {
           const count = m?.count || 0;
           const deficit = Math.max(0, target - count);
 
-          if (deficit > 0 && nowHour > deadlineHour) state = "atrasado";
+          if (count > target && target > 0) state = "acima";
+          else if (deficit > 0 && nowHour > deadlineHour) state = "atrasado";
           else if (deficit > 0) state = "andamento";
         } else if (hasHourlyRule) {
           state = "prazo";
@@ -203,7 +204,13 @@ export default function AgendaWall() {
             const found = categoryChips.find((x) => categoryKey(x.label) === key);
             return found?.state || "prazo";
           });
-          const state = states.includes("atrasado") ? "atrasado" : states.includes("andamento") ? "andamento" : "prazo";
+          const state = states.includes("atrasado")
+            ? "atrasado"
+            : states.includes("andamento")
+            ? "andamento"
+            : states.includes("acima")
+            ? "acima"
+            : "prazo";
           return { label: j.name.split(" ").slice(0, 2).join(" "), state };
         });
 
