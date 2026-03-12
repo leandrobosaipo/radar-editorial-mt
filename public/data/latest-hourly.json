@@ -1,54 +1,15 @@
 {
-  "generated_at": "2026-03-12T17:03:10.499482-04:00",
+  "generated_at": "2026-03-12T18:00:05.289173-04:00",
   "window": {
-    "start": "2026-03-12T16:03:10.499482-04:00",
-    "end": "2026-03-12T17:03:10.499482-04:00"
+    "start": "2026-03-12T17:00:05.289173-04:00",
+    "end": "2026-03-12T18:00:05.289173-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Motorista atravessa BR-163 sem controle e termina trajeto em terreno baldio em Peixoto; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motorista-atravessa-br-163-terreno-baldio-peixoto-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-12T16:28:12-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Semana do Cavalo movimenta R$ 60 milhões em Cuiabá e consolida força da equinocultura; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/semana-de-programacao-em-cuiaba/",
-        "author": "Desconhecido",
-        "author_id": 290,
-        "published": "2026-03-12T16:44:28-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Gabriel Bortoleto marca primeiros pontos da Audi na Fórmula 1 e aposta em futuro da equipe; veja vídeo",
-        "link": "https://perrenguematogrosso.com/gabriel-bortoleto-marca-primeiros-pontos-da-audi/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-12T17:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
         "title": "Ataque deixa cratera e destrói casas, mostram imagens de drone; Veja vídeo",
         "link": "https://perrenguematogrosso.com/um-video-registrado-por-drone-revelou/",
-        "author": "Desconhecido",
+        "author": "Karolina silva",
         "author_id": 290,
         "published": "2026-03-12T17:00:15-04:00",
         "categories": [
@@ -57,49 +18,36 @@
         "category_ids": [
           5
         ]
-      }
-    ],
-    "afolhalivre": [],
-    "omatogrossense": [
+      },
       {
-        "title": "Motorista de Gol trafega de forma desgovernada em ruas de Peixoto de Azevedo; veja vídeo",
-        "link": "https://omatogrossense.com/motorista-gol-trafega-desgovernada-peixoto-azevedo-video/",
+        "title": "Empresário de Mato Grosso realiza sonho e traz caminhão de bombeiros dos EUA para Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/empresario-mato-grosso-caminhao-bombeiros-cuiaba/",
         "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-12T16:27:41-04:00",
+        "author_id": 279,
+        "published": "2026-03-12T17:06:20-04:00",
         "categories": [
-          "MT Notícias"
+          "Notícias"
         ],
         "category_ids": [
-          20
+          5
         ]
       },
       {
-        "title": "Cantor Hugo aposta na equinocultura e estreia leilão durante Semana do Cavalo em Cuiabá; Veja vídeo",
-        "link": "https://omatogrossense.com/cantor-hugo-decidiu-transformar-a-paixao/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-12T16:46:45-04:00",
-        "categories": [
-          "Entretenimento"
-        ],
-        "category_ids": [
-          6
-        ]
-      },
-      {
-        "title": "VÍDEO: Brasileiro faz história na Fórmula 1 e projeta Audi entre as potências da categoria",
-        "link": "https://omatogrossense.com/brasileiro-faz-historia-na-formula-1-e-projeta-audi/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-12T17:00:00-04:00",
+        "title": "Uefa abre investigação contra jogador do Chelsea após empurrão em gandula na Champions League; veja vídeo",
+        "link": "https://perrenguematogrosso.com/uefa-abre-investigacao-contra-jogador-do-chelsea/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-12T18:00:00-04:00",
         "categories": [
           "Esporte"
         ],
         "category_ids": [
-          7
+          509
         ]
-      },
+      }
+    ],
+    "afolhalivre": [],
+    "omatogrossense": [
       {
         "title": "Drone revela destruição após novos ataques em meio à guerra; Veja vídeo",
         "link": "https://omatogrossense.com/imagens-registradas-por-drone-mostraram/",
@@ -111,6 +59,32 @@
         ],
         "category_ids": [
           973
+        ]
+      },
+      {
+        "title": "Empresário de MT realiza sonho e traz caminhão de bombeiros dos EUA para Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/empresario-mt-caminhao-bombeiros-eua-cuiaba/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-12T17:05:36-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "VÍDEO: Uefa abre investigação após jogador do Chelsea empurrar gandula em jogo da Champions",
+        "link": "https://omatogrossense.com/uefa-abre-investigacao-apos-jogador-do-chelsea-empurrar-gandula/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-12T18:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ],
