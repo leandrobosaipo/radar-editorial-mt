@@ -7,19 +7,19 @@ type Props = {
 
 export function WallHeader({ updatedAt }: Props) {
   return (
-    <header className="sticky top-0 z-20 rounded-xl border border-slate-700/70 bg-gradient-to-r from-slate-950/95 via-slate-900/95 to-slate-950/95 px-4 py-3 text-slate-200 shadow-lg backdrop-blur">
-      <div className="flex flex-wrap items-center justify-between gap-3">
+    <header className="sticky top-0 z-20 rounded-xl border border-slate-700/70 bg-gradient-to-r from-slate-950/95 via-slate-900/95 to-slate-950/95 px-3 py-2 text-slate-200 shadow-lg backdrop-blur">
+      <div className="flex flex-wrap items-center justify-between gap-2">
         <div>
-          <p className="text-[10px] uppercase tracking-[0.18em] text-slate-400">Radar Editorial MT</p>
-          <h1 className="text-base font-semibold">Painel da agenda editorial</h1>
+          <p className="text-[9px] uppercase tracking-[0.16em] text-slate-400">Radar Editorial MT</p>
+          <h1 className="text-sm font-semibold">Painel da agenda editorial</h1>
         </div>
-        <div className="text-right text-xs">
-          <p className="text-slate-400">Última atualização</p>
+        <div className="text-right text-[11px]">
+          <p className="text-slate-400">Atualizado</p>
           <p className="font-semibold text-cyan-300">{updatedAt}</p>
         </div>
       </div>
 
-      <div className="mt-3 flex flex-wrap gap-2 text-[11px]">
+      <div className="mt-2 flex flex-wrap gap-1.5 text-[10px]">
         <span className="rounded-full border border-emerald-500/40 bg-emerald-500/15 px-2.5 py-1 text-emerald-300">Tudo em dia</span>
         <span className="rounded-full border border-amber-500/40 bg-amber-500/15 px-2.5 py-1 text-amber-300">Ainda dentro do horário</span>
         <span className="rounded-full border border-rose-500/40 bg-rose-500/15 px-2.5 py-1 text-rose-300">Atrasado</span>

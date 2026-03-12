@@ -207,10 +207,10 @@ export default function AgendaWall() {
         jsonLd={jsonLd}
       />
 
-      <div className="space-y-6 bg-slate-950 p-4 md:p-6 min-h-screen">
+      <div className="space-y-4 bg-slate-950 p-3 md:p-4 min-h-screen">
         <WallHeader updatedAt={updatedAt} />
 
-        <section className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3">
+        <section className="grid grid-cols-1 gap-3 md:grid-cols-2 xl:grid-cols-3">
           {sorted.map((item) => (
             <PortalWallCard
               key={item.portal.name}
@@ -227,10 +227,12 @@ export default function AgendaWall() {
           ))}
         </section>
 
-        <section className="rounded-lg border border-slate-700 bg-slate-950/30 p-2">
-          <div className="mb-2 text-sm font-semibold">Detalhamento completo da agenda</div>
-          <Agenda />
-        </section>
+        <details className="rounded-lg border border-slate-700 bg-slate-950/30 p-2">
+          <summary className="cursor-pointer text-sm font-semibold">Detalhamento completo da agenda (abrir quando precisar)</summary>
+          <div className="mt-2">
+            <Agenda />
+          </div>
+        </details>
 
         <DrillModal drill={drill} onClose={() => setDrill((d) => ({ ...d, open: false }))} />
       </div>

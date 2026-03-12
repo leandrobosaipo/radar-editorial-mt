@@ -41,7 +41,7 @@ export function PortalWallCard({ item, onDetail }: Props) {
       : "bg-emerald-500/20 text-emerald-200 border-emerald-500/30";
 
   return (
-    <article className="rounded-xl border border-slate-700/80 bg-slate-900/65 p-4 shadow-[0_0_0_1px_rgba(15,23,42,0.4)]">
+    <article className="rounded-xl border border-slate-700/80 bg-slate-900/65 p-3 shadow-[0_0_0_1px_rgba(15,23,42,0.4)]">
       <div className="flex items-start justify-between gap-3">
         <div>
           <h2 className="text-lg font-bold tracking-tight text-white">{item.code}</h2>
@@ -51,10 +51,6 @@ export function PortalWallCard({ item, onDetail }: Props) {
           Nível de atenção: {item.score}
         </span>
       </div>
-
-      <p className="mt-3 text-[11px] text-slate-400">
-        Percentual de cumprimento das publicações combinadas (por hora e por dia).
-      </p>
 
       <div className="mt-2 grid grid-cols-2 gap-2">
         <div className="rounded-lg border border-cyan-500/20 bg-slate-950/60 p-2.5">
@@ -105,6 +101,12 @@ export function PortalWallCard({ item, onDetail }: Props) {
             </span>
           ))}
         </div>
+      </div>
+
+      <div className="mt-2 flex flex-wrap items-center gap-2 text-[10px] text-slate-400">
+        <span className="inline-flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-emerald-400" />No prazo</span>
+        <span className="inline-flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-amber-400" />Andando</span>
+        <span className="inline-flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-rose-400" />Atrasado</span>
       </div>
 
       <MiniHeatmap timeline={item.timeline} />
