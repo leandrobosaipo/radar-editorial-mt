@@ -189,10 +189,10 @@ export default function AgendaWall() {
         jsonLd={jsonLd}
       />
 
-      <div className="space-y-6 p-4 md:p-6">
+      <div className="space-y-6 bg-slate-950 p-4 md:p-6 min-h-screen">
         <WallHeader updatedAt={updatedAt} />
 
-        <section className="grid grid-cols-1 gap-3 lg:grid-cols-3">
+        <section className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3">
           {sorted.map((item) => (
             <PortalWallCard
               key={item.portal.name}

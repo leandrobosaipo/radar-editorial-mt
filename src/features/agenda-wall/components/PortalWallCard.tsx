@@ -7,59 +7,67 @@ type Props = {
 };
 
 export function PortalWallCard({ item, onDetail }: Props) {
+  const riskClass =
+    item.score > 6
+      ? "border-rose-500/40 bg-rose-500/10 text-rose-200"
+      : item.score > 0
+      ? "border-amber-500/40 bg-amber-500/10 text-amber-200"
+      : "border-emerald-500/40 bg-emerald-500/10 text-emerald-200";
+
   return (
-    <article className="rounded-lg border border-slate-700 bg-slate-950/50 p-3">
-      <div className="flex items-start justify-between">
+    <article className="rounded-xl border border-slate-700/80 bg-slate-900/65 p-4 shadow-[0_0_0_1px_rgba(15,23,42,0.4)]">
+      <div className="flex items-start justify-between gap-3">
         <div>
-          <h2 className="text-base font-bold">{item.code}</h2>
-          <p className="text-[11px] text-slate-400">{item.portal.name}</p>
+          <h2 className="text-lg font-bold tracking-tight text-white">{item.code}</h2>
+          <p className="text-xs text-slate-400">{item.portal.name}</p>
         </div>
-        <span
-          className={`rounded px-2 py-0.5 text-xs font-semibold ${
-            item.score > 6
-              ? "bg-red-500/20 text-red-300"
-              : item.score > 0
-              ? "bg-amber-500/20 text-amber-300"
-              : "bg-emerald-500/20 text-emerald-300"
-          }`}
-        >
-          risco {item.score}
+        <span className={`rounded-full border px-2.5 py-1 text-xs font-semibold ${riskClass}`}>
+          Risco {item.score}
         </span>
       </div>
 
-      <div className="mt-2 grid grid-cols-2 gap-2 text-xs">
-        <div className="rounded bg-slate-900/60 p-2">
-          Hora: <span className="font-semibold">{item.hourPct ?? "N/A"}%</span>
+      <div className="mt-3 grid grid-cols-2 gap-2">
+        <div className="rounded-lg border border-cyan-500/20 bg-slate-950/60 p-2.5">
+          <p className="text-[10px] uppercase tracking-wider text-slate-400">Aderência hora</p>
+          <p className="mt-1 text-xl font-bold text-cyan-300">{item.hourPct ?? "—"}%</p>
         </div>
-        <div className="rounded bg-slate-900/60 p-2">
-          Meta: <span className="font-semibold">{item.metaPct ?? "N/A"}%</span>
+        <div className="rounded-lg border border-blue-500/20 bg-slate-950/60 p-2.5">
+          <p className="text-[10px] uppercase tracking-wider text-slate-400">Aderência meta</p>
+          <p className="mt-1 text-xl font-bold text-blue-300">{item.metaPct ?? "—"}%</p>
         </div>
       </div>
 
-      <div className="mt-2 space-y-1 text-xs">
-        <div className="text-red-300">⚠ {item.overdue} janelas vencidas</div>
-        <div className="text-amber-300">⏳ {item.inProgress} em andamento</div>
-        <div className="text-slate-300">Déficit meta: {item.metaDeficit}</div>
+      <div className="mt-3 grid grid-cols-3 gap-2 text-[11px]">
+        <div className="rounded-md border border-rose-500/20 bg-rose-500/10 p-2 text-center text-rose-200">
+          <p className="text-[10px] text-rose-300/80">Vencido</p>
+          <p className="text-base font-bold">{item.overdue}</p>
+        </div>
+        <div className="rounded-md border border-amber-500/20 bg-amber-500/10 p-2 text-center text-amber-200">
+          <p className="text-[10px] text-amber-300/80">Andamento</p>
+          <p className="text-base font-bold">{item.inProgress}</p>
+        </div>
+        <div className="rounded-md border border-slate-500/30 bg-slate-800/60 p-2 text-center text-slate-200">
+          <p className="text-[10px] text-slate-400">Déficit</p>
+          <p className="text-base font-bold">{item.metaDeficit}</p>
+        </div>
       </div>
 
-      <div className="mt-2 text-xs">
-        <div className="mb-1 text-slate-400">Responsáveis (top 3)</div>
-        <div className="space-y-1">
-          {item.topLate.length ? (
-            item.topLate.map((t, i) => <div key={i}>{t}</div>)
-          ) : (
-            <div className="text-emerald-300">✔ Sem categoria crítica</div>
-          )}
-        </div>
+      <div className="mt-3 rounded-lg border border-slate-700/60 bg-slate-950/50 p-2.5 text-xs">
+        <p className="mb-1 text-[10px] uppercase tracking-wider text-slate-400">Categorias críticas</p>
+        {item.topLate.length ? (
+          <div className="space-y-1 text-slate-200">{item.topLate.map((t, i) => <div key={i}>• {t}</div>)}</div>
+        ) : (
+          <div className="text-emerald-300">✔ Sem categoria crítica</div>
+        )}
       </div>
 
       <MiniHeatmap timeline={item.timeline} />
 
       <button
-        className="mt-2 rounded border border-slate-700 bg-slate-900/60 px-2 py-1 text-xs"
+        className="mt-3 w-full rounded-lg border border-slate-600 bg-slate-800/70 px-2 py-1.5 text-xs font-medium text-slate-100 hover:bg-slate-700/80"
         onClick={() => onDetail(item)}
       >
-        Ver detalhe
+        Ver detalhe do portal
       </button>
     </article>
   );
