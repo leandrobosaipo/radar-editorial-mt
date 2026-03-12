@@ -15,10 +15,14 @@ function categoryKey(name: string) {
     .toLowerCase();
   if (n.includes("meme")) return "memes";
   if (n.includes("vovo")) return "vovo";
+  if (n.includes("mt_noticia")) return "mt_noticia";
   if (n.includes("noticia") || n.includes("noticias") || n.includes("mt noticia")) return "noticia";
   if (n.includes("polit")) return "politica";
   if (n.includes("esport")) return "esporte";
   if (n.includes("rondon")) return "rondonopolis";
+  if (n.includes("sinop")) return "sinop";
+  if (n.includes("cacer") || n.includes("caceres")) return "caceres";
+  if (n.includes("primavera")) return "primavera";
   if (n.includes("brasil") && n.includes("mundo")) return "brasil_mundo";
   return n;
 }

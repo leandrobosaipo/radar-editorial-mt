@@ -52,6 +52,9 @@ function categoryKey(name: string) {
   if (n.includes("polit")) return "politica";
   if (n.includes("esport")) return "esporte";
   if (n.includes("rondon")) return "rondonopolis";
+  if (n.includes("sinop")) return "sinop";
+  if (n.includes("cacer") || n.includes("caceres")) return "caceres";
+  if (n.includes("primavera")) return "primavera";
   if (n.includes("brasil") && n.includes("mundo")) return "brasil_mundo";
   if (n.includes("entreten")) return "entretenimento";
   if (n.includes("opin")) return "opiniao";
@@ -89,15 +92,42 @@ function rulesByPortal(code: string): Rule[] {
       { category: "Rondonópolis", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
       { category: "MT Notícias", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
       { category: "Brasil e Mundo", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
-      { category: "Esporte", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
       { category: "Política", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "Esporte", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+    ];
+  }
+  if (code === "PPMT") {
+    return [
+      { category: "Cáceres", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "MT Notícias", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "Brasil e Mundo", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "Política", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "Esporte", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+    ];
+  }
+  if (code === "PNMT") {
+    return [
+      { category: "Sinop", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "MT Notícias", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "Brasil e Mundo", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "Política", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "Esporte", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+    ];
+  }
+  if (code === "AFL") {
+    return [
+      { category: "Primavera", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "MT Notícias", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "Brasil e Mundo", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "Política", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+      { category: "Esporte", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
     ];
   }
   return [
     { category: "MT Notícias", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
     { category: "Brasil e Mundo", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
-    { category: "Esporte", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
     { category: "Política", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
+    { category: "Esporte", start: 0, end: 23, kind: "meta", days: [1, 2, 3, 4, 5, 6, 7], target: 3 },
   ];
 }
 
