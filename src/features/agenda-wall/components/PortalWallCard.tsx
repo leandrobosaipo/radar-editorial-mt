@@ -35,26 +35,32 @@ export function PortalWallCard({ item, onDetail }: Props) {
         </span>
       </div>
 
-      <div className="mt-2 grid grid-cols-2 gap-2">
-        <div className="rounded-lg border border-cyan-500/20 bg-slate-950/60 p-2.5">
-          <p className="text-[10px] uppercase tracking-wider text-slate-400">Meta por hora cumprida</p>
-          <p className="mt-1 text-xl font-bold text-cyan-300">{item.hourPct ?? "—"}%</p>
-        </div>
+      <div className={`mt-2 grid gap-2 ${item.hourPct !== null ? "grid-cols-2" : "grid-cols-1"}`}>
+        {item.hourPct !== null ? (
+          <div className="rounded-lg border border-cyan-500/20 bg-slate-950/60 p-2.5">
+            <p className="text-[10px] uppercase tracking-wider text-slate-400">Meta por hora cumprida</p>
+            <p className="mt-1 text-xl font-bold text-cyan-300">{item.hourPct}%</p>
+          </div>
+        ) : null}
         <div className="rounded-lg border border-blue-500/20 bg-slate-950/60 p-2.5">
           <p className="text-[10px] uppercase tracking-wider text-slate-400">Meta diária cumprida</p>
           <p className="mt-1 text-xl font-bold text-blue-300">{item.metaPct ?? "—"}%</p>
         </div>
       </div>
 
-      <div className="mt-3 grid grid-cols-3 gap-2 text-[11px]">
-        <div className="rounded-md border border-rose-500/20 bg-rose-500/10 p-2 text-center text-rose-200">
-          <p className="text-[10px] text-rose-300/80">Horas em atraso</p>
-          <p className="text-base font-bold">{item.overdue}</p>
-        </div>
-        <div className="rounded-md border border-amber-500/20 bg-amber-500/10 p-2 text-center text-amber-200">
-          <p className="text-[10px] text-amber-300/80">Hora atual</p>
-          <p className="text-base font-bold">{item.inProgress}</p>
-        </div>
+      <div className={`mt-3 grid gap-2 text-[11px] ${item.hourPct !== null ? "grid-cols-3" : "grid-cols-1"}`}>
+        {item.hourPct !== null ? (
+          <>
+            <div className="rounded-md border border-rose-500/20 bg-rose-500/10 p-2 text-center text-rose-200">
+              <p className="text-[10px] text-rose-300/80">Horas em atraso</p>
+              <p className="text-base font-bold">{item.overdue}</p>
+            </div>
+            <div className="rounded-md border border-amber-500/20 bg-amber-500/10 p-2 text-center text-amber-200">
+              <p className="text-[10px] text-amber-300/80">Hora atual</p>
+              <p className="text-base font-bold">{item.inProgress}</p>
+            </div>
+          </>
+        ) : null}
         <div className="rounded-md border border-slate-500/30 bg-slate-800/60 p-2 text-center text-slate-200">
           <p className="text-[10px] text-slate-400">Faltando no dia (após prazo)</p>
           <p className="text-base font-bold">{item.metaDeficit}</p>

@@ -191,15 +191,13 @@ export default function Agenda() {
   const [onlyProblems, setOnlyProblems] = useState(false);
   const [shift, setShift] = useState<"all" | "morning" | "afternoon" | "night">("all");
 
-  const nowHour = useMemo(() => {
-    return Number(
-      new Intl.DateTimeFormat("en-US", {
-        timeZone: "America/Cuiaba",
-        hour: "2-digit",
-        hour12: false,
-      }).format(new Date())
-    );
-  }, []);
+  const nowHour = Number(
+    new Intl.DateTimeFormat("en-US", {
+      timeZone: "America/Cuiaba",
+      hour: "2-digit",
+      hour12: false,
+    }).format(new Date())
+  );
 
   const updatedAtLabel = useMemo(() => {
     return new Intl.DateTimeFormat("pt-BR", {
@@ -393,7 +391,7 @@ export default function Agenda() {
 
       return { portal: p, code, hourlyGrid, metaRows, metaByDayCategory, adherence };
     });
-  }, [data, days]);
+  }, [data, days, nowHour]);
 
   const riskItems = useMemo(() => {
     const items: Array<{ portal: string; msg: string; score: number }> = [];
