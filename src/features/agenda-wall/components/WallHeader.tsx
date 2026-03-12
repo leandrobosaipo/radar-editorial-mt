@@ -1,5 +1,6 @@
 import { REFRESH_INTERVAL } from "@/config";
 import { RefreshProgress } from "@/components/RefreshProgress";
+import { STATUS_THEME } from "../statusTheme";
 
 type Props = {
   updatedAt: string;
@@ -23,10 +24,10 @@ export function WallHeader({ updatedAt }: Props) {
         <details>
           <summary className="cursor-pointer">Legenda de cores</summary>
           <div className="mt-1 flex flex-wrap gap-1.5 text-[10px]">
-            <span className="rounded-full border border-emerald-500/40 bg-emerald-500/15 px-2 py-0.5 text-emerald-300">No prazo</span>
-            <span className="rounded-full border border-amber-500/40 bg-amber-500/15 px-2 py-0.5 text-amber-300">Andando</span>
-            <span className="rounded-full border border-rose-500/40 bg-rose-500/15 px-2 py-0.5 text-rose-300">Atrasado</span>
-            <span className="rounded-full border border-blue-400/40 bg-blue-500/15 px-2 py-0.5 text-blue-200">Acima do combinado</span>
+            <span className={`rounded-full border px-2 py-0.5 ${STATUS_THEME.prazo.chip}`}>{STATUS_THEME.prazo.label}</span>
+            <span className={`rounded-full border px-2 py-0.5 ${STATUS_THEME.andamento.chip}`}>{STATUS_THEME.andamento.label}</span>
+            <span className={`rounded-full border px-2 py-0.5 ${STATUS_THEME.atrasado.chip}`}>{STATUS_THEME.atrasado.label}</span>
+            <span className={`rounded-full border px-2 py-0.5 ${STATUS_THEME.acima.chip}`}>{STATUS_THEME.acima.label}</span>
           </div>
         </details>
       </div>

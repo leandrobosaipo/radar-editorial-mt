@@ -1,4 +1,5 @@
 import { AgendaWallItem } from "../types";
+import { chipClass } from "../statusTheme";
 import { MiniHeatmap } from "./MiniHeatmap";
 
 type Props = {
@@ -14,14 +15,7 @@ export function PortalWallCard({ item, onDetail }: Props) {
       ? "border-amber-500/40 bg-amber-500/10 text-amber-200"
       : "border-emerald-500/40 bg-emerald-500/10 text-emerald-200";
   const riskLabel = item.score > 6 ? "Alto" : item.score > 0 ? "Médio" : "Baixo";
-
-
-  const stateClass = (state: "prazo" | "andamento" | "atrasado") =>
-    state === "atrasado"
-      ? "bg-rose-500/20 text-rose-200 border-rose-500/30"
-      : state === "andamento"
-      ? "bg-amber-500/20 text-amber-200 border-amber-500/30"
-      : "bg-emerald-500/20 text-emerald-200 border-emerald-500/30";
+  const isMetaOnly = item.hourPct === null;
 
   return (
     <article className="rounded-xl border border-slate-700/80 bg-slate-900/65 p-3 shadow-[0_0_0_1px_rgba(15,23,42,0.4)]">
@@ -70,32 +64,32 @@ export function PortalWallCard({ item, onDetail }: Props) {
         </div>
       </div>
 
-      <div className="mt-3 rounded-lg border border-slate-700/60 bg-slate-950/50 p-2.5 text-xs">
+      <div className="mt-2 rounded-lg border border-slate-700/60 bg-slate-950/50 p-2 text-xs">
         <p className="mb-1 text-[10px] uppercase tracking-wider text-slate-400">Categorias (visão rápida)</p>
-        <div className="flex flex-wrap gap-1.5">
-          {item.categoryChips.map((c, i) => (
-            <span key={`${c.label}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${stateClass(c.state)}`}>
+        <div className="flex flex-wrap gap-1">
+          {item.categoryChips.slice(0, isMetaOnly ? 4 : 6).map((c, i) => (
+            <span key={`${c.label}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${chipClass(c.state)}`}>
               {c.label}
             </span>
           ))}
         </div>
       </div>
 
-      <div className="mt-2 rounded-lg border border-slate-700/60 bg-slate-950/50 p-2.5 text-xs">
+      <div className="mt-2 rounded-lg border border-slate-700/60 bg-slate-950/50 p-2 text-xs">
         <p className="mb-1 text-[10px] uppercase tracking-wider text-slate-400">Jornalistas (top 3)</p>
-        <div className="flex flex-wrap gap-1.5">
-          {item.journalistChips.map((j, i) => (
-            <span key={`${j.label}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${stateClass(j.state)}`}>
+        <div className="flex flex-wrap gap-1">
+          {item.journalistChips.slice(0, isMetaOnly ? 2 : 3).map((j, i) => (
+            <span key={`${j.label}-${i}`} className={`rounded border px-1.5 py-0.5 text-[10px] ${chipClass(j.state)}`}>
               {j.label}
             </span>
           ))}
         </div>
       </div>
 
-      <MiniHeatmap timeline={item.timeline} />
+      {!isMetaOnly ? <MiniHeatmap timeline={item.timeline} /> : null}
 
       <button
-        className="mt-3 w-full rounded-lg border border-slate-600 bg-slate-800/70 px-2 py-1.5 text-xs font-medium text-slate-100 hover:bg-slate-700/80"
+        className={`${isMetaOnly ? "mt-2" : "mt-3"} w-full rounded-lg border border-slate-600 bg-slate-800/70 px-2 py-1.5 text-xs font-medium text-slate-100 hover:bg-slate-700/80`}
         onClick={() => onDetail(item)}
       >
         Ver detalhe do portal
