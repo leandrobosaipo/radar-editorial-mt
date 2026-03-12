@@ -113,7 +113,9 @@ export default function AgendaWall() {
         .slice(0, 3)
         .map(([cat, n]) => `${cat} ${"⚠".repeat(Math.min(4, n))}`);
 
-      const timeline = Array.from({ length: 6 }, (_, i) => nowHour - (5 - i)).map((h) => {
+      const startHour = Math.max(8, nowHour - 5);
+      const endHour = Math.max(8, Math.min(22, nowHour));
+      const timeline = Array.from({ length: endHour - startHour + 1 }, (_, i) => startHour + i).map((h) => {
         let count = 0;
         for (const c of dayHourly?.categories || []) {
           const hm = new Map<number, number>((c.hours || []).map((x: any) => [x.hour, x.count]));

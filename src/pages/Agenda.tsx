@@ -402,17 +402,29 @@ export default function Agenda() {
           if (c.hour < nowHour) overdue++;
         }
       }
-      let metaGap = 0;
+      let metaGapLate = 0;
+      let metaGapPending = 0;
       for (const m of v.metaRows || []) {
         const d = m.byDay.find((x: any) => x.day.key === today.key);
         if (!d || !d.applies) continue;
-        metaGap += Math.max(0, (d.target || 0) - (d.count || 0));
+        const gap = Math.max(0, (d.target || 0) - (d.count || 0));
+        if (gap === 0) continue;
+        const deadlineHour = typeof m.deadlineHour === "number" ? m.deadlineHour : 23;
+        if (nowHour > deadlineHour) metaGapLate += gap;
+        else metaGapPending += gap;
       }
-      const score = overdue * 2 + metaGap;
-      if (score > 0) {
+      const score = overdue * 2 + metaGapLate;
+      if (score > 0 || metaGapPending > 0) {
+        const metaText =
+          metaGapLate > 0
+            ? `meta diária em atraso ${metaGapLate}`
+            : metaGapPending > 0
+            ? `meta diária em andamento ${metaGapPending}`
+            : "meta diária em dia";
+
         items.push({
           portal: `${v.code} — ${v.portal.name}`,
-          msg: `${overdue} janelas horárias vencidas • déficit de meta ${metaGap}`,
+          msg: `${overdue} janelas horárias vencidas • ${metaText}`,
           score,
         });
       }
