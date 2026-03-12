@@ -9,7 +9,6 @@ type Props = {
   jsonLd?: Record<string, any>;
 };
 
-const BASE_URL = "https://leandrobosaipo.github.io/radar-editorial-mt";
 
 function upsertMeta(selector: string, attrs: Record<string, string>) {
   let el = document.head.querySelector(selector) as HTMLMetaElement | null;
@@ -24,8 +23,12 @@ export function SeoMeta({ title, description, canonicalPath, imagePath, robots, 
   useEffect(() => {
     document.title = title;
 
-    const canonicalHref = `${BASE_URL}${canonicalPath}`;
-    const imageUrl = imagePath ? `${BASE_URL}${imagePath}` : undefined;
+    const origin = window.location.origin;
+    const onGitHubPages = window.location.pathname.startsWith("/radar-editorial-mt/");
+    const basePath = onGitHubPages ? "/radar-editorial-mt" : "";
+
+    const canonicalHref = `${origin}${basePath}${canonicalPath}`;
+    const imageUrl = imagePath ? `${origin}${basePath}${imagePath}` : undefined;
 
     upsertMeta('meta[name="description"]', { name: "description", content: description });
     if (robots) upsertMeta('meta[name="robots"]', { name: "robots", content: robots });

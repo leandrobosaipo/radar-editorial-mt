@@ -155,20 +155,26 @@ export default function AgendaWall() {
     [data?.lastUpdate]
   );
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    name: "Agenda Wall | Radar Editorial MT",
-    description: "Painel operacional em tempo real com risco, atrasos e aderência por portal.",
-    url: "https://leandrobosaipo.github.io/radar-editorial-mt/agenda-wall",
-    inLanguage: "pt-BR",
-    primaryImageOfPage: {
-      "@type": "ImageObject",
-      url: "https://leandrobosaipo.github.io/radar-editorial-mt/images/agenda-wall-thumb.jpg",
-      width: 1200,
-      height: 630,
-    },
-  };
+  const jsonLd = useMemo(() => {
+    const origin = window.location.origin;
+    const onGitHubPages = window.location.pathname.startsWith("/radar-editorial-mt/");
+    const basePath = onGitHubPages ? "/radar-editorial-mt" : "";
+
+    return {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      name: "Agenda Wall | Radar Editorial MT",
+      description: "Painel operacional em tempo real com risco, atrasos e aderência por portal.",
+      url: `${origin}${basePath}/agenda-wall`,
+      inLanguage: "pt-BR",
+      primaryImageOfPage: {
+        "@type": "ImageObject",
+        url: `${origin}${basePath}/images/agenda-wall-thumb.jpg`,
+        width: 1200,
+        height: 630,
+      },
+    };
+  }, []);
 
   if (isLoading) return <div className="p-6">Carregando agenda wall…</div>;
 
