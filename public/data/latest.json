@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-03-13T11:00:05.466846-04:00",
+  "generated_at": "2026-03-13T15:00:05.451799-04:00",
   "window": {
-    "start": "2026-03-13T10:00:05.466846-04:00",
-    "end": "2026-03-13T11:00:05.466846-04:00"
+    "start": "2026-03-13T14:00:05.451799-04:00",
+    "end": "2026-03-13T15:00:05.451799-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Perseguição sobre telhados termina com três presos e grande apreensão de drogas em VG; veja vídeo",
-        "link": "https://perrenguematogrosso.com/perseguicao-presos-apreensao-drogas-vg-video/",
+        "title": "Brasileiro se surpreende com disciplina de pedestres no Japão; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/cena-simples-registrada-por-um-corredor-brasileiro/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-13T14:39:14-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Adolescente empina moto após sair da escola e acaba apreendido pela PM em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/adolescente-empina-moto-apos-sair-da-escola-e-acaba-apreendido-pela-pm-em-rondonopolis-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-13T10:08:00-04:00",
+        "published": "2026-03-13T14:42:29-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -23,11 +36,37 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Polícia Militar prende três suspeitos e apreende drogas durante operação no bairro Cristo Rei; veja vídeo",
-        "link": "https://omatogrossense.com/policia-suspeitos-drogas-operacao-cristo-rei/",
+        "title": "VÍDEO: Cuiabá apresenta três reforços e revela plano para reagir na Série B",
+        "link": "https://omatogrossense.com/cuiaba-apresenta-tres-reforcos/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-13T14:12:53-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Adolescente empina moto ao retornar da escola e acaba apreendido por PM em Rondonópolis; veja vídeo",
+        "link": "https://omatogrossense.com/adolescente-empina-moto-ao-retornar-da-escola-e-acaba-apreendido-por-pm-em-rondonopolis-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-13T10:06:29-04:00",
+        "published": "2026-03-13T14:42:58-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Série D 2026 terá jogos na TV aberta e no YouTube; cinco clubes de Mato Grosso entram na disputa",
+        "link": "https://omatogrossense.com/serie-d-2026-tera-jogos-na-tv-aberta-e-no-youtube/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-13T15:00:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -37,22 +76,22 @@
       }
     ],
     "portalnortemt": [],
-    "portalpantanalmt": [
+    "portalpantanalmt": [],
+    "roonoticias": [
       {
-        "title": "Projeto leva atendimento de saúde diretamente aos trabalhadores do comércio em Cáceres",
-        "link": "https://portalpantanalmt.com/a-prefeitura-de-caceres-iniciou-uma-acao-voltada-ao-cuidado-com-os-profissionais-do-comercio-local-por-meio-do-projeto-mais-saude-do-trabal/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-13T10:03:00-04:00",
+        "title": "Carro “sem motorista” atravessa rodovia e cena impressionante assusta motoristas em Mato Grosso; veja vídeo",
+        "link": "https://roonoticias.com/uma-situacao-inusitada-chamou-atencao-de-motoristas/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-13T14:06:26-04:00",
         "categories": [
-          "Cáceres"
+          "MT Notícias"
         ],
         "category_ids": [
-          3105
+          20
         ]
       }
-    ],
-    "roonoticias": []
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
