@@ -1,59 +1,72 @@
 {
-  "generated_at": "2026-03-13T18:00:01.949232-04:00",
+  "generated_at": "2026-03-13T19:00:02.788781-04:00",
   "window": {
-    "start": "2026-03-13T17:00:01.949232-04:00",
-    "end": "2026-03-13T18:00:01.949232-04:00"
+    "start": "2026-03-13T18:00:02.788781-04:00",
+    "end": "2026-03-13T19:00:02.788781-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Carro capota após motorista furar sinal em cruzamento movimentado de Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/carro-capota-motorista-furar-sinal-rondonopolis-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-13T17:21:13-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "PM descobre caixas com drogas em caminhonete e prende suspeito durante operação em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/pm-descobre-caixas-drogas-caminhonete-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-13T17:40:31-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/326050-2/",
+        "title": "Moradores improvisam sinalização em rua, mas escrevem “pera” no lugar de “pare”; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/moradores-improvisam-sinalizacao-em-rua-de-goias-mas-escrevem-pera-no-lugar-de-pare-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-13T17:55:29-04:00",
+        "published": "2026-03-13T18:00:12-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Ratinho responde críticas após comentário sobre Erika Hilton e diz que não ficará em silêncio; veja vídeo",
+        "link": "https://perrenguematogrosso.com/ratinho-responde-criticas-apos-comentario-sobre-erika-hilton-e-diz-que-nao-ficara-em-silencio-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-13T18:01:47-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Batida entre carretas causa incêndio e deixa motorista morto na BR-364 entre Jangada e Rosário Oeste; veja vídeo",
+        "link": "https://perrenguematogrosso.com/batida-carretas-incendio-br-364-jangada-rosario-oeste/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-13T18:03:12-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Médicos revelam quadro grave de Bolsonaro após internação com broncopneumonia e saturação baixa; veja vídeo",
+        "link": "https://perrenguematogrosso.com/medicos-revelam-quadro-grave-de-bolsonaro-apos-internacao-com-broncopneumonia-e-saturacao-baixa-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-13T18:53:25-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Carro capota após avançar sinal vermelho e provocar acidente no Centro de Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/carro-capota-sinal-vermelho-centro-rondonopolis/",
+        "title": "Acidente entre carretas deixa motorista morto e bloqueia BR-364 entre Jangada e Rosário Oeste; veja vídeo",
+        "link": "https://omatogrossense.com/acidente-carretas-motorista-morto-br-364-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-13T17:21:26-04:00",
+        "published": "2026-03-13T18:03:09-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,29 +75,29 @@
         ]
       },
       {
-        "title": "PM intercepta caminhonete, apreende 132 tabletes de drogas e prende suspeito em MT; veja vídeo",
-        "link": "https://omatogrossense.com/pm-intercepta-caminhonete-drogas-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-13T17:40:36-04:00",
+        "title": "Ratinho responde críticas após comentário sobre Erika Hilton e diz que não ficará em silêncio; veja vídeo",
+        "link": "https://omatogrossense.com/ratinho-responde-criticas-apos-comentario-sobre-erika-hilton-e-diz-que-nao-ficara-em-silencio-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-13T18:03:44-04:00",
         "categories": [
-          "MT Notícias"
+          "Política"
         ],
         "category_ids": [
-          20
+          5
         ]
       },
       {
-        "title": "Moradores tentam resolver falta de sinalização, mas erro ao pintar “pare” vira motivo de risadas; Veja vídeo",
-        "link": "https://omatogrossense.com/133409-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-13T17:54:41-04:00",
+        "title": "Médicos revelam quadro grave de Bolsonaro após internação com broncopneumonia e saturação baixa; veja vídeo",
+        "link": "https://omatogrossense.com/medicos-revelam-quadro-grave-de-bolsonaro-apos-internacao-com-broncopneumonia-e-saturacao-baixa-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-13T18:55:03-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Política"
         ],
         "category_ids": [
-          973
+          5
         ]
       }
     ],
