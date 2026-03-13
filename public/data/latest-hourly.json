@@ -1,15 +1,83 @@
 {
-  "generated_at": "2026-03-13T08:00:00.722148-04:00",
+  "generated_at": "2026-03-13T09:00:04.594018-04:00",
   "window": {
-    "start": "2026-03-13T07:00:00.722148-04:00",
-    "end": "2026-03-13T08:00:00.722148-04:00"
+    "start": "2026-03-13T08:00:04.594018-04:00",
+    "end": "2026-03-13T09:00:04.594018-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Entre árvores e polêmicas: bosque vira alvo de denúncias por sexo em área pública; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-espaco-publico-criado/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-13T08:04:51-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem é preso depois de agredir esposa grávida e manter várias armas armazenadas dentro de casa em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-agredir-esposa-gravida-armas-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-13T08:22:42-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Bosque vira alvo de polêmica após denúncias de sexo em área pública e abandono; Veja vídeo",
+        "link": "https://omatogrossense.com/criado-para-lazer-e-convivencia-familiar/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-13T08:03:23-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Homem bêbado agride esposa grávida e é preso com espingardas, pistola e munições em MT; veja vídeo",
+        "link": "https://omatogrossense.com/homem-bebado-agride-esposa-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-13T08:25:26-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
-    "portalpantanalmt": [],
+    "portalpantanalmt": [
+      {
+        "title": "Operação policial apreende 23 kg de maconha e prende suspeitos por tráfico em Pontes e Lacerda",
+        "link": "https://portalpantanalmt.com/uma-investigacao-conduzida-pela-policia-civil-resultou-na-apreensao-de-aproximadamente-23-quilos-de-substancia-analoga-a-maconh/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-13T08:02:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
     "roonoticias": []
   },
   "menu_category_ids": {
