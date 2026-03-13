@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-13T15:00:05.451799-04:00",
+  "generated_at": "2026-03-13T16:00:05.352075-04:00",
   "window": {
-    "start": "2026-03-13T14:00:05.451799-04:00",
-    "end": "2026-03-13T15:00:05.451799-04:00"
+    "start": "2026-03-13T15:00:05.352075-04:00",
+    "end": "2026-03-13T16:00:05.352075-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Brasileiro se surpreende com disciplina de pedestres no Japão; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/cena-simples-registrada-por-um-corredor-brasileiro/",
+        "title": "Pai grava filho emocionado por usar tranças iguais às dele; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-video-simples-mas-cheio-de-significado/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-13T14:39:14-04:00",
+        "published": "2026-03-13T15:23:14-04:00",
         "categories": [
           "Notícias"
         ],
@@ -20,27 +20,52 @@
         ]
       },
       {
-        "title": "Adolescente empina moto após sair da escola e acaba apreendido pela PM em Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/adolescente-empina-moto-apos-sair-da-escola-e-acaba-apreendido-pela-pm-em-rondonopolis-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-13T14:42:29-04:00",
+        "title": "Mauro Mendes diz que decisão sobre candidatura ao Governo será definida na convenção do União Brasil; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mauro-mendes-diz/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-13T15:38:48-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Política"
         ],
         "category_ids": [
-          16
+          510
+        ]
+      },
+      {
+        "title": "Cachorro invade cerimônia presidencial no Chile, deita no tapete vermelho e rouba a cena; veja vídeo",
+        "link": "https://perrenguematogrosso.com/cachorro-invade-cerimonia-presidencial-no-chile-deita-no-tapete-vermelho-e-rouba-a-cena-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-13T15:48:43-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Operação “Negócio de Família” leva polícia a dupla suspeita de tráfico e apreende 2 kg de cocaína no DF",
+        "link": "https://perrenguematogrosso.com/operacao-negocio-de-familia-leva-policia-a-dupla-suspeita-de-trafico-e-apreende-2-kg-de-cocaina-no-df/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-13T15:50:53-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ],
-    "afolhalivre": [],
-    "omatogrossense": [
+    "afolhalivre": [
       {
-        "title": "VÍDEO: Cuiabá apresenta três reforços e revela plano para reagir na Série B",
-        "link": "https://omatogrossense.com/cuiaba-apresenta-tres-reforcos/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-13T14:12:53-04:00",
+        "title": "santos inicia conversas para renovação de robinho jr.",
+        "link": "https://afolhalivre.com/santos-inicia-conversas-para-renovacao-de-robinho-jr/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:03:30-04:00",
         "categories": [
           "Esporte"
         ],
@@ -49,11 +74,78 @@
         ]
       },
       {
-        "title": "Adolescente empina moto ao retornar da escola e acaba apreendido por PM em Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/adolescente-empina-moto-ao-retornar-da-escola-e-acaba-apreendido-por-pm-em-rondonopolis-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-13T14:42:58-04:00",
+        "title": "edu gaspar entra no radar do flamengo",
+        "link": "https://afolhalivre.com/edu-gaspar-entra-no-radar-do-flamengo/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:10:41-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Goleiro Cássio sofre lesão multiligamentar no joelho",
+        "link": "https://afolhalivre.com/goleiro-cassio-sofre-lesao-multiligamentar-no-joelho/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:17:24-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "alexandre de moraes autoriza visitas a jair bolsonaro",
+        "link": "https://afolhalivre.com/alexandre-de-moraes-autoriza-visitas-a-jair-bolsonaro/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:26:23-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Prisão do vereador Salvino Oliveira gera repercussão política",
+        "link": "https://afolhalivre.com/prisao-do-vereador-salvino-oliveira-gera-repercussao-politica/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:48:45-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Vídeo de corredor brasileiro no Japão mostra pedestres esperando sinal abrir mesmo sem carros; Veja vídeo",
+        "link": "https://omatogrossense.com/corredor-amador-e-criador-de-conteudo-marcel/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-13T15:10:15-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Menino surpreende pai com tranças iguais às dele e se emociona; Veja vídeo",
+        "link": "https://omatogrossense.com/um-momento-simples-entre-pai/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-13T15:33:16-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,33 +154,243 @@
         ]
       },
       {
-        "title": "Série D 2026 terá jogos na TV aberta e no YouTube; cinco clubes de Mato Grosso entram na disputa",
-        "link": "https://omatogrossense.com/serie-d-2026-tera-jogos-na-tv-aberta-e-no-youtube/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-13T15:00:00-04:00",
+        "title": "Mauro Mendes diz que decisão sobre candidatura ao Governo será definida na convenção do União Brasil; veja vídeo",
+        "link": "https://omatogrossense.com/mauro-mendes-diz-que-decisao-sobre-candidatura-ao-governo-sera-definida-na-convencao-do-uniao-brasil-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-13T15:39:46-04:00",
         "categories": [
-          "MT Notícias"
+          "Política"
         ],
         "category_ids": [
-          20
+          5
+        ]
+      },
+      {
+        "title": "Cachorro invade cerimônia presidencial no Chile, deita no tapete vermelho e rouba a cena; veja vídeo",
+        "link": "https://omatogrossense.com/cachorro-invade-cerimonia-presidencial-no-chile-deita-no-tapete-vermelho-e-rouba-a-cena-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-13T15:49:22-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Operação “Negócio de Família” prende dupla com 2 kg de cocaína; Veja vídeo",
+        "link": "https://omatogrossense.com/operacao-negocio-de-familia-prende-dupla-com-2-kg-de-cocaina-e-revela-suspeita-de-trafico-em-ceilandia/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-13T15:51:01-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+    "portalnortemt": [
       {
-        "title": "Carro “sem motorista” atravessa rodovia e cena impressionante assusta motoristas em Mato Grosso; veja vídeo",
-        "link": "https://roonoticias.com/uma-situacao-inusitada-chamou-atencao-de-motoristas/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-13T14:06:26-04:00",
+        "title": "santos inicia conversas para renovação de robinho jr.",
+        "link": "https://portalnortemt.com/santos-inicia-conversas-para-renovacao-de-robinho-jr/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:03:30-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
+        ]
+      },
+      {
+        "title": "edu gaspar entra no radar do flamengo",
+        "link": "https://portalnortemt.com/edu-gaspar-entra-no-radar-do-flamengo/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:10:41-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Goleiro Cássio sofre lesão multiligamentar no joelho",
+        "link": "https://portalnortemt.com/goleiro-cassio-sofre-lesao-multiligamentar-no-joelho/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:17:24-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Alexandre de Moraes autoriza visitas a Jair Bolsonaro no hospital",
+        "link": "https://portalnortemt.com/alexandre-de-moraes-autoriza-visitas-a-jair-bolsonaro-no-hospital/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:26:23-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "prisão do vereador salvino oliveira gera repercussão",
+        "link": "https://portalnortemt.com/prisao-do-vereador-salvino-oliveira-gera-repercussao/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:48:45-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Santos inicia conversas para renovação de Robinho Jr.",
+        "link": "https://portalpantanalmt.com/santos-inicia-conversas-para-renovacao-de-robinho-jr/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:03:30-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "edu gaspar entra no radar do flamengo",
+        "link": "https://portalpantanalmt.com/edu-gaspar-entra-no-radar-do-flamengo/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:10:41-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Goleiro Cássio sofre lesão multiligamentar no joelho",
+        "link": "https://portalpantanalmt.com/goleiro-cassio-sofre-lesao-multiligamentar-no-joelho/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:17:24-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Alexandre de Moraes autoriza visitas a Jair Bolsonaro",
+        "link": "https://portalpantanalmt.com/alexandre-de-moraes-autoriza-visitas-a-jair-bolsonaro/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:26:23-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "prisão do vereador salvino oliveira gera repercussão",
+        "link": "https://portalpantanalmt.com/prisao-do-vereador-salvino-oliveira-gera-repercussao/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-13T15:48:45-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Santos marca reunião para tentar resolver impasse da renovação de Robinho Jr.",
+        "link": "https://roonoticias.com/o-santos-iniciou-conversas-para-discutir-a-renovacao/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-13T15:03:30-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Flamengo? O que ainda impede rescisão de Edu Gaspar na Europa e o que dirigente pensa para seu futuro",
+        "link": "https://roonoticias.com/o-dirigente-brasileiro-edu-gaspar-entrou-no-radar/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-13T15:10:41-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Cássio sofre grave lesão no joelho, terá que passar por cirurgia e não deve mais jogar no Cruzeiro em 2026",
+        "link": "https://roonoticias.com/o-cruzeiro-confirmou-nesta-sexta-feira-que-o-goleiro/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-13T15:17:24-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Moraes autoriza Michelle a acompanhar Bolsonaro em hospital",
+        "link": "https://roonoticias.com/o-ministro-alexandre-de-moraes-do-supremo-tribunal-federal-6/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-13T15:26:23-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Deputados se reúnem com Gonet e Andrei após prisão de vereador no RJ",
+        "link": "https://roonoticias.com/a-prisao-do-vereador-salvino-oliveira-gerou-forte-repercussao/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-13T15:48:45-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ]
