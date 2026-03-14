@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-14T14:01:11.917705-04:00",
+  "generated_at": "2026-03-14T15:05:53.870069-04:00",
   "window": {
-    "start": "2026-03-14T13:01:11.917705-04:00",
-    "end": "2026-03-14T14:01:11.917705-04:00"
+    "start": "2026-03-14T14:05:53.870069-04:00",
+    "end": "2026-03-14T15:05:53.870069-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Motorista é detido pela ROTAM após tentar fugir de abordagem policial em Sinop; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motorista-detido-rotam-fugir-abordagem-sinop/",
+        "title": "Semana do Cavalo reúne grandes criadores e registra leilão que ultrapassa R$ 10 milhões em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/semana-do-cavalo-leilao-milhoes-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-14T13:14:02-04:00",
+        "published": "2026-03-14T14:53:06-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,24 @@
         ]
       },
       {
-        "title": "Petrobras reajusta diesel e prevê aumento médio de R$ 0,06 por litro nas distribuidoras; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/a-petrobras-anunciou-um-reajuste-n/",
+        "title": "Recepcionista sofre agressão dentro de hotel após recusar beijo de hóspede; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/a-recepcionista-maria-niuzete-batista/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-14T13:57:05-04:00",
+        "published": "2026-03-14T14:54:44-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Mãe relata desafios ao cuidar de filho autista e denuncia preconceito e falta de compreensão; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/uma-jovem-identificada-como-m/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-14T15:03:00-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,11 +49,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Condutor é detido pela ROTAM depois de ignorar ordem de parada em Sinop; veja vídeo",
-        "link": "https://omatogrossense.com/condutor-detido-rotam-ordem-parada-sinop/",
+        "title": "Semana do Cavalo impulsiona negócios e registra leilão de cavalos com vendas milionárias em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/semana-do-cavalo-leilao-cavalos-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-14T13:13:34-04:00",
+        "published": "2026-03-14T14:52:54-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,11 +62,24 @@
         ]
       },
       {
-        "title": "Petrobras anuncia aumento no diesel e prevê alta média de R$ 0,06 por litro",
-        "link": "https://omatogrossense.com/a-petrobras-anunciou-um-reajuste/",
+        "title": "Recepcionista é agredida em hotel após rejeitar investida de hóspede; Veja vídeo",
+        "link": "https://omatogrossense.com/a-recepcionista-maria-niuzete-batista/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-14T13:57:07-04:00",
+        "published": "2026-03-14T14:54:13-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Mãe de criança autista relata dificuldades diárias e cobra mais empatia da sociedade; Veja vídeo",
+        "link": "https://omatogrossense.com/uma-jovem-identificada-como-mariana/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-14T15:01:26-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -64,7 +90,21 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "PL gasta R$ 209 mil com “tour” de Flávio por Oriente Médio e Europa",
+        "link": "https://roonoticias.com/pl-gasta-r-209-mil-com-tour-de-flavio-por-oriente-medio-e-europa/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-14T15:00:07-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
