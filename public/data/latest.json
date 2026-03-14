@@ -1,38 +1,64 @@
 {
-  "generated_at": "2026-03-14T17:00:00.837484-04:00",
+  "generated_at": "2026-03-14T18:00:05.547376-04:00",
   "window": {
-    "start": "2026-03-14T16:00:00.837484-04:00",
-    "end": "2026-03-14T17:00:00.837484-04:00"
+    "start": "2026-03-14T17:00:05.547376-04:00",
+    "end": "2026-03-14T18:00:05.547376-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Motociclista embriagado provoca acidente e agride homem em Lucas do Rio Verde; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motociclista-embriagadoo-acidente-lucas-video/",
+        "title": "Homem atropela ex-mulher em ponto de ônibus após discussão em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-atropela-ex-mulher-ponto-onibus-cuiaba/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-14T16:30:00-04:00",
+        "published": "2026-03-14T17:30:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/326264-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-14T17:54:59-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Motociclista embriagado provoca acidente e causa confusão em Lucas do Rio Verde; veja vídeo",
-        "link": "https://omatogrossense.com/motociclista-acidente-confusao-lucas-rio-video/",
+        "title": "Câmeras registram homem atropelando ex-mulher durante briga em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/homem-atropelando-ex-mulher-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-14T16:30:00-04:00",
+        "published": "2026-03-14T17:30:00-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
+        ]
+      },
+      {
+        "title": "Após repercussão nas redes, mãe atípica aparece sorrindo a caminho de atendimento no CAPS; Veja vídeo",
+        "link": "https://omatogrossense.com/depois-de-ter-sua-historia-amplamente/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-14T17:52:10-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
         ]
       }
     ],
@@ -40,29 +66,29 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "“Parece que plantaram batatas” em São Januário, diz auxiliar do Palmeiras",
-        "link": "https://roonoticias.com/a-derrota-do-palmeiras-para-o-vasco-pela-quinta-rodada/",
+        "title": "Apresentador do Cidade Alerta MT passa mal durante programa e deixa transmissão; veja vídeo",
+        "link": "https://roonoticias.com/um-momento-inesperado-chamou-a-atencao-dos-telespectadores/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-14T16:18:17-04:00",
+        "published": "2026-03-14T17:08:02-04:00",
         "categories": [
-          "Esporte"
+          "MT Notícias"
         ],
         "category_ids": [
-          7
+          20
         ]
       },
       {
-        "title": "Seleção Brasileira: horário e onde assistir à convocação de Ancelotti",
-        "link": "https://roonoticias.com/a-selecao-brasileira-entra-em-um-momento-decisivo-de-preparacao/",
+        "title": "Crime brutal em Cuiabá: mãe pede justiça após filha ser morta pelo próprio irmão; veja vídeo",
+        "link": "https://roonoticias.com/a-morte-de-uma-adolescente-de-17-anos-no-bairro-tres-barras/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-14T16:40:36-04:00",
+        "published": "2026-03-14T17:22:28-04:00",
         "categories": [
-          "Esporte"
+          "MT Notícias"
         ],
         "category_ids": [
-          7
+          20
         ]
       }
     ]
