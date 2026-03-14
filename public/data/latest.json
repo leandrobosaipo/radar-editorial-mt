@@ -1,11 +1,115 @@
 {
-  "generated_at": "2026-03-14T13:00:06.057943-04:00",
+  "generated_at": "2026-03-14T14:01:11.917705-04:00",
   "window": {
-    "start": "2026-03-14T12:00:06.057943-04:00",
-    "end": "2026-03-14T13:00:06.057943-04:00"
+    "start": "2026-03-14T00:00:00-04:00",
+    "end": "2026-03-14T14:00:00-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
+      {
+        "title": "Monitor de escola é investigado por suspeita de assediar criança por mensagens; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/monitor-de-escola-e-investigado-por-suspeita-de-assediar-crianca-por-mensagens-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-14T08:19:50-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Quatro suspeitos morrem após confronto armado com policiais da Patrulha Rural em São José do Rio Claro; veja vídeo",
+        "link": "https://perrenguematogrosso.com/quatro-morrem-confronto-armado-sao-jose-do-rio-claro-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-14T08:28:25-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Polícia Militar estoura ponto de tráfico e apreende drogas em lava-jato de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/ponto-trafico-apreende-drogas-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-14T09:13:40-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3178/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-14T09:19:02-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Homem retira colmeia de abelhas de dentro do sofá usando apenas um canudo; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-retira-colmeia-de-abelhas/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-14T09:27:01-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Apresentador passa por exames no coração após passar mal durante programa ao vivo em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/apresentador-exames-programa-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-14T10:26:47-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Vídeo mostra mãe passando bebê por baixo de cerca na fronteira entre México e EUA; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/326185-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-14T10:57:14-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Batida entre motocicleta e caminhão termina com duas mortes na BR-364 em Campo Novo do Parecis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/batida-motocicleta-caminhao-mortes-br-364-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-14T11:20:00-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
       {
         "title": "Diogo Defante é flagrado dançando Lambadão no meio do público na Praça da Mandioca em Cuiabá; veja vídeo",
         "link": "https://perrenguematogrosso.com/diogo-defante-dancando-lambadao-praca-mandioca/",
@@ -44,10 +148,180 @@
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Motorista é detido pela ROTAM após tentar fugir de abordagem policial em Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motorista-detido-rotam-fugir-abordagem-sinop/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-14T13:14:02-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Petrobras reajusta diesel e prevê aumento médio de R$ 0,06 por litro nas distribuidoras; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/a-petrobras-anunciou-um-reajuste-n/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-14T13:57:05-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "Acidente de trânsito causa capotamento em Rondonópolis",
+        "link": "https://afolhalivre.com/acidente-de-transito-causa-capotamento-em-rondonopolis/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-03-14T07:59:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Dono do “Bar do Pé de Manga” morre após troca de tiros com a polícia em Primavera do Leste",
+        "link": "https://afolhalivre.com/um-homem-identificado-como-antonio-de-45-anos-morreu-apos-uma-troca-de-tiros-com-policiais-na-noite-desta-quinta-feira-13-em-primavera/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T08:03:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Carreta-tanque e Fiorino se envolvem em acidente na MT-130 em Primavera do Leste; veja vídeo",
+        "link": "https://afolhalivre.com/um-acidente-registrado-na-tarde-desta-sexta-feira-13-na-mt-130-na-saida-para-paranatinga-no-perimetro-urbano-de-primavera-do-leste-assustou/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T09:58:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Polícia militar reforça segurança e garante tranquilidade durante a 10ª edição da farm show em Primavera do Leste; veja vídeo",
+        "link": "https://afolhalivre.com/a-policia-militar-de-mato-grosso-mobilizou-equipes-para-reforcar-a-seguranca-durante-todos-os-dias-da-10a-edicao-da-farm-show-realizada-em-p/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T11:56:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
     "omatogrossense": [
+      {
+        "title": "Monitor de escola é investigado por  enviar mensagens a criança e pedir que conversas fossem apagadas; Veja vídeo",
+        "link": "https://omatogrossense.com/um-monitor-de-escola-de-60-anos/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-14T08:21:47-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Troca de tiros com a Polícia Militar termina com quatro mortos no interior de MT; veja vídeo",
+        "link": "https://omatogrossense.com/troca-tiros-quatro-mortos-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-14T08:28:43-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Polícia encontra drogas escondidas em entulho durante ação contra tráfico em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/drogas-escondidas-entulho-trafico-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-14T09:14:40-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Vídeo mostra homem retirando enxame de abelhas de dentro de sofá com as mãos; Veja vídeo",
+        "link": "https://omatogrossense.com/um-video-gravado-em-2017-voltou-a-repercutir/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-14T09:26:55-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Apresentador realiza exames no coração após mal-estar durante programa ao vivo em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/apresentador-exames-mal-estar-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-14T10:26:49-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Vídeo mostra mãe passando bebê por baixo de cerca na fronteira entre México e Estados Unidos; Veja vídeo",
+        "link": "https://omatogrossense.com/mae-ajuda-a-propria-filha-a-atravessar/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-14T10:55:20-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Acidente envolvendo motocicleta e caminhão mata dois homens na BR-364; veja vídeo",
+        "link": "https://omatogrossense.com/acidente-motocicleta-caminhao-br-364-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-14T11:20:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
       {
         "title": "Humorista Diogo Defante viraliza ao dançar Lambadão em meio ao público na Praça da Mandioca; veja vídeo",
         "link": "https://omatogrossense.com/diogo-defante-lambadao-praca-mandioca-video/",
@@ -86,9 +360,61 @@
         "category_ids": [
           973
         ]
+      },
+      {
+        "title": "Condutor é detido pela ROTAM depois de ignorar ordem de parada em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/condutor-detido-rotam-ordem-parada-sinop/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-14T13:13:34-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Petrobras anuncia aumento no diesel e prevê alta média de R$ 0,06 por litro",
+        "link": "https://omatogrossense.com/a-petrobras-anunciou-um-reajuste/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-14T13:57:07-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
       }
     ],
     "portalnortemt": [
+      {
+        "title": "Câmeras ajudam polícia a prender homem que invadiu casa e abusou de mulher em Sorriso; veja vídeo",
+        "link": "https://portalnortemt.com/um-crime-de-estupro-registrado-na-manha-desta-sexta-feira-13-mobilizou-forcas-de-seguranca-em-sorriso-no-norte-de-mato-grosso-o-suspeito/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T07:56:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Ação integrada da PRF e Polícia Civil apreendem ouro avaliado em R$ 500 mil em ônibus na BR-163 em Sorriso",
+        "link": "https://portalnortemt.com/uma-acao-conjunta-entre-a-policia-rodoviaria-federal-prf-e-a-policia-civil-resultou-na-apreensao-de-563-gramas-de-ouro-na-br-163-em-sorriso/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T09:56:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
       {
         "title": "Suspeito de estupro em Sorriso confessa a autoria do crime e afirma que estava sob efeito de drogas",
         "link": "https://portalnortemt.com/o-homem-preso-apos-invadir-uma-residencia-e-estuprar-uma-mulher-em-sorriso-no-norte-de-mato-grosso-confessou-o-crime-durante-depoimento/",
@@ -105,6 +431,32 @@
     ],
     "portalpantanalmt": [
       {
+        "title": "Prefeitura de Cáceres promove FIPe em feira nacional de pesca esportiva em São Paulo",
+        "link": "https://portalpantanalmt.com/a-prefeitura-de-caceres-participa-da-pesca-companhia-trade-show-realizada-em-sao-paulo-o-municipio-marca-presenca-por-meio-da-secretaria/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T07:55:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      },
+      {
+        "title": "Contrato de R$ 400 mil para consultoria é revogado após fiscalização em Cáceres; veja vídeo",
+        "link": "https://portalpantanalmt.com/a-prefeitura-de-caceres-cancelou-um-contrato-de-aproximadamente-r-400-mil-apos-questionamentos-sobre-a-necessidade-da-contratacao/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T10:08:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      },
+      {
         "title": "Jovem agride militar do Corpo de Bombeiros durante atendimento médico da mãe em Cáceres",
         "link": "https://portalpantanalmt.com/uma-ocorrencia-de-agressao-e-ameaca-mobilizou-equipes-de-seguranca-na-noite-desta-quinta-feira-12-em-caceres-no-oeste-de-mato-grosso/",
         "author": "Lindy Oliveira",
@@ -118,7 +470,47 @@
         ]
       }
     ],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Motorista avança sinal vermelho, provoca batida e causa capotamento em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-acidente-de-transito-chamou-a-atencao-de-motoristas-e-pedestres-na-tarde-desta-sexta-feira-13-em-rondonopolis-no-sul-de-mato-grosso-a-c/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T07:59:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Adolescente pega moto escondido para ir à escola, empina veículo e acaba apreendido em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-adolescente-acabou-apreendido-pela-policia-militar-na-tarde-desta-sexta-feira-13-apos-realizar-manobras-perigosas-com-uma-motociclet/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T09:57:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Motorista foge após colisão entre carro e moto e deixa pai e duas crianças feridos em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-grave-acidente-deixou-um-homem-de-39-anos-e-seus-dois-filhos-feridos-na-rodovia-do-peixe-nas-proximidades-do-clube-do-sispmur-em-rondonop/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T11:59:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
