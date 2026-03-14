@@ -1,72 +1,124 @@
 {
-  "generated_at": "2026-03-14T12:01:16.435394-04:00",
+  "generated_at": "2026-03-14T13:00:06.057943-04:00",
   "window": {
-    "start": "2026-03-14T11:01:16.435394-04:00",
-    "end": "2026-03-14T12:01:16.435394-04:00"
+    "start": "2026-03-14T12:00:06.057943-04:00",
+    "end": "2026-03-14T13:00:06.057943-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Batida entre motocicleta e caminhão termina com duas mortes na BR-364 em Campo Novo do Parecis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/batida-motocicleta-caminhao-mortes-br-364-video/",
+        "title": "Diogo Defante é flagrado dançando Lambadão no meio do público na Praça da Mandioca em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/diogo-defante-dancando-lambadao-praca-mandioca/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-14T11:20:00-04:00",
+        "published": "2026-03-14T12:20:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
-      }
-    ],
-    "afolhalivre": [
+      },
       {
-        "title": "Polícia militar reforça segurança e garante tranquilidade durante a 10ª edição da farm show em Primavera do Leste; veja vídeo",
-        "link": "https://afolhalivre.com/a-policia-militar-de-mato-grosso-mobilizou-equipes-para-reforcar-a-seguranca-durante-todos-os-dias-da-10a-edicao-da-farm-show-realizada-em-p/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-14T11:56:00-04:00",
+        "title": "Criança sofre choque elétrico após encostar em freezer em estabelecimento comercial; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/crianca-sofre-choque-eletrico-apos-encostar-em-freezer-em-estabelecimento-comercial-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-14T12:20:22-04:00",
         "categories": [
-          "Primavera"
+          "Notícias"
         ],
         "category_ids": [
-          3032
+          5
+        ]
+      },
+      {
+        "title": "Câmera registra acidente que terminou com a morte de jovem; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/camera-registra-acidente-que-terminou-com-a-morte-de-jovem-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-14T12:24:53-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Acidente envolvendo motocicleta e caminhão mata dois homens na BR-364; veja vídeo",
-        "link": "https://omatogrossense.com/acidente-motocicleta-caminhao-br-364-video/",
+        "title": "Humorista Diogo Defante viraliza ao dançar Lambadão em meio ao público na Praça da Mandioca; veja vídeo",
+        "link": "https://omatogrossense.com/diogo-defante-lambadao-praca-mandioca-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-14T11:20:00-04:00",
+        "published": "2026-03-14T12:20:00-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
         ]
-      }
-    ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+      },
       {
-        "title": "Motorista foge após colisão entre carro e moto e deixa pai e duas crianças feridos em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/um-grave-acidente-deixou-um-homem-de-39-anos-e-seus-dois-filhos-feridos-na-rodovia-do-peixe-nas-proximidades-do-clube-do-sispmur-em-rondonop/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-14T11:59:00-04:00",
+        "title": "Menina é socorrida em estado grave após sofrer choque elétrico ao tocar freezer em comércio; Veja vídeo",
+        "link": "https://omatogrossense.com/menina-e-socorrida-em-estado-grave-apos-sofrer-choque-eletrico-ao-tocar-freezer-em-comercio-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-14T12:21:23-04:00",
         "categories": [
-          "Rondonópolis"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          3118
+          973
+        ]
+      },
+      {
+        "title": "Câmera registra acidente que terminou com a morte de jovem em cruzamento; Veja vídeo",
+        "link": "https://omatogrossense.com/camera-registra-acidente-que-terminou-com-a-morte-de-jovem-em-cruzamento-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-14T12:25:41-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
         ]
       }
-    ]
+    ],
+    "portalnortemt": [
+      {
+        "title": "Suspeito de estupro em Sorriso confessa a autoria do crime e afirma que estava sob efeito de drogas",
+        "link": "https://portalnortemt.com/o-homem-preso-apos-invadir-uma-residencia-e-estuprar-uma-mulher-em-sorriso-no-norte-de-mato-grosso-confessou-o-crime-durante-depoimento/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T12:05:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Jovem agride militar do Corpo de Bombeiros durante atendimento médico da mãe em Cáceres",
+        "link": "https://portalpantanalmt.com/uma-ocorrencia-de-agressao-e-ameaca-mobilizou-equipes-de-seguranca-na-noite-desta-quinta-feira-12-em-caceres-no-oeste-de-mato-grosso/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T12:05:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
