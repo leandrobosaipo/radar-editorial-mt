@@ -1,13 +1,81 @@
 {
-  "generated_at": "2026-03-14T08:00:00.368561-04:00",
+  "generated_at": "2026-03-14T09:00:03.344717-04:00",
   "window": {
-    "start": "2026-03-14T07:00:00.368561-04:00",
-    "end": "2026-03-14T08:00:00.368561-04:00"
+    "start": "2026-03-14T08:00:03.344717-04:00",
+    "end": "2026-03-14T09:00:03.344717-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Monitor de escola é investigado por suspeita de assediar criança por mensagens; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/monitor-de-escola-e-investigado-por-suspeita-de-assediar-crianca-por-mensagens-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-14T08:19:50-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Quatro suspeitos morrem após confronto armado com policiais da Patrulha Rural em São José do Rio Claro; veja vídeo",
+        "link": "https://perrenguematogrosso.com/quatro-morrem-confronto-armado-sao-jose-do-rio-claro-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-14T08:28:25-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      }
+    ],
+    "afolhalivre": [
+      {
+        "title": "Dono do “Bar do Pé de Manga” morre após troca de tiros com a polícia em Primavera do Leste",
+        "link": "https://afolhalivre.com/um-homem-identificado-como-antonio-de-45-anos-morreu-apos-uma-troca-de-tiros-com-policiais-na-noite-desta-quinta-feira-13-em-primavera/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T08:03:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Monitor de escola é investigado por  enviar mensagens a criança e pedir que conversas fossem apagadas; Veja vídeo",
+        "link": "https://omatogrossense.com/monitor-de-escola-e-investigado-por-enviar-mensagens-a-crianca-e-pedir-que-conversas-fossem-apagadas-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-14T08:21:47-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Troca de tiros com a Polícia Militar termina com quatro mortos no interior de MT; veja vídeo",
+        "link": "https://omatogrossense.com/troca-tiros-quatro-mortos-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-14T08:28:43-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
