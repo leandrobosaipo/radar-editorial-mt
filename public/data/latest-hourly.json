@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-14T18:00:05.547376-04:00",
+  "generated_at": "2026-03-14T19:00:05.380548-04:00",
   "window": {
-    "start": "2026-03-14T17:00:05.547376-04:00",
-    "end": "2026-03-14T18:00:05.547376-04:00"
+    "start": "2026-03-14T18:00:05.380548-04:00",
+    "end": "2026-03-14T19:00:05.380548-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Homem atropela ex-mulher em ponto de ônibus após discussão em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-atropela-ex-mulher-ponto-onibus-cuiaba/",
+        "title": "Polícia Civil e MPMT fiscalizam postos após denúncias de aumento no preço dos combustíveis no Araguaia",
+        "link": "https://perrenguematogrosso.com/policia-mpmt-fiscalizam-postos-combustiveis-araguaia/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-14T17:30:00-04:00",
+        "published": "2026-03-14T18:31:11-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/326264-2/",
+        "title": "Guarda aborda ator durante gravação de cena de assalto em estrada de Indaiatuba; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/agentes-da-guarda-civil-municipal/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-14T17:54:59-04:00",
+        "published": "2026-03-14T18:54:13-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,11 +36,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Câmeras registram homem atropelando ex-mulher durante briga em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/homem-atropelando-ex-mulher-cuiaba-video/",
+        "title": "Polícia Civil e MPMT fiscalizam postos após denúncias de aumento no preço dos combustíveis no Araguaia",
+        "link": "https://omatogrossense.com/policia-mpmt-fiscalizam-postos-denuncias-araguaia/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-14T17:30:00-04:00",
+        "published": "2026-03-14T18:32:33-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,11 +49,11 @@
         ]
       },
       {
-        "title": "Após repercussão nas redes, mãe atípica aparece sorrindo a caminho de atendimento no CAPS; Veja vídeo",
-        "link": "https://omatogrossense.com/depois-de-ter-sua-historia-amplamente/",
+        "title": "Guarda interrompe gravação de ator após confundir cena de assalto com crime real; Veja vídeo",
+        "link": "https://omatogrossense.com/agentes-da-guarda-civil-municipal/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-14T17:52:10-04:00",
+        "published": "2026-03-14T18:54:58-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -64,34 +64,7 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Apresentador do Cidade Alerta MT passa mal durante programa e deixa transmissão; veja vídeo",
-        "link": "https://roonoticias.com/um-momento-inesperado-chamou-a-atencao-dos-telespectadores/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-14T17:08:02-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Crime brutal em Cuiabá: mãe pede justiça após filha ser morta pelo próprio irmão; veja vídeo",
-        "link": "https://roonoticias.com/a-morte-de-uma-adolescente-de-17-anos-no-bairro-tres-barras/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-14T17:22:28-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
