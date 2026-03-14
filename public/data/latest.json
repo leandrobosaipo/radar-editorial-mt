@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-03-14T09:00:03.344717-04:00",
+  "generated_at": "2026-03-14T12:01:16.435394-04:00",
   "window": {
-    "start": "2026-03-14T08:00:03.344717-04:00",
-    "end": "2026-03-14T09:00:03.344717-04:00"
+    "start": "2026-03-14T11:01:16.435394-04:00",
+    "end": "2026-03-14T12:01:16.435394-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Monitor de escola é investigado por suspeita de assediar criança por mensagens; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/monitor-de-escola-e-investigado-por-suspeita-de-assediar-crianca-por-mensagens-veja-video/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-14T08:19:50-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Quatro suspeitos morrem após confronto armado com policiais da Patrulha Rural em São José do Rio Claro; veja vídeo",
-        "link": "https://perrenguematogrosso.com/quatro-morrem-confronto-armado-sao-jose-do-rio-claro-video/",
+        "title": "Batida entre motocicleta e caminhão termina com duas mortes na BR-364 em Campo Novo do Parecis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/batida-motocicleta-caminhao-mortes-br-364-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-14T08:28:25-04:00",
+        "published": "2026-03-14T11:20:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -35,11 +22,11 @@
     ],
     "afolhalivre": [
       {
-        "title": "Dono do “Bar do Pé de Manga” morre após troca de tiros com a polícia em Primavera do Leste",
-        "link": "https://afolhalivre.com/um-homem-identificado-como-antonio-de-45-anos-morreu-apos-uma-troca-de-tiros-com-policiais-na-noite-desta-quinta-feira-13-em-primavera/",
+        "title": "Polícia militar reforça segurança e garante tranquilidade durante a 10ª edição da farm show em Primavera do Leste; veja vídeo",
+        "link": "https://afolhalivre.com/a-policia-militar-de-mato-grosso-mobilizou-equipes-para-reforcar-a-seguranca-durante-todos-os-dias-da-10a-edicao-da-farm-show-realizada-em-p/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-14T08:03:00-04:00",
+        "published": "2026-03-14T11:56:00-04:00",
         "categories": [
           "Primavera"
         ],
@@ -50,24 +37,11 @@
     ],
     "omatogrossense": [
       {
-        "title": "Monitor de escola é investigado por  enviar mensagens a criança e pedir que conversas fossem apagadas; Veja vídeo",
-        "link": "https://omatogrossense.com/monitor-de-escola-e-investigado-por-enviar-mensagens-a-crianca-e-pedir-que-conversas-fossem-apagadas-veja-video/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-14T08:21:47-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Troca de tiros com a Polícia Militar termina com quatro mortos no interior de MT; veja vídeo",
-        "link": "https://omatogrossense.com/troca-tiros-quatro-mortos-mt-video/",
+        "title": "Acidente envolvendo motocicleta e caminhão mata dois homens na BR-364; veja vídeo",
+        "link": "https://omatogrossense.com/acidente-motocicleta-caminhao-br-364-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-14T08:28:43-04:00",
+        "published": "2026-03-14T11:20:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -78,7 +52,21 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Motorista foge após colisão entre carro e moto e deixa pai e duas crianças feridos em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-grave-acidente-deixou-um-homem-de-39-anos-e-seus-dois-filhos-feridos-na-rodovia-do-peixe-nas-proximidades-do-clube-do-sispmur-em-rondonop/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-14T11:59:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
