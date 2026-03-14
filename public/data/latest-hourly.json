@@ -1,37 +1,11 @@
 {
-  "generated_at": "2026-03-14T15:05:53.870069-04:00",
+  "generated_at": "2026-03-14T16:01:55.862059-04:00",
   "window": {
-    "start": "2026-03-14T14:05:53.870069-04:00",
-    "end": "2026-03-14T15:05:53.870069-04:00"
+    "start": "2026-03-14T15:01:55.862059-04:00",
+    "end": "2026-03-14T16:01:55.862059-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
-      {
-        "title": "Semana do Cavalo reúne grandes criadores e registra leilão que ultrapassa R$ 10 milhões em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/semana-do-cavalo-leilao-milhoes-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-14T14:53:06-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Recepcionista sofre agressão dentro de hotel após recusar beijo de hóspede; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/a-recepcionista-maria-niuzete-batista/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-14T14:54:44-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
       {
         "title": "Mãe relata desafios ao cuidar de filho autista e denuncia preconceito e falta de compreensão; Veja vídeo",
         "link": "https://perrenguematogrosso.com/uma-jovem-identificada-como-m/",
@@ -44,16 +18,68 @@
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Atlético tenta quebrar tabu histórico em Salvador e zagueiro revela nova fase do time; veja vídeo",
+        "link": "https://perrenguematogrosso.com/atletico-tenta-quebrar-tabu/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-14T15:10:42-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Motociclista fica preso sob ônibus após acidente na Avenida do CPA em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motociclista-preso-onibus-acidente-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-14T15:35:41-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Incêndio em loja provoca fechamento temporário do Shopping e deixa feridos; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-incendio-atingiu-uma-loja-dentro/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-14T16:00:00-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Semana do Cavalo impulsiona negócios e registra leilão de cavalos com vendas milionárias em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/semana-do-cavalo-leilao-cavalos-cuiaba-video/",
+        "title": "Atlético tenta quebrar tabu histórico em Salvador e zagueiro revela nova fase do time; veja vídeo",
+        "link": "https://omatogrossense.com/atletico-tenta-quebrar-tabu/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-14T15:11:15-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Motociclista sobrevive após ficar preso sob ônibus em acidente na Avenida do CPA; veja vídeo",
+        "link": "https://omatogrossense.com/motociclista-preso-onibus-acidente-cpa-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-14T14:52:54-04:00",
+        "published": "2026-03-14T15:35:43-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,24 +88,11 @@
         ]
       },
       {
-        "title": "Recepcionista é agredida em hotel após rejeitar investida de hóspede; Veja vídeo",
-        "link": "https://omatogrossense.com/a-recepcionista-maria-niuzete-batista/",
+        "title": "Incêndio em loja fecha shopping e deixa feridos; Veja vídeo",
+        "link": "https://omatogrossense.com/um-incendio-registrado-dentro/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-14T14:54:13-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Mãe de criança autista relata dificuldades diárias e cobra mais empatia da sociedade; Veja vídeo",
-        "link": "https://omatogrossense.com/uma-jovem-identificada-como-mariana/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-14T15:01:26-04:00",
+        "published": "2026-03-14T16:00:00-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -92,16 +105,29 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "PL gasta R$ 209 mil com “tour” de Flávio por Oriente Médio e Europa",
-        "link": "https://roonoticias.com/pl-gasta-r-209-mil-com-tour-de-flavio-por-oriente-medio-e-europa/",
+        "title": "Paciente tenta fugir de hospital pelos dutos de ventilação e acaba caindo do teto em CTI; veja vídeo",
+        "link": "https://roonoticias.com/um-episodio-incomum-chamou-a-atencao-dentro-do-hospital/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-14T15:00:07-04:00",
+        "published": "2026-03-14T15:34:42-04:00",
         "categories": [
-          "Política"
+          "MT Notícias"
         ],
         "category_ids": [
-          5
+          20
+        ]
+      },
+      {
+        "title": "Médica realiza parto às pressas dentro de carro na porta de hospital; veja vídeo",
+        "link": "https://roonoticias.com/uma-situacao-inesperada-marcou-a-noite-de-quinta-feira/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-14T15:54:59-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
         ]
       }
     ]
