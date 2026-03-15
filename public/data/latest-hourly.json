@@ -1,158 +1,21 @@
 {
-  "generated_at": "2026-03-15T11:00:05.613392-04:00",
+  "generated_at": "2026-03-15T12:00:53.037712-04:00",
   "window": {
-    "start": "2026-03-15T10:00:05.613392-04:00",
-    "end": "2026-03-15T11:00:05.613392-04:00"
+    "start": "2026-03-15T11:00:53.037712-04:00",
+    "end": "2026-03-15T12:00:53.037712-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Mãe de jovem morta pelo irmão pede justiça após ele ser preso em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mae-de-jovem-morta-pelo-irmao-pede-justica/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-15T10:28:44-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Enterro de mulher espancada com mais de 80 socos é marcado por homenagens e protestos; veja vídeo",
-        "link": "https://perrenguematogrosso.com/moradores-de-tome-acu-no-nordeste-do-para-se-reuniram-neste-sabado-14-para-se-despedir-de-alciely-almeida-alencar/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-03-15T11:00:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Mãe de jovem morta pelo irmão pede justiça após ele ser preso em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/mae-de-jovem-morta-pelo-irmao-pede-justica-apos-ele-ser-preso-em-cuiaba-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-15T10:28:49-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Enterro de mulher espancada com mais de 80 socos é marcado por homenagens e protestos; veja vídeo",
-        "link": "https://omatogrossense.com/moradores-de-tome-acu-no-nordeste-do-para-se-reuniram-neste-sabado-14-para-se-despedir-de-alciely-almeida-alencar/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-15T11:00:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Homem invade farmácia em Rondonópolis, ameaça ex-companheira e acaba preso",
-        "link": "https://roonoticias.com/rascunho-automaticoum-homem-acabou-conduzido-pela-policia-militar-apos-ameacar-a-ex-companheira-dentro-de-uma-farmacia-no-bairro-residencial-buriti-em/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-15T10:02:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      },
-      {
-        "title": "Fora contra o Santos, Yuri Alberto revela quando deve voltar ao Corinthians após lesão",
-        "link": "https://roonoticias.com/o-corinthians-esta-proximo-de-ganhar-um-reforco-importante/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-15T10:21:39-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Zubeldía confirma proposta do Santos e diz por que não se animou: ‘Muito perto do rebaixamento’",
-        "link": "https://roonoticias.com/o-tecnico-luis-zubeldia-revelou-um-bastidor-curioso-do-futebol/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-15T10:26:38-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Kassab prestigia Caiado em filiação, mas não crava escolha ao Planalto",
-        "link": "https://roonoticias.com/o-cenario-politico-nacional-ganhou-novos-movimentos-neste-fim/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-15T10:33:42-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Bolsonaro completa 24 horas em UTI sem previsão de alta",
-        "link": "https://roonoticias.com/o-ex-presidente-jair-bolsonaro-segue-internado-na-unidade/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-15T10:40:36-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
     "portalnortemt": [
       5,
       7,
