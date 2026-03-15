@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-15T13:02:19.932031-04:00",
+  "generated_at": "2026-03-15T15:00:05.390208-04:00",
   "window": {
-    "start": "2026-03-15T12:02:19.932031-04:00",
-    "end": "2026-03-15T13:02:19.932031-04:00"
+    "start": "2026-03-15T14:00:05.390208-04:00",
+    "end": "2026-03-15T15:00:05.390208-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Mulher é atropelada duas vezes pelo ex-marido em ponto de ônibus em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-e-atropelada-duas-vezes-pelo-ex-marido/",
+        "title": "Homem viraliza nas redes após vídeo trabalhando e curtindo Semana do Cavalo em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-viraliza-nas-redes-apos-video-trabalhando-e-curtindo-semana-do-cavalo-em-cuiaba-veja-video/",
         "author": "Victor Hugo Moreira do Nascimento",
         "author_id": 293,
-        "published": "2026-03-15T12:02:38-04:00",
+        "published": "2026-03-15T14:03:19-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,58 +20,40 @@
         ]
       },
       {
-        "title": "Vídeo revela mudança de comportamento de acusado durante julgamento e caso volta ao Tribunal do Júri; veja vídeo",
-        "link": "https://perrenguematogrosso.com/video-revela-mudanca-de-comportamento/",
+        "title": "Dona chega da academia e encontra gato escondido no sofá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/dona-chega-da-academia/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-15T12:44:40-04:00",
+        "published": "2026-03-15T14:32:52-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Carro liga sozinho e invade sorveteria em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/carro-liga-sozinho-e-invade-sorveteria-em-rondonopolis-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-03-15T14:35:39-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
       }
     ],
     "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [
+    "omatogrossense": [
       {
-        "title": "Idoso ameaça vizinha, tenta invadir casa e acaba preso pela Polícia Militar em Tapurah",
-        "link": "https://portalnortemt.com/um-idoso-de-64-anos-acabou-preso-apos-ameacar-uma-vizinha-e-tentar-invadir-a-casa-dela-durante-a-madrugada-deste-sabado-14-o-caso-ocorreu/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-15T12:04:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "Corpo com sinais de decomposição é encontrado em terreno baldio em Cáceres",
-        "link": "https://portalpantanalmt.com/rascunho-automaticoa-localizacao-do-corpo-de-um-homem-mobilizou-equipes-de-seguranca-na-tarde-deste-sabado-14-em-caceres-a-ocorrencia-aconteceu-por-volta-das/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-15T12:04:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
-    "roonoticias": [
-      {
-        "title": "Ciúme termina em violência: homem atropela esposa em Cuiabá e acaba preso por tentativa de feminicídio; veja vídeo",
-        "link": "https://roonoticias.com/um-caso-grave-de-violencia-contra-a-mulher-chocou-moradores/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-15T12:15:58-04:00",
+        "title": "Homem viraliza nas redes após vídeo trabalhando e curtindo Semana do Cavalo em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/homem-viraliza-nas-redes-apos-video-trabalhando-e-curtindo-semana-do-cavalo-em-cuiaba-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-03-15T14:03:23-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -80,11 +62,11 @@
         ]
       },
       {
-        "title": "Gravação de assalto com ator Julio Rocha mobiliza guarda municipal e causa confusão em estrada; veja vídeo",
-        "link": "https://roonoticias.com/uma-gravacao-que-simulava-um-assalto-acabou-provocando/",
-        "author": "Valiatt Arruda",
+        "title": "Dona chega da academia e encontra gato escondido no sofá; veja vídeo",
+        "link": "https://omatogrossense.com/dona-chega-da-academia/",
+        "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-15T12:38:22-04:00",
+        "published": "2026-03-15T14:32:59-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -93,19 +75,22 @@
         ]
       },
       {
-        "title": "Multidão se reúne em velório de mãe de quatro filhos e pede justiça no Pará; veja vídeo",
-        "link": "https://roonoticias.com/a-cidade-de-tome-acu-viveu-um-dia-de-profunda-tristeza/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-15T12:59:05-04:00",
+        "title": "Carro liga sozinho e invade sorveteria em Rondonópolis; veja vídeo",
+        "link": "https://omatogrossense.com/carro-liga-sozinho-e-invade-sorveteria-em-rondonopolis-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-03-15T14:35:09-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       }
-    ]
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
