@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-14T19:00:05.380548-04:00",
+  "generated_at": "2026-03-14T20:00:00.360130-04:00",
   "window": {
-    "start": "2026-03-14T18:00:05.380548-04:00",
-    "end": "2026-03-14T19:00:05.380548-04:00"
+    "start": "2026-03-14T19:00:00.360130-04:00",
+    "end": "2026-03-14T20:00:00.360130-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Polícia Civil e MPMT fiscalizam postos após denúncias de aumento no preço dos combustíveis no Araguaia",
-        "link": "https://perrenguematogrosso.com/policia-mpmt-fiscalizam-postos-combustiveis-araguaia/",
+        "title": "Empresário é encontrado morto dentro de caminhonete na MT-110 em Querência",
+        "link": "https://perrenguematogrosso.com/empresario-morto-caminhonete-mt-110-querencia/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-14T18:31:11-04:00",
+        "published": "2026-03-14T19:24:16-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "Guarda aborda ator durante gravação de cena de assalto em estrada de Indaiatuba; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/agentes-da-guarda-civil-municipal/",
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/326296-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-14T18:54:13-04:00",
+        "published": "2026-03-14T19:55:12-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,11 +36,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Polícia Civil e MPMT fiscalizam postos após denúncias de aumento no preço dos combustíveis no Araguaia",
-        "link": "https://omatogrossense.com/policia-mpmt-fiscalizam-postos-denuncias-araguaia/",
+        "title": "Empresário é encontrado morto dentro de caminhonete na MT-110 em Querência",
+        "link": "https://omatogrossense.com/empresario-morto-caminhonete-mt-110-querencia/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-14T18:32:33-04:00",
+        "published": "2026-03-14T19:24:19-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,16 +49,16 @@
         ]
       },
       {
-        "title": "Guarda interrompe gravação de ator após confundir cena de assalto com crime real; Veja vídeo",
-        "link": "https://omatogrossense.com/agentes-da-guarda-civil-municipal/",
+        "title": ".",
+        "link": "https://omatogrossense.com/133618-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-14T18:54:58-04:00",
+        "published": "2026-03-14T19:55:05-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       }
     ],
