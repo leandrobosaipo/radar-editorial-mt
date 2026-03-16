@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-16T10:00:01.286378-04:00",
+  "generated_at": "2026-03-16T11:00:05.384209-04:00",
   "window": {
-    "start": "2026-03-16T09:00:01.286378-04:00",
-    "end": "2026-03-16T10:00:01.286378-04:00"
+    "start": "2026-03-16T10:00:05.384209-04:00",
+    "end": "2026-03-16T11:00:05.384209-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Trio invade casa no bairro Morada dos Nobres e polícia prende dois suspeitos em flagrante em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/trio-invade-casa-policia-prende-dois-cuiaba-video/",
+        "title": "Criança de 8 anos sofre acidente ao atravessar rua de bicicleta em bairro de Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/crianca-de-8-anos-sofre-acidente-ao-atravessar-rua-de-bicicleta-em-bairro-de-varzea-grande-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-16T09:22:51-04:00",
+        "published": "2026-03-16T10:32:01-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "Polícia Militar entra em boate, sobe ao palco e chama jovem durante festa; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/policiais-da-policia-militar-de-rondonia-i/",
+        "title": "Carro cai em cratera aberta por chuva e fica preso em vala na via de acesso à BR-070; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-video-divulgado-nas-redes-sociais-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-16T09:47:26-04:00",
+        "published": "2026-03-16T10:50:35-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,11 +36,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "PM frustra roubo em residência e detém dois criminosos após invasão em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/pm-frustra-roubo-residencia-cuiaba-video/",
+        "title": "Criança de 8 anos sofre acidente após atravessar rua de bicicleta em Várzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/crianca-de-8-anos-sofre-acidente-apos-atravessar-rua-de-bicicleta-em-varzea-grande-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-16T09:27:42-04:00",
+        "published": "2026-03-16T10:33:14-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,16 +49,16 @@
         ]
       },
       {
-        "title": "Polícia Militar interrompe festa em boate e procura jovem durante evento; Veja vídeo",
-        "link": "https://omatogrossense.com/policia-militar-interrompe-festa-em-boate-e-procura-jovem-durante-evento-veja-video/",
+        "title": "Carro cai em buraco aberto por chuva e fica preso em cratera; Veja vídeo",
+        "link": "https://omatogrossense.com/carro-cai-em-buraco-aberto-por-chuva-e-fica-preso-em-cratera-veja-video/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-16T09:46:37-04:00",
+        "published": "2026-03-16T10:51:47-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       }
     ],
