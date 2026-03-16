@@ -1,13 +1,81 @@
 {
-  "generated_at": "2026-03-16T08:00:05.530574-04:00",
+  "generated_at": "2026-03-16T09:00:02.881212-04:00",
   "window": {
-    "start": "2026-03-16T07:00:05.530574-04:00",
-    "end": "2026-03-16T08:00:05.530574-04:00"
+    "start": "2026-03-16T08:00:02.881212-04:00",
+    "end": "2026-03-16T09:00:02.881212-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Carro perde o controle em curva, invade acostamento e quase atinge ciclistas durante pedal; veja vídeo",
+        "link": "https://perrenguematogrosso.com/ciclistas-viveu-momentos-de-tensao/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-16T08:13:00-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Batida entre dois carros deixa três pessoas feridas no Anel Viário em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/batida-carros-tres-feridas-rondonopolis-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-16T08:13:47-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      }
+    ],
+    "afolhalivre": [
+      {
+        "title": "Primavera do Leste recebe lançamento oficial da 5ª Corrida Homens do Fogo",
+        "link": "https://afolhalivre.com/a-lagoa-municipal-de-primavera-do-leste-recebeu-na-tarde-deste-sabado-14-o-lancamento-oficial-da-5a-corrida-homens-do-fogo-evento-promovido/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-16T08:02:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Carro perde controle em curva, invade acostamento e quase atinge grupo de ciclistas; Veja vídeo",
+        "link": "https://omatogrossense.com/ciclistas-passou-por-momentos/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-16T08:10:37-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Acidente envolvendo Fastback e HB20 deixa três feridos no Anel Viário em Rondonópolis; veja vídeo",
+        "link": "https://omatogrossense.com/acidente-fastback-hb20-tres-feridos-rondonopolis-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-16T08:13:57-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
