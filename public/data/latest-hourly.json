@@ -1,67 +1,13 @@
 {
-  "generated_at": "2026-03-15T20:11:17.875829-04:00",
+  "generated_at": "2026-03-16T08:00:05.530574-04:00",
   "window": {
-    "start": "2026-03-15T19:11:17.875829-04:00",
-    "end": "2026-03-15T20:11:17.875829-04:00"
+    "start": "2026-03-16T07:00:05.530574-04:00",
+    "end": "2026-03-16T08:00:05.530574-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Mulher com drogas e R$ 2 mil em Sorriso é presa pela Força Tática; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-com-drogas/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-15T20:00:00-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Homem entra em surto, faz prima refém em apartamento e se rende após negociação do Bope; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-entra-em-surto-faz-prima-refem/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-15T20:00:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Beco de Sorriso chama atenção: mulher é presa com drogas e dinheiro; veja vídeo",
-        "link": "https://omatogrossense.com/beco-de-sorriso/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-15T20:00:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "VÍDEO: Homem em surto invade apartamento e mantém prima refém; negociação da polícia evita tragédia",
-        "link": "https://omatogrossense.com/homem-em-surto-invade-apartamento/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-15T20:00:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
