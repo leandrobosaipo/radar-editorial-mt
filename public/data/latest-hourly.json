@@ -1,17 +1,43 @@
 {
-  "generated_at": "2026-03-16T12:00:05.262189-04:00",
+  "generated_at": "2026-03-16T13:00:03.351931-04:00",
   "window": {
-    "start": "2026-03-16T11:00:05.262189-04:00",
-    "end": "2026-03-16T12:00:05.262189-04:00"
+    "start": "2026-03-16T12:00:03.351931-04:00",
+    "end": "2026-03-16T13:00:03.351931-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PM apreende três adolescentes suspeitas de facilitar tentativa de roubo em residência de Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/pm-apreende-adolescentes-tentativa-roubo-cuiaba/",
+        "title": "Polícia prende quatro familiares suspeitos de abuso sexual contra adolescente de 14 anos; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/a-policia-civil-do-para-prendeu-quatr/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-16T12:25:24-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Santos domina, vence o Mixto por 3 a 0 e amplia pressão sobre as Tigresas no Brasileiro Feminino; veja os gols",
+        "link": "https://perrenguematogrosso.com/santos-domina-vence-o-mixto-por-3-a-0/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-16T12:27:02-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Cavalaria da PM apreende pistola escondida em fogão e prende suspeito em Peixoto de Azevedo; veja vídeo",
+        "link": "https://perrenguematogrosso.com/cavalaria-apreende-pistola-fogao-peixoto-azevedo/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-16T11:39:01-04:00",
+        "published": "2026-03-16T12:30:26-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,27 +46,40 @@
         ]
       },
       {
-        "title": "Homem morre após cair de cachoeira e se afogar na região; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-morre-apos-cair-de-cachoeira-e-se-afogar-na-regiao-veja-video/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-16T11:55:44-04:00",
+        "title": "Vídeo com prefeitos e deputados de MT ao lado de Eduardo Bolsonaro declara apoio a Flávio Bolsonaro; veja vídeo",
+        "link": "https://perrenguematogrosso.com/video-com-prefeitos-e-deputados-de-mt/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-16T12:41:14-04:00",
         "categories": [
-          "Notícias"
+          "Política"
         ],
         "category_ids": [
-          5
+          510
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Três adolescentes são suspeitas de facilitar tentativa de roubo em residência de Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/tres-adolescentes-tentativa-roubo-cuiaba-video/",
+        "title": "Polícia prende familiares suspeitos de estupro coletivo contra adolescente de 14 anos; Veja vídeo",
+        "link": "https://omatogrossense.com/a-policia-civil-do-para-prendeu-quatro-pessoas/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-16T12:21:35-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "PM apreende pistola escondida em fogão e prende suspeito em Peixoto de Azevedo; veja vídeo",
+        "link": "https://omatogrossense.com/pm-apreende-pistola-fogao-peixoto-azevedo/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-16T11:40:11-04:00",
+        "published": "2026-03-16T12:31:11-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,22 +88,102 @@
         ]
       },
       {
-        "title": "Homem morre após cair de cachoeira durante banho em área turística; Veja vídeo",
-        "link": "https://omatogrossense.com/um-homem-de-47-anos-morreu/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-16T11:56:44-04:00",
+        "title": "Santos domina o Mixto e expõe desafio das Tigresas no Brasileirão Feminino; veja os gols",
+        "link": "https://omatogrossense.com/santos-domina-o-mixto-e-expoe-desafio-das-tigresas/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-16T12:36:11-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Esporte"
         ],
         "category_ids": [
-          973
+          7
+        ]
+      },
+      {
+        "title": "Lideranças de Mato Grosso aparecem em vídeo com Eduardo Bolsonaro e sinalizam apoio a Flávio para presidente; veja vídeo",
+        "link": "https://omatogrossense.com/liderancas-de-mato-grosso/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-16T12:41:21-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Ação reage no fim, mas estreia com derrota para o Vasco na Série A2 do Brasileiro Feminino; veja os gols",
+        "link": "https://omatogrossense.com/acao-reage-no-fim-mas-estreia-com-derrota-para-o-vasco/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-16T13:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ],
     "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalpantanalmt": [
+      {
+        "title": "Evento “Dia E” oferece 209 vagas de trabalho durante multirão em Cáceres no dia 17 de março",
+        "link": "https://portalpantanalmt.com/o-mercado-de-trabalho-em-caceres-ganhara-um-reforco-importante-na-proxima-terca-feira-17-o-instituto-euvaldo-lodi-de-mato-grosso-realiza-o/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-16T12:01:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Colisão violenta deixa veículos destruidos e três pessoas feridas no Anel Viário em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-acidente-de-transito-de-grande-impacto-mobilizou-equipes-de-resgate-na-noite-de-domingo-15-em-rondonopolis-no-sul-de-mato-grosso/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-16T12:02:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Depois de Lula, o destino traçado para o PT é o dilúvio",
+        "link": "https://roonoticias.com/a-trajetoria-do-partido-dos-trabalhadores-volta-ao-centro/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-16T12:10:10-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Pressão sobre a inflação deve impactar calendário eleitoral de Lula",
+        "link": "https://roonoticias.com/a-recente-pressao-inflacionaria-no-brasil-comeca-a-gerar-reflexos/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-16T12:27:38-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
