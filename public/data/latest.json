@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-17T10:00:05.328588-04:00",
+  "generated_at": "2026-03-17T11:00:04.555618-04:00",
   "window": {
-    "start": "2026-03-17T09:00:05.328588-04:00",
-    "end": "2026-03-17T10:00:05.328588-04:00"
+    "start": "2026-03-17T10:00:04.555618-04:00",
+    "end": "2026-03-17T11:00:04.555618-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Polícia desmantela grupo que fraudava cargas de soja com documentos falsos e gerou prejuízo milionário em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/grupo-fraudava-cargas-soja-prejuizo-mt-video/",
+        "title": "Praça da Mandioca recebe projeto para impulsionar bares e ampliar movimento noturno em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/praca-da-mandioca-projeto-movimento-noturno-cuiaba/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-17T09:06:49-04:00",
+        "published": "2026-03-17T10:16:37-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,27 +20,27 @@
         ]
       },
       {
-        "title": "Mauro Mendes chega a Pontes e Lacerda e anuncia pacote de investimentos com foco em hospital regional; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/mauro-mendes-chega-a-pontes-e-lacerda-e-anuncia-pacote-de-investimentos-com-foco-em-hospital-regional-veja-video/",
+        "title": "Centro futurista com robôs para idosos é inaugurado e impressiona; veja vídeo",
+        "link": "https://perrenguematogrosso.com/centro-com-robos-para-idosos-e-inaugurado-em-pequim-e-aposta-em-tecnologia-para-cuidado-diario-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-17T09:42:28-04:00",
+        "published": "2026-03-17T10:45:44-04:00",
         "categories": [
-          "Política"
+          "Notícias"
         ],
         "category_ids": [
-          510
+          5
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Funcionários facilitam ação criminosa que desvia carga milionária de soja em Mato Grosso; veja vídeo",
-        "link": "https://omatogrossense.com/funcionarios-facilitam-carga-milionaria-soja-mato-grosso/",
+        "title": "Praça da Mandioca recebe projeto que promete impulsionar bares e restaurantes locais; veja vídeo",
+        "link": "https://omatogrossense.com/praca-mandioca-projeto-impulsionar-bares-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-17T09:06:35-04:00",
+        "published": "2026-03-17T10:18:03-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,22 +49,63 @@
         ]
       },
       {
-        "title": "Em Pontes e Lacerda, Mauro Mendes encerra agenda no Oeste com anúncio de hospital e novos investimentos; Veja vídeo",
-        "link": "https://omatogrossense.com/em-pontes-e-lacerda-mauro-mendes-encerra-agenda-no-oeste-com-anuncio-de-hospital-e-novos-investimentos-veja-video/",
+        "title": "Centro inovador para idosos é inaugurado com uso de robôs e atendimento inteligente; Veja vídeo",
+        "link": "https://omatogrossense.com/pequim-inaugura-centro-inovador-para-idosos-com-uso-de-robos-e-atendimento-inteligente-veja-video/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-17T09:42:17-04:00",
+        "published": "2026-03-17T10:45:08-04:00",
         "categories": [
-          "Política"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          5
+          973
         ]
       }
     ],
-    "portalnortemt": [],
+    "portalnortemt": [
+      {
+        "title": "Embriaguez leva homem a entrar por engano em casa de desconhecido durante a madrugada em Tapurah",
+        "link": "https://portalnortemt.com/um-homem-de-nacionalidade-venezuelana-entrou-por-engano-em-uma-residencia-durante-a-madrugada-deste-domingo-15-no-municipio-de-tapurah/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-17T10:01:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Motociclista morre após ser arrastado por carreta por mais de 1 km em Rondonopólis",
+        "link": "https://roonoticias.com/um-grave-acidente-terminou-com-a-morte-de-um-motociclista-na-madrugada-desta-segunda-feira-16-em-rondonopolis-no-sul-de-mato-grosso/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-17T10:02:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Homem morre após cair de cachoeira e se afogar no Distrito Federal; veja vídeo",
+        "link": "https://roonoticias.com/um-homem-de-47-anos-morreu-na-tarde-de-domingo/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-17T10:05:06-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
