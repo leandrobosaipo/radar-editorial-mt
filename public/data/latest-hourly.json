@@ -1,83 +1,69 @@
 {
-  "generated_at": "2026-03-17T09:00:05.238400-04:00",
+  "generated_at": "2026-03-17T10:00:05.328588-04:00",
   "window": {
-    "start": "2026-03-17T08:00:05.238400-04:00",
-    "end": "2026-03-17T09:00:05.238400-04:00"
+    "start": "2026-03-17T09:00:05.328588-04:00",
+    "end": "2026-03-17T10:00:05.328588-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Condutor impede socorro de idosa com AVC ; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/condutor-impede-socorro-de-idosa-com-avc-veja-video/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-17T08:08:43-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Polícia Civil prende homem de 26 anos investigado por exploração sexual infantil em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-26-anos-investigado-exploracao-sexual-cuiaba/",
+        "title": "Polícia desmantela grupo que fraudava cargas de soja com documentos falsos e gerou prejuízo milionário em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/grupo-fraudava-cargas-soja-prejuizo-mt-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-17T08:13:29-04:00",
+        "published": "2026-03-17T09:06:49-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
+      },
+      {
+        "title": "Mauro Mendes chega a Pontes e Lacerda e anuncia pacote de investimentos com foco em hospital regional; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/mauro-mendes-chega-a-pontes-e-lacerda-e-anuncia-pacote-de-investimentos-com-foco-em-hospital-regional-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-17T09:42:28-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Polícia Civil investiga motorista que atrapalhou salvamento de idosa; Veja vídeo",
-        "link": "https://omatogrossense.com/motorista-impede-passagem-de-ambulancia-enquanto-idosa-e-socorrida-veja-video/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-17T08:08:02-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Polícia Civil prende homem que armazenava arquivos ilegais de abuso infantil em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/homem-armazenava-arquivos-abuso-infantil-cuiaba/",
+        "title": "Funcionários facilitam ação criminosa que desvia carga milionária de soja em Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/funcionarios-facilitam-carga-milionaria-soja-mato-grosso/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-17T08:19:03-04:00",
+        "published": "2026-03-17T09:06:35-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
         ]
-      }
-    ],
-    "portalnortemt": [],
-    "portalpantanalmt": [
+      },
       {
-        "title": "Homem de bicicleta dispara tiros e provoca correria em frente a comércio em Cáceres",
-        "link": "https://portalpantanalmt.com/a-policia-militar-atendeu-uma-ocorrencia-de-disparos-de-arma-de-fogo-em-caceres-no-oeste-de-mato-grosso-o-chamado-chegou-ao-centro/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-17T08:02:00-04:00",
+        "title": "Em Pontes e Lacerda, Mauro Mendes encerra agenda no Oeste com anúncio de hospital e novos investimentos; Veja vídeo",
+        "link": "https://omatogrossense.com/em-pontes-e-lacerda-mauro-mendes-encerra-agenda-no-oeste-com-anuncio-de-hospital-e-novos-investimentos-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-17T09:42:17-04:00",
         "categories": [
-          "Cáceres"
+          "Política"
         ],
         "category_ids": [
-          3105
+          5
         ]
       }
     ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
