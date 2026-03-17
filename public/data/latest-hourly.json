@@ -1,37 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:13:14.561512-04:00",
+  "generated_at": "2026-03-17T18:00:05.311812-04:00",
   "window": {
-    "start": "2026-03-17T16:13:14.561512-04:00",
-    "end": "2026-03-17T17:13:14.561512-04:00"
+    "start": "2026-03-17T17:00:05.311812-04:00",
+    "end": "2026-03-17T18:00:05.311812-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
-      {
-        "title": "Câmera registra momento em que motorista passa mal, atinge motociclista e cai em córrego de Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/camera-registra-momento-em-que-motorista-passa-mal-atinge-motociclista-e-cai-em-corrego-de-cuiaba-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-17T16:22:22-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Ex-jogador de futebol americano morre aos 28 anos um mês após noivado nos EUA",
-        "link": "https://perrenguematogrosso.com/ex-jogador-de-futebol-americano-morre-aos-28-anos-um-mes-apos-noivado-nos-eua/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-17T17:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
       {
         "title": "Criminosos invadem casa, sequestram vítima e forçam transferências; Veja vídeo",
         "link": "https://perrenguematogrosso.com/criminosos-invadem-casa-sequestram-vitima-e-forcam-transferencias-veja-video/",
@@ -44,36 +18,49 @@
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Câmera de segurança flagra criminoso armado durante assalto em comércio de Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/criminoso-armado-assalto-comercio-sinop-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-17T17:26:52-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Abordagem da Receita expõe operação da PF e compromete investigação sobre tráfico; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/abordagem-da-receita-expoe-operacao-da-pf-e-compromete-investigacao-sobre-trafico-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-17T17:29:59-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Vereadora denuncia falhas no Pronto-Socorro de VG e cobra ação urgente após caso grave; veja vídeo",
+        "link": "https://perrenguematogrosso.com/vereadora-denuncia-falhas-no-pronto-socorro-de-vg-e-cobra-acao-urgente-apos-caso-grave-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-17T17:53:50-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
-      {
-        "title": "Câmera flagra motorista passando mal, atingindo motociclista e caindo em córrego em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/camera-flagra-motorista-passando-mal-atingindo-motociclista-e-caindo-em-corrego-em-cuiaba-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-17T16:24:46-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Ex-quarterback morre aos 28 anos após acidente um mês depois de noivado",
-        "link": "https://omatogrossense.com/ex-quarterback-morre-aos-28-anos-apos-acidente-um-mes-depois-de-noivado/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-17T17:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
       {
         "title": "Grupo invade casa, sequestra morador e faz transferências sob ameaça; Veja vídeo",
         "link": "https://omatogrossense.com/grupo-invade-casa-sequestra-morador-e-faz-transferencias-sob-ameaca-veja-video/",
@@ -86,17 +73,39 @@
         "category_ids": [
           973
         ]
-      }
-    ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+      },
       {
-        "title": "PT aciona TSE contra Flávio, Carlos e PL por associarem Lula ao PCC",
-        "link": "https://roonoticias.com/o-partido-dos-trabalhadores-por-meio-da-federacao-brasil/",
-        "author": "Valiatt Arruda",
+        "title": "Câmeras flagrara criminoso armado invadindo e roubando comércio em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/criminoso-armado-roubando-comercio-sinop-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-17T17:27:08-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ação da Receita Federal interfere em operação da PF contra tráfico no Aeroporto; Veja vídeo",
+        "link": "https://omatogrossense.com/acao-da-receita-federal-interfere-em-operacao-da-pf-contra-trafico-no-aeroporto-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-17T17:30:06-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Vereadora denuncia falhas no Pronto-Socorro de VG e cobra ação urgente após caso grave; veja vídeo",
+        "link": "https://omatogrossense.com/vereadora-denuncia-falhas-no-pronto-socorro-de-vg-e-cobra-acao-urgente-apos-caso-grave-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-17T16:17:33-04:00",
+        "published": "2026-03-17T17:54:15-04:00",
         "categories": [
           "Política"
         ],
@@ -104,7 +113,10 @@
           5
         ]
       }
-    ]
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
