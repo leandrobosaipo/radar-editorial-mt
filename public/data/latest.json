@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-17T17:00:06.018163-04:00",
+  "generated_at": "2026-03-17T17:13:14.561512-04:00",
   "window": {
-    "start": "2026-03-17T16:00:06.018163-04:00",
-    "end": "2026-03-17T17:00:06.018163-04:00"
+    "start": "2026-03-17T16:13:14.561512-04:00",
+    "end": "2026-03-17T17:13:14.561512-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
@@ -12,19 +12,6 @@
         "author": "Mhylenna",
         "author_id": 279,
         "published": "2026-03-17T16:22:22-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Mulher fica gravemente ferida após ser atacada por onça no quintal de fazenda em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-fica-gravemente-ferida-apos-ser-atacada-por-onca-no-quintal-de-fazenda-em-mt-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-17T16:52:24-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -44,6 +31,19 @@
         "category_ids": [
           509
         ]
+      },
+      {
+        "title": "Criminosos invadem casa, sequestram vítima e forçam transferências; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/criminosos-invadem-casa-sequestram-vitima-e-forcam-transferencias-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-17T17:12:48-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "afolhalivre": [],
@@ -62,35 +62,35 @@
         ]
       },
       {
-        "title": "Mulher é surpreendida por onça no quintal de casa e fica gravemente ferida em MT; veja vídeo",
-        "link": "https://omatogrossense.com/mulher-e-surpreendida-por-onca-no-quintal-de-casa-e-fica-gravemente-ferida-em-mt-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-17T16:54:43-04:00",
+        "title": "Ex-quarterback morre aos 28 anos após acidente um mês depois de noivado",
+        "link": "https://omatogrossense.com/ex-quarterback-morre-aos-28-anos-apos-acidente-um-mes-depois-de-noivado/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-17T17:00:00-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
+        ]
+      },
+      {
+        "title": "Grupo invade casa, sequestra morador e faz transferências sob ameaça; Veja vídeo",
+        "link": "https://omatogrossense.com/grupo-invade-casa-sequestra-morador-e-faz-transferencias-sob-ameaca-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-17T17:12:38-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
         ]
       }
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": [
-      {
-        "title": "Lula planeja evento para sancionar PL Antifacção com poucos vetos",
-        "link": "https://roonoticias.com/o-presidente-luiz-inacio-lula-da-silva-planeja-realizar/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-17T16:00:25-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
       {
         "title": "PT aciona TSE contra Flávio, Carlos e PL por associarem Lula ao PCC",
         "link": "https://roonoticias.com/o-partido-dos-trabalhadores-por-meio-da-federacao-brasil/",
