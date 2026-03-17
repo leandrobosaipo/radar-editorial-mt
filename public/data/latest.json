@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-03-17T16:00:05.185920-04:00",
+  "generated_at": "2026-03-17T17:00:06.018163-04:00",
   "window": {
-    "start": "2026-03-17T15:00:05.185920-04:00",
-    "end": "2026-03-17T16:00:05.185920-04:00"
+    "start": "2026-03-17T16:00:06.018163-04:00",
+    "end": "2026-03-17T17:00:06.018163-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Câmera registra momento em que motorista passa mal, atinge motociclista e cai em córrego de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/camera-registra-momento-em-que-motorista-passa-mal-atinge-motociclista-e-cai-em-corrego-de-cuiaba-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-17T16:22:22-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Mulher fica gravemente ferida após ser atacada por onça no quintal de fazenda em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mulher-fica-gravemente-ferida-apos-ser-atacada-por-onca-no-quintal-de-fazenda-em-mt-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-17T16:52:24-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Ex-jogador de futebol americano morre aos 28 anos um mês após noivado nos EUA",
+        "link": "https://perrenguematogrosso.com/ex-jogador-de-futebol-americano-morre-aos-28-anos-um-mes-apos-noivado-nos-eua/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-17T17:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      }
+    ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Moradores oferecem refrigerante para coletores de lixo durante trabalho em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/moradores-oferecem-refrigerante-coletores-cuiaba-video/",
+        "title": "Câmera flagra motorista passando mal, atingindo motociclista e caindo em córrego em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/camera-flagra-motorista-passando-mal-atingindo-motociclista-e-caindo-em-corrego-em-cuiaba-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-17T15:38:17-04:00",
+        "published": "2026-03-17T16:24:46-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -22,24 +62,28 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://omatogrossense.com/134197-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-17T15:47:34-04:00",
+        "title": "Mulher é surpreendida por onça no quintal de casa e fica gravemente ferida em MT; veja vídeo",
+        "link": "https://omatogrossense.com/mulher-e-surpreendida-por-onca-no-quintal-de-casa-e-fica-gravemente-ferida-em-mt-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-17T16:54:43-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
         ]
-      },
+      }
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": [
       {
-        "title": "Chefe de contraterrorismo dos EUA deixa cargo e critica guerra contra o Irã",
-        "link": "https://omatogrossense.com/chefe-de-contraterrorismo-dos-eua-deixa-cargo-e-critica-guerra-contra-o-ira/",
-        "author": "Fabíola Maria Costa Silva",
+        "title": "Lula planeja evento para sancionar PL Antifacção com poucos vetos",
+        "link": "https://roonoticias.com/o-presidente-luiz-inacio-lula-da-silva-planeja-realizar/",
+        "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-17T15:52:29-04:00",
+        "published": "2026-03-17T16:00:25-04:00",
         "categories": [
           "Política"
         ],
@@ -48,67 +92,11 @@
         ]
       },
       {
-        "title": "VÍDEO: Chelsea ironiza falha de Ancelotti e expõe “esquecimento” de João Pedro na convocação",
-        "link": "https://omatogrossense.com/video-chelsea-ironiza-falha-de-ancelotti-e-expoe-esquecimento-de-joao-pedro-na-convocacao/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-17T16:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Policial militar morre após acidente com guincho que avançou sinal em Sorocaba; veja vídeo",
-        "link": "https://roonoticias.com/o-soldado-da-policia-militar-joao-vitor-sudario-silva/",
+        "title": "PT aciona TSE contra Flávio, Carlos e PL por associarem Lula ao PCC",
+        "link": "https://roonoticias.com/o-partido-dos-trabalhadores-por-meio-da-federacao-brasil/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-17T15:25:54-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Empate na Arena Condá movimenta tabela e mantém Grêmio na parte de cima",
-        "link": "https://roonoticias.com/chapecoense-e-gremio-empataram-por-1-a-1-na-arena-conda/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-17T15:33:15-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Laporta reabre portas do Barcelona para Messi e reacende esperança de retorno",
-        "link": "https://roonoticias.com/o-presidente-do-barcelona-joan-laporta-afirmou-que-lionel-messi/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-17T15:40:14-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Governo Trump monitora projeto no Senado brasileiro e estuda resposta",
-        "link": "https://roonoticias.com/o-governo-de-donald-trump-acompanha-de-perto-o-avanco/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-17T15:45:40-04:00",
+        "published": "2026-03-17T16:17:33-04:00",
         "categories": [
           "Política"
         ],
