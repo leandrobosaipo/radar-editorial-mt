@@ -1,41 +1,13 @@
 {
-  "generated_at": "2026-03-16T19:00:05.890962-04:00",
+  "generated_at": "2026-03-17T08:00:02.911109-04:00",
   "window": {
-    "start": "2026-03-16T18:00:05.890962-04:00",
-    "end": "2026-03-16T19:00:05.890962-04:00"
+    "start": "2026-03-17T07:00:02.911109-04:00",
+    "end": "2026-03-17T08:00:02.911109-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Jornal espanhol chama Brasil de “triturador de técnicos” após demissão de Tite no Cruzeiro",
-        "link": "https://perrenguematogrosso.com/jornal-espanhol-chama-brasil-de-triturador-de-tecnicos/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-16T19:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Jornal espanhol chama Brasil de “triturador de técnicos” após demissão de Tite no Cruzeiro",
-        "link": "https://omatogrossense.com/jornal-espanhol-chama-brasil-de-triturador-de-tecnicos/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-16T19:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
