@@ -1,72 +1,19 @@
 {
-  "generated_at": "2026-03-17T15:00:00.282265-04:00",
+  "generated_at": "2026-03-17T16:00:05.185920-04:00",
   "window": {
-    "start": "2026-03-17T14:00:00.282265-04:00",
-    "end": "2026-03-17T15:00:00.282265-04:00"
+    "start": "2026-03-17T15:00:05.185920-04:00",
+    "end": "2026-03-17T16:00:05.185920-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Idoso de 86 anos morre após ser atingido por motorista embriagado em cruzamento de Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/idoso-morre-atingido-motorista-embriagado-rondonopolis/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-17T14:11:48-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Aliado histórico recua: Reino Unido não acompanha EUA em conflito com Irã e cobra plano",
-        "link": "https://perrenguematogrosso.com/aliado-historico-recua-reino-unido-nao-acompanha-eua-em-conflito-com-ira-e-cobra-plano/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-17T14:49:38-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Bombardeio deixa centenas de mortos e expõe crise humanitária em hospital; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/326934-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-17T14:52:07-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Mulher denuncia personal trainer por ameaças de morte e agressões após término de relacionamento em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-denuncia-personal-trainer-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-17T14:53:53-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Motorista embriagado avança preferencial, causa acidente e mata idoso em Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/motorista-embriagado-mata-idoso-rondonopolis/",
+        "title": "Moradores oferecem refrigerante para coletores de lixo durante trabalho em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/moradores-oferecem-refrigerante-coletores-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-17T14:12:21-04:00",
+        "published": "2026-03-17T15:38:17-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -75,11 +22,24 @@
         ]
       },
       {
-        "title": "Aliado histórico recua: Reino Unido não acompanha EUA em conflito com Irã e cobra plano",
-        "link": "https://omatogrossense.com/aliado-historico-recua-reino-unido-nao-acompanha-eua-em-conflito-com-ira-e-cobra-plano/",
+        "title": ".",
+        "link": "https://omatogrossense.com/134197-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-17T15:47:34-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Chefe de contraterrorismo dos EUA deixa cargo e critica guerra contra o Irã",
+        "link": "https://omatogrossense.com/chefe-de-contraterrorismo-dos-eua-deixa-cargo-e-critica-guerra-contra-o-ira/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-17T14:49:48-04:00",
+        "published": "2026-03-17T15:52:29-04:00",
         "categories": [
           "Política"
         ],
@@ -88,37 +48,11 @@
         ]
       },
       {
-        "title": "Ataques aéreos deixam mais de 400 mortos e hospital fica lotado de corpos; Veja vídeo",
-        "link": "https://omatogrossense.com/134182-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-17T14:51:43-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Ex denuncia personal trainer por agressões e ameaças em Lucas do Rio Verde; veja vídeo",
-        "link": "https://omatogrossense.com/ex-denuncia-personal-trainer-agressoes-lucas-do-rio-verde-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-17T14:53:44-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "VÍDEO: Pódio na China reúne Mercedes e Hamilton e emociona chefia da equipe",
-        "link": "https://omatogrossense.com/video-podio-na-china-reune-mercedes-e-hamilton-e-emociona-chefia-da-equipe/",
+        "title": "VÍDEO: Chelsea ironiza falha de Ancelotti e expõe “esquecimento” de João Pedro na convocação",
+        "link": "https://omatogrossense.com/video-chelsea-ironiza-falha-de-ancelotti-e-expoe-esquecimento-de-joao-pedro-na-convocacao/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-17T15:00:00-04:00",
+        "published": "2026-03-17T16:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -129,7 +63,60 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Policial militar morre após acidente com guincho que avançou sinal em Sorocaba; veja vídeo",
+        "link": "https://roonoticias.com/o-soldado-da-policia-militar-joao-vitor-sudario-silva/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-17T15:25:54-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Empate na Arena Condá movimenta tabela e mantém Grêmio na parte de cima",
+        "link": "https://roonoticias.com/chapecoense-e-gremio-empataram-por-1-a-1-na-arena-conda/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-17T15:33:15-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Laporta reabre portas do Barcelona para Messi e reacende esperança de retorno",
+        "link": "https://roonoticias.com/o-presidente-do-barcelona-joan-laporta-afirmou-que-lionel-messi/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-17T15:40:14-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Governo Trump monitora projeto no Senado brasileiro e estuda resposta",
+        "link": "https://roonoticias.com/o-governo-de-donald-trump-acompanha-de-perto-o-avanco/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-17T15:45:40-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
