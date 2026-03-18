@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-18T10:00:05.314135-04:00",
+  "generated_at": "2026-03-18T11:00:04.918894-04:00",
   "window": {
-    "start": "2026-03-18T09:00:05.314135-04:00",
-    "end": "2026-03-18T10:00:05.314135-04:00"
+    "start": "2026-03-18T10:00:04.918894-04:00",
+    "end": "2026-03-18T11:00:04.918894-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Moradora registra peixes fora da água durante migração entre represas em Mato Grosso; veja vídeo",
-        "link": "https://perrenguematogrosso.com/peixes-fora-da-agua-represas-mato-grosso-video/",
+        "title": "Guarda Municipal frustra roubo com arma falsa e prende suspeito no centro de Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/guarda-municipal-frustra-roubo-varzea-grande-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-18T09:00:16-04:00",
+        "published": "2026-03-18T10:02:14-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,24 @@
         ]
       },
       {
-        "title": "Mulher salva amiga de agressão em elevador, mas suspeito é solto após audiência de custódia; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-homem-foi-preso-apos-agredir-u/",
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3183/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-18T09:44:07-04:00",
+        "published": "2026-03-18T10:42:31-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Líquido na pista provoca acidente e motociclista para debaixo de carro; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/uma-carreta-derramou-um-liquido/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-18T10:45:11-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,11 +49,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Peixes fora da água chamam atenção de moradores em área rural de Mato Grosso; veja vídeo",
-        "link": "https://omatogrossense.com/peixes-fora-da-agua-rural-mato-grosso-video/",
+        "title": "Tentativa de roubo em farmácia termina com prisão após perseguição em Várzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/tentativa-roubo-farmacia-prisao-varzea-grande-vide/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-18T09:00:28-04:00",
+        "published": "2026-03-18T10:04:03-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,11 +62,11 @@
         ]
       },
       {
-        "title": "Câmera flagra agressão em elevador e suspeito deixa prisão após audiência",
-        "link": "https://omatogrossense.com/camera-flagra-agressao-em-elevador-e-suspeito-deixa-prisao-apos-audiencia/",
+        "title": ".",
+        "link": "https://omatogrossense.com/134397-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-18T09:44:23-04:00",
+        "published": "2026-03-18T10:59:34-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,15 +75,29 @@
         ]
       }
     ],
-    "portalnortemt": [],
+    "portalnortemt": [
+      {
+        "title": "Empório é alvo de assalto e câmeras de segurança registraram ação rápida de criminoso em Sinop; veja vídeo",
+        "link": "https://portalnortemt.com/um-criminoso-armado-invadiu-o-emporio-maringa-na-tarde-desta-terca-feira-17-e-realizou-um-assalto-em-sinop-no-norte/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-18T10:02:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Câmera registra momento em que motorista passa mal, atinge motociclista e cai em córrego de Cuiabá; veja vídeo",
-        "link": "https://roonoticias.com/cameras-de-seguranca-registraram-o-momento-em-que/",
+        "title": "Ataque de abelhas causa pânico, deixa feridos e uma pessoa morta; veja vídeo",
+        "link": "https://roonoticias.com/um-enxame-de-abelhas-atacou-um-veiculo-em-uma-estrada/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-18T09:41:22-04:00",
+        "published": "2026-03-18T10:11:02-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -79,94 +106,29 @@
         ]
       },
       {
-        "title": "Virginia Fonseca faz desabafo após crise de enxaqueca; veja vídeo",
-        "link": "https://roonoticias.com/a-influenciadora-virginia-fonseca-relatou-uma-crise-de-enxaqueca/",
+        "title": "Criminoso invade empório à luz do dia, rouba e foge; suspeito já tem histórico policial; veja vídeo",
+        "link": "https://roonoticias.com/um-criminoso-armado-invadiu-o-emporio-maringa-na-tarde/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-18T09:42:42-04:00",
+        "published": "2026-03-18T10:22:54-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Homem agride ex-companheira dentro de elevador em Guarulhos; veja vídeo",
+        "link": "https://roonoticias.com/um-homem-identificado-como-ronaldo-ferreira-foi-detido/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-18T10:43:51-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
-        ]
-      },
-      {
-        "title": "México está disposto a sediar jogos do Irã na Copa, diz presidente",
-        "link": "https://roonoticias.com/a-presidente-do-mexico-claudia-sheinbaum/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-18T09:45:05-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Rodrigo Caio diz que Flamengo o convidou para ficar após saída de Filipe Luís: ‘Palavra vale mais que contrato’",
-        "link": "https://roonoticias.com/o-ex-zagueiro-rodrigo-caio-revelou-que-recusou-o-convite/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-18T09:46:23-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Após Nino, Palmeiras se interessa por outro brasileiro do Zenit, mas tem concorrência da Europa",
-        "link": "https://roonoticias.com/o-palmeiras-demonstrou-interesse-na-contratacao-do-volante/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-18T09:49:31-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Lindbergh aciona PGR e Planalto contra chefe do BC na gestão Bolsonaro",
-        "link": "https://roonoticias.com/o-deputado-federal-lindbergh-farias-protocolou-pedidos/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-18T09:51:54-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "PL: deputados devolverão R$ 1,6 milhão; Câmara decidirá sobre mandatos",
-        "link": "https://roonoticias.com/a-primeira-turma-do-supremo-tribunal-federal-decidiu-que/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-18T09:53:15-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Filha de Eduardo Cunha se filia ao PL de Bolsonaro",
-        "link": "https://roonoticias.com/a-deputada-federal-dani-cunha-decidiu-deixar-o-uniao-brasil/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-18T09:56:20-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
         ]
       }
     ]
