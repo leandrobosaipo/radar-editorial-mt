@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-18T11:00:04.918894-04:00",
+  "generated_at": "2026-03-18T12:00:05.357017-04:00",
   "window": {
-    "start": "2026-03-18T10:00:04.918894-04:00",
-    "end": "2026-03-18T11:00:04.918894-04:00"
+    "start": "2026-03-18T11:00:05.357017-04:00",
+    "end": "2026-03-18T12:00:05.357017-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Guarda Municipal frustra roubo com arma falsa e prende suspeito no centro de Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/guarda-municipal-frustra-roubo-varzea-grande-video/",
+        "title": "PF desmantela organização criminosa ligada ao tráfico interestadual com base investigada em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/organizacao-trafico-interestadual-base-mt-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-18T10:02:14-04:00",
+        "published": "2026-03-18T11:28:05-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,24 +20,24 @@
         ]
       },
       {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3183/",
+        "title": "Polícia Civil desarticula cultivo de maconha e prende suspeitos no interior; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/operacao-no-vale-do-jequitinhonha/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-18T10:42:31-04:00",
+        "published": "2026-03-18T11:47:12-04:00",
         "categories": [
-          "Memes do vovô"
+          "Notícias"
         ],
         "category_ids": [
-          4
+          5
         ]
       },
       {
-        "title": "Líquido na pista provoca acidente e motociclista para debaixo de carro; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/uma-carreta-derramou-um-liquido/",
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/327186-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-18T10:45:11-04:00",
+        "published": "2026-03-18T11:56:12-04:00",
         "categories": [
           "Notícias"
         ],
@@ -49,11 +49,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Tentativa de roubo em farmácia termina com prisão após perseguição em Várzea Grande; veja vídeo",
-        "link": "https://omatogrossense.com/tentativa-roubo-farmacia-prisao-varzea-grande-vide/",
+        "title": "PF desarticula grupo que operava no tráfico interestadual de drogas com ligação em MT; veja vídeo",
+        "link": "https://omatogrossense.com/pf-desarticula-grupo-trafico-interestadual-mt-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-18T10:04:03-04:00",
+        "published": "2026-03-18T11:28:10-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -63,75 +63,34 @@
       },
       {
         "title": ".",
-        "link": "https://omatogrossense.com/134397-2/",
+        "link": "https://omatogrossense.com/134421-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-18T10:59:34-04:00",
+        "published": "2026-03-18T11:56:06-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
         ]
-      }
-    ],
-    "portalnortemt": [
+      },
       {
-        "title": "Empório é alvo de assalto e câmeras de segurança registraram ação rápida de criminoso em Sinop; veja vídeo",
-        "link": "https://portalnortemt.com/um-criminoso-armado-invadiu-o-emporio-maringa-na-tarde-desta-terca-feira-17-e-realizou-um-assalto-em-sinop-no-norte/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-18T10:02:00-04:00",
+        "title": "Ex-Cuiabá troca rivalidade por oportunidade: Mixto aposta em Jenison para Série D",
+        "link": "https://omatogrossense.com/mixto-aposta-em-jenison-para-serie-d/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-18T12:00:00-04:00",
         "categories": [
-          "Sinop"
+          "Esporte"
         ],
         "category_ids": [
-          3030
+          7
         ]
       }
     ],
+    "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Ataque de abelhas causa pânico, deixa feridos e uma pessoa morta; veja vídeo",
-        "link": "https://roonoticias.com/um-enxame-de-abelhas-atacou-um-veiculo-em-uma-estrada/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-18T10:11:02-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Criminoso invade empório à luz do dia, rouba e foge; suspeito já tem histórico policial; veja vídeo",
-        "link": "https://roonoticias.com/um-criminoso-armado-invadiu-o-emporio-maringa-na-tarde/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-18T10:22:54-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Homem agride ex-companheira dentro de elevador em Guarulhos; veja vídeo",
-        "link": "https://roonoticias.com/um-homem-identificado-como-ronaldo-ferreira-foi-detido/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-18T10:43:51-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
