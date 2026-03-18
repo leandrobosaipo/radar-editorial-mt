@@ -1,23 +1,217 @@
 {
-  "generated_at": "2026-03-18T09:41:58.225295-04:00",
+  "generated_at": "2026-03-18T10:00:05.314135-04:00",
   "window": {
-    "start": "2026-03-18T08:41:58.225295-04:00",
-    "end": "2026-03-18T09:41:58.225295-04:00"
+    "start": "2026-03-18T09:00:05.314135-04:00",
+    "end": "2026-03-18T10:00:05.314135-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Moradora registra peixes fora da água durante migração entre represas em Mato Grosso; veja vídeo",
+        "link": "https://perrenguematogrosso.com/peixes-fora-da-agua-represas-mato-grosso-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-18T09:00:16-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Mulher salva amiga de agressão em elevador, mas suspeito é solto após audiência de custódia; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-homem-foi-preso-apos-agredir-u/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-18T09:44:07-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Peixes fora da água chamam atenção de moradores em área rural de Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/peixes-fora-da-agua-rural-mato-grosso-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-18T09:00:28-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Câmera flagra agressão em elevador e suspeito deixa prisão após audiência",
+        "link": "https://omatogrossense.com/camera-flagra-agressao-em-elevador-e-suspeito-deixa-prisao-apos-audiencia/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-18T09:44:23-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Câmera registra momento em que motorista passa mal, atinge motociclista e cai em córrego de Cuiabá; veja vídeo",
+        "link": "https://roonoticias.com/cameras-de-seguranca-registraram-o-momento-em-que/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-18T09:41:22-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Virginia Fonseca faz desabafo após crise de enxaqueca; veja vídeo",
+        "link": "https://roonoticias.com/a-influenciadora-virginia-fonseca-relatou-uma-crise-de-enxaqueca/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-18T09:42:42-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "México está disposto a sediar jogos do Irã na Copa, diz presidente",
+        "link": "https://roonoticias.com/a-presidente-do-mexico-claudia-sheinbaum/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-18T09:45:05-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Rodrigo Caio diz que Flamengo o convidou para ficar após saída de Filipe Luís: ‘Palavra vale mais que contrato’",
+        "link": "https://roonoticias.com/o-ex-zagueiro-rodrigo-caio-revelou-que-recusou-o-convite/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-18T09:46:23-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Após Nino, Palmeiras se interessa por outro brasileiro do Zenit, mas tem concorrência da Europa",
+        "link": "https://roonoticias.com/o-palmeiras-demonstrou-interesse-na-contratacao-do-volante/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-18T09:49:31-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Lindbergh aciona PGR e Planalto contra chefe do BC na gestão Bolsonaro",
+        "link": "https://roonoticias.com/o-deputado-federal-lindbergh-farias-protocolou-pedidos/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-18T09:51:54-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "PL: deputados devolverão R$ 1,6 milhão; Câmara decidirá sobre mandatos",
+        "link": "https://roonoticias.com/a-primeira-turma-do-supremo-tribunal-federal-decidiu-que/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-18T09:53:15-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Filha de Eduardo Cunha se filia ao PL de Bolsonaro",
+        "link": "https://roonoticias.com/a-deputada-federal-dani-cunha-decidiu-deixar-o-uniao-brasil/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-18T09:56:20-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
