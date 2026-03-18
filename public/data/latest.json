@@ -1,138 +1,23 @@
 {
-  "generated_at": "2026-03-18T12:00:05.357017-04:00",
+  "generated_at": "2026-03-18T14:12:33.859256-04:00",
   "window": {
-    "start": "2026-03-18T11:00:05.357017-04:00",
-    "end": "2026-03-18T12:00:05.357017-04:00"
+    "start": "2026-03-18T00:00:00-04:00",
+    "end": "2026-03-18T14:00:00-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "PF desmantela organização criminosa ligada ao tráfico interestadual com base investigada em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/organizacao-trafico-interestadual-base-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-18T11:28:05-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Polícia Civil desarticula cultivo de maconha e prende suspeitos no interior; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/operacao-no-vale-do-jequitinhonha/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-18T11:47:12-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/327186-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-18T11:56:12-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "PF desarticula grupo que operava no tráfico interestadual de drogas com ligação em MT; veja vídeo",
-        "link": "https://omatogrossense.com/pf-desarticula-grupo-trafico-interestadual-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-18T11:28:10-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://omatogrossense.com/134421-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-18T11:56:06-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Ex-Cuiabá troca rivalidade por oportunidade: Mixto aposta em Jenison para Série D",
-        "link": "https://omatogrossense.com/mixto-aposta-em-jenison-para-serie-d/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-18T12:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
