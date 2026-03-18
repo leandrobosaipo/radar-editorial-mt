@@ -1,111 +1,19 @@
 {
-  "generated_at": "2026-03-17T19:00:05.398227-04:00",
+  "generated_at": "2026-03-17T20:00:06.274499-04:00",
   "window": {
-    "start": "2026-03-17T18:00:05.398227-04:00",
-    "end": "2026-03-17T19:00:05.398227-04:00"
+    "start": "2026-03-17T19:00:06.274499-04:00",
+    "end": "2026-03-17T20:00:06.274499-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Câmera flagra homem furtando carteira esquecida em cima de balcão em rodoviária de Tangará da Serra; veja vídeo",
-        "link": "https://perrenguematogrosso.com/camera-homem-furtando-carteira-rodoviaria-tangara/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-17T18:20:28-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3179/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-17T18:50:07-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3180/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-17T18:50:55-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3181/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-17T18:54:31-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3182/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-17T18:55:13-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Trump diz que pode “tomar Cuba” e declaração movimenta cenário internacional",
-        "link": "https://perrenguematogrosso.com/trump-diz-que-pode-tomar-cuba-e-declaracao-movimenta-cenario-internacional/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-17T18:55:13-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Amigo de Neymar critica Ancelotti após convocação: “A Disney sem Mickey não existe”",
-        "link": "https://omatogrossense.com/amigo-de-neymar-critica-ancelotti/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-17T18:01:33-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Câmera flagra homem furtando carteira esquecida por passageiro sobre balcão em rodoviária de Tangará; veja vídeo",
-        "link": "https://omatogrossense.com/homem-furtando-carteira-esquecida-rodoviaria-tangara-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-17T18:18:45-04:00",
+        "title": "Trabalhadores são resgatados de helicóptero após sofrer choque elétrico em Sorriso; veja vídeo",
+        "link": "https://omatogrossense.com/trabalhadores-sao-resgatados-de-helicoptero/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-03-17T19:28:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -114,16 +22,16 @@
         ]
       },
       {
-        "title": "Trump diz que pode “tomar Cuba” e declaração movimenta cenário internacional",
-        "link": "https://omatogrossense.com/trump-diz-que-pode-tomar-cuba-e-declaracao-movimenta-cenario-internacional/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-17T18:55:29-04:00",
+        "title": "Ataque de abelhas causa pânico, deixa feridos e uma pessoa morta; veja vídeo",
+        "link": "https://omatogrossense.com/um-enxame-de-abelhas-atacou-um-veiculo-na-segunda-feira-16-em-uma-estrada-que-liga-a-cidade-de-jordania-na-regiao-do-jequitinhonha/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-17T19:29:00-04:00",
         "categories": [
-          "Política"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          5
+          973
         ]
       }
     ],
@@ -132,13 +40,7 @@
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [
       5,
       7,
