@@ -1,46 +1,25 @@
 {
-  "generated_at": "2026-03-17T20:00:06.274499-04:00",
+  "generated_at": "2026-03-18T08:00:05.466204-04:00",
   "window": {
-    "start": "2026-03-17T19:00:06.274499-04:00",
-    "end": "2026-03-17T20:00:06.274499-04:00"
+    "start": "2026-03-18T07:00:05.466204-04:00",
+    "end": "2026-03-18T08:00:05.466204-04:00"
   },
   "sites": {
     "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Trabalhadores são resgatados de helicóptero após sofrer choque elétrico em Sorriso; veja vídeo",
-        "link": "https://omatogrossense.com/trabalhadores-sao-resgatados-de-helicoptero/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-17T19:28:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Ataque de abelhas causa pânico, deixa feridos e uma pessoa morta; veja vídeo",
-        "link": "https://omatogrossense.com/um-enxame-de-abelhas-atacou-um-veiculo-na-segunda-feira-16-em-uma-estrada-que-liga-a-cidade-de-jordania-na-regiao-do-jequitinhonha/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-17T19:29:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
     "afolhalivre": [
       5,
       7,
