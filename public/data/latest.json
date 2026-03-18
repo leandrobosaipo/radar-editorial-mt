@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-03-18T17:00:06.257843-04:00",
+  "generated_at": "2026-03-18T18:00:05.944371-04:00",
   "window": {
-    "start": "2026-03-18T16:00:06.257843-04:00",
-    "end": "2026-03-18T17:00:06.257843-04:00"
+    "start": "2026-03-18T17:00:05.944371-04:00",
+    "end": "2026-03-18T18:00:05.944371-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Policial penal é preso após ameaçar frentista e pedir para trocar tiros em Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policial-penal-e-preso-apos-ameacar-frentista-e-pedir-para-trocar-tiros-em-varzea-grande-veja-video/",
+        "title": "Guarda Municipal localiza caminhonete roubada escondida em bairro residencial de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/guarda-municipal-localiza-caminhonete-roubada-escondida-em-bairro-residencial-de-cuiaba-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-18T16:16:11-04:00",
+        "published": "2026-03-18T17:12:53-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Motoristas evitam seguir caminho após ruas ficarem completamente alagadas com chuva em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motoristas-ruas-completamente-alagadas-chuva-cuiaba/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-18T17:53:08-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -21,10 +34,10 @@
       },
       {
         "title": ".",
-        "link": "https://perrenguematogrosso.com/327290-2/",
+        "link": "https://perrenguematogrosso.com/327314-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-18T16:42:37-04:00",
+        "published": "2026-03-18T17:56:46-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,11 +46,11 @@
         ]
       },
       {
-        "title": "Jovem brasileira de 17 anos faz história e conquista ouro inédito no ciclismo pan-americano; veja vídeo",
-        "link": "https://perrenguematogrosso.com/jovem-brasileira-de-17-anos-faz-historia-e-conquista-ouro-inedito-no-ciclismo/",
+        "title": "Ancelotti deixa Neymar fora, e atacante expõe frustração em vídeo; veja",
+        "link": "https://perrenguematogrosso.com/atacante-expoe-frustracao-em-video/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-03-18T17:00:00-04:00",
+        "published": "2026-03-18T18:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -49,11 +62,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Policial penal com duas armas ameaça frentista e desafia para tiroteio em VG; veja vídeo",
-        "link": "https://omatogrossense.com/policial-penal-com-duas-armas-ameaca-frentista-e-desafia-para-tiroteio-em-vg-veja-video/",
+        "title": "Guarda Municipal localiza caminhonete roubada escondida em bairro de Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/guarda-municipal-localiza-caminhonete-roubada-escondida-em-bairro-de-cuiaba-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-18T16:19:17-04:00",
+        "published": "2026-03-18T17:12:43-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,24 +75,24 @@
         ]
       },
       {
-        "title": "STF manda reavaliar TAF de candidato com nanismo e reacende debate sobre inclusão em concursos; Veja vídeo",
-        "link": "https://omatogrossense.com/inistro-alexandre-de-moraes/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-18T16:30:14-04:00",
+        "title": "Motoristas desistem do trajeto e retornam após vias ficarem alagadas com chuva em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/motoristas-trajeto-vias-alagadas-chuva-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-18T17:54:09-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       },
       {
         "title": ".",
-        "link": "https://omatogrossense.com/134525-2/",
+        "link": "https://omatogrossense.com/134543-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-18T16:50:25-04:00",
+        "published": "2026-03-18T17:55:54-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -88,11 +101,11 @@
         ]
       },
       {
-        "title": "VÍDEO: Brasileira de 17 anos faz história e conquista ouro inédito no Pan-Americano de Ciclismo",
-        "link": "https://omatogrossense.com/brasileira-de-17-anos-faz-historia-e-conquista-ouro-inedito-no-pan-americano-de-ciclismo/",
+        "title": "VÍDEO: Neymar reage com tristeza após corte da Seleção e ausência reacende debate sobre condição física",
+        "link": "https://omatogrossense.com/neymar-reage-com-tristeza-apos-corte-da-selecao/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-18T17:00:00-04:00",
+        "published": "2026-03-18T18:00:00-04:00",
         "categories": [
           "Esporte"
         ],
