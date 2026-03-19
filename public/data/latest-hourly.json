@@ -1,67 +1,13 @@
 {
-  "generated_at": "2026-03-19T09:00:05.121290-04:00",
+  "generated_at": "2026-03-19T10:00:04.003060-04:00",
   "window": {
-    "start": "2026-03-19T08:00:05.121290-04:00",
-    "end": "2026-03-19T09:00:05.121290-04:00"
+    "start": "2026-03-19T09:00:04.003060-04:00",
+    "end": "2026-03-19T10:00:04.003060-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Influenciadora amazonense Mirian Mônica é presa em operação contra tráfico e lavagem de dinheiro; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/empresaria-e-influenciadora-amazonens/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-19T08:43:22-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Homem grava vídeo ameaçando a própria filha com arma e acaba preso em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-grava-video-ameacando-a-propria-filha-com-arma-e-acaba-preso-em-mt-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-19T08:52:37-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Influenciadora amazonense é presa em operação contra tráfico e lavagem de dinheiro; Veja vídeo",
-        "link": "https://omatogrossense.com/policial-penal-e-preso-em-varzea-grande-apos-ameacar-frentista-e-atirar-em-via-publica/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-19T08:43:24-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Homem grava vídeo intimidando a própria filha com pistola e termina preso em MT; veja vídeo",
-        "link": "https://omatogrossense.com/homem-grava-video-intimidando-a-propria-filha-com-pistola-e-termina-preso-em-mt-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-19T08:52:40-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
