@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-03-19T17:00:03.506821-04:00",
+  "generated_at": "2026-03-19T18:00:05.407881-04:00",
   "window": {
-    "start": "2026-03-19T16:00:03.506821-04:00",
-    "end": "2026-03-19T17:00:03.506821-04:00"
+    "start": "2026-03-19T17:00:05.407881-04:00",
+    "end": "2026-03-19T18:00:05.407881-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "“A vida não se resume a homem”, diz Jojo Todynho para fã; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/327509-2/",
+        "title": "Câmera de segurança registra queda de motociclista causada por buraco em avenida de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/camera-registra-queda-motociclista-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-19T17:20:18-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Acidente com carretinha deixa homem ferido após movimento inesperado durante engate; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/327536-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-19T16:40:51-04:00",
+        "published": "2026-03-19T17:44:14-04:00",
         "categories": [
           "Notícias"
         ],
@@ -20,40 +33,27 @@
         ]
       },
       {
-        "title": "Polícia Civil apreende cocaína e cestas básicas usadas por facção criminosa em Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-apreende-cocaina-cestas-basicas-varzea-grande-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-19T16:44:14-04:00",
+        "title": "Governo de MT injeta R$ 1,2 milhão no esporte e fortalece técnicos que revelam talentos internacionais",
+        "link": "https://perrenguematogrosso.com/governo-de-mt-injeta-r-12-milhao-no-esporte/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-19T18:00:00-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Esporte"
         ],
         "category_ids": [
-          16
+          509
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Jojo Todynho rebate  críticas e reforça: “Sou dona da minha vida”; Veja vídeo",
-        "link": "https://omatogrossense.com/134741-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-19T16:40:45-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Polícia Civil encontra cocaína e cestas básicas associadas a facção em Várzea Grande; veja vídeo",
-        "link": "https://omatogrossense.com/policia-encontra-cocaina-cestas-varzea-grande-video/",
+        "title": "Câmera de segurança registra queda de motociclista causada por buraco em avenida de Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/camera-registra-queda-motociclista-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-19T16:45:59-04:00",
+        "published": "2026-03-19T17:19:54-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,11 +62,24 @@
         ]
       },
       {
-        "title": "Campeãs do beach tennis abrem torneio com duelo contra brasileiras",
-        "link": "https://omatogrossense.com/campeas-do-beach-tennis-abrem-torneio-com-duelo-contra-brasileiras/",
+        "title": "Erro bobo vira pesadelo: carretinha dispara e homem acaba ferido; Veja vídeo",
+        "link": "https://omatogrossense.com/134764-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-19T17:44:18-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Investimento de R$ 1,2 milhão fortalece técnicos e impulsiona o esporte de alto rendimento em Mato Grosso",
+        "link": "https://omatogrossense.com/investimento-de-r-12-milhao-fortalece-tecnicos-e-impulsiona-o-esporte-de-alto-rendimento-em-mato-grosso/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-19T17:00:00-04:00",
+        "published": "2026-03-19T18:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -77,34 +90,7 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Gambá é encontrado entre bichos de pelúcia em loja de aeroporto; veja vídeo",
-        "link": "https://roonoticias.com/um-gamba-de-cauda-de-escova-foi-encontrado-escondido/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-19T16:10:47-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Influenciadora “Cavalona do Pó” é presa em operação contra tráfico e lavagem de dinheiro",
-        "link": "https://roonoticias.com/a-influenciadora-mirian-monica-da-silva-viana/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-19T16:20:41-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
