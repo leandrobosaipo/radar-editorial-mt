@@ -1,23 +1,151 @@
 {
-  "generated_at": "2026-03-18T19:00:01.658245-04:00",
+  "generated_at": "2026-03-18T20:00:05.390260-04:00",
   "window": {
-    "start": "2026-03-18T18:00:01.658245-04:00",
-    "end": "2026-03-18T19:00:01.658245-04:00"
+    "start": "2026-03-18T19:00:05.390260-04:00",
+    "end": "2026-03-18T20:00:05.390260-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "800kg de drogas apreendidas são incinerados em Cáceres; veja vídeo",
+        "link": "https://perrenguematogrosso.com/800kg-de-drogas-apreendidas-sao-incinerados-em-caceres-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-03-18T19:25:54-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Mãe flagra filho em boca de fumo e parte para bofetadas no suspeito diante dos policiais; veja vídeo",
+        "link": "https://perrenguematogrosso.com/durante-uma-acao-da-policia-militar-no-bairro-da-cabanagem-em-belem-uma-situacao-incomum-chamou-a-atencao-das-equipes-e-tambem/",
+        "author": "Lindy Oliveira",
+        "author_id": 292,
+        "published": "2026-03-18T19:39:13-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Mauro Mendes formaliza proposta milionária para Santa Casa e negociação avança em Cuiabá",
+        "link": "https://perrenguematogrosso.com/mauro-mendes-formaliza-proposta-milionaria-para-santa-casa-e-negociacao-avanca-em-cuiaba/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-18T19:44:30-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "VÍDEO: Portuguesa contesta arbitragem após eliminação e pressiona CBF por uso do VAR",
+        "link": "https://omatogrossense.com/portuguesa-contesta-arbitragem/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-18T19:04:19-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "800kg de drogas apreendidas são incinerados em Cáceres; veja vídeo",
+        "link": "https://omatogrossense.com/800kg-de-drogas-apreendidas-sao-incinerados-em-caceres-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-03-18T19:26:14-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Mãe flagra filho em boca de fumo e parte para bofetadas no suspeito diante dos policiais; veja vídeo",
+        "link": "https://omatogrossense.com/durante-uma-acao-da-policia-militar-no-bairro-da-cabanagem-em-belem-uma-situacao-incomum-chamou-a-atencao-das-equipes-e-tambem/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-18T19:38:47-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Mauro Mendes formaliza proposta milionária para Santa Casa e negociação avança em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/mauro-mendes-formaliza-proposta-milionaria-para-santa-casa-e-negociacao-avanca-em-cuiaba/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-18T19:45:03-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
