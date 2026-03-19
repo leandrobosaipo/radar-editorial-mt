@@ -1,111 +1,46 @@
 {
-  "generated_at": "2026-03-19T16:00:04.736186-04:00",
+  "generated_at": "2026-03-19T17:00:03.506821-04:00",
   "window": {
-    "start": "2026-03-19T15:00:04.736186-04:00",
-    "end": "2026-03-19T16:00:04.736186-04:00"
+    "start": "2026-03-19T16:00:03.506821-04:00",
+    "end": "2026-03-19T17:00:03.506821-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PM dono de distribuidora é detido após flagrar menores consumindo álcool em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/dono-distribuidora-detido-menores-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-19T15:24:51-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Reforma tributária entra no radar e FIEMT aponta impactos diretos para indústria e agro em Mato Grosso; veja vídeo",
-        "link": "https://perrenguematogrosso.com/reforma-tributaria-entra-no-radar/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-19T15:27:45-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Mudanças previstas na reforma tributária preocupam governo estadual sobre possível queda na arrecadação; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mudancas-previstas/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-19T15:49:55-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Chinelo com droga é descoberto e mulher acaba detida ao tentar entrar em presídio; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/uma-mulher-foi-detida-na-manha/",
+        "title": "“A vida não se resume a homem”, diz Jojo Todynho para fã; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/327509-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-19T15:57:01-04:00",
+        "published": "2026-03-19T16:40:51-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Polícia Civil apreende cocaína e cestas básicas usadas por facção criminosa em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/policia-apreende-cocaina-cestas-basicas-varzea-grande-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-19T16:44:14-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "VÍDEO: Reforços chegam com discurso forte e promessa de entrega no Cuiabá para Série B",
-        "link": "https://omatogrossense.com/reforcos-chegam-com-discurso-forte-e-promessa-de-entrega-no-cuiaba/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-19T15:07:11-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "PM detém proprietário de distribuidora por permitir consumo de álcool a menores em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/proprietario-distribuidora-consumo-alcool-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-19T15:24:32-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Reforma tributária entra no radar e FIEMT aponta impactos diretos para indústria e agro em Mato Grosso; veja vídeo",
-        "link": "https://omatogrossense.com/reforma-tributaria-entra-no-radar/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-19T15:27:43-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Mulher é flagrada com droga escondida em chinelo ao tentar entrar em presídio; veja vídeo",
-        "link": "https://omatogrossense.com/uma-mulher-foi-detida-na-manha-desta/",
+        "title": "Jojo Todynho rebate  críticas e reforça: “Sou dona da minha vida”; Veja vídeo",
+        "link": "https://omatogrossense.com/134741-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-19T15:45:58-04:00",
+        "published": "2026-03-19T16:40:45-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -114,24 +49,24 @@
         ]
       },
       {
-        "title": "Mudanças previstas na reforma tributária preocupam governo estadual sobre possível queda na arrecadação; veja vídeo",
-        "link": "https://omatogrossense.com/mudancas-previstas-na-reforma-tributaria/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-19T15:50:22-04:00",
+        "title": "Polícia Civil encontra cocaína e cestas básicas associadas a facção em Várzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/policia-encontra-cocaina-cestas-varzea-grande-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-19T16:45:59-04:00",
         "categories": [
-          "Política"
+          "MT Notícias"
         ],
         "category_ids": [
-          5
+          20
         ]
       },
       {
-        "title": "Após título histórico, Mixto se movimenta no mercado e mira Série D com reforço de peso",
-        "link": "https://omatogrossense.com/mixto-se-movimenta-no-mercado-e-mira-serie-d/",
+        "title": "Campeãs do beach tennis abrem torneio com duelo contra brasileiras",
+        "link": "https://omatogrossense.com/campeas-do-beach-tennis-abrem-torneio-com-duelo-contra-brasileiras/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-19T16:00:00-04:00",
+        "published": "2026-03-19T17:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -144,11 +79,11 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Mulher é atingida por cacho de banana e cai na gargalhada; veja vídeo",
-        "link": "https://roonoticias.com/um-video-que-circula-nas-redes-sociais-mostra-cleviane-sene/",
+        "title": "Gambá é encontrado entre bichos de pelúcia em loja de aeroporto; veja vídeo",
+        "link": "https://roonoticias.com/um-gamba-de-cauda-de-escova-foi-encontrado-escondido/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-19T15:09:49-04:00",
+        "published": "2026-03-19T16:10:47-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -157,24 +92,11 @@
         ]
       },
       {
-        "title": "Motorista capota carro após agredir oficial de justiça e fugir da polícia em MT; veja vídeo",
-        "link": "https://roonoticias.com/policiais-militares-perseguiram-um-homem-de-29-anos/",
+        "title": "Influenciadora “Cavalona do Pó” é presa em operação contra tráfico e lavagem de dinheiro",
+        "link": "https://roonoticias.com/a-influenciadora-mirian-monica-da-silva-viana/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-19T15:35:15-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Personal trainer é preso após perseguir ex e tentar levá-la à força para carro em Sinop; veja vídeo",
-        "link": "https://roonoticias.com/a-policia-militar-prendeu-em-flagrante-um-professor/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-19T15:50:10-04:00",
+        "published": "2026-03-19T16:20:41-04:00",
         "categories": [
           "MT Notícias"
         ],
