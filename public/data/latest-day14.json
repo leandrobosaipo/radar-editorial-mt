@@ -1,23 +1,558 @@
 {
-  "generated_at": "2026-03-18T14:12:33.859256-04:00",
+  "generated_at": "2026-03-19T14:00:05.319030-04:00",
   "window": {
-    "start": "2026-03-18T00:00:00-04:00",
-    "end": "2026-03-18T14:00:00-04:00"
+    "start": "2026-03-19T00:00:00-04:00",
+    "end": "2026-03-19T14:00:00-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      {
+        "title": "Influenciadora Mirian Mônica é presa em operação contra tráfico e lavagem de dinheiro; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/empresaria-e-influenciadora-amazonens/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-19T08:43:22-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem grava vídeo ameaçando a própria filha com arma e acaba preso em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-grava-video-ameacando-a-propria-filha-com-arma-e-acaba-preso-em-mt-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-19T08:52:37-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Professor de educação infantil persegue ex e acaba preso por tentativa de sequestro em Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/professor-persegue-ex-preso-tentativa-sequestro-sinop-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-19T12:08:12-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Jogadora erra pênalti de propósito após decisão polêmica de arbitragem na Itália; veja vídeo",
+        "link": "https://perrenguematogrosso.com/jogadora-erra-penalti-de-proposito/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-19T12:47:33-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Após polêmica na Câmara, Bruno Rios minimiza fala e trata episódio como expressão regional; veja vídeo",
+        "link": "https://perrenguematogrosso.com/apos-polemica-na-camara-bruno-rios-minimiza-fala-e-trata-episodio-como-expressao-regional-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-19T12:53:17-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Detentas usam disfarce para fugir durante escolta médica; veja vídeo",
+        "link": "https://perrenguematogrosso.com/escaparam-durante-escolta/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-19T12:56:11-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem é preso após esconder caixas de sapatos furtadas em área de mata em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-preso-caixas-sapatos-furtadas-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-19T12:59:40-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Mixto paga R$ 440 mil em premiações após título estadual e campanha histórica na Copa do Brasil",
+        "link": "https://perrenguematogrosso.com/mixto-paga-r-440-mil-em-premiacoes/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-19T13:43:56-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/327437-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-19T13:57:57-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
+    "afolhalivre": [
+      {
+        "title": "Terminal de Cargas em Dom Aquino avança e reforça eixo logístico entre Campo Verde e Primavera do Leste",
+        "link": "https://afolhalivre.com/a-construcao-do-terminal-de-cargas-em-dom-aquino-na-br-070-entre-campo-verde-e-primavera-do-leste-entra-em-fase-decisiva-e-deve-ganhar/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T07:54:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Pedágio na MT-130 sobe para R$ 11,70 e impacta motoristas de Primavera do Leste",
+        "link": "https://afolhalivre.com/motoristas-que-utilizam-a-mt-130-especialmente-em-primavera-do-leste-vao-enfrentar-reajuste-na-tarifa-de-pedagio-a-partir-de-abril-a-conces/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T09:59:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Chuva provoca alagamento inédito e atinge canil com mais de 70 animais em Primavera do Leste",
+        "link": "https://afolhalivre.com/as-fortes-chuvas-que-atingiram-primavera-do-leste-na-tarde-desta-terca-feira-17-provocaram-diversos-pontos-de-alagamento-e-alem-disso/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T11:57:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Influenciadora é presa em operação contra tráfico e lavagem de dinheiro; Veja vídeo",
+        "link": "https://omatogrossense.com/influenciadora-amazonense-mirian-monica-da-silva-viana/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-19T08:43:24-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Homem grava vídeo intimidando a própria filha com pistola e termina preso em MT; veja vídeo",
+        "link": "https://omatogrossense.com/homem-grava-video-intimidando-a-propria-filha-com-pistola-e-termina-preso-em-mt-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-19T08:52:40-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Entre debates e shows, Cuiabá dá largada à Parada LGBTQIA+ 2026",
+        "link": "https://omatogrossense.com/cuiaba-lanca-23a-parada-lgbtqia/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-19T11:37:15-04:00",
+        "categories": [
+          "Entretenimento"
+        ],
+        "category_ids": [
+          6
+        ]
+      },
+      {
+        "title": "Professor persegue ex dentro de academia e acaba preso em flagrante em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/professor-persegue-ex-dentro-de-academia-e-acaba-preso-em-flagrante-em-sinop-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-19T12:07:07-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Após polêmica na Câmara, Bruno Rios minimiza fala e trata episódio como expressão regional; veja vídeo",
+        "link": "https://omatogrossense.com/apos-polemica-na-camara-bruno-rios-minimiza-fala-e-trata-episodio-como-expressao-regional-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-19T12:50:38-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Detentas escapam durante escolta e usam disfarce para despistar; Veja vídeo",
+        "link": "https://omatogrossense.com/uma-fuga-ousada-foi-registrada-n/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-19T12:54:46-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "VÍDEO: Jogadora erra pênalti de propósito e viraliza na Itália",
+        "link": "https://omatogrossense.com/jogadora-erra-penalti-de-proposito/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-19T12:57:30-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Polícia prende homem com mercadorias furtadas após ação rápida em loja de Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/homem-mercadorias-furtadas-loja-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-19T12:59:48-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://omatogrossense.com/134669-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-19T13:58:17-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "PIX caiu: Mixto paga R$ 440 mil em premiações e reforça discurso de gestão profissional",
+        "link": "https://omatogrossense.com/mixto-paga-r-440-mil-em-premiacoes/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-19T13:59:40-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      }
+    ],
+    "portalnortemt": [
+      {
+        "title": "Perseguição policial após agressão a oficial de Justiça em Sinop termina em capotamento; veja vídeo",
+        "link": "https://portalnortemt.com/uma-ocorrencia-iniciada-em-sinop-mobilizou-dezenas-de-policiais-militares-e-terminou-com-um-capotamento-apos-quase-100-quilometros-de-pe/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T07:59:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Motorista avança cruzamento em Sinop, provoca colisão e carro capotando o veículo; veja vídeo",
+        "link": "https://portalnortemt.com/uma-camera-de-seguranca-registrou-um-acidente-de-transito-na-manha-desta-quarta-feira-em-sinop-no-bairro-jardim-italia-apos-dois-veiculos-co/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T10:00:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Idoso é preso em Sinop após denúncias de abuso contra sua bisneta de 7 anos e sua amiga de 10",
+        "link": "https://portalnortemt.com/a-policia-civil-prendeu-nesta-quarta-feira-18-um-homem-de-76-anos-suspeito-de-abusar-sexualmente-de-duas-menores-em-sinop/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T11:55:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Projeto propõe ferrovia até Cáceres e aponta conexão estratégica com o Pacífico",
+        "link": "https://portalpantanalmt.com/um-estudo-elaborado-por-uma-comissao-formada-por-especialistas-da-universidade-federal-de-mato-grosso-colocou-caceres-no-centro-de-um-possive/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T07:59:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      },
+      {
+        "title": "Furto em unidade do Senai em Cáceres levanta suspeita após sumiço de computadores sem sinais de arrombamento",
+        "link": "https://portalpantanalmt.com/um-analista-de-tecnologia-procurou-a-delegacia-na-tarde-desta-quarta-feira-em-caceres-apos-identificar-o-furto-de-equipamentos-de-informati/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T10:00:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      },
+      {
+        "title": "Bope apreende fuzil e grande quantidade de droga em casa abandonada durante operação em Cáceres",
+        "link": "https://portalpantanalmt.com/uma-acao-do-batalhao-de-operacoes-policiais-especiais-em-conjunto-com-o-6o-comando-regional-resultou-na-apreensao-de-uma-arma-de-alto-pode/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T12:05:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Corpo de pescador desaparecido é encontrado após correnteza arrastar vítima em Rondonópolis",
+        "link": "https://roonoticias.com/um-caso-de-afogamento-mobilizou-equipes-do-corpo-de-bombeiros-em-rondonopolis-e-terminou-quando-equipes-localizaram-o-corpo-de-um-homem-que/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T08:00:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Pedágio na MT-130 sobe para R$ 11,70 e pressiona custos entre Rondonópolis e Primavera do Leste",
+        "link": "https://roonoticias.com/motoristas-que-utilizam-a-mt-130-principalmente-no-trecho-entre-rondonopolis-e-primavera-do-leste-vao-enfrentar-aumento-no-valor-do-pedagio-a/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T09:54:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Mãe encontra filho em boca de fumo e aplica corretivo na frente da PM, veja vídeo",
+        "link": "https://roonoticias.com/durante-a-operacao-policial-no-bairro-da-cabanagem/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-19T10:57:12-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Bastidores: Corinthians agenda reunião por Arthur Cabral e vasculha o mercado por ‘sombra’ a Hugo Souza",
+        "link": "https://roonoticias.com/o-corinthians-intensificou-os-bastidores-para-reforcar/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-19T11:01:16-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Artur Jorge dá ‘ok’ ao Cruzeiro, que agora negocia multa com Al Rayyan para contar com o treinador",
+        "link": "https://roonoticias.com/o-cruzeiro-esta-proximo-de-anunciar-artur-jorge-como/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-19T11:07:43-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Despedida? Guardiola é direto sobre deixar o City após queda na Champions e deixa recado sobre futuro",
+        "link": "https://roonoticias.com/o-tecnico-pep-guardiola-comentou-de-forma-direta/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-19T11:11:37-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Motta reage à condenação de deputados do PL no STF por corrupção",
+        "link": "https://roonoticias.com/o-presidente-da-camara-dos-deputados-2/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-19T11:17:05-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Presidente da CPMI do INSS convida Galípolo e Campos Neto para depor",
+        "link": "https://roonoticias.com/o-presidente-da-cpmi-do-inss-carlos-viana/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-19T11:20:08-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Nome de Dario Durigan para Fazenda está bem encaminhado, diz Haddad",
+        "link": "https://roonoticias.com/o-ministro-da-fazenda-fernando-haddad-afirmou/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-19T11:21:06-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Força Tática prende foragido durante operação noturna em Rondonópolis",
+        "link": "https://roonoticias.com/a-policia-militar-prendeu-um-homem-considerado-foragido-da-justica-durante-uma-acao-realizada-na-noite-desta-quarta-feira-em-rondonopolis-a/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-19T12:01:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
