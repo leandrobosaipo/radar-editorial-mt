@@ -1,25 +1,100 @@
 {
-  "generated_at": "2026-03-19T20:07:15.752627-04:00",
+  "generated_at": "2026-03-20T08:00:05.367986-04:00",
   "window": {
-    "start": "2026-03-19T00:00:00-04:00",
-    "end": "2026-03-19T20:00:00-04:00"
+    "start": "2026-03-20T07:00:05.367986-04:00",
+    "end": "2026-03-20T08:00:05.367986-04:00"
   },
   "sites": {
     "perrenguematogrosso": [],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "Colisão frontal entre caminhões deixa um morto na BR-070 entre Primavera do Leste e Campo Verde",
+        "link": "https://afolhalivre.com/um-grave-acidente-registrado-por-volta-das-3h40-da-madrugada-desta-quinta-feira-19-matou-um-motorista-na-br-070-no-km-351-trecho-entre/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-20T07:55:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
     "omatogrossense": [],
     "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalpantanalmt": [
+      {
+        "title": "Polícia interrompe execução, troca tiros com faccionados e prende quatro em ação com armas e drogas em Cáceres",
+        "link": "https://portalpantanalmt.com/a-policia-militar-interrompeu-uma-tentativa-de-execucao-na-manha-desta-quinta-feira-19-apos-criminosos-invadirem-uma-casa-na-rua-das-g/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-20T07:57:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Criminosos invadem casa, fazem família refém e acabam baleados após perseguição em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/criminosos-armados-invadiram-uma-casa-e-fizeram-quatro-pessoas-refens-no-bairro-jardim-tropical-em-rondonopolis-durante-a-acao-os/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-20T07:56:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
-  }
-}ias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
