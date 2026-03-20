@@ -1,23 +1,192 @@
 {
-  "generated_at": "2026-03-20T12:37:08.489607-04:00",
+  "generated_at": "2026-03-20T13:00:05.526406-04:00",
   "window": {
-    "start": "2026-03-20T11:37:08.489607-04:00",
-    "end": "2026-03-20T12:37:08.489607-04:00"
+    "start": "2026-03-20T12:00:05.526406-04:00",
+    "end": "2026-03-20T13:00:05.526406-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Pintor entra em vala e resgata gato preso após chuva forte em Sorriso; veja vídeo",
+        "link": "https://perrenguematogrosso.com/pintor-resgata-gato-preso-sorriso-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-20T12:04:36-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "“Crítica é normal, mas ofensa revela quem fala”, diz Abílio ao defender prefeita e cobrar MDB",
+        "link": "https://perrenguematogrosso.com/critica-e-normal-mas-ofensa-revela-quem-fala-diz-abilio-ao-defender-prefeita-e-cobrar-mdb/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-20T12:40:36-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Conmebol lança bola oficial “Cumbre” para Libertadores e Sul-Americana de 2026; veja vídeo",
+        "link": "https://perrenguematogrosso.com/conmebol-lanca-bola-oficial-cumbre/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-20T12:40:56-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Alerta: prazo para contestar fraudes no INSS se encerra e milhares ainda podem recuperar valores; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/o-prazo-para-contestar-descontos/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-20T12:53:09-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
+    "omatogrossense": [
+      {
+        "title": "Pintor retira gato preso em vala após forte chuva na BR-163 em Sorriso; veja vídeo",
+        "link": "https://omatogrossense.com/pintor-retira-gato-preso-vala-sorriso-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-20T12:05:42-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "“Crítica é normal, mas ofensa revela quem fala”, diz Abílio ao defender prefeita e cobrar MDB",
+        "link": "https://omatogrossense.com/critica-e-normal-mas-ofensa-revela-quem-fala-diz-abilio-ao-defender-prefeita-e-cobrar-mdb/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-20T12:40:50-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "VÍDEO: Conmebol apresenta bola oficial “Cumbre” para Libertadores e Sul-Americana 2026",
+        "link": "https://omatogrossense.com/conmebol-apresenta-bola-oficial-cumbre/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-20T12:52:50-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Diesel dispara quase 20% em março e alta acende alerta no Brasil; Veja vídeo",
+        "link": "https://omatogrossense.com/o-preco-do-diesel-foi-elevado/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-20T12:53:02-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      }
+    ],
+    "portalnortemt": [
+      {
+        "title": "Golpe milionário com financiamentos de carros é desarticulado pela polícia em Sinop",
+        "link": "https://portalnortemt.com/a-policia-civil-de-sinop-deflagrou-nesta-sexta-feira-20-a-operacao-garagem-fantasma-e-desmontou-um-esquema-de-fraudes-em-financiamentos/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-20T12:03:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Resgate tenso salva onça-pintada após queda em canal de usina em Juscimeira; veja vídeo",
+        "link": "https://roonoticias.com/o-corpo-de-bombeiros-resgatou-na-ultima-quinta-feira-19-uma-onca-pintada-adulta-que-caiu-em-um-canal-da-usina-do-prata-em-juscimeira/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-20T12:06:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
