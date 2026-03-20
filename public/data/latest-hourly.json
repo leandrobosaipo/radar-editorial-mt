@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-03-20T18:00:05.519364-04:00",
+  "generated_at": "2026-03-20T19:00:05.307600-04:00",
   "window": {
-    "start": "2026-03-20T17:00:05.519364-04:00",
-    "end": "2026-03-20T18:00:05.519364-04:00"
+    "start": "2026-03-20T18:00:05.307600-04:00",
+    "end": "2026-03-20T19:00:05.307600-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "“Chapas ainda estão em construção”, diz ministro após conversa com Baleia Rossi sobre eleições em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/chapas-ainda-estao-em-construcao/",
+        "title": "Mulher é presa por permitir que companheiro abusasse dos próprios filhos em Mato Grosso",
+        "link": "https://perrenguematogrosso.com/mulher-presa-companheiro-abusasse-filhos-mato-grosso/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-20T18:01:43-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Ibovespa despenca mais de 2% e segue tendência global de queda nas bolsas nesta sexta",
+        "link": "https://perrenguematogrosso.com/ibovespa-despenca-mais-de-2-e-segue-tendencia-global-de-queda-nas-bolsas-nesta-sexta/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-20T17:20:29-04:00",
+        "published": "2026-03-20T18:26:07-04:00",
         "categories": [
           "Política"
         ],
@@ -20,11 +33,11 @@
         ]
       },
       {
-        "title": "Cuiabá Sub-13 disputa torneio nacional em SP e enfrenta gigante do futebol brasileiro",
-        "link": "https://perrenguematogrosso.com/cuiaba-sub-13-disputa-torneio-nacional-em-sp/",
+        "title": "Cuiabá estreia na Série B contra o Sport e inicia busca pelo acesso à elite",
+        "link": "https://perrenguematogrosso.com/cuiaba-estreia-na-serie-b-contra-o-sport/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-03-20T17:50:43-04:00",
+        "published": "2026-03-20T18:37:13-04:00",
         "categories": [
           "Esporte"
         ],
@@ -33,27 +46,40 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/327814-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-20T17:57:45-04:00",
+        "title": "Arena Pantanal vira palco da Série B 2026 e amplia protagonismo esportivo em Mato Grosso",
+        "link": "https://perrenguematogrosso.com/arena-pantanal-vira-palco-da-serie-b/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-20T19:00:00-04:00",
         "categories": [
-          "Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          5
+          509
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "“Chapas ainda estão em construção”, diz ministro após conversa com Baleia Rossi sobre eleições em MT; veja vídeo",
-        "link": "https://omatogrossense.com/chapas-ainda-estao-em-construcao/",
+        "title": "Polícia Civil prende mulher por permitir abuso de filhos em MT",
+        "link": "https://omatogrossense.com/policia-civil-prende-mulher-por-permitir-abuso-de-filhos-em-mt/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-20T18:01:52-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ibovespa despenca mais de 2% e segue tendência global de queda nas bolsas nesta sexta",
+        "link": "https://omatogrossense.com/ibovespa-despenca-mais-de-2-e-segue-tendencia-global-de-queda-nas-bolsas-nesta-sexta/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-20T17:20:25-04:00",
+        "published": "2026-03-20T18:26:14-04:00",
         "categories": [
           "Política"
         ],
@@ -62,11 +88,11 @@
         ]
       },
       {
-        "title": "Cuiabá aposta na base e enfrenta Cruzeiro em torneio Sub-13 em São Paulo",
-        "link": "https://omatogrossense.com/cuiaba-aposta-na-base-e-enfrenta-cruzeiro/",
+        "title": "Cuiabá estreia na Série B contra o Sport e inicia luta pelo acesso à elite",
+        "link": "https://omatogrossense.com/cuiaba-estreia-na-serie-b-contra-o-sport/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-20T17:55:34-04:00",
+        "published": "2026-03-20T18:44:26-04:00",
         "categories": [
           "Esporte"
         ],
@@ -75,16 +101,16 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://omatogrossense.com/135031-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-20T17:57:15-04:00",
+        "title": "Arena Pantanal abre temporada 2026 com Série B, futebol feminino internacional e grandes eventos",
+        "link": "https://omatogrossense.com/arena-pantanal-abre-temporada-2026-com-serie-b/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-20T19:00:00-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       }
     ],
@@ -92,24 +118,11 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Micro-ônibus pega fogo de madrugada e fica destruído em avenida de Poconé; veja vídeo",
-        "link": "https://roonoticias.com/um-micro-onibus-da-empresa-eva-tur-pegou-fogo-e-ficou/",
+        "title": "Jovem “acorda” durante velório e caso gera revolta da família no RJ; veja vídeo",
+        "link": "https://roonoticias.com/o-caso-de-caroline-costa-nunes-pereira-ganhou-grande/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-20T17:04:53-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Mulher reage a tentativa de esturpo em academia de condomínio; veja vídeo",
-        "link": "https://roonoticias.com/uma-mulher-de-24-anos-sofreu-um-ataque-dentro-da-academia/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-20T17:45:56-04:00",
+        "published": "2026-03-20T18:10:48-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -118,16 +131,68 @@
         ]
       },
       {
-        "title": "Após término, Jojo Todynho se revolta com comentário de seguidor sobre vida amorosa; veja vídeo",
-        "link": "https://roonoticias.com/a-cantora-jojo-todynho-se-pronunciou-nas-redes-sociais/",
+        "title": "Hugo Souza é convocado para a seleção brasileira para vaga de Alisson",
+        "link": "https://roonoticias.com/o-goleiro-hugo-souza-do-corinthians-foi-convocado-pelo/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-20T17:53:37-04:00",
+        "published": "2026-03-20T18:18:36-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Esporte"
         ],
         "category_ids": [
-          973
+          7
+        ]
+      },
+      {
+        "title": "Botafogo negocia a contratação de joia do Goiás, mas tem europeus na briga",
+        "link": "https://roonoticias.com/o-botafogo-se-movimenta-no-mercado-de-transferencias-e-negocia/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-20T18:25:49-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Cristiano Ronaldo fica fora da seleção de Portugal por lesão e adia retorno em amistosos",
+        "link": "https://roonoticias.com/o-atacante-cristiano-ronaldo-nao-foi-convocado-para-defender/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-20T18:33:51-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Lula oficializa saída de Haddad e nomeação de Durigan na Fazenda",
+        "link": "https://roonoticias.com/o-presidente-luiz-inacio-lula-da-silva-oficializou-o-nome/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-20T18:40:46-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Pré-candidato ao Senado, Rui Costa deixará Casa Civil em 30 de março",
+        "link": "https://roonoticias.com/o-ministro-da-casa-civil-rui-costa-anunciou-que-deixara/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-20T18:56:16-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ]
