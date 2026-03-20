@@ -1,152 +1,23 @@
 {
-  "generated_at": "2026-03-20T10:00:05.614571-04:00",
+  "generated_at": "2026-03-20T12:37:08.489607-04:00",
   "window": {
-    "start": "2026-03-20T09:00:05.614571-04:00",
-    "end": "2026-03-20T10:00:05.614571-04:00"
+    "start": "2026-03-20T11:37:08.489607-04:00",
+    "end": "2026-03-20T12:37:08.489607-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Bebê é levado em roubo de carro e resgatado pela PM após buscas; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-bebe-de-2-meses-foi-levado/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-20T09:19:48-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Menino de 3 anos é encontrado morto dentro de carro em universidade de Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/menino-3-anos-encontrado-morto-carro-rondonopolis-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-20T09:28:11-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Prefeita reage a reaproximação política e abre possibilidade de mudança na liderança na Câmara; veja vídeo",
-        "link": "https://perrenguematogrosso.com/prefeita-reage-a-reaproximacao-politica-e-abre-possibilidade-de-mudanca-na-lideranca-na-camara-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-20T09:55:25-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Desespero: bebê é levado em carro roubado em frente ao Centro para Crianças e Adolescentes; Veja vídeo",
-        "link": "https://omatogrossense.com/bebe-de-2-meses-foi/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-20T09:18:19-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Criança de 3 anos é encontrada sem vida dentro de carro em universidade de Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/crianca-encontrada-sem-vida-carro-rondonopolis-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-20T09:27:17-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Prefeita reage a reaproximação política e abre possibilidade de mudança na liderança na Câmara; veja vídeo",
-        "link": "https://omatogrossense.com/prefeita-reage-a-reaproximacao-politica-e-abre-possibilidade-de-mudanca-na-lideranca-na-camara-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-20T09:54:09-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
-    "portalpantanalmt": [
-      {
-        "title": "Polícia desmonta grupo criminoso após sequestro e cárcere privado envolvendo casal em Mirassol d’Oeste",
-        "link": "https://portalpantanalmt.com/a-policia-civil-desarticulou-um-grupo-criminoso-envolvido-em-sequestro-carcere-privado-ameaca-e-trafico-de-drogas-em-mirassol-doeste-no-mato/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-20T09:57:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
+    "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
