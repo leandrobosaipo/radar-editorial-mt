@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-03-20T16:00:03.483689-04:00",
+  "generated_at": "2026-03-20T17:00:03.259109-04:00",
   "window": {
-    "start": "2026-03-20T15:00:03.483689-04:00",
-    "end": "2026-03-20T16:00:03.483689-04:00"
+    "start": "2026-03-20T16:00:03.259109-04:00",
+    "end": "2026-03-20T17:00:03.259109-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Bombeiros capturam dois pitbulls após denúncia de animais soltos em rua de Alta Floresta; veja vídeo",
-        "link": "https://perrenguematogrosso.com/bombeiros-capturam-dois-pitbulls-rua-alta-floresta/",
+        "title": "“Revelar agora cria instabilidade”, diz Abílio ao segurar mudanças e manter secretariado sob avaliação; veja vídeo",
+        "link": "https://perrenguematogrosso.com/revelar-agora-cria-instabilidade/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-20T16:23:31-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Trabalhadores atraídos por falsas promessas são resgatados em condições degradantes em área rural de MT",
+        "link": "https://perrenguematogrosso.com/trabalhadores-atraidos-falsas-promessas-resgatados-mt/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-20T15:19:40-04:00",
+        "published": "2026-03-20T16:56:38-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,13 +33,29 @@
         ]
       },
       {
-        "title": "Ator e lutador Chuck Norris morre aos 86 anos após emergência médica; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/ator-e-lutador-chuck-norris-morre-aos-86-anos-apos-emergencia-medica-veja-video/",
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/327795-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-20T15:45:50-04:00",
+        "published": "2026-03-20T16:57:26-04:00",
         "categories": [
           "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
+    "afolhalivre": [],
+    "omatogrossense": [
+      {
+        "title": "“Revelar agora cria instabilidade”, diz Abílio ao segurar mudanças e manter secretariado sob avaliação; veja vídeo",
+        "link": "https://omatogrossense.com/revelar-agora-cria-instabilidade-diz-abilio-ao-segurar-mudancas-e-manter-secretariado-sob-avaliacao-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-20T16:23:33-04:00",
+        "categories": [
+          "Política"
         ],
         "category_ids": [
           5
@@ -34,26 +63,10 @@
       },
       {
         "title": ".",
-        "link": "https://perrenguematogrosso.com/327772-2/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-20T15:57:16-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      }
-    ],
-    "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Pitbulls soltos assustam moradores e mobilizam Bombeiros em Alta Floresta; veja vídeo",
-        "link": "https://omatogrossense.com/pitbulls-soltos-bombeiros-alta-floresta-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-20T15:21:05-04:00",
+        "link": "https://omatogrossense.com/135018-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-20T16:57:42-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,42 +75,16 @@
         ]
       },
       {
-        "title": "Morre Chuck Norris, ator e lutador que marcou o cinema de ação; Veja vídeo",
-        "link": "https://omatogrossense.com/morre-chuck-norris-ator-e-lutador-que-marcou-o-cinema-de-acao-veja-video/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-20T15:46:36-04:00",
+        "title": "Operação conjunta resgata 12 trabalhadores submetidos a condições degradantes em fazenda no interior de MT",
+        "link": "https://omatogrossense.com/operacao-resgata-trabalhadores-fazenda-mt/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-20T16:57:51-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://omatogrossense.com/134999-2/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-20T15:57:27-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Copa Centro-Oeste 2026 começa com Cuiabá e Primavera em caminhos distintos; veja os desafios",
-        "link": "https://omatogrossense.com/copa-centro-oeste-2026-comeca-com-cuiaba-e-primavera/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-20T16:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
+          20
         ]
       }
     ],
@@ -105,11 +92,11 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Entrega termina em queda após motociclista atingir buraco e expõe risco em avenida de Cuiabá; veja vídeo",
-        "link": "https://roonoticias.com/um-motociclista-que-trabalha-como-entregador-por-aplicativo/",
+        "title": "Mulher é resgatada após ser flagrada sobre caminhão em rodovia de Mato Grosso; veja vídeo",
+        "link": "https://roonoticias.com/uma-mulher-foi-flagrada-em-cima-de-um-caminhao-na-manha/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-20T15:53:31-04:00",
+        "published": "2026-03-20T16:55:23-04:00",
         "categories": [
           "MT Notícias"
         ],
