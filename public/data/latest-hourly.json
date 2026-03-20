@@ -1,177 +1,23 @@
 {
-  "generated_at": "2026-03-19T19:00:04.736031-04:00",
+  "generated_at": "2026-03-19T20:07:15.752630-04:00",
   "window": {
-    "start": "2026-03-19T18:00:04.736031-04:00",
-    "end": "2026-03-19T19:00:04.736031-04:00"
+    "start": "2026-03-19T19:07:15.752630-04:00",
+    "end": "2026-03-19T20:07:15.752630-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Trabalhador grava vídeo após encontrar abóboras espalhadas em terreno de mato alto em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/trabalhador-video-encontrar-aboboras-terreno-cuiaba/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-19T18:02:44-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Cuiabanos têm última semana para aproveitar 10% de desconto no IPTU 2026 em Cuiabá",
-        "link": "https://perrenguematogrosso.com/cuiabanos-semana-desconto-iptu-cuiaba/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-19T18:19:56-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Vice-prefeito rompe silêncio, critica gestão e afirma que promessas não foram cumpridas; veja vídeo",
-        "link": "https://perrenguematogrosso.com/vice-prefeito-rompe-silencio/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-19T18:32:16-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Mato Grosso bate meta antes do prazo e vira destaque nacional na habitação com números históricos; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mato-grosso-bate-meta/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-19T18:46:42-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Trabalhador encontra abóboras durante limpeza em terreno de mato alto em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/trabalhador-encontra-aboboras-limpeza-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-19T18:01:50-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Cuiabanos têm última semana para aproveitar 10% de desconto no IPTU 2026 em Cuiabá",
-        "link": "https://omatogrossense.com/cuiabanos-semana-10-desconto-iptu-2026/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-19T18:20:42-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Vice-prefeito rompe silêncio, critica gestão e afirma que promessas não foram cumpridas; veja vídeo",
-        "link": "https://omatogrossense.com/vice-prefeito-rompe-silencio/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-19T18:30:15-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Mato Grosso bate meta antes do prazo e vira destaque nacional na habitação com números históricos; veja vídeo",
-        "link": "https://omatogrossense.com/mato-grosso-bate-meta/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-19T18:48:03-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Mulher em surto sobe em caminhão em Campo Novo do Parecis; veja vídeo",
-        "link": "https://omatogrossense.com/mulher-em-surto-sobe-em-caminhao-em-campo-novo-do-parecis-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-19T19:00:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
