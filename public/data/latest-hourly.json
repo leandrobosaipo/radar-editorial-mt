@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-21T15:05:16.611007-04:00",
+  "generated_at": "2026-03-21T16:06:15.049594-04:00",
   "window": {
-    "start": "2026-03-21T14:05:16.611007-04:00",
-    "end": "2026-03-21T15:05:16.611007-04:00"
+    "start": "2026-03-21T15:06:15.049594-04:00",
+    "end": "2026-03-21T16:06:15.049594-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Moradores registram pitbull solto atacando e matando cachorro em Campo Verde; veja vídeo",
-        "link": "https://perrenguematogrosso.com/pitbull-solto-atacando-matando-cachorro-campo-verde-video/",
+        "title": "Câmera registra adolescentes invadindo buffet e rendendo funcionários durante assalto em VG; veja vídeo",
+        "link": "https://perrenguematogrosso.com/adolescentes-invadindo-buffet-rendendo-funcionarios-vg/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-21T14:05:22-04:00",
+        "published": "2026-03-21T15:20:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,27 +20,40 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/327937-2/",
+        "title": "Policiais fingem ser entregadores e prendem suspeito de surpresa; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/policiais-fingem-ser-entregadores-e-prendem-suspeito-de-surpresa-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-21T14:47:27-04:00",
+        "published": "2026-03-21T15:32:00-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Nova camisa da Seleção é lançada e faz crescer o sonho do hexa antes da estreia contra a Croácia; veja vídeo",
+        "link": "https://perrenguematogrosso.com/nova-camisa-da-selecao-e-lancada-e-faz-crescer-o-sonho-do-hexa-antes-da-estreia-contra-a-croacia-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-21T15:34:42-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Moradores registram pitbull solto atacando e matando cachorro em MT; veja vídeo",
-        "link": "https://omatogrossense.com/pitbull-solto-atacando-matando-cachorro-mt-video/",
+        "title": "Câmera flagra adolescentes rendendo proprietária e funcionários durante roubo em buffet de VG; veja vídeo",
+        "link": "https://omatogrossense.com/adolescentes-rendendo-funcionarios-roubo-buffet-vg/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-21T14:09:13-04:00",
+        "published": "2026-03-21T15:20:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,16 +62,29 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://omatogrossense.com/135151-2/",
+        "title": "Agentes se passam por entregadores e surpreendem suspeito durante operação; Veja vídeo",
+        "link": "https://omatogrossense.com/agentes-se-passam-por-entregadores-e-surpreendem-suspeito-durante-operacao-no-rio/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-21T14:47:19-04:00",
+        "published": "2026-03-21T15:30:32-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
+          973
+        ]
+      },
+      {
+        "title": "Nova camisa da Seleção é lançada e faz crescer o sonho do hexa antes da estreia contra a Croácia; veja vídeo",
+        "link": "https://omatogrossense.com/nova-camisa-da-selecao-e-lancada-e-faz-crescer-o-sonho-do-hexa-antes-da-estreia-contra-a-croacia-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-21T15:34:32-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ],
@@ -66,11 +92,11 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Felca se pronuncia sobre ECA Digital após receber críticas; veja vídeo",
-        "link": "https://roonoticias.com/o-influenciador-felca-se-pronunciou-nas-redes-sociais-apos-criticas/",
+        "title": "É hoje! OCA Fight Combat promete noite de adrenalina e grandes combates em Porto Velho; veja vídeo",
+        "link": "https://roonoticias.com/o-oca-fight-combat-acontece-hoje-e-promete-movimentar/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-21T14:18:35-04:00",
+        "published": "2026-03-21T15:25:00-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -79,55 +105,68 @@
         ]
       },
       {
-        "title": "Bombeiros resgatam pitbulls soltos e evitam risco em bairro de Alta Floresta; veja vídeo",
-        "link": "https://roonoticias.com/o-corpo-de-bombeiros-militar-de-mato-grosso-resgatou/",
+        "title": "Flamengo? Fluminense? Qual brasileiro da Libertadores mais viaja na fase de grupos e as ‘maratonas’ de quase 10 mil km",
+        "link": "https://roonoticias.com/a-conmebol-realizou-o-sorteio-dos-grupos-da-copa-libertadores/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-21T14:27:11-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Carro na contramão atinge motoboy em cruzamento e causa acidente em Cuiabá; veja vídeo",
-        "link": "https://roonoticias.com/um-acidente-registrado-na-madrugada-desta-quinta-feira/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-21T14:32:33-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Mecânico fica com dedo preso em peça de caminhonete e aciona resgate em Curitiba; veja vídeo",
-        "link": "https://roonoticias.com/um-mecanico-passou-por-momentos-de-tensao-apos/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-21T14:39:33-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Memphis Depay é convocado pela Holanda para amistosos e pode desfalcar Corinthians",
-        "link": "https://roonoticias.com/a-selecao-da-holanda-anunciou-a-lista-de-convocados-para/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-21T14:56:32-04:00",
+        "published": "2026-03-21T15:34:29-04:00",
         "categories": [
           "Esporte"
         ],
         "category_ids": [
           7
+        ]
+      },
+      {
+        "title": "Ronaldinho Gaúcho completa 46 anos e celebra legado de magia no futebol mundial",
+        "link": "https://roonoticias.com/o-ex-jogador-ronaldinho-gaucho-completa-46-anos-neste-21/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-21T15:42:40-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Planalto dá orientação para discurso sobre aumento dos combustíveis",
+        "link": "https://roonoticias.com/integrantes-do-palacio-do-planalto-passaram-a-adotar-uma-estrategia/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-21T15:49:47-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Ministério Público pede afastamento de vice-governador do Maranhão",
+        "link": "https://roonoticias.com/o-ministerio-publico-do-maranhao-solicitou-o-afastamento/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-21T15:58:10-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "André Mendonça vira alvo de fake news em massa sobre Caso Master",
+        "link": "https://roonoticias.com/o-ministro-andre-mendonca-do-supremo-tribunal-federal/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-21T16:04:15-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ]
