@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-03-21T11:00:40.117365-04:00",
+  "generated_at": "2026-03-21T12:02:16.700429-04:00",
   "window": {
-    "start": "2026-03-21T10:00:40.117365-04:00",
-    "end": "2026-03-21T11:00:40.117365-04:00"
+    "start": "2026-03-21T11:02:16.700429-04:00",
+    "end": "2026-03-21T12:02:16.700429-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3185/",
+        "title": "Guarda Civil de Sinop orienta motoristas sobre regras de estacionamento em calçadas comerciais; veja vídeo",
+        "link": "https://perrenguematogrosso.com/guarda-sinop-regras-estacionamento-calcadas-comerciais/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-21T10:08:07-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Guarda Municipal apreende adolescente de 15 anos após matar o tio com golpes de faca em VG",
-        "link": "https://perrenguematogrosso.com/guarda-municipal-apreende-adolescente-de-15-anos-apos-matar-o-tio-com-golpes-de-faca-em-vg/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-21T10:22:10-04:00",
+        "published": "2026-03-21T11:28:27-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,11 +20,11 @@
         ]
       },
       {
-        "title": "Segurança ignora assalto e é indiciado após não ajudar vítima; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-seguranca-terceirizado-foi-indiciado-apos-presenciar/",
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/327903-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-21T10:31:13-04:00",
+        "published": "2026-03-21T11:58:26-04:00",
         "categories": [
           "Notícias"
         ],
@@ -46,14 +33,28 @@
         ]
       }
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "Audiência pública vai debater novo pedágio eletrônico na MT-130, entre Primavera do Leste e Paranatinga",
+        "link": "https://afolhalivre.com/a-secretaria-de-estado-de-infraestrutura-e-logistica-de-mato-grosso-realizara-uma-audiencia-publica-para-discutir-a-implantacao-do-siste/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-21T11:57:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
     "omatogrossense": [
       {
-        "title": "Guarda Municipal apreende adolescente de 15 anos após matar o próprio tio em VG",
-        "link": "https://omatogrossense.com/guarda-apreende-adolescente-matar-tio-vg/",
+        "title": "Guarda Civil de Sinop orienta motoristas sobre estacionamento em calçadas comerciais; veja vídeo",
+        "link": "https://omatogrossense.com/guarda-sinop-orienta-motoristas-estacionamento-calcadas/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-21T10:25:45-04:00",
+        "published": "2026-03-21T11:28:21-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,26 +63,26 @@
         ]
       },
       {
-        "title": "Segurança assiste ação criminosa e é indiciado por omissão; Veja vídeo",
-        "link": "https://omatogrossense.com/um-seguranca-terceirizado-foi-indiciado/",
+        "title": "/",
+        "link": "https://omatogrossense.com/135115-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-21T10:35:51-04:00",
+        "published": "2026-03-21T11:58:31-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       }
     ],
     "portalnortemt": [
       {
-        "title": "Motorista bêbado invade rodoviária em Lucas do Rio Verde, causa danos e acaba preso após confusão",
-        "link": "https://portalnortemt.com/um-homem-de-40-anos-foi-preso-na-madrugada-desta-quinta-feira-em-lucas-do-rio-verde-apos-invadir-a-rodoviaria-dirigindo-em-alta-velocidade/",
+        "title": "Incêndio residencial mobiliza bombeiros e ação rápida evita propagação das chamas em Lucas do Rio Verde",
+        "link": "https://portalnortemt.com/incendio-residencial-mobiliza-bombeiros-e-acao-rapida-evita-propagacao-das-chamas-em-lucas-do-rio-verde/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-21T10:03:00-04:00",
+        "published": "2026-03-21T11:58:00-04:00",
         "categories": [
           "Sinop"
         ],
@@ -128,12 +129,6 @@
       973,
       3105
     ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "roonoticias": []
   }
 }
