@@ -1,93 +1,13 @@
 {
-  "generated_at": "2026-03-20T20:00:05.659976-04:00",
+  "generated_at": "2026-03-21T08:00:05.487952-04:00",
   "window": {
-    "start": "2026-03-20T19:00:05.659976-04:00",
-    "end": "2026-03-20T20:00:05.659976-04:00"
+    "start": "2026-03-21T07:00:05.487952-04:00",
+    "end": "2026-03-21T08:00:05.487952-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Bombeiro detalha operação de mais 8 horas de resgate de onça-pintada em Juscimeira; veja vídeo",
-        "link": "https://perrenguematogrosso.com/bombeiro-detalha-operacao-de-mais-8-horas-de-resgate-de-onca-pintada-em-juscimeira-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-20T19:19:45-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Mecânico fica com dedo preso em peça de caminhonete durante manutenção; veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-mecanico-viveu-momentos-de-tensao-no-bairro-campo-comprido-em-curitiba-pr-apos-prender-o-dedo-em-uma-peca-do-diferencial-de/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-03-20T19:30:04-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Racismo na Champions: jogador do Liverpool sofre ataques após classificação e caso gera revolta",
-        "link": "https://perrenguematogrosso.com/racismo-na-champions-jogador-do-liverpool-sofre-ataques/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-20T20:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Bombeiro detalha operação de mais 8 horas de resgate de onça-pintada em Juscimeira; veja vídeo",
-        "link": "https://omatogrossense.com/bombeiro-detalha-operacao-de-mais-8-horas-de-resgate-de-onca-pintada-em-juscimeira-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-20T19:20:28-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Mecânico fica com dedo preso em peça de caminhonete durante manutenção; veja vídeo",
-        "link": "https://omatogrossense.com/um-mecanico-viveu-momentos-de-tensao-no-bairro-campo-comprido-em-curitiba-pr-apos-prender-o-dedo-em-uma-peca-do-diferencial-de/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-20T19:30:01-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Konaté sofre ataques racistas após classificação do Liverpool na Champions League",
-        "link": "https://omatogrossense.com/konate-sofre-ataques-racistas/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-20T20:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
