@@ -1,112 +1,23 @@
 {
-  "generated_at": "2026-03-21T09:00:05.487145-04:00",
+  "generated_at": "2026-03-21T10:42:12.701816-04:00",
   "window": {
-    "start": "2026-03-21T08:00:05.487145-04:00",
-    "end": "2026-03-21T09:00:05.487145-04:00"
+    "start": "2026-03-21T09:42:12.701816-04:00",
+    "end": "2026-03-21T10:42:12.701816-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Força Tática prende casal e apreende mais de 250 munições durante ação contra o tráfico em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/forca-tatica-prende-casal-municoes-trafico-mt/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-21T08:14:09-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Incêndio devastador em fábrica deixa mortos, feridos graves e desaparecidos; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/327869-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-21T08:29:08-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Polícia Militar prende casal com arsenal de munições e drogas em Sorriso; veja vídeo",
-        "link": "https://omatogrossense.com/policia-prende-casal-arsenal-sorriso-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-21T08:16:05-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Tragédia em fábrica deixa mortos, feridos graves e desaparecidos; Veja vídeo",
-        "link": "https://omatogrossense.com/135082-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-21T08:27:31-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
