@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-03-21T14:04:16.256618-04:00",
+  "generated_at": "2026-03-21T15:05:16.611007-04:00",
   "window": {
-    "start": "2026-03-21T13:04:16.256618-04:00",
-    "end": "2026-03-21T14:04:16.256618-04:00"
+    "start": "2026-03-21T14:05:16.611007-04:00",
+    "end": "2026-03-21T15:05:16.611007-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/327919-2/",
+        "title": "Moradores registram pitbull solto atacando e matando cachorro em Campo Verde; veja vídeo",
+        "link": "https://perrenguematogrosso.com/pitbull-solto-atacando-matando-cachorro-campo-verde-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-21T14:05:22-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/327937-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-21T13:56:12-04:00",
+        "published": "2026-03-21T14:47:27-04:00",
         "categories": [
           "Notícias"
         ],
@@ -23,24 +36,24 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Mulher para no meio da via, causa acidente e justificativa vira meme; Veja vídeo",
-        "link": "https://omatogrossense.com/uma-parada-inesperada-foi/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-21T13:55:45-04:00",
+        "title": "Moradores registram pitbull solto atacando e matando cachorro em MT; veja vídeo",
+        "link": "https://omatogrossense.com/pitbull-solto-atacando-matando-cachorro-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-21T14:09:13-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       },
       {
         "title": ".",
-        "link": "https://omatogrossense.com/135129-2/",
+        "link": "https://omatogrossense.com/135151-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-21T13:56:27-04:00",
+        "published": "2026-03-21T14:47:19-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -51,7 +64,73 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Felca se pronuncia sobre ECA Digital após receber críticas; veja vídeo",
+        "link": "https://roonoticias.com/o-influenciador-felca-se-pronunciou-nas-redes-sociais-apos-criticas/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-21T14:18:35-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Bombeiros resgatam pitbulls soltos e evitam risco em bairro de Alta Floresta; veja vídeo",
+        "link": "https://roonoticias.com/o-corpo-de-bombeiros-militar-de-mato-grosso-resgatou/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-21T14:27:11-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Carro na contramão atinge motoboy em cruzamento e causa acidente em Cuiabá; veja vídeo",
+        "link": "https://roonoticias.com/um-acidente-registrado-na-madrugada-desta-quinta-feira/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-21T14:32:33-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Mecânico fica com dedo preso em peça de caminhonete e aciona resgate em Curitiba; veja vídeo",
+        "link": "https://roonoticias.com/um-mecanico-passou-por-momentos-de-tensao-apos/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-21T14:39:33-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Memphis Depay é convocado pela Holanda para amistosos e pode desfalcar Corinthians",
+        "link": "https://roonoticias.com/a-selecao-da-holanda-anunciou-a-lista-de-convocados-para/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-21T14:56:32-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
