@@ -1,37 +1,11 @@
 {
-  "generated_at": "2026-03-22T10:29:38.549495-04:00",
+  "generated_at": "2026-03-22T11:02:01.533394-04:00",
   "window": {
-    "start": "2026-03-22T09:29:38.549495-04:00",
-    "end": "2026-03-22T10:29:38.549495-04:00"
+    "start": "2026-03-22T10:02:01.533394-04:00",
+    "end": "2026-03-22T11:02:01.533394-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
-      {
-        "title": "Familia é feita de refém dentro da própria casa em Tangará da Serra; veja vídeo",
-        "link": "https://perrenguematogrosso.com/familia-refem-dentro-da-propria-casa/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-22T09:57:58-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Após tirar a vida da ex-companheira com vários tiros, empresário se suicida; veja vídeos",
-        "link": "https://perrenguematogrosso.com/uma-ocorrencia-grave-foi-registrada-na-noite-deste-sabado-21-na-rua-cacu-no-setor-divino-espirito-santo-em-jatai-onde-o/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-03-22T10:00:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
       {
         "title": "Homem impede suicídio em Varzea Grande; veja vídeo",
         "link": "https://perrenguematogrosso.com/homem-impede-suicidio-em-varzea-grande-veja-video/",
@@ -44,50 +18,23 @@
         "category_ids": [
           16
         ]
-      }
-    ],
-    "afolhalivre": [
+      },
       {
-        "title": "Pitbull ataca e mata outro cachorro em via pública em Campo Verde; veja vídeo",
-        "link": "https://afolhalivre.com/um-ataque-envolvendo-um-pitbull-resultou-na-morte-de-outro-animal-e-gerou-forte-repercussao-entre-moradores-em-campo-verde-o-caso-ocorreu/",
+        "title": "Pai reage à prisão do filho e chora abraçado ao delegado durante ação policial; veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-pai-idoso-protagonizou-um-momento-de-forte-emocao-ao-abracar-um-delegado-da-policia-civil-apos-saber-que-a-equipe-prenderia/",
         "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T10:00:00-04:00",
+        "author_id": 292,
+        "published": "2026-03-22T11:00:00-04:00",
         "categories": [
-          "Primavera"
+          "Notícias"
         ],
         "category_ids": [
-          3032
+          5
         ]
       }
     ],
+    "afolhalivre": [],
     "omatogrossense": [
-      {
-        "title": "Familia é feita de refém dentro da própria casa em Tangará da Serra; veja vídeo",
-        "link": "https://omatogrossense.com/familia-e-feita-de-refem-dentro-da-propria-casa-em-tangara-da-serra-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-22T09:58:02-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Após tirar a vida da ex-companheira com vários tiros, empresário se suicida; veja vídeos",
-        "link": "https://omatogrossense.com/uma-ocorrencia-grave-foi-registrada-na-noite-deste-sabado-21-na-rua-cacu-no-setor-divino-espirito-santo-em-jatai-onde-o/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T10:00:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
       {
         "title": "Homem impede suicídio em Varzea Grande; veja vídeo",
         "link": "https://omatogrossense.com/homem-impede-suicidio-em-varzea-grande-veja-video/",
@@ -100,23 +47,22 @@
         "category_ids": [
           20
         ]
-      }
-    ],
-    "portalnortemt": [
+      },
       {
-        "title": "Bebê de 2 meses morre com sinais de violência em Sinop e pais são presos após versões contraditórias",
-        "link": "https://portalnortemt.com/um-bebe-de-apenas-2-meses-morreu-apos-dar-entrada-em-uma-unidade-basica-de-saude-no-bairro-menino-jesus-em-sinop-os/",
+        "title": "Pai reage à prisão do filho e chora abraçado ao delegado durante ação policial; veja vídeo",
+        "link": "https://omatogrossense.com/um-pai-idoso-protagonizou-um-momento-de-forte-emocao-ao-abracar-um-delegado-da-policia-civil-apos-saber-que-a-equipe-prenderia/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T09:59:00-04:00",
+        "published": "2026-03-22T11:00:00-04:00",
         "categories": [
-          "Sinop"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          3030
+          973
         ]
       }
     ],
+    "portalnortemt": [],
     "portalpantanalmt": [
       {
         "title": "Mulher é esfaqueada durante durante madrugada em Cáceres e suspeito foge após ataque",
@@ -132,21 +78,7 @@
         ]
       }
     ],
-    "roonoticias": [
-      {
-        "title": "Corpo amarrado e em decomposição é encontrado boiando no Rio Vermelho em Rondonopólis",
-        "link": "https://roonoticias.com/um-corpo-foi-encontrado-na-noite-de-sabado-21-na-regiao-rural-da-comunidade-miau-em-rondonopolis-apos-um-pescador-avistar-a-vitima/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T10:00:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
