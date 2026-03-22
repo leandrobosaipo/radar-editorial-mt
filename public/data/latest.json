@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-03-22T16:00:05.016220-04:00",
+  "generated_at": "2026-03-22T17:00:05.306957-04:00",
   "window": {
-    "start": "2026-03-22T15:00:05.016220-04:00",
-    "end": "2026-03-22T16:00:05.016220-04:00"
+    "start": "2026-03-22T16:00:05.306957-04:00",
+    "end": "2026-03-22T17:00:05.306957-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Motorista atropela cachorro e arrasta animal por mais de 1 km em Goiânia; testemunhas impedem fuga; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motorista-atropela-cachorro/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-22T15:03:33-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Influenciadora viraliza ao carregar pombo na bolsa e chama atenção nas redes; veja vídeo",
-        "link": "https://perrenguematogrosso.com/influenciadora-viraliza-ao-carregar-pombo-na-bolsa/",
+        "title": "Zé Felipe reage após críticas por flores a Virginia e Ana Castela durante show; veja vídeo",
+        "link": "https://perrenguematogrosso.com/ze-felipe-reage-apos-criticas/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-03-22T16:00:00-04:00",
+        "published": "2026-03-22T17:00:00-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,24 +23,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Motorista atropela cachorro e arrasta animal por mais de 1 km em Goiânia; testemunhas impedem fuga; veja vídeo",
-        "link": "https://omatogrossense.com/motorista-atropela-cachorro/",
+        "title": "Colisão entre caminhonete e carreta termina com morte na BR-163 em MT: veja vídeo",
+        "link": "https://omatogrossense.com/colisao-entre-caminhonete-e-carreta-termina-com-morte-na-br-163-em-mt-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-22T15:04:03-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Corpo com mãos e pés amarrados é encontrado em rio de Rondonópolis",
-        "link": "https://omatogrossense.com/corpo-com-maos-e-pes-amarrados-e-encontrado-em-rio-de-rondonopolis/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-22T16:00:00-04:00",
+        "published": "2026-03-22T17:00:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,11 +36,11 @@
         ]
       },
       {
-        "title": "VÍDEO: Influenciadora viraliza ao circular com ave de estimação em espaços públicos",
-        "link": "https://omatogrossense.com/influenciadora-viraliza-ao-circular-com-ave/",
+        "title": "VÍDEO: Zé Felipe se pronuncia após polêmica com flores para Virginia e Ana Castela em show",
+        "link": "https://omatogrossense.com/ze-felipe-se-pronuncia-apos-polemica/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-22T16:00:00-04:00",
+        "published": "2026-03-22T17:00:00-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -79,16 +53,42 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Cirurgia de separação avança e gêmeas siamesas seguem em recuperação na UTI; veja vídeo",
-        "link": "https://roonoticias.com/a-quarta-etapa-da-cirurgia-das-gemeas-siamesas-heloisa-e-helena/",
+        "title": "Cobra venenosa é resgatada dentro de casa",
+        "link": "https://roonoticias.com/uma-cobra-coral-foi-encontrada-dentro-de-uma-residencia/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-22T15:35:32-04:00",
+        "published": "2026-03-22T16:11:36-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
+        ]
+      },
+      {
+        "title": "Carro roda na pista após motorista furar preferencial; VEJA VÍDEO!",
+        "link": "https://roonoticias.com/cameras-de-seguranca-registraram-o-momento-em-que-2/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-22T16:39:20-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Como Gabigol virou 10 do Flamengo? Braz conta história e explica por que número de Zico não foi para Arrascaeta",
+        "link": "https://roonoticias.com/o-ex-dirigente-marcos-braz-comentou-de-forma-direta-a-escolha/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-22T16:49:50-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ]
