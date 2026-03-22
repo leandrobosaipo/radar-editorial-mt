@@ -1,47 +1,35 @@
 {
-  "generated_at": "2026-03-22T12:09:05.840553-04:00",
+  "generated_at": "2026-03-22T14:11:42.761292-04:00",
   "window": {
-    "start": "2026-03-22T11:09:05.840553-04:00",
-    "end": "2026-03-22T12:09:05.840553-04:00"
+    "start": "2026-03-22T13:11:42.761292-04:00",
+    "end": "2026-03-22T14:11:42.761292-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Homem morre em acidente envolvendo camionete e caminhão na BR-163 em Itaúba; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-morre-acidente-br/",
+        "title": "Homem tenta matar esposa a pauladas em Varzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-tenta-matar-esposa-a-pauladas-em-varzea-grande-veja-video/",
         "author": "Victor Hugo Moreira do Nascimento",
         "author_id": 293,
-        "published": "2026-03-22T11:21:26-04:00",
+        "published": "2026-03-22T14:01:27-04:00",
         "categories": [
+          "Notícias",
           "Vovô de Olho"
         ],
         "category_ids": [
+          5,
           16
         ]
       }
     ],
-    "afolhalivre": [
-      {
-        "title": "Homem ameaça policiais, resiste à abordagem e é preso após confronto em Campo Verde",
-        "link": "https://afolhalivre.com/a-policia-militar-prendeu-um-homem-de-30-anos-na-madrugada-deste-sabado-21-apos-ele-ameacar-policiais-e-resistir-a-uma-abordagem-no/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T11:59:00-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Homem morre em acidente envolvendo camionete e caminhão na BR-163 em Itaúba; veja vídeo",
-        "link": "https://omatogrossense.com/homem-morre-em-acidente/",
+        "title": "Homem tenta matar esposa a pauladas em Varzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/homem-tenta-matar-esposa-a-pauladas-em-varzea-grande-veja-video/",
         "author": "Victor Hugo Moreira do Nascimento",
         "author_id": 28,
-        "published": "2026-03-22T11:21:23-04:00",
+        "published": "2026-03-22T14:01:24-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -50,48 +38,33 @@
         ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Cirurgia inédita faz moradora de Sinop recuperar autonomia após 20 anos de limitação",
-        "link": "https://portalnortemt.com/o-hospital-regional-de-sinop-realizou-pela-primeira-vez-no-sistema-unico-de-saude-em-mato-grosso-uma-cirurgia-de-alta-complexidade/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T11:59:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "Homem morre após dias internado depois de agressão com pauladas em Cáceres",
-        "link": "https://portalpantanalmt.com/um-homem-de-39-anos-morreu-na-manha-deste-sabado-21-no-hospital-regional-de-caceres-apos-permanecer-internado-por-quase-duas-semanas/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T12:00:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Aúdio de líder ligado a facção em Rondonópolis expõe ameaças e recrutamento; veja vídeo",
-        "link": "https://roonoticias.com/interceptacoes-telefonicas-realizadas-durante-investigacoes-da-policia-civil-revelam-a-atuacao-violenta-do-comando-vermelho-faccao-com-forte/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T11:58:00-04:00",
+        "title": "Pitbull mata outro animal em bairro residencial e moradores denunciam insegurança em Campo Verde; veja vídeo",
+        "link": "https://roonoticias.com/um-cao-da-raca-pitbull-atacou-e-matou-outro-animal-em-um-bairro-residencial/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-22T13:31:36-04:00",
         "categories": [
-          "Rondonópolis"
+          "MT Notícias"
         ],
         "category_ids": [
-          3118
+          20
+        ]
+      },
+      {
+        "title": "Criminosos invadem buffet, rendem funcionários e roubam pertences em Várzea Grande; veja vídeo",
+        "link": "https://roonoticias.com/cameras-de-seguranca-flagraram-criminosos-invadindo-um-buffet/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-22T13:52:35-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
         ]
       }
     ]
