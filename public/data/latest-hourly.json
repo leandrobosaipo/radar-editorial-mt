@@ -1,165 +1,23 @@
 {
-  "generated_at": "2026-03-23T16:00:05.440453-04:00",
+  "generated_at": "2026-03-23T17:19:10.579861-04:00",
   "window": {
-    "start": "2026-03-23T15:00:05.440453-04:00",
-    "end": "2026-03-23T16:00:05.440453-04:00"
+    "start": "2026-03-23T16:19:10.579861-04:00",
+    "end": "2026-03-23T17:19:10.579861-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Câmera registra momento em que motorista atropela segunda vítima em Itaúba antes de acidente na BR-163; veja vídeo",
-        "link": "https://perrenguematogrosso.com/momento-motorista-atropela-vitima-br-163-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-23T15:13:45-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Câmara de Cuiabá reabre com novo visual e tecnologia chama atenção no plenário; veja vídeo",
-        "link": "https://perrenguematogrosso.com/camara-de-cuiaba-reabre-com-novo-visual-e-tecnologia-chama-atencao-no-plenario-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-23T15:53:25-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/328359-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-23T15:54:15-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Cuiabá empata na estreia e amplia crise: Dourado chega a cinco jogos sem vitória",
-        "link": "https://perrenguematogrosso.com/cuiaba-empata-na-estreia-e-amplia-crise-dourado-chega-a-cinco-jogos-sem-vitoria/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-23T15:58:50-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Vídeo mostra momento em que motorista atropela segunda vítima em Itaúba antes de acidente na BR-163; veja vídeo",
-        "link": "https://omatogrossense.com/video-momento-segunda-vitima-itauba-br-163-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-23T15:14:54-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Câmara de Cuiabá reabre com novo visual e tecnologia chama atenção no plenário; veja vídeo",
-        "link": "https://omatogrossense.com/camara-de-cuiaba-reabre-com-novo-visual-e-tecnologia-chama-atencao-no-plenario-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-23T15:54:06-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": ",",
-        "link": "https://omatogrossense.com/135546-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-23T15:54:10-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Botafogo demite técnico Martín Anselmi após vitória contra o Bragantino",
-        "link": "https://roonoticias.com/o-botafogo-anunciou-a-saida-do-tecnico-martin-anselmi-neste/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-23T15:54:19-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
