@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-23T18:01:16.067289-04:00",
+  "generated_at": "2026-03-23T19:00:05.322077-04:00",
   "window": {
-    "start": "2026-03-23T17:01:16.067289-04:00",
-    "end": "2026-03-23T18:01:16.067289-04:00"
+    "start": "2026-03-23T18:00:05.322077-04:00",
+    "end": "2026-03-23T19:00:05.322077-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Motociclista morre ao invadir pista contrária e bater de frente com Jeep em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motociclista-morre-pista-contraria-jeep-cuiaba-video/",
+        "title": "Polícia Civil detém biólogo e apreende animais exóticos criados ilegalmente dentro de casa em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/biologo-apreende-animais-exoticos-casa-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-23T17:14:42-04:00",
+        "published": "2026-03-23T18:05:08-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,40 +20,40 @@
         ]
       },
       {
-        "title": "União reforça defesa com promessa ex-Cuiabá e destaque do futebol mato-grossense",
-        "link": "https://perrenguematogrosso.com/uniao-reforca-defesa-com-promessa-ex-cuiaba/",
+        "title": "Senado barra corte de 50% nos salários de políticos e decisão eleva tensão após pressão popular",
+        "link": "https://perrenguematogrosso.com/senado-barra-corte-de-50-nos-salarios-de-politicos-e-decisao-eleva-tensao-apos-pressao-popular/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-23T18:50:09-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Seleção Brasileira finaliza grupo nos EUA e ajusta equipe para amistosos contra França e Croácia; veja vídeo",
+        "link": "https://perrenguematogrosso.com/selecao-brasileira-finaliza-grupo-nos-eua/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-03-23T17:51:19-04:00",
+        "published": "2026-03-23T18:53:19-04:00",
         "categories": [
           "Esporte"
         ],
         "category_ids": [
           509
         ]
-      },
-      {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/328406-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-23T17:59:50-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Motociclista morre após acidente com carro ao tentar ultrapassagem em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/motociclista-morre-acidente-carro-cuiaba-video/",
+        "title": "Biólogo é alvo de operação após polícia encontrar animais silvestres irregulares em residência de Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/biologo-operacao-animais-silvestres-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-23T17:14:44-04:00",
+        "published": "2026-03-23T18:05:11-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,62 +62,35 @@
         ]
       },
       {
-        "title": "Cuiabá empata na estreia da Série B, amplia jejum e chega a cinco jogos sem vitória",
-        "link": "https://omatogrossense.com/cuiaba-empata-na-estreia-da-serie-b/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-23T17:41:19-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "União contrata zagueiro ex-Cuiabá e lateral campeão estadual para reforçar defesa",
-        "link": "https://omatogrossense.com/uniao-contrata-zagueiro-ex-cuiaba/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-23T17:56:40-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://omatogrossense.com/135597-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-23T17:59:38-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Ministros têm futuro incerto antes de prazo final para deixar governo",
-        "link": "https://roonoticias.com/cerca-de-20-ministros-do-governo-do-presidente-luiz-inacio/",
-        "author": "Valiatt Arruda",
+        "title": "Senado barra corte de 50% nos salários de políticos e decisão eleva tensão após pressão popular",
+        "link": "https://omatogrossense.com/senado-barra-corte-de-50-nos-salarios-de-politicos-e-decisao-eleva-tensao-apos-pressao-popular/",
+        "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-23T17:02:03-04:00",
+        "published": "2026-03-23T18:51:13-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "VÍDEO: Seleção Brasileira encerra apresentação nos EUA para amistosos contra França e Croácia",
+        "link": "https://omatogrossense.com/selecao-brasileira-encerra-apresentacao-nos-eua/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-23T18:58:16-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
       }
-    ]
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
