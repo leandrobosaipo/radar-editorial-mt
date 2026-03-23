@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-22T14:11:42.756912-04:00",
+  "generated_at": "2026-03-23T14:00:06.394172-04:00",
   "window": {
-    "start": "2026-03-22T00:00:00-04:00",
-    "end": "2026-03-22T14:00:00-04:00"
+    "start": "2026-03-23T00:00:00-04:00",
+    "end": "2026-03-23T14:00:00-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Preso se despede da mãe sob escolta e cena expõe lado humano do sistema prisional; veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-detento-autorizado-pela-justica-participou-do-velorio-da-propria-mae-e-protagonizou-uma-cena-de-forte-comocao/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-03-22T07:54:43-04:00",
+        "title": "Caso de crianças desaparecidas ganha nova reviravolta após mãe abrir o jogo em desabafo; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/desaparecimento-misterio-e-angustia/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-23T08:17:16-04:00",
         "categories": [
           "Notícias"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "Mulher é presa por tráfico na própria casa em Tangará da Serra; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-e-presa-por-trafico-na-propria-casa-em-tangara-da-serra-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-22T08:58:57-04:00",
+        "title": "GAP desmonta esquema de tráfico, apreende drogas e prende nove suspeitos em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/gap-desmonta-esquema-trafico-varzea-grande-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-23T08:22:23-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,115 +33,37 @@
         ]
       },
       {
-        "title": "Prédio desaba durante incêndio e bombeiros escapam por segundos de tragédia; veja vídeos",
-        "link": "https://perrenguematogrosso.com/um-incendio-de-grandes-proporcoes-provocou-momentos-de-tensao-na-noite-deste-sabado-21-no-centro-de-porto-velho-e/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-03-22T09:00:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Familia é feita de refém dentro da própria casa em Tangará da Serra; veja vídeo",
-        "link": "https://perrenguematogrosso.com/familia-refem-dentro-da-propria-casa/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-22T09:57:58-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Após tirar a vida da ex-companheira com vários tiros, empresário se suicida; veja vídeos",
-        "link": "https://perrenguematogrosso.com/uma-ocorrencia-grave-foi-registrada-na-noite-deste-sabado-21-na-rua-cacu-no-setor-divino-espirito-santo-em-jatai-onde-o/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-03-22T10:00:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Homem tenta tirar a própria vida na Ponte Sarita Baracat em Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-impede-suicidio-em-varzea-grande-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-22T10:26:25-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Pai reage à prisão do filho e chora abraçado ao delegado durante ação policial; veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-pai-idoso-protagonizou-um-momento-de-forte-emocao-ao-abracar-um-delegado-da-policia-civil-apos-saber-que-a-equipe-prenderia/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-03-22T11:00:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Homem morre em acidente envolvendo camionete e caminhão na BR-163 em Itaúba; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-morre-acidente-br/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-22T11:21:26-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Homem viraliza vídeo cantando com a casa alagada em Indiavaí; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-viraliza-video-cantando-com-a-casa-alagada-em-indiavai-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-22T12:22:24-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Israel ataca ponte estratégica no Líbano e amplia ofensiva contra o Hezbollah na região; veja vídeo",
-        "link": "https://perrenguematogrosso.com/israel-ataca-ponte-estrategica/",
+        "title": "Gisela Simona declara apoio e reforça Pivetta como sucessor natural em Mato Grosso; veja vídeo",
+        "link": "https://perrenguematogrosso.com/gisela-simona-declara-apoio/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-22T12:30:04-04:00",
+        "published": "2026-03-23T08:24:14-04:00",
         "categories": [
-          "Notícias"
+          "Política"
         ],
         "category_ids": [
-          5
+          510
         ]
       },
       {
-        "title": "Confusão em bar termina em briga em Lucas do Rio Verde; veja vídeo",
-        "link": "https://perrenguematogrosso.com/confusao-em-bar-termina-em-briga-em-lucas-do-rio-verde-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-22T13:04:52-04:00",
+        "title": "“Diesel virou caviar” Vídeo de José Medeiros com crítica ao preço do combustível explode nas redes; veja vídeo",
+        "link": "https://perrenguematogrosso.com/diesel-virou-caviar/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-23T09:06:09-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Paciente agride enfermeiro durante atendimento e acaba preso por mandado em aberto em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/paciente-agride-enfermeiro-preso-mt-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-23T09:06:11-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -150,26 +72,182 @@
         ]
       },
       {
-        "title": "“Minha cachorra morreu!” tutor desabafa após suspeita de envenenamento e caso comove moradores; veja vídeo",
-        "link": "https://perrenguematogrosso.com/minha-cachorra-morreu/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-22T13:09:44-04:00",
+        "title": "Meninos desaparecidos são encontrados mortos dentro de carro; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/328252-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-23T09:57:32-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
+        ]
+      },
+      {
+        "title": "Ataque criminoso destrói ambulâncias e assusta moradores; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/328269-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-23T10:53:30-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "“Pacote bilionário” Mauro Mendes lista obras e acelera ritmo de entregas em Mato Grosso; veja vídeo",
+        "link": "https://perrenguematogrosso.com/328273-2/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-23T10:57:47-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "CIOPAER e Polícia Militar localizam veículo furtado escondido em área de mata em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/ciopaer-policia-localizam-veiculo-furtado-mata-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-23T11:07:23-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Avião colide com caminhão de bombeiros e deixa pilotos mortos; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/328285-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-23T11:56:15-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Travada no partido: Michelly Alencar expõe impasse no União Brasil e corre contra o tempo por 2026; veja vídeo",
+        "link": "https://perrenguematogrosso.com/travada-no-partido-michelly-alencar-expoe-impasse-no-uniao-brasil-e-corre-contra-o-tempo-por-2026-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-23T11:56:19-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Homem é preso em flagrante após agredir companheira com paulada na cabeça em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-preso-companheira-paulada-cabeca-varzea-grande-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-23T11:57:01-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Presidente do Cuiabá é denunciado por ameaças à arbitragem após estreia na Série B",
+        "link": "https://perrenguematogrosso.com/presidente-do-cuiaba-e-denunciado-por-ameacas/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-23T12:36:15-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Prefeito quebra cocho com marreta e ato simbólico vira alvo de questionamentos em MG; veja vídeo",
+        "link": "https://perrenguematogrosso.com/prefeito-quebra-cocho-com-marreta-e-ato-simbolico-vira-alvo-de-questionamentos-em-mg-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-23T12:49:45-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Influenciador tenta atacar Orochi com gelo e termina ferido em boate; veja o vídeo",
+        "link": "https://perrenguematogrosso.com/uma-briga-violenta-foi-registrad/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-23T12:53:34-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Motorista que morreu em acidente é suspeito de atropelar jovem e colocá-la no carro antes de invadir contramão na BR-163; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motorista-que-morreu-em-acidente-e-suspeito-de-atropelar-jovem-e-coloca-la-no-carro-antes-de-invadir-contramao-na-br-163-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-23T13:39:49-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Falha elétrica provoca incêndios e deixa rastro de prejuízos em cidade; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/328321-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-23T13:47:55-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Mixto vence o Botafogo no Dutrinha e conquista vitória inédita na elite do Brasileirão Feminino; veja os gols",
+        "link": "https://perrenguematogrosso.com/mixto-vence-o-botafogo-no-dutrinha/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-23T13:50:13-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
         ]
       }
     ],
     "afolhalivre": [
       {
-        "title": "PM flagra tráfico, prende suspeito reincidente e desmonta ponto de drogas em Paranatinga",
-        "link": "https://afolhalivre.com/a-policia-militar-conduziu-um-homem-de-23-anos-por-trafico-de-drogas-e-desarticulou-mais-um-ponto-de-venda-no-bairro-jardim-italia/",
+        "title": "Festa tradicional da APAE em Primavera do Leste reúne comunidade com sabores típicos e causa solidária",
+        "link": "https://afolhalivre.com/a-solidariedade-e-o-espirito-comunitario-ganham-destaque-em-primavera-do-leste-com-a-realizacao-da-14a-festa-do-milho-da-apae-um-dos-eventos/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T08:00:00-04:00",
+        "published": "2026-03-23T07:53:00-04:00",
         "categories": [
           "Primavera"
         ],
@@ -178,11 +256,11 @@
         ]
       },
       {
-        "title": "Pitbull ataca e mata outro cachorro em via pública em Campo Verde; veja vídeo",
-        "link": "https://afolhalivre.com/um-ataque-envolvendo-um-pitbull-resultou-na-morte-de-outro-animal-e-gerou-forte-repercussao-entre-moradores-em-campo-verde-o-caso-ocorreu/",
+        "title": "MP aponta quase 600 falhas em rodovia entre Primavera do Leste e Paranatinga e impõe prazo curto sob risco de multa diária",
+        "link": "https://afolhalivre.com/o-ministerio-publico-de-mato-grosso-identificou-cerca-de-570-irregularidades-na-mt-130-no-trecho-entre-primavera-do-leste-e-paranatinga-e-det/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T10:00:00-04:00",
+        "published": "2026-03-23T09:54:00-04:00",
         "categories": [
           "Primavera"
         ],
@@ -191,11 +269,24 @@
         ]
       },
       {
-        "title": "Homem ameaça policiais, resiste à abordagem e é preso após confronto em Campo Verde",
-        "link": "https://afolhalivre.com/a-policia-militar-prendeu-um-homem-de-30-anos-na-madrugada-deste-sabado-21-apos-ele-ameacar-policiais-e-resistir-a-uma-abordagem-no/",
+        "title": "Comunidade decide futuro de escola em Primavera do Leste com votação sobre modelo cívico-militar; veja vídeo",
+        "link": "https://afolhalivre.com/a-comunidade-escolar-de-primavera-do-leste-participara/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T11:59:00-04:00",
+        "published": "2026-03-23T11:56:23-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Denúncia de som alto termina com prisão por tráfico em Primavera do Leste",
+        "link": "https://afolhalivre.com/a-policia-militar-de-mato-grosso-prendeu-um-homem-suspeito-de-trafico-de-drogas-apos-uma-ocorrencia-registrada-em-primavera-do-leste/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-23T11:59:00-04:00",
         "categories": [
           "Primavera"
         ],
@@ -206,11 +297,11 @@
     ],
     "omatogrossense": [
       {
-        "title": "Preso se despede da mãe sob escolta e cena expõe lado humano do sistema prisional; veja vídeo",
-        "link": "https://omatogrossense.com/um-detento-autorizado-pela-justica-participou-do-velorio-da-propria-mae-e-protagonizou-uma-cena-de-forte-comocao-que-rapidamente/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T07:54:33-04:00",
+        "title": "Caso de crianças desaparecidas ganha nova reviravolta com desabafo forte da mãe: ‘se as pessoas soubessem…’",
+        "link": "https://omatogrossense.com/desaparecimento-angustia-e-misterio/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-23T08:17:10-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -219,24 +310,11 @@
         ]
       },
       {
-        "title": "Prédio desaba durante incêndio e bombeiros escapam por segundos de tragédia; veja vídeos",
-        "link": "https://omatogrossense.com/um-incendio-de-grandes-proporcoes-provocou-momentos-de-tensao-na-noite-deste-sabado-21-no-centro-de-porto-velho-e/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T09:00:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Mulher é presa por tráfico na própria casa em Tangará da Serra; veja vídeo",
-        "link": "https://omatogrossense.com/mulher-e-presa-por-trafico-na-propria-casa-em-tangara-da-serra-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-22T09:03:24-04:00",
+        "title": "GAP flagra laboratório de drogas, apreende entorpecentes e prende nove em VG; veja vídeo",
+        "link": "https://omatogrossense.com/gap-flagra-laboratorio-drogas-vg-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-23T08:22:48-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -245,102 +323,24 @@
         ]
       },
       {
-        "title": "Familia é feita de refém dentro da própria casa em Tangará da Serra; veja vídeo",
-        "link": "https://omatogrossense.com/familia-e-feita-de-refem-dentro-da-propria-casa-em-tangara-da-serra-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-22T09:58:02-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Após tirar a vida da ex-companheira com vários tiros, empresário se suicida; veja vídeos",
-        "link": "https://omatogrossense.com/uma-ocorrencia-grave-foi-registrada-na-noite-deste-sabado-21-na-rua-cacu-no-setor-divino-espirito-santo-em-jatai-onde-o/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T10:00:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Homem tenta tirar a própria vida na Ponte Sarita Baracat em Várzea Grande; veja vídeo",
-        "link": "https://omatogrossense.com/homem-impede-suicidio-em-varzea-grande-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-22T10:26:23-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Pai reage à prisão do filho e chora abraçado ao delegado durante ação policial; veja vídeo",
-        "link": "https://omatogrossense.com/um-pai-idoso-protagonizou-um-momento-de-forte-emocao-ao-abracar-um-delegado-da-policia-civil-apos-saber-que-a-equipe-prenderia/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-22T11:00:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Homem morre em acidente envolvendo camionete e caminhão na BR-163 em Itaúba; veja vídeo",
-        "link": "https://omatogrossense.com/homem-morre-em-acidente/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-22T11:21:23-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Homem viraliza vídeo cantando com a casa alagada em Indiavaí; veja vídeo",
-        "link": "https://omatogrossense.com/homem-viraliza-video-cantando-com-a-casa-alagada-em-indiavai-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-22T12:22:26-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Israel ataca ponte estratégica no Líbano e amplia ofensiva contra o Hezbollah na região; veja vídeo",
-        "link": "https://omatogrossense.com/israel-ataca-ponte-estrategica/",
+        "title": "Gisela Simona declara apoio e reforça Pivetta como sucessor natural em Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/gisela-simona-declara-apoio/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-22T12:30:16-04:00",
+        "published": "2026-03-23T08:24:19-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Política"
         ],
         "category_ids": [
-          973
+          5
         ]
       },
       {
-        "title": "Confusão em bar termina em briga em Lucas do Rio Verde; veja vídeo",
-        "link": "https://omatogrossense.com/confusao-em-bar-termina-em-briga-em-lucas-do-rio-verde-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-22T13:04:52-04:00",
+        "title": "Paciente agride enfermeiro e termina preso por mandado em aberto em Pontes e Lacerda; veja vídeo",
+        "link": "https://omatogrossense.com/paciente-agride-enfermeiro-preso-mandado-pontes-lacerda/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-23T09:06:14-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -349,26 +349,195 @@
         ]
       },
       {
-        "title": "“Minha cachorra morreu!” tutor desabafa após suspeita de envenenamento e caso comove moradores; veja vídeo",
-        "link": "https://omatogrossense.com/minha-cachorra-morreu/",
+        "title": "“Diesel virou caviar” Vídeo de José Medeiros com crítica ao preço do combustível explode nas redes; veja vídeo",
+        "link": "https://omatogrossense.com/diesel-virou-caviar/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-22T13:10:23-04:00",
+        "published": "2026-03-23T09:06:15-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Primos desaparecidos são achados sem vida em carro; Veja vídeo",
+        "link": "https://omatogrossense.com/135448-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-23T09:57:27-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
+        ]
+      },
+      {
+        "title": "Incêndio criminoso destrói ambulâncias; Veja vídeo",
+        "link": "https://omatogrossense.com/135463-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-23T10:44:10-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "“Pacote bilionário” Mauro Mendes lista obras e acelera ritmo de entregas em Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/135467-2/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-23T10:59:31-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "CIOPAER e Polícia Militar recuperam veículo furtado após buscas em área de mata em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/ciopaer-policia-recuperam-veiculo-furtado-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-23T11:06:22-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Travada no partido: Michelly Alencar expõe impasse no União Brasil e corre contra o tempo por 2026; veja vídeo",
+        "link": "https://omatogrossense.com/travada-no-partido-michelly-alencar-expoe-impasse-no-uniao-brasil-e-corre-contra-o-tempo-por-2026-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-23T11:56:29-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem ataca companheira durante discussão e é preso após deixar vítima desacordada em VG; veja vídeo",
+        "link": "https://omatogrossense.com/homem-ataca-companheira-vitima-desacordada-vg-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-23T11:58:59-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Avião atinge caminhão, deixa pilotos mortos e dezenas feridos; Veja vídeo",
+        "link": "https://omatogrossense.com/135476-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-23T11:59:08-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Prefeito quebra cocho com marreta e ato simbólico vira alvo de questionamentos em MG; veja vídeo",
+        "link": "https://omatogrossense.com/prefeito-quebra-cocho-com-marreta-e-ato-simbolico-vira-alvo-de-questionamentos-em-mg-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-23T12:49:48-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Influenciador é brutalmente agredido por Orochi e sai ferido da boate; Veja vídeo",
+        "link": "https://omatogrossense.com/uma-confusao-intensa-foi-registrada/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-23T12:53:55-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Presidente do Cuiabá é denunciado por ameaças a árbitros após jogo na Arena Pantanal",
+        "link": "https://omatogrossense.com/presidente-do-cuiaba-e-denunciado/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-23T13:03:35-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Motorista que morreu na BR-163 é suspeito de atropelar jovem e colocá-la no banco traseiro antes de acidente; veja vídeo",
+        "link": "https://omatogrossense.com/motorista-morreu-br-163-atropelar-jovem-acidente-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-23T13:39:42-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Padrões de energia pegam fogo e moradores relatam grandes prejuízos; Veja vídeo",
+        "link": "https://omatogrossense.com/135507-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-23T13:48:07-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Mixto vence o Botafogo no Dutrinha e conquista primeira vitória na elite do Brasileiro Feminino; veja os gols",
+        "link": "https://omatogrossense.com/mixto-vence-o-botafogo-no-dutrinha-e-conquista-primeira-vitoria-na-elite-do-brasileiro-feminino-veja-os-gols/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-23T13:59:59-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ],
     "portalnortemt": [
       {
-        "title": "Força Tática prende casal com arsenal de munições e drogas em Sorriso; veja vídeo",
-        "link": "https://portalnortemt.com/a-policia-militar-de-mato-grosso-prendeu-um-homem-de-38-anos-e-uma-mulher-de-25-durante-uma-acao-contra-o-trafico-de-drogas-realizada-no/",
+        "title": "Acidente entre carro e carreta termina com morte na BR-163 em Sorriso",
+        "link": "https://portalnortemt.com/um-grave-acidente-mobilizou-equipes-de-resgate-nas-primeiras-horas-deste-domingo-na-br-163-em-sorriso-e-resultou-na-morte-de-um/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T08:02:00-04:00",
+        "published": "2026-03-23T07:59:00-04:00",
         "categories": [
           "Sinop"
         ],
@@ -377,11 +546,11 @@
         ]
       },
       {
-        "title": "Bebê de 2 meses morre com sinais de violência em Sinop e pais são presos após versões contraditórias",
-        "link": "https://portalnortemt.com/um-bebe-de-apenas-2-meses-morreu-apos-dar-entrada-em-uma-unidade-basica-de-saude-no-bairro-menino-jesus-em-sinop-os/",
+        "title": "Violência dentro de casa termina com mulher ferida e filho agredido em Lucas do Rio Verde",
+        "link": "https://portalnortemt.com/uma-ocorrencia-de-violencia-domestica-mobilizou-a-policia-militar-na-madrugada-deste-domingo-22-em-lucas-do-rio-verde-no-bairro-jardim/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T09:59:00-04:00",
+        "published": "2026-03-23T09:59:00-04:00",
         "categories": [
           "Sinop"
         ],
@@ -390,11 +559,11 @@
         ]
       },
       {
-        "title": "Cirurgia inédita faz moradora de Sinop recuperar autonomia após 20 anos de limitação",
-        "link": "https://portalnortemt.com/o-hospital-regional-de-sinop-realizou-pela-primeira-vez-no-sistema-unico-de-saude-em-mato-grosso-uma-cirurgia-de-alta-complexidade/",
+        "title": "Polícia aborda veículo após denúncia e encontra arma carregada em Sorriso; veja vídeo",
+        "link": "https://portalnortemt.com/uma-acao-da-policia-militar-resultou-na-apreensao-de-uma-arma-de-fogo-durante-a-operacao-tolerancia-zero-em-sorriso-apos-uma-denuncia/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T11:59:00-04:00",
+        "published": "2026-03-23T11:57:00-04:00",
         "categories": [
           "Sinop"
         ],
@@ -405,11 +574,11 @@
     ],
     "portalpantanalmt": [
       {
-        "title": "Paciente agride enfermeiro em hospital de Pontes e Lacerda e acaba preso pela Polícia Militar",
-        "link": "https://portalpantanalmt.com/uma-ocorrencia-de-violencia-mobilizou-a-policia-militar-na-noite-deste-sabado-21-em-pontes-e-lacerda-apos-um-homem-agredir-um-enfermeiro/",
+        "title": "Homem com mandado em aberto é preso durante patrulhamento em Cáceres",
+        "link": "https://portalpantanalmt.com/durante-a-madrugada-deste-domingo-22-a-policia-militar-intensificou-o-patrulhamento-ostensivo-em-caceres-e-enquanto-realizava-rondas-pela-m/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T08:00:00-04:00",
+        "published": "2026-03-23T08:00:00-04:00",
         "categories": [
           "Cáceres"
         ],
@@ -418,11 +587,11 @@
         ]
       },
       {
-        "title": "Mulher é esfaqueada durante durante madrugada em Cáceres e suspeito foge após ataque",
-        "link": "https://portalpantanalmt.com/a-policia-militar-atendeu-uma-ocorrencia-de-tentativa-de-homicidio-na-madrugada-deste-sabado-21-por-volta-das-03h-apos-um-homem-esfaquear/",
+        "title": "Motociclista fica ferido durante colisão entre carro e moto em Cáceres; veja vídeo",
+        "link": "https://portalpantanalmt.com/um-acidente-envolvendo-um-toyota-yaris-e-uma-motocicleta-mobilizou-moradores-e-equipes-de-resgate-no-inicio-da-noite-deste-domingo-22-na-a/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T10:03:00-04:00",
+        "published": "2026-03-23T09:57:00-04:00",
         "categories": [
           "Cáceres"
         ],
@@ -431,11 +600,11 @@
         ]
       },
       {
-        "title": "Homem morre após dias internado depois de agressão com pauladas em Cáceres",
-        "link": "https://portalpantanalmt.com/um-homem-de-39-anos-morreu-na-manha-deste-sabado-21-no-hospital-regional-de-caceres-apos-permanecer-internado-por-quase-duas-semanas/",
+        "title": "Mulher é vitíma de tentativa de feminicídio em Cáceres e suspeito foge após ataque a facadas",
+        "link": "https://portalpantanalmt.com/uma-tentativa-de-feminicidio-mobilizou-forcas-de-seguranca-na-madrugada-deste-sabado-21-no-bairro-garcez-em-caceres-apos-uma-mulher-de-35/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T12:00:00-04:00",
+        "published": "2026-03-23T11:56:00-04:00",
         "categories": [
           "Cáceres"
         ],
@@ -446,11 +615,11 @@
     ],
     "roonoticias": [
       {
-        "title": "Homem agride mãe, descumpre medida protetiva e evacua nas roupas antes de ser preso em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/a-policia-militar-prendeu-um-homem-em-flagrante-apos-ele-agredir-a-propria-mae-descumprir-uma-medida-protetiva-e-protagonizar-uma-cena/",
+        "title": "Carro destrói proteção de viaduto e motor se solta após impacto contra estrutura em Rondonopólis",
+        "link": "https://roonoticias.com/um-motorista-ficou-ferido-apos-perder-o-controle-do-veiculo-e-colidir-violentamente-contra-a-estrutura-de-protecao-no-viaduto-da-avenida-pre/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T08:00:00-04:00",
+        "published": "2026-03-23T08:00:00-04:00",
         "categories": [
           "Rondonópolis"
         ],
@@ -459,11 +628,11 @@
         ]
       },
       {
-        "title": "Corpo amarrado e em decomposição é encontrado boiando no Rio Vermelho em Rondonopólis",
-        "link": "https://roonoticias.com/um-corpo-foi-encontrado-na-noite-de-sabado-21-na-regiao-rural-da-comunidade-miau-em-rondonopolis-apos-um-pescador-avistar-a-vitima/",
+        "title": "Motorista perde controle em curva e bate contra árvore na MT-383 em Rondonopólis",
+        "link": "https://roonoticias.com/um-homem-de-35-anos-ficou-ferido-apos-perder-o-controle-do-veiculo-e-colidir-contra-uma-arvore-na-rodovia-tres-pontes-na-mt-383/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T10:00:00-04:00",
+        "published": "2026-03-23T10:00:00-04:00",
         "categories": [
           "Rondonópolis"
         ],
@@ -472,11 +641,11 @@
         ]
       },
       {
-        "title": "Aúdio de líder ligado a facção em Rondonópolis expõe ameaças e recrutamento; veja vídeo",
-        "link": "https://roonoticias.com/interceptacoes-telefonicas-realizadas-durante-investigacoes-da-policia-civil-revelam-a-atuacao-violenta-do-comando-vermelho-faccao-com-forte/",
+        "title": "Homem invade casa da ex e ataca vítima com faca durante a madrugada em Rondonópolis",
+        "link": "https://roonoticias.com/uma-mulher-de-29-anos-ficou-ferida-apos-o-ex-companheiro-invadir-sua-residencia-e-tentar-ataca-la-com-uma-faca-na-madrugada-deste-domingo/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-22T11:58:00-04:00",
+        "published": "2026-03-23T11:53:00-04:00",
         "categories": [
           "Rondonópolis"
         ],
@@ -485,29 +654,16 @@
         ]
       },
       {
-        "title": "Pitbull mata outro animal em bairro residencial e moradores denunciam insegurança em Campo Verde; veja vídeo",
-        "link": "https://roonoticias.com/um-cao-da-raca-pitbull-atacou-e-matou-outro-animal-em-um-bairro-residencial/",
+        "title": "Prefeito que contratou empresa com endereço de sua casa: “Perseguição”",
+        "link": "https://roonoticias.com/o-prefeito-de-cavalcante-vilmar-souza-costa/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-22T13:31:36-04:00",
+        "published": "2026-03-23T12:08:27-04:00",
         "categories": [
-          "MT Notícias"
+          "Política"
         ],
         "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Criminosos invadem buffet, rendem funcionários e roubam pertences em Várzea Grande; veja vídeo",
-        "link": "https://roonoticias.com/cameras-de-seguranca-flagraram-criminosos-invadindo-um-buffet/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-22T13:52:35-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
+          5
         ]
       }
     ]
