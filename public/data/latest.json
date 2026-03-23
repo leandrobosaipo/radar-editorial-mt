@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-23T11:00:05.388470-04:00",
+  "generated_at": "2026-03-23T12:00:05.435961-04:00",
   "window": {
-    "start": "2026-03-23T10:00:05.388470-04:00",
-    "end": "2026-03-23T11:00:05.388470-04:00"
+    "start": "2026-03-23T11:00:05.435961-04:00",
+    "end": "2026-03-23T12:00:05.435961-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Jovens caem de moto após abordagem da Polícia Militar durante manobras perigosas em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/jovens-caem-moto-abordagem-policia-cuiaba-video/",
+        "title": "CIOPAER e Polícia Militar localizam veículo furtado escondido em área de mata em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/ciopaer-policia-localizam-veiculo-furtado-mata-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-23T10:08:51-04:00",
+        "published": "2026-03-23T11:07:23-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/328269-2/",
+        "title": ",",
+        "link": "https://perrenguematogrosso.com/328285-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-23T10:53:30-04:00",
+        "published": "2026-03-23T11:56:15-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,27 +33,54 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/328273-2/",
+        "title": "Travada no partido: Michelly Alencar expõe impasse no União Brasil e corre contra o tempo por 2026; veja vídeo",
+        "link": "https://perrenguematogrosso.com/travada-no-partido-michelly-alencar-expoe-impasse-no-uniao-brasil-e-corre-contra-o-tempo-por-2026-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-23T10:57:47-04:00",
+        "published": "2026-03-23T11:56:19-04:00",
         "categories": [
-          "Notícias"
+          "Política"
         ],
         "category_ids": [
-          5
+          510
+        ]
+      },
+      {
+        "title": "Homem é preso em flagrante após agredir companheira com paulada na cabeça em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-preso-companheira-paulada-cabeca-varzea-grande-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-23T11:57:01-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
         ]
       }
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "Comunidade decide futuro de escola em Primavera do Leste com votação sobre modelo cívico-militar; veja vídeo",
+        "link": "https://afolhalivre.com/a-comunidade-escolar-de-primavera-do-leste-participara/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-23T11:56:23-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
     "omatogrossense": [
       {
-        "title": "Jovens caem de moto após chegada da PM durante manobras perigosas em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/jovens-caem-moto-chegada-pm-cuiaba-video/",
+        "title": "CIOPAER e Polícia Militar recuperam veículo furtado após buscas em área de mata em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/ciopaer-policia-recuperam-veiculo-furtado-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-23T10:09:41-04:00",
+        "published": "2026-03-23T11:06:22-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,24 +89,37 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://omatogrossense.com/135463-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-23T10:44:10-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://omatogrossense.com/135467-2/",
+        "title": "Travada no partido: Michelly Alencar expõe impasse no União Brasil e corre contra o tempo por 2026; veja vídeo",
+        "link": "https://omatogrossense.com/travada-no-partido-michelly-alencar-expoe-impasse-no-uniao-brasil-e-corre-contra-o-tempo-por-2026-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-23T10:59:31-04:00",
+        "published": "2026-03-23T11:56:29-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem ataca companheira durante discussão e é preso após deixar vítima desacordada em VG; veja vídeo",
+        "link": "https://omatogrossense.com/homem-ataca-companheira-vitima-desacordada-vg-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-23T11:58:59-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": ",",
+        "link": "https://omatogrossense.com/135476-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-23T11:59:08-04:00",
         "categories": [
           "MT Notícias"
         ],
