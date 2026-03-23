@@ -1,63 +1,59 @@
 {
-  "generated_at": "2026-03-22T19:00:04.289686-04:00",
+  "generated_at": "2026-03-22T20:00:05.304007-04:00",
   "window": {
-    "start": "2026-03-22T18:00:04.289686-04:00",
-    "end": "2026-03-22T19:00:04.289686-04:00"
+    "start": "2026-03-22T19:00:05.304007-04:00",
+    "end": "2026-03-22T20:00:05.304007-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Vasco vence o Grêmio em São Januário e chega a cinco jogos sem perder no Brasileirão; veja os gols",
-        "link": "https://perrenguematogrosso.com/vasco-vence-o-gremio/",
+        "title": "Athletico-PR vence clássico contra Coritiba e sobe na tabela do Brasileirão; veja os gols",
+        "link": "https://perrenguematogrosso.com/athletico-pr-vence-classico-contra-coritiba/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-03-22T18:56:25-04:00",
+        "published": "2026-03-22T19:15:33-04:00",
         "categories": [
           "Esporte"
         ],
         "category_ids": [
           509
         ]
+      },
+      {
+        "title": "Internacional vence Chapecoense, sai do Z-4 e ganha fôlego no Brasileirão; veja os gols",
+        "link": "https://perrenguematogrosso.com/internacional-vence-chapecoense/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-22T19:52:11-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Turista é morto a tiros enquanto caminhava com a filha em praia; veja vídeo",
+        "link": "https://perrenguematogrosso.com/turista-e-morto-a-tiros-enquanto-caminhava-com-a-filha-em-praia-veja-video/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-22T20:00:00-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Churrasqueira pega fogo e assusta clientes durante atendimento em hamburgueria de Rondonópolis: veja vídeo",
-        "link": "https://omatogrossense.com/churrasqueira-pega-fogo-e-assusta-clientes-durante-atendimento-em-hamburgueria-de-rondonopolis-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-22T19:00:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "VÍDEO: Gusttavo Lima canta Hino Nacional e abre MotoGP em Goiânia após 20 anos sem etapa no Brasil",
-        "link": "https://omatogrossense.com/gusttavo-lima-canta-hino-nacional/",
+        "title": "Vasco vence o Grêmio em São Januário, amplia invencibilidade e sobe na tabela; veja os gols",
+        "link": "https://omatogrossense.com/vasco-vence-o-gremio-em-sao-januario/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-22T19:00:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Haaland vai para 9ª decisão pelo City em busca do título que falta e do gol que jamais veio em finais",
-        "link": "https://roonoticias.com/o-manchester-city-entra-em-campo-neste-domingo-para/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-22T18:00:18-04:00",
+        "published": "2026-03-22T19:04:20-04:00",
         "categories": [
           "Esporte"
         ],
@@ -66,45 +62,35 @@
         ]
       },
       {
-        "title": "Trump ameaça destruir usinas do Irã se Ormuz não for reaberto em 48h",
-        "link": "https://roonoticias.com/o-presidente-dos-estados-unidos-donald-trump-5/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-22T18:09:45-04:00",
+        "title": "Athletico-PR vence clássico, supera o Coritiba e sobe na tabela do Brasileirão; veja os gols",
+        "link": "https://omatogrossense.com/athletico-pr-vence-classico-supera-o-coritiba/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-22T19:11:45-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       },
       {
-        "title": "As pautas paradas no Senado devido a rusga entre Lula e Alcolumbre",
-        "link": "https://roonoticias.com/a-indicacao-de-jorge-messias-ao-supremo-tribunal-federal/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-22T18:27:15-04:00",
+        "title": "Inter vence a Chapecoense, sai do Z-4 e ganha fôlego no Brasileirão; veja os gols",
+        "link": "https://omatogrossense.com/inter-vence-a-chapecoense/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-22T19:56:56-04:00",
         "categories": [
-          "Política"
+          "Esporte"
         ],
         "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Cláudio Castro marca renúncia do governo para esta segunda (23/3)",
-        "link": "https://roonoticias.com/o-governador-claudio-castro-anunciou-que-deixara-o-comando/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-22T18:42:38-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
+          7
         ]
       }
-    ]
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
