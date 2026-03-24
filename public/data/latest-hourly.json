@@ -1,23 +1,180 @@
 {
-  "generated_at": "2026-03-24T11:02:40.126750-04:00",
+  "generated_at": "2026-03-24T12:00:05.890357-04:00",
   "window": {
-    "start": "2026-03-24T10:02:40.126750-04:00",
-    "end": "2026-03-24T11:02:40.126750-04:00"
+    "start": "2026-03-24T11:00:05.890357-04:00",
+    "end": "2026-03-24T12:00:05.890357-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Suspeito de roubo em barbearia reage à abordagem e acaba baleado em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/suspeito-roubo-reage-abordagem-baleado-varzea-grande-vpideo/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-24T11:35:07-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Daniel Monteiro explica números da Educação e aponta diferença entre empenho e repasse; veja vídeo",
+        "link": "https://perrenguematogrosso.com/daniel-monteiro-explica-numeros-da-educacao-e-aponta-diferenca-entre-empenho-e-repasse-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-24T11:38:22-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": ",",
+        "link": "https://perrenguematogrosso.com/328542-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-24T11:53:43-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "omatogrossense": [
+      {
+        "title": "Suspeito de roubo em barbearia é baleado após confronto com a PM em VG; veja vídeo",
+        "link": "https://omatogrossense.com/suspeito-roubo-barbearia-baleado-vg-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-24T11:35:01-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Daniel Monteiro explica números da Educação e aponta diferença entre empenho e repasse; veja vídeo",
+        "link": "https://omatogrossense.com/daniel-monteiro-explica-numeros-da-educacao-e-aponta-diferenca-entre-empenho-e-repasse-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-24T11:40:45-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://omatogrossense.com/135703-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-24T11:53:35-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "portalnortemt": [
+      {
+        "title": "Operação mira finanças de facção, bloqueia milhões e expõe força da Draco em Sinop; veja vídeo",
+        "link": "https://portalnortemt.com/a-policia-civil-de-mato-grosso-deflagrou-nesta-terca-feira-24-a-operacao-codinome-fantasma-iii-e-atingiu-diretamente-o-nucleo-financeiro/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-24T11:57:26-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Corpo em avançado estado de decomposição é encontrado próximo a cemitério em Cáceres",
+        "link": "https://portalpantanalmt.com/um-cadaver-em-avancado-estado-de-decomposicao-foi-localizado-na-manha-desta-terca-feira-24-03-nas-proximidades-do-antigo-cemiterio/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-24T11:46:55-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Pacote milionário de obras transforma mobilidade e infraestrutura urbana em Rondonópolis",
+        "link": "https://roonoticias.com/rondonopolis-iniciou-a-semana-com-o-anuncio-de-um-pacote-historico-de-investimentos-que-promete-transformar-a-infraestrutura-e-impulsionar-o/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-24T11:48:37-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
