@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-24T14:00:02.354173-04:00",
+  "generated_at": "2026-03-24T15:00:05.466693-04:00",
   "window": {
-    "start": "2026-03-24T13:00:02.354173-04:00",
-    "end": "2026-03-24T14:00:02.354173-04:00"
+    "start": "2026-03-24T14:00:05.466693-04:00",
+    "end": "2026-03-24T15:00:05.466693-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Câmera registra mulher escapando de acidente grave após batida entre carros em Sinop; veja vídeo",
-        "link": "https://perrenguematogrosso.com/camera-mulher-escapando-acidente-grave-sinop-video/",
+        "title": "Motoristas registram alagamento na Estrada da Guia após chuva intensa entre Cuiabá e Rosário Oeste; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motoristas-alagamento-estrada-guia-apos-chuva-cuiaba-rosario-oeste/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-24T13:48:12-04:00",
+        "published": "2026-03-24T14:13:06-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -21,26 +21,52 @@
       },
       {
         "title": ".",
-        "link": "https://perrenguematogrosso.com/328596-2/",
+        "link": "https://perrenguematogrosso.com/328622-2/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-24T14:55:39-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/328625-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-24T13:53:53-04:00",
+        "published": "2026-03-24T14:56:47-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Lesão de Moses Moody marca vitória dos Warriors sobre os Mavericks na NBA; veja vídeo",
+        "link": "https://perrenguematogrosso.com/lesao-de-moses-moody-marca-vitoria-dos-warriors/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-24T15:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Câmera registra momento em que mulher escapa de acidente grave entre veículos em Sinop; veja vídeo",
-        "link": "https://omatogrossense.com/camera-mulher-escapa-acidente-grave-sinop-video/",
+        "title": "Motoristas registram rodovia completamente alagada após forte chuva na Estrada da Guia; veja vídeo",
+        "link": "https://omatogrossense.com/motoristas-registram-rodovia-alagada-estrada-guia-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-24T13:48:04-04:00",
+        "published": "2026-03-24T14:12:58-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -50,15 +76,41 @@
       },
       {
         "title": ".",
-        "link": "https://omatogrossense.com/135760-2/",
+        "link": "https://omatogrossense.com/135786-2/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-24T14:55:33-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://omatogrossense.com/135790-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-24T13:54:18-04:00",
+        "published": "2026-03-24T14:57:12-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
+        ]
+      },
+      {
+        "title": "VÍDEO: Jogador dos Warriors sai de maca após lance sozinho",
+        "link": "https://omatogrossense.com/jogador-dos-warriors-sai-de-maca/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-24T15:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ],
