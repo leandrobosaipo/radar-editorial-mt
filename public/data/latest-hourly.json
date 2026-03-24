@@ -1,43 +1,17 @@
 {
-  "generated_at": "2026-03-24T13:00:50.026805-04:00",
+  "generated_at": "2026-03-24T14:00:02.354173-04:00",
   "window": {
-    "start": "2026-03-24T12:00:50.026805-04:00",
-    "end": "2026-03-24T13:00:50.026805-04:00"
+    "start": "2026-03-24T13:00:02.354173-04:00",
+    "end": "2026-03-24T14:00:02.354173-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Disputa pela presidência: Dilemário Alencar se antecipa e entra na corrida na Câmara de Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/disputa-pela-presidencia-dilemario-alencar-se-antecipa-e-entra-na-corrida-na-camara-de-cuiaba-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-24T12:18:59-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Ingressos para Cuiabá x Tocantinópolis começam a ser vendidos para estreia regional",
-        "link": "https://perrenguematogrosso.com/ingressos-para-cuiaba-x-tocantinopolis-comecam-a-ser-vendidos/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-24T12:22:24-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Câmera registra criminosos encapuzados furtando moto de trabalhador durante a madrugada em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/criminosos-furtando-moto-trabalhador-cuiaba-video/",
+        "title": "Câmera registra mulher escapando de acidente grave após batida entre carros em Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/camera-mulher-escapando-acidente-grave-sinop-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-24T12:28:22-04:00",
+        "published": "2026-03-24T13:48:12-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -46,150 +20,45 @@
         ]
       },
       {
-        "title": "“Nenhuma escola foi afetada” secretário garante normalidade na Educação e detalha pagamentos; veja vídeo",
-        "link": "https://perrenguematogrosso.com/nenhuma-escola-foi-afetada-secretario-garante-normalidade-na-educacao-e-detalha-pagamentos-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-24T12:34:40-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
         "title": ".",
-        "link": "https://perrenguematogrosso.com/328573-2/",
+        "link": "https://perrenguematogrosso.com/328596-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-24T12:44:46-04:00",
+        "published": "2026-03-24T13:53:53-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
-      },
-      {
-        "title": "Disputa na Câmara de Cuiabá pode ganhar novo capítulo com possível candidatura de Paula Calil; veja vídeo",
-        "link": "https://perrenguematogrosso.com/disputa-na-camara-de-cuiaba-pode-ganhar-novo-capitulo-com-possivel-candidatura-de-paula-calil-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-24T12:55:10-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
       }
     ],
-    "afolhalivre": [
-      {
-        "title": "Polícia Civil desarticula grupo de estelionato virtual e cumpre 18 mandados em operação",
-        "link": "https://afolhalivre.com/a-policia-civil-deflagrou-na-manha-desta-terca-feira-24-a-operacao-bomba-de-sonhos-e-cumpriu-18-mandados-judiciais-contra-um-grupo-suspeito/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-24T12:18:10-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Disputa pela presidência: Dilemário Alencar se antecipa e entra na corrida na Câmara de Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/disputa-pela-presidencia-dilemario-alencar-se-antecipa-e-entra-na-corrida-na-camara-de-cuiaba-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-24T12:19:11-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Criminosos encapuzados furtam moto de trabalhador durante a madrugada em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/criminosos-furtam-moto-trabalhador-cuiaba-video/",
+        "title": "Câmera registra momento em que mulher escapa de acidente grave entre veículos em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/camera-mulher-escapa-acidente-grave-sinop-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-24T12:28:07-04:00",
+        "published": "2026-03-24T13:48:04-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
-        ]
-      },
-      {
-        "title": "Cuiabá estreia na Copa Centro-Oeste com ingressos a R$ 10 na Arena Pantanal",
-        "link": "https://omatogrossense.com/cuiaba-estreia-na-copa-centro-oeste/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-24T12:31:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "“Nenhuma escola foi afetada” secretário garante normalidade na Educação e detalha pagamentos; veja vídeo",
-        "link": "https://omatogrossense.com/nenhuma-escola-foi-afetada-secretario-garante-normalidade-na-educacao-e-detalha-pagamentos-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-24T12:34:49-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
         ]
       },
       {
         "title": ".",
-        "link": "https://omatogrossense.com/135734-2/",
+        "link": "https://omatogrossense.com/135760-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-24T12:44:37-04:00",
+        "published": "2026-03-24T13:54:18-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
-        ]
-      },
-      {
-        "title": "Disputa na Câmara de Cuiabá pode ganhar novo capítulo com possível candidatura de Paula Calil; veja vídeo",
-        "link": "https://omatogrossense.com/disputa-na-camara-de-cuiaba-pode-ganhar-novo-capitulo-com-possivel-candidatura-de-paula-calil-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-24T12:55:20-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "VÍDEO: Fórmula 1 aposta em cultura japonesa e surpreende com pinturas inéditas no GP de Suzuka",
-        "link": "https://omatogrossense.com/formula-1-aposta-em-cultura-japonesa/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-24T13:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
         ]
       }
     ],
