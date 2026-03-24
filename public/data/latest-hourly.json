@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-23T19:00:05.322077-04:00",
+  "generated_at": "2026-03-23T20:00:15.173253-04:00",
   "window": {
-    "start": "2026-03-23T18:00:05.322077-04:00",
-    "end": "2026-03-23T19:00:05.322077-04:00"
+    "start": "2026-03-23T19:00:15.173253-04:00",
+    "end": "2026-03-23T20:00:15.173253-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Polícia Civil detém biólogo e apreende animais exóticos criados ilegalmente dentro de casa em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/biologo-apreende-animais-exoticos-casa-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-23T18:05:08-04:00",
+        "title": "Cadela fica cinco dias presa em bueiro; veja vídeo",
+        "link": "https://perrenguematogrosso.com/cadela-fica-cinco-dias-presa-em-bueiro-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-03-23T19:13:13-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,24 +20,24 @@
         ]
       },
       {
-        "title": "Senado barra corte de 50% nos salários de políticos e decisão eleva tensão após pressão popular",
-        "link": "https://perrenguematogrosso.com/senado-barra-corte-de-50-nos-salarios-de-politicos-e-decisao-eleva-tensao-apos-pressao-popular/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-23T18:50:09-04:00",
+        "title": "Garotinho prende cabeça em forma de bolo e situação exige ação cuidadosa; veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-menino-de-apenas-1-ano-ficou-com-a-cabeca-presa-em-uma-forma-de-bolo-em-um-caso-registrado-no-litoral-de-sao-paulo-e-precisou/",
+        "author": "Lindy Oliveira",
+        "author_id": 292,
+        "published": "2026-03-23T19:30:00-04:00",
         "categories": [
-          "Política"
+          "Notícias"
         ],
         "category_ids": [
-          510
+          5
         ]
       },
       {
-        "title": "Seleção Brasileira finaliza grupo nos EUA e ajusta equipe para amistosos contra França e Croácia; veja vídeo",
-        "link": "https://perrenguematogrosso.com/selecao-brasileira-finaliza-grupo-nos-eua/",
+        "title": "Mbappé confirma recuperação e se coloca à disposição para amistoso contra o Brasil",
+        "link": "https://perrenguematogrosso.com/mbappe-confirma-recuperacao/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-03-23T18:53:19-04:00",
+        "published": "2026-03-23T19:39:38-04:00",
         "categories": [
           "Esporte"
         ],
@@ -49,11 +49,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Biólogo é alvo de operação após polícia encontrar animais silvestres irregulares em residência de Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/biologo-operacao-animais-silvestres-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-23T18:05:11-04:00",
+        "title": "Cadela fica cinco dias presa em bueiro; veja vídeo",
+        "link": "https://omatogrossense.com/cadela-fica-cinco-dias-presa-em-bueiro-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-03-23T19:14:10-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,24 +62,24 @@
         ]
       },
       {
-        "title": "Senado barra corte de 50% nos salários de políticos e decisão eleva tensão após pressão popular",
-        "link": "https://omatogrossense.com/senado-barra-corte-de-50-nos-salarios-de-politicos-e-decisao-eleva-tensao-apos-pressao-popular/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-23T18:51:13-04:00",
+        "title": "Garotinho prende cabeça em forma de bolo e situação exige ação cuidadosa; veja vídeo",
+        "link": "https://omatogrossense.com/um-menino-de-apenas-1-ano-ficou-com-a-cabeca-presa-em-uma-forma-de-bolo-em-um-caso-registrado-no-litoral-de-sao-paulo-e-precisou/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-23T19:30:00-04:00",
         "categories": [
-          "Política"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          5
+          973
         ]
       },
       {
-        "title": "VÍDEO: Seleção Brasileira encerra apresentação nos EUA para amistosos contra França e Croácia",
-        "link": "https://omatogrossense.com/selecao-brasileira-encerra-apresentacao-nos-eua/",
+        "title": "Mbappé afirma recuperação de lesão no joelho e confirma presença em amistosos da França",
+        "link": "https://omatogrossense.com/mbappe-afirma-recuperacao-de-lesao-no-joelho/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-23T18:58:16-04:00",
+        "published": "2026-03-23T19:47:43-04:00",
         "categories": [
           "Esporte"
         ],
