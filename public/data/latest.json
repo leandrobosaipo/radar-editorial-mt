@@ -1,166 +1,23 @@
 {
-  "generated_at": "2026-03-25T09:00:00.348478-04:00",
+  "generated_at": "2026-03-25T10:13:57.171187-04:00",
   "window": {
-    "start": "2026-03-25T08:00:00.348478-04:00",
-    "end": "2026-03-25T09:00:00.348478-04:00"
+    "start": "2026-03-25T09:13:57.171187-04:00",
+    "end": "2026-03-25T10:13:57.171187-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Homem é flagrado importunando menina de 12 anos e mãe parte para cima; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-episodio-de-importunacao-sexual/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-25T08:13:42-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Homem ameaça pular de viaduto e mobiliza resgate com participação do prefeito em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-ameaca-pular-de-viaduto-e-mobiliza-resgate-com-participacao-do-prefeito-em-cuiaba-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-25T08:16:14-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Mercados globais sobem com força enquanto petróleo registra queda acentuada no início do dia",
-        "link": "https://perrenguematogrosso.com/328762-2/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-25T08:40:20-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Homem é flagrado importunando criança e é confrontado pela mãe; Veja vídeo",
-        "link": "https://omatogrossense.com/um-caso-de-importunacao/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-25T08:13:47-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Homem ameaça pular de viaduto, mobiliza equipes de resgate e prefeito em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/homem-ameaca-pular-de-viaduto-mobiliza-equipes-de-resgate-e-prefeito-em-cuiaba-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-25T08:16:17-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Mercados globais sobem com força enquanto petróleo registra queda acentuada no início do dia",
-        "link": "https://omatogrossense.com/135916-2/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-25T08:40:29-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
-    "portalnortemt": [
-      {
-        "title": "Aviões agrícolas chegam em sequência e reforçam dimensão do Show Safra 2026; veja vídeo",
-        "link": "https://portalnortemt.com/a-chegada-continua-de-avioes-agricolas-marcou-o-inicio-do-show-safra-mato-grosso-2026-em-lucas-do-rio-verde-enquanto-a-movimentacao-aerea/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-25T08:03:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "Corpo encontrado em decomposição é identificado com técnica pericial avançada em Cáceres",
-        "link": "https://portalpantanalmt.com/um-corpo-em-avancado-estado-de-decomposicao-encontrado-nas-proximidades-do-cemiterio-do-bairro-junco-em-caceres-mt-teve-a-identidade/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-25T08:05:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
