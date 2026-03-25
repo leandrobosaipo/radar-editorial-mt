@@ -1,179 +1,23 @@
 {
-  "generated_at": "2026-03-25T13:00:05.577342-04:00",
+  "generated_at": "2026-03-25T14:09:19.689414-04:00",
   "window": {
-    "start": "2026-03-25T12:00:05.577342-04:00",
-    "end": "2026-03-25T13:00:05.577342-04:00"
+    "start": "2026-03-25T13:09:19.689414-04:00",
+    "end": "2026-03-25T14:09:19.689414-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Moradores denunciam abandono frequente de animais em bairro de Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/moradores-denunciam-abandono-animais-grande-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-25T12:37:47-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Luverdense renova contratos de seis atletas e mantém base para sequência da temporada",
-        "link": "https://perrenguematogrosso.com/luverdense-renova-contratos-de-seis-atletas/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-25T12:46:32-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Motociclistas param ruas e pressionam por regulamentação urgente; veja vídeo",
-        "link": "https://perrenguematogrosso.com/profissionais-que-atuam-com-entregas/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-25T12:56:32-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
-    "afolhalivre": [
-      {
-        "title": "Homem foge de abordagem e jovem é presa com drogas em residência em Paranatinga",
-        "link": "https://afolhalivre.com/durante-patrulhamento-na-manha-de-terca-feira-24-em-paranatinga-a-policia-militar-identificou-atitude-suspeita-no-bairro-rui-barbosa-e-inic/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-25T12:06:00-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
-    "omatogrossense": [
-      {
-        "title": "VÍDEO: Secretário aponta atraso de empresas e explica demora na entrega de uniformes escolares",
-        "link": "https://omatogrossense.com/secretario-aponta-atraso-de-empresas/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-25T12:09:06-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Moradores denunciam abandono frequente de animais em bairro de Várzea Grande; veja vídeo",
-        "link": "https://omatogrossense.com/moradores-denunciam-abandono-animais-varzea-grande-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-25T12:38:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Motociclistas protestam nas ruas e cobram regulamentação e melhores condições de trabalho; Veja vídeo",
-        "link": "https://omatogrossense.com/profissionais-que-atuam-com-entregas/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-25T12:54:23-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Luverdense renova seis atletas e mantém base para sequência da temporada",
-        "link": "https://omatogrossense.com/luverdense-renova-seis-atletas/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-25T12:55:26-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Investimentos de R$ 1,4 bilhão impulsionam obras e desenvolvimento em Rondonópolis",
-        "link": "https://roonoticias.com/o-governo-de-mato-grosso-destinou-cerca-de-r-1-4-bilhao-para-obras-e-acoes-em-rondonopolis-nos-ultimos-sete-anos-enquanto-os-investi/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-25T12:01:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
