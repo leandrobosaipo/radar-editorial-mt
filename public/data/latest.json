@@ -1,82 +1,43 @@
 {
-  "generated_at": "2026-03-25T12:00:05.515418-04:00",
+  "generated_at": "2026-03-25T13:00:05.577342-04:00",
   "window": {
-    "start": "2026-03-25T11:00:05.515418-04:00",
-    "end": "2026-03-25T12:00:05.515418-04:00"
+    "start": "2026-03-25T12:00:05.577342-04:00",
+    "end": "2026-03-25T13:00:05.577342-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3186/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-25T11:19:32-04:00",
+        "title": "Moradores denunciam abandono frequente de animais em bairro de Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/moradores-denunciam-abandono-animais-grande-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-25T12:37:47-04:00",
         "categories": [
-          "Memes do vovô"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          4
+          16
         ]
       },
       {
-        "title": "Paula Calil defende Reginaldo Teixeira e aposta em gestão eficiente na Educação; veja vídeo",
-        "link": "https://perrenguematogrosso.com/paula-calil-defende-reginaldo-teixeira/",
+        "title": "Luverdense renova contratos de seis atletas e mantém base para sequência da temporada",
+        "link": "https://perrenguematogrosso.com/luverdense-renova-contratos-de-seis-atletas/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-03-25T11:26:42-04:00",
+        "published": "2026-03-25T12:46:32-04:00",
         "categories": [
-          "Política"
+          "Esporte"
         ],
         "category_ids": [
-          510
+          509
         ]
       },
       {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3187/",
+        "title": "Motociclistas param ruas e pressionam por regulamentação urgente; veja vídeo",
+        "link": "https://perrenguematogrosso.com/profissionais-que-atuam-com-entregas/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-25T11:37:50-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3188/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-25T11:38:34-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3189/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-25T11:39:23-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Idosa cai em buraco e fica presa a 12 metros de profundidade",
-        "link": "https://perrenguematogrosso.com/uma-mulher-de-70-anos-passou-por/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-25T11:57:04-04:00",
+        "published": "2026-03-25T12:56:32-04:00",
         "categories": [
           "Notícias"
         ],
@@ -85,14 +46,28 @@
         ]
       }
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "Homem foge de abordagem e jovem é presa com drogas em residência em Paranatinga",
+        "link": "https://afolhalivre.com/durante-patrulhamento-na-manha-de-terca-feira-24-em-paranatinga-a-policia-militar-identificou-atitude-suspeita-no-bairro-rui-barbosa-e-inic/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-25T12:06:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
     "omatogrossense": [
       {
-        "title": "VÍDEO: Paula Calil destaca melhorias e modernização na Câmara de Cuiabá",
-        "link": "https://omatogrossense.com/paula-calil-destaca-melhorias-e-modernizacao-na-camara/",
+        "title": "VÍDEO: Secretário aponta atraso de empresas e explica demora na entrega de uniformes escolares",
+        "link": "https://omatogrossense.com/secretario-aponta-atraso-de-empresas/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-25T11:07:27-04:00",
+        "published": "2026-03-25T12:09:06-04:00",
         "categories": [
           "Política"
         ],
@@ -101,29 +76,42 @@
         ]
       },
       {
-        "title": "VÍDEO: Paula Calil defende Reginaldo Teixeira e aposta em gestão eficiente na Educação",
-        "link": "https://omatogrossense.com/paula-calil-defende-reginaldo-teixeira/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-25T11:36:55-04:00",
+        "title": "Moradores denunciam abandono frequente de animais em bairro de Várzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/moradores-denunciam-abandono-animais-varzea-grande-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-25T12:38:00-04:00",
         "categories": [
-          "Política"
+          "MT Notícias"
         ],
         "category_ids": [
-          5
+          20
         ]
       },
       {
-        "title": "Idosa cai em cisterna de 12 metros e é resgatada em operação delicada; Veja vídeo",
-        "link": "https://omatogrossense.com/uma-mulher-de-70-anos-foi/",
+        "title": "Motociclistas protestam nas ruas e cobram regulamentação e melhores condições de trabalho; Veja vídeo",
+        "link": "https://omatogrossense.com/profissionais-que-atuam-com-entregas/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-25T11:57:06-04:00",
+        "published": "2026-03-25T12:54:23-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
+        ]
+      },
+      {
+        "title": "Luverdense renova seis atletas e mantém base para sequência da temporada",
+        "link": "https://omatogrossense.com/luverdense-renova-seis-atletas/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-25T12:55:26-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ],
@@ -131,16 +119,16 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Influenciadora inventa sequestro, engana polícia e acaba presa em operação",
-        "link": "https://roonoticias.com/a-influenciadora-monniky-fraga-foi-presa-nesta-terca-feira/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-25T11:05:06-04:00",
+        "title": "Investimentos de R$ 1,4 bilhão impulsionam obras e desenvolvimento em Rondonópolis",
+        "link": "https://roonoticias.com/o-governo-de-mato-grosso-destinou-cerca-de-r-1-4-bilhao-para-obras-e-acoes-em-rondonopolis-nos-ultimos-sete-anos-enquanto-os-investi/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-25T12:01:00-04:00",
         "categories": [
-          "MT Notícias"
+          "Rondonópolis"
         ],
         "category_ids": [
-          20
+          3118
         ]
       }
     ]
