@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-26T09:00:12.572470-04:00",
+  "generated_at": "2026-03-26T10:00:00.484208-04:00",
   "window": {
-    "start": "2026-03-26T08:00:12.572470-04:00",
-    "end": "2026-03-26T09:00:12.572470-04:00"
+    "start": "2026-03-26T09:00:00.484208-04:00",
+    "end": "2026-03-26T10:00:00.484208-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Polícia Civil cumpre 100 mandados e desarticula esquema milionário de lavagem de dinheiro ligado à facção em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-mandados-lavagem-dinheiro-faccao-mt-video/",
+        "title": "Motoristas enfrentam lentidão após acidente entre carros em região movimentada de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motoristas-lentidao-acidente-carros-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-26T08:05:13-04:00",
+        "published": "2026-03-26T09:04:08-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,27 +20,40 @@
         ]
       },
       {
-        "title": "Morre aos 30 anos o influenciador Jota Surfista após luta contra câncer e doenças graves; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/morte-comocao-e-despedida-marcaram/",
+        "title": "Menor é apreendido após assalto a motorista de aplicativo; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/crime-apreensao-e-investigacao-marcaram/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-26T08:27:55-04:00",
+        "published": "2026-03-26T09:18:35-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Mauro Mendes deixa governo para disputar Senado e Pivetta assume comando de Mato Grosso; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mauro-mendes-deixa-governo-para-disputar-senado-e-pivetta-assume-comando-de-mato-grosso-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-26T09:24:39-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Polícia Civil deflagra operação com 100 mandados contra esquema financeiro de facção criminosa em MT; veja vídeo",
-        "link": "https://omatogrossense.com/policia-operacao-esquema-faccao-mt-video/",
+        "title": "Motoristas enfrentam lentidão após acidente entre carros em região movimentada de Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/motoristas-lentidao-acidente-carros-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-26T08:05:09-04:00",
+        "published": "2026-03-26T09:03:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,36 +62,35 @@
         ]
       },
       {
-        "title": "Morre aos 30 anos o influenciador Jota Surfista após batalha contra câncer e complicações do álcool; Veja vídeo",
-        "link": "https://omatogrossense.com/morte-luta-e-comocao-marcaram-a-despedid/",
+        "title": "Menor de idade é preso após assalto a motorista de aplicativo; Veja vídeo",
+        "link": "https://omatogrossense.com/assalto-prisao-e-investigacao/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-26T08:30:51-04:00",
+        "published": "2026-03-26T09:18:51-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
+          973
+        ]
+      },
+      {
+        "title": "Mauro Mendes deixa governo para disputar Senado e Pivetta assume comando de Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/mauro-mendes-deixa-governo-para-disputar-senado-e-pivetta-assume-comando-de-mato-grosso-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-26T09:25:31-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Foragida rompe tornozeleira eletrônica e acaba presa após ação policial em Rondonópolis",
-        "link": "https://roonoticias.com/uma-mulher-foragida-da-justica-foi-presa-na-tarde-desta-quarta-feira-em-rondonopolis-apos-romper-a-tornozeleira-eletronica-que-utilizava-para/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-26T08:03:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
