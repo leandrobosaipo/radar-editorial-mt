@@ -1,23 +1,100 @@
 {
-  "generated_at": "2026-03-26T17:14:09.846001-04:00",
+  "generated_at": "2026-03-26T18:09:57.793352-04:00",
   "window": {
-    "start": "2026-03-26T16:14:09.846001-04:00",
-    "end": "2026-03-26T17:14:09.846001-04:00"
+    "start": "2026-03-26T17:09:57.793352-04:00",
+    "end": "2026-03-26T18:09:57.793352-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Governo corta tarifas de quase mil produtos e inclui remédios essenciais",
+        "link": "https://perrenguematogrosso.com/governo-corta-tarifas-de-quase-mil-produtos-e-inclui-remedios-essenciais/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-26T17:57:41-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Homem ataca e mata companheira a facadas e tenta tirar a própria vida em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-ataca-e-mata-companheira-a-facadas-e-tenta-tirar-a-propria-vida-em-rondonopolis-veja-video/",
+        "author": "Desconhecido",
+        "author_id": 279,
+        "published": "2026-03-26T18:01:34-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Governo corta tarifas de quase mil produtos e inclui remédios essenciais",
+        "link": "https://omatogrossense.com/governo-corta-tarifas-de-quase-mil-produtos-e-inclui-remedios-essenciais-veja-o-que-muda-no-seu-bolso/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-26T17:59:30-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem mata companheira a facadas após discussão e tenta suicídio em Rondonópolis; veja vídeo",
+        "link": "https://omatogrossense.com/homem-mata-companheira-a-facadas-apos-discussao-e-tenta-suicidio-em-rondonopolis-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-26T18:01:37-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
     "portalnortemt": [],
-    "portalpantanalmt": [],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
     "roonoticias": []
   }
 }
