@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-26T13:00:00.509006-04:00",
+  "generated_at": "2026-03-26T14:00:04.774428-04:00",
   "window": {
-    "start": "2026-03-26T12:00:00.509006-04:00",
-    "end": "2026-03-26T13:00:00.509006-04:00"
+    "start": "2026-03-26T13:00:04.774428-04:00",
+    "end": "2026-03-26T14:00:04.774428-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Carro é engolido por inundação ao tentar atravessar trecho crítico no Distrito Industrial em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/carro-e-engolido-por-inundacao-ao-tentar-atravessar-trecho-critico-no-distrito-industrial-em-cuiaba-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-26T12:08:48-04:00",
+        "title": "Capital reage, vira jogo e vence Primavera em estreia eletrizante na Copa Centro-Oeste",
+        "link": "https://perrenguematogrosso.com/capital-reage-vira-jogo-e-vence-primavera/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-26T13:28:38-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Esporte"
         ],
         "category_ids": [
-          16
+          509
         ]
       },
       {
-        "title": "Foragido, Oruam lança clipe com réplica de fuzil e referências ao crime; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/tiro-de-amor/",
+        "title": "Atriz Cacau Protásio perde a visão após reação a pomada de cabelo; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/dor-susto-e-alerta-marcaram/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-26T12:36:12-04:00",
+        "published": "2026-03-26T13:49:15-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,11 +33,11 @@
         ]
       },
       {
-        "title": "Reeleição de Paula Calil entra em debate e eleição na Câmara de Cuiabá segue indefinida; veja vídeo",
-        "link": "https://perrenguematogrosso.com/reeleicao-de-paula-calil-entra-em-debate-e-eleicao-na-camara-de-cuiaba-segue-indefinida-veja-video/",
+        "title": "Senado cria novo crime no Código Penal e inclui vicaricídio na lista de hediondos; veja vídeo",
+        "link": "https://perrenguematogrosso.com/senado-cria-novo-crime-no-codigo-penal-e-inclui-vicaricidio-na-lista-de-hediondos-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-26T12:44:31-04:00",
+        "published": "2026-03-26T13:50:04-04:00",
         "categories": [
           "Política"
         ],
@@ -46,41 +46,27 @@
         ]
       }
     ],
-    "afolhalivre": [
-      {
-        "title": "PM impede possível feminicídio e prende suspeito armado dentro de casa em Paranatinga",
-        "link": "https://afolhalivre.com/uma-acao-rapida-da-policia-militar-evitou-um-possivel-feminicidio-em-paranatinga-a-equipe-recebeu-denuncia-via-copom-sobre-agressao/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-26T12:01:00-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Veículo é engolido por inundação após motorista não enxergar buraco no Distrito Industrial; veja vídeo",
-        "link": "https://omatogrossense.com/veiculo-e-engolido-por-inundacao-apos-motorista-nao-enxergar-buraco-no-distrito-industrial-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-26T12:08:43-04:00",
+        "title": "Capital vence Primavera por 4 a 3 na estreia da Copa Centro-Oeste",
+        "link": "https://omatogrossense.com/capital-vence-primavera/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-26T13:37:03-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       },
       {
-        "title": "Foragido, rapper Oruam lança clipe com fuzil e faz referências ao crime organizado; Veja vídeo",
-        "link": "https://omatogrossense.com/foragido-clipe-e-policia-marcaram/",
+        "title": "Atriz Cacau Protásio perde a visão após reação a pomada capilar; Veja vídeo",
+        "link": "https://omatogrossense.com/susto-dor-e-alerta-marcaram/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-26T12:34:43-04:00",
+        "published": "2026-03-26T13:49:08-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -89,11 +75,11 @@
         ]
       },
       {
-        "title": "Reeleição de Paula Calil entra em debate e eleição na Câmara de Cuiabá segue indefinida; veja vídeo",
-        "link": "https://omatogrossense.com/reeleicao-de-paula-calil-entra-em-debate-e-eleicao-na-camara-de-cuiaba-segue-indefinida-veja-video/",
+        "title": "Senado cria novo crime no Código Penal e inclui vicaricídio na lista de hediondos; veja vídeo",
+        "link": "https://omatogrossense.com/senado-cria-novo-crime-no-codigo-penal-e-inclui-vicaricidio-na-lista-de-hediondos-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-26T12:44:42-04:00",
+        "published": "2026-03-26T13:50:08-04:00",
         "categories": [
           "Política"
         ],
@@ -102,21 +88,7 @@
         ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Três suspeitos são presos com drogas, munições e simulacro durante ação policial em Sinop",
-        "link": "https://portalnortemt.com/a-policia-militar-prendeu-tres-suspeitos-por-trafico-de-drogas-durante-uma-acao-realizada-nesta-quarta-feira-em-sinop-a-equipe-do-grupo-de/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-26T12:02:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
+    "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
