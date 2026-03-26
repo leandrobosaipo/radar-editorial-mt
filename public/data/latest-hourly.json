@@ -1,191 +1,23 @@
 {
-  "generated_at": "2026-03-26T16:00:06.091214-04:00",
+  "generated_at": "2026-03-26T17:14:09.846001-04:00",
   "window": {
-    "start": "2026-03-26T15:00:06.091214-04:00",
-    "end": "2026-03-26T16:00:06.091214-04:00"
+    "start": "2026-03-26T16:14:09.846001-04:00",
+    "end": "2026-03-26T17:14:09.846001-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Bombeiros salvam criança de 2 anos após engasgo em Alta Floresta; veja vídeo",
-        "link": "https://perrenguematogrosso.com/bombeiros-salvam-crianca-de-2-anos-apos-engasgo-em-alta-floresta-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-26T15:09:54-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "“Mulher negra de coração branco” fala de deputado na Bahia repercute e gera debate político; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-negra-de-coracao-branco-fala-de-deputado-na-bahia-repercute-e-gera-debate-politico-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-26T15:19:48-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/329173-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-26T15:55:26-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "CBF veta uso de “Brasa” no uniforme da Seleção e determina troca por “Brasil”; veja vídeo",
-        "link": "https://perrenguematogrosso.com/cbf-veta-uso-de-brasa-no-uniforme-da-selecao/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-26T16:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Bombeiros salvam criança de 2 anos à beira da asfixia após engasgo grave em MT; veja vídeo",
-        "link": "https://omatogrossense.com/bombeiros-salvam-crianca-de-2-anos-a-beira-da-asfixia-apos-engasgo-grave-em-mt-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-26T15:09:46-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "“Mulher negra de coração branco” fala de deputado na Bahia repercute e gera debate político; veja vídeo",
-        "link": "https://omatogrossense.com/mulher-negra-de-coracao-branco-fala-de-deputado-na-bahia-repercute-e-gera-debate-politico-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-26T15:19:44-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://omatogrossense.com/136302-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-26T15:55:18-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "CBF barra “Brasa” na Seleção após reação negativa e manda trocar por “Brasil”",
-        "link": "https://omatogrossense.com/cbf-barra-brasa-na-selecao-apos-reacao-negativa/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-26T16:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Cobra de 2,5 metros invade secretaria e mobiliza operação rápida dos bombeiros em Cáceres; veja vídeo",
-        "link": "https://roonoticias.com/o-corpo-de-bombeiros-militar-de-mato-grosso-capturou/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-26T15:17:57-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Leonardo Jardim libera Flamengo para negociar Plata e buscar substituto no mercado",
-        "link": "https://roonoticias.com/apos-perder-espaco-no-flamengo-desde-a-chegada-do-tecnico/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-26T15:29:24-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
