@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-26T12:00:04.473750-04:00",
+  "generated_at": "2026-03-26T13:00:00.509006-04:00",
   "window": {
-    "start": "2026-03-26T11:00:04.473750-04:00",
-    "end": "2026-03-26T12:00:04.473750-04:00"
+    "start": "2026-03-26T12:00:00.509006-04:00",
+    "end": "2026-03-26T13:00:00.509006-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Câmera de segurança registra criminosos armados durante assalto em conveniência de VG; veja vídeo",
-        "link": "https://perrenguematogrosso.com/criminosos-armados-assalto-conveniencia-vg-video/",
+        "title": "Carro é engolido por inundação ao tentar atravessar trecho crítico no Distrito Industrial em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/carro-e-engolido-por-inundacao-ao-tentar-atravessar-trecho-critico-no-distrito-industrial-em-cuiaba-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-26T11:02:43-04:00",
+        "published": "2026-03-26T12:08:48-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,24 +20,11 @@
         ]
       },
       {
-        "title": "Base de Abilio se organiza e chapa para Câmara de Cuiabá começa a ganhar forma nos bastidores; veja vídeo",
-        "link": "https://perrenguematogrosso.com/base-de-abilio-se-organiza-e-chapa-para-camara-de-cuiaba-comeca-a-ganhar-forma-nos-bastidores-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-26T11:05:42-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Irmão de adolescentes envolvidos em assalto relata sofrer ameaças por ser parecido; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/r-irmao-de-adolescentes-envolvidos-no-assalto/",
+        "title": "Foragido, Oruam lança clipe com réplica de fuzil e referências ao crime; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/tiro-de-amor/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-26T11:22:33-04:00",
+        "published": "2026-03-26T12:36:12-04:00",
         "categories": [
           "Notícias"
         ],
@@ -46,40 +33,41 @@
         ]
       },
       {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3191/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-26T11:37:28-04:00",
+        "title": "Reeleição de Paula Calil entra em debate e eleição na Câmara de Cuiabá segue indefinida; veja vídeo",
+        "link": "https://perrenguematogrosso.com/reeleicao-de-paula-calil-entra-em-debate-e-eleicao-na-camara-de-cuiaba-segue-indefinida-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-26T12:44:31-04:00",
         "categories": [
-          "Memes do vovô"
+          "Política"
         ],
         "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3192/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-26T11:39:52-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
+          510
         ]
       }
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "PM impede possível feminicídio e prende suspeito armado dentro de casa em Paranatinga",
+        "link": "https://afolhalivre.com/uma-acao-rapida-da-policia-militar-evitou-um-possivel-feminicidio-em-paranatinga-a-equipe-recebeu-denuncia-via-copom-sobre-agressao/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-26T12:01:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
     "omatogrossense": [
       {
-        "title": "Vídeo mostra criminosos armados rendendo trabalhador durante assalto em conveniência de VG; veja vídeo",
-        "link": "https://omatogrossense.com/video-criminosos-rendendo-trabalhador-assalto-vg/",
+        "title": "Veículo é engolido por inundação após motorista não enxergar buraco no Distrito Industrial; veja vídeo",
+        "link": "https://omatogrossense.com/veiculo-e-engolido-por-inundacao-apos-motorista-nao-enxergar-buraco-no-distrito-industrial-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-26T11:02:46-04:00",
+        "published": "2026-03-26T12:08:43-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -88,33 +76,47 @@
         ]
       },
       {
-        "title": "Base de Abilio se organiza e chapa para Câmara de Cuiabá começa a ganhar forma nos bastidores; veja vídeo",
-        "link": "https://omatogrossense.com/base-de-abilio-se-organiza-e-chapa-para-camara-de-cuiaba-comeca-a-ganhar-forma-nos-bastidores-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-26T11:05:47-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Irmão de adolescentes envolvidos em assalto se pronuncia e relata sofrer ameaças; Veja vídeo",
-        "link": "https://omatogrossense.com/ameacas-foram-relatadas-pelo-irmao/",
+        "title": "Foragido, rapper Oruam lança clipe com fuzil e faz referências ao crime organizado; Veja vídeo",
+        "link": "https://omatogrossense.com/foragido-clipe-e-policia-marcaram/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-26T11:22:36-04:00",
+        "published": "2026-03-26T12:34:43-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
         ]
+      },
+      {
+        "title": "Reeleição de Paula Calil entra em debate e eleição na Câmara de Cuiabá segue indefinida; veja vídeo",
+        "link": "https://omatogrossense.com/reeleicao-de-paula-calil-entra-em-debate-e-eleicao-na-camara-de-cuiaba-segue-indefinida-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-26T12:44:42-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
-    "portalnortemt": [],
+    "portalnortemt": [
+      {
+        "title": "Três suspeitos são presos com drogas, munições e simulacro durante ação policial em Sinop",
+        "link": "https://portalnortemt.com/a-policia-militar-prendeu-tres-suspeitos-por-trafico-de-drogas-durante-uma-acao-realizada-nesta-quarta-feira-em-sinop-a-equipe-do-grupo-de/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-26T12:02:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
     "portalpantanalmt": [],
     "roonoticias": []
   },
