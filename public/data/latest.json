@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-26T15:00:05.724965-04:00",
+  "generated_at": "2026-03-26T16:00:06.091214-04:00",
   "window": {
-    "start": "2026-03-26T14:00:05.724965-04:00",
-    "end": "2026-03-26T15:00:05.724965-04:00"
+    "start": "2026-03-26T15:00:06.091214-04:00",
+    "end": "2026-03-26T16:00:06.091214-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Polícia Civil desarticula grupo de tráfico e lavagem de dinheiro em Cuiabá e Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-desarticula-grupo-trafico-cuiaba-varzea-grande-video/",
+        "title": "Bombeiros salvam criança de 2 anos após engasgo em Alta Floresta; veja vídeo",
+        "link": "https://perrenguematogrosso.com/bombeiros-salvam-crianca-de-2-anos-apos-engasgo-em-alta-floresta-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-26T14:13:11-04:00",
+        "published": "2026-03-26T15:09:54-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,27 +20,53 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/329157-2/",
+        "title": "“Mulher negra de coração branco” fala de deputado na Bahia repercute e gera debate político; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mulher-negra-de-coracao-branco-fala-de-deputado-na-bahia-repercute-e-gera-debate-politico-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-26T15:19:48-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/329173-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-26T14:52:52-04:00",
+        "published": "2026-03-26T15:55:26-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "CBF veta uso de “Brasa” no uniforme da Seleção e determina troca por “Brasil”; veja vídeo",
+        "link": "https://perrenguematogrosso.com/cbf-veta-uso-de-brasa-no-uniforme-da-selecao/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-26T16:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Polícia Civil desarticula rede criminosa com advogada ligada ao tráfico em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/policia-rede-criminosa-advogada-trafico-cuiaba-video/",
+        "title": "Bombeiros salvam criança de 2 anos à beira da asfixia após engasgo grave em MT; veja vídeo",
+        "link": "https://omatogrossense.com/bombeiros-salvam-crianca-de-2-anos-a-beira-da-asfixia-apos-engasgo-grave-em-mt-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-26T14:13:01-04:00",
+        "published": "2026-03-26T15:09:46-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,24 +75,24 @@
         ]
       },
       {
-        "title": "Luverdense contrata meia Marco Antônio para sequência da temporada",
-        "link": "https://omatogrossense.com/luverdense-contrata-meia-marco-antonio/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-26T14:14:15-04:00",
+        "title": "“Mulher negra de coração branco” fala de deputado na Bahia repercute e gera debate político; veja vídeo",
+        "link": "https://omatogrossense.com/mulher-negra-de-coracao-branco-fala-de-deputado-na-bahia-repercute-e-gera-debate-politico-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-26T15:19:44-04:00",
         "categories": [
-          "Esporte"
+          "Política"
         ],
         "category_ids": [
-          7
+          5
         ]
       },
       {
-        "title": "/",
-        "link": "https://omatogrossense.com/136284-2/",
+        "title": ".",
+        "link": "https://omatogrossense.com/136302-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-26T14:52:58-04:00",
+        "published": "2026-03-26T15:55:18-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -75,11 +101,11 @@
         ]
       },
       {
-        "title": "Cuiabá empresta lateral Marcelo ao Athletic-MG com opção de compra",
-        "link": "https://omatogrossense.com/cuiaba-empresta-lateral-marcelo-ao-athletic-mg/",
+        "title": "CBF barra “Brasa” na Seleção após reação negativa e manda trocar por “Brasil”",
+        "link": "https://omatogrossense.com/cbf-barra-brasa-na-selecao-apos-reacao-negativa/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-26T15:00:00-04:00",
+        "published": "2026-03-26T16:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -92,29 +118,29 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Cantor de Brega Funk é denunciado por agressão à ex-mulher; veja vídeo",
-        "link": "https://roonoticias.com/agressao-denuncia-e-forte-repercussao-marcaram-o-fim/",
+        "title": "Cobra de 2,5 metros invade secretaria e mobiliza operação rápida dos bombeiros em Cáceres; veja vídeo",
+        "link": "https://roonoticias.com/o-corpo-de-bombeiros-militar-de-mato-grosso-capturou/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-26T14:32:59-04:00",
+        "published": "2026-03-26T15:17:57-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       },
       {
-        "title": "Operação urgente tenta conter destruição ambiental e expulsar garimpeiros de área indígena; veja vídeo",
-        "link": "https://roonoticias.com/uma-operacao-de-desintrusao-mobiliza-autoridades-para-retirar/",
+        "title": "Leonardo Jardim libera Flamengo para negociar Plata e buscar substituto no mercado",
+        "link": "https://roonoticias.com/apos-perder-espaco-no-flamengo-desde-a-chegada-do-tecnico/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-03-26T14:54:31-04:00",
+        "published": "2026-03-26T15:29:24-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Esporte"
         ],
         "category_ids": [
-          973
+          7
         ]
       }
     ]
