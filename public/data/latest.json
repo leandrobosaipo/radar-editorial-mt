@@ -1,16 +1,84 @@
 {
-  "generated_at": "2026-03-26T08:00:05.825054-04:00",
+  "generated_at": "2026-03-26T09:00:12.572470-04:00",
   "window": {
-    "start": "2026-03-26T07:00:05.825054-04:00",
-    "end": "2026-03-26T08:00:05.825054-04:00"
+    "start": "2026-03-26T08:00:12.572470-04:00",
+    "end": "2026-03-26T09:00:12.572470-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Polícia Civil cumpre 100 mandados e desarticula esquema milionário de lavagem de dinheiro ligado à facção em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/policia-mandados-lavagem-dinheiro-faccao-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-26T08:05:13-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Morre aos 30 anos o influenciador Jota Surfista após luta contra câncer e doenças graves; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/morte-comocao-e-despedida-marcaram/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-26T08:27:55-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Polícia Civil deflagra operação com 100 mandados contra esquema financeiro de facção criminosa em MT; veja vídeo",
+        "link": "https://omatogrossense.com/policia-operacao-esquema-faccao-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-26T08:05:09-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Morre aos 30 anos o influenciador Jota Surfista após batalha contra câncer e complicações do álcool; Veja vídeo",
+        "link": "https://omatogrossense.com/morte-luta-e-comocao-marcaram-a-despedid/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-26T08:30:51-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Foragida rompe tornozeleira eletrônica e acaba presa após ação policial em Rondonópolis",
+        "link": "https://roonoticias.com/uma-mulher-foragida-da-justica-foi-presa-na-tarde-desta-quarta-feira-em-rondonopolis-apos-romper-a-tornozeleira-eletronica-que-utilizava-para/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-26T08:03:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
