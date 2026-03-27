@@ -1,43 +1,17 @@
 {
-  "generated_at": "2026-03-27T18:00:05.377241-04:00",
+  "generated_at": "2026-03-27T19:00:05.742086-04:00",
   "window": {
-    "start": "2026-03-27T17:00:05.377241-04:00",
-    "end": "2026-03-27T18:00:05.377241-04:00"
+    "start": "2026-03-27T18:00:05.742086-04:00",
+    "end": "2026-03-27T19:00:05.742086-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PM prende homem com mandado de prisão em aberto após atitude suspeita em Cuiabá",
-        "link": "https://perrenguematogrosso.com/pm-homem-mandado-aberto-cuiaba/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-27T17:00:11-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Técnico da Argentina evita cravar Messi na Copa e deixa decisão nas mãos do jogador",
-        "link": "https://perrenguematogrosso.com/tecnico-da-argentina-evita-cravar-messi-na-copa/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-27T17:17:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Chuva trava obras em Cuiabá e prefeito explica por que máquinas podem piorar situação das ruas; veja vídeo",
-        "link": "https://perrenguematogrosso.com/chuva-trava-obras-em-cuiaba-e-prefeito-explica-por-que-maquinas-podem-piorar-situacao-das-ruas-veja-video/",
+        "title": "Gilmar Mendes evita comentar investigações no TJMT e reforça ligação histórica com o tribunal; veja vídeo",
+        "link": "https://perrenguematogrosso.com/gilmar-mendes-evita-comentar-investigacoes-no-tjmt-e-reforca-ligacao-historica-com-o-tribunal-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-27T17:37:22-04:00",
+        "published": "2026-03-27T18:01:26-04:00",
         "categories": [
           "Política"
         ],
@@ -46,53 +20,40 @@
         ]
       },
       {
-        "title": "Helicóptero interrompe trânsito ao pousar na Avenida do CPA e surpreende motoristas em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/helicoptero-pousar-avenida-cpa-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-27T17:52:15-04:00",
+        "title": "Joia do Bayern pode deixar o Brasil: promessa de 17 anos entra no radar de Portugal",
+        "link": "https://perrenguematogrosso.com/joia-do-bayern-pode-deixar-o-brasil/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-27T18:18:00-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Esporte"
         ],
         "category_ids": [
-          16
+          509
         ]
       },
       {
-        "title": "Motorista foge após bater em poste e deixa risco de eletrocussão em avenida de Betim",
-        "link": "https://perrenguematogrosso.com/motorista-foge-apos-bater-em-poste-e-deixa-risco-de-eletrocussao-em-avenida-de-betim/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-27T17:59:19-04:00",
+        "title": "Nova USF no Praeiro amplia atendimento e marca sequência de entregas na saúde em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/nova-usf-no-praeiro/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-27T18:20:36-04:00",
         "categories": [
-          "Notícias"
+          "Política"
         ],
         "category_ids": [
-          5
+          510
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Scaloni evita cravar Messi na Copa e deixa decisão nas mãos do craque",
-        "link": "https://omatogrossense.com/scaloni-evita-cravar-messi-na-copa/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-27T17:17:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Chuva trava obras em Cuiabá e prefeito explica por que máquinas podem piorar situação das ruas; veja vídeo",
-        "link": "https://omatogrossense.com/chuva-trava-obras-em-cuiaba-e-prefeito-explica-por-que-maquinas-podem-piorar-situacao-das-ruas-veja-video/",
+        "title": "Gilmar Mendes evita comentar investigações no TJMT e reforça ligação histórica com o tribunal; veja vídeo",
+        "link": "https://omatogrossense.com/gilmar-mendes-evita-comentar-investigacoes-no-tjmt-e-reforca-ligacao-historica-com-o-tribunal-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-27T17:37:33-04:00",
+        "published": "2026-03-27T18:01:31-04:00",
         "categories": [
           "Política"
         ],
@@ -101,29 +62,29 @@
         ]
       },
       {
-        "title": "Helicóptero pousa na Avenida do CPA e chama atenção de motoristas em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/helicoptero-pousa-avenida-cpa-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-27T17:53:13-04:00",
+        "title": "Bayern revela joia brasileira e Portugal tenta convencer atacante a mudar de seleção",
+        "link": "https://omatogrossense.com/bayern-revela-joia-brasileira/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-27T18:18:00-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       },
       {
-        "title": "Colisão em poste deixa fios expostos e mobiliza bombeiros após fuga de motorista; Veja vídeo",
-        "link": "https://omatogrossense.com/136593-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-27T17:56:17-04:00",
+        "title": "Nova USF no Praeiro amplia atendimento e marca sequência de entregas na saúde em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/nova-usf-no-praeiro-amplia-atendimento-e-marca-sequencia-de-entregas-na-saude-em-cuiaba-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-27T18:21:07-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Política"
         ],
         "category_ids": [
-          973
+          5
         ]
       }
     ],
