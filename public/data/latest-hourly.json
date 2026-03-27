@@ -1,154 +1,23 @@
 {
-  "generated_at": "2026-03-27T11:00:05.649885-04:00",
+  "generated_at": "2026-03-27T12:11:35.364002-04:00",
   "window": {
-    "start": "2026-03-27T10:00:05.649885-04:00",
-    "end": "2026-03-27T11:00:05.649885-04:00"
+    "start": "2026-03-27T11:11:35.364002-04:00",
+    "end": "2026-03-27T12:11:35.364002-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Polícia Civil desmonta grupo ligado à pesca ilegal em Barão de Melgaço e Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-desmonta-grupo-pesca-ilegal-barao-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-27T10:34:29-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Jovem perde controle de moto, sofre queda e morre na Darcy Vargas",
-        "link": "https://perrenguematogrosso.com/jovem-perde-controle-de-moto-sofre-queda-e-morre-na-darcy-vargas/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-27T10:59:39-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
-    "afolhalivre": [
-      {
-        "title": "Polícia Militar intensifica policiamento com Operação Força Total em Primavera do Leste; veja vídeo",
-        "link": "https://afolhalivre.com/a-policia-militar-de-mato-grosso-iniciou-a-operacao-forca-total-em-primavera-do-leste-por-meio-do-11o-comando-regional-e-do-14o-batalhao/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-27T10:02:00-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
-    "omatogrossense": [
-      {
-        "title": "Polícia Civil intensifica combate à pesca ilegal e cumpre mandados contra suspeitos em MT; veja vídeo",
-        "link": "https://omatogrossense.com/policia-combate-pesca-ilegal-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-27T10:35:39-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Pane Seca no Centro de São Paulo Mobiliza Ajuda e Pode Gerar Multa ao Motorista; Veja vídeo",
-        "link": "https://omatogrossense.com/pane-seca-no-centro-de-sao-paulo-mobiliza-ajuda-e-pode-gerar-multa-ao-motorista-veja-video/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-27T10:59:40-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "portalnortemt": [
-      {
-        "title": "Polícia Civil cumpre 100 mandados e desarticula esquema de R$ 200 milhões com atuação decisiva da Draco de Sinop; veja vídeo",
-        "link": "https://portalnortemt.com/a-policia-civil-de-mato-grosso-deflagrou-nesta-quinta-feira-26-a-operacao-speakeasy-e-desarticulou-um-esquema-milionario-de-lavagem-de/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-27T10:01:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Máquina agrícola se desprende de carreta e tomba em Rondonópolis após manobra em rotatória",
-        "link": "https://roonoticias.com/um-acidente-envolvendo-uma-carreta-prancha-e-uma-maquina-agricola-assustou-motoristas-na-tarde-desta-quinta-feira-26-em-rondonopolis/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-27T10:01:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
