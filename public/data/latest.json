@@ -1,23 +1,164 @@
 {
-  "generated_at": "2026-03-27T16:04:49.851478-04:00",
+  "generated_at": "2026-03-27T17:02:44.350725-04:00",
   "window": {
-    "start": "2026-03-27T15:04:49.851478-04:00",
-    "end": "2026-03-27T16:04:49.851478-04:00"
+    "start": "2026-03-27T16:02:44.350725-04:00",
+    "end": "2026-03-27T17:02:44.350725-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Lesão de Raphinha preocupa Barcelona e pode tirar atacante de jogos decisivos",
+        "link": "https://perrenguematogrosso.com/lesao-de-raphinha-preocupa-barcelona/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-27T16:16:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Cuiabá prepara maior festa cultural da história com mais de 50 atrações e programação diversificada; veja vídeo",
+        "link": "https://perrenguematogrosso.com/cuiaba-prepara-maior-festa-cultural-da-historia-com-mais-de-50-atracoes-e-programacao-diversificada-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-27T16:54:53-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Trabalhador sofre choque elétrico em poste e fica pendurado durante manutenção; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/329472-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-27T16:56:06-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "PM prende homem com mandado de prisão em aberto após atitude suspeita em Cuiabá",
+        "link": "https://perrenguematogrosso.com/pm-homem-mandado-aberto-cuiaba/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-27T17:00:11-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Lesão de Raphinha liga alerta no Barcelona e pode afetar jogos decisivos",
+        "link": "https://omatogrossense.com/lesao-de-raphinha-liga-alerta-no-barcelona/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-27T16:16:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Descarga elétrica atinge trabalhador em poste e mobiliza resgate urgente; Veja vídeo",
+        "link": "https://omatogrossense.com/136558-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-27T16:55:41-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Cuiabá prepara maior festa cultural da história com mais de 50 atrações e programação diversificada; veja vídeo",
+        "link": "https://omatogrossense.com/cuiaba-prepara-maior-festa-cultural-da-historia-com-mais-de-50-atracoes-e-programacao-diversificada-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-27T16:56:01-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "PM captura suspeito com mandado em aberto após demonstrar nervosismo em Cuiabá",
+        "link": "https://omatogrossense.com/pm-captura-suspeito-com-mandado-em-aberto-apos-demonstrar-nervosismo-em-cuiaba/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-27T16:59:04-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
