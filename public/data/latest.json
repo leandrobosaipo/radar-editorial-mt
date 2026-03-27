@@ -1,25 +1,256 @@
 {
-  "generated_at": "2026-03-27T14:07:21.781081-04:00",
+  "generated_at": "2026-03-27T15:00:01.175302-04:00",
   "window": {
-    "start": "2026-03-27T00:00:00-04:00",
-    "end": "2026-03-27T14:00:00-04:00"
+    "start": "2026-03-27T14:00:01.175302-04:00",
+    "end": "2026-03-27T15:00:01.175302-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "“De joelhos”: derrota do Brasil para França repercute mal na imprensa internacional",
+        "link": "https://perrenguematogrosso.com/derrota-do-brasil-para-franca-repercute-mal-na-imprensa-internacional/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-27T14:14:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Funcionário interrompe palestra e denuncia condições de trabalho em empresa de transporte; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/funcionario-interrompe-palestra-e-denuncia-condicoes-de-trabalho-em-empresa-de-transporte-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-27T14:40:44-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "COI muda regras e restringe participação feminina nas Olimpíadas com novo critério genético",
+        "link": "https://perrenguematogrosso.com/coi-muda-regras-e-restringe-participacao-feminina-nas-olimpiadas-com-novo-criterio-genetico/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-27T14:48:07-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Mulher é presa com arma ilegal e grande quantidade de drogas em Nova Mutum; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mulher-presa-arma-ilegal-drogas-nova-mutum-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-27T14:49:16-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "“De joelhos”: derrota do Brasil para a França repercute mal na imprensa internacional",
+        "link": "https://omatogrossense.com/derrota-do-brasil-para-a-franca-repercute-mal-na-imprensa-internacional/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-27T14:14:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Funcionário interrompe palestra e denuncia condições de trabalho em empresa de transporte; Veja vídeo",
+        "link": "https://omatogrossense.com/funcionario-interrompe-palestra-e-denuncia-condicoes-de-trabalho-em-empresa-de-transporte-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-27T14:41:41-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "COI muda regras e restringe participação feminina nas Olimpíadas com novo critério genético",
+        "link": "https://omatogrossense.com/coi-muda-regras-e-restringe-participacao-feminina-nas-olimpiadas-com-novo-criterio-genetico/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-27T14:48:10-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "PM prende mulher com quase 1 kg de cocaína e arma raspada em Nova Mutum; veja vídeo",
+        "link": "https://omatogrossense.com/pm-prende-mulher-cocaina-arma-nova-mutum-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-27T14:49:18-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Irã compartilha vídeo que mostra defesa aérea atingindo jato dos EUA; veja vídeo",
+        "link": "https://roonoticias.com/a-guarda-revolucionaria-do-ira-afirmou-nesta-quinta-feira/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-27T14:06:17-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "São Paulo tem negociação em andamento com Botafogo por atacante Artur",
+        "link": "https://roonoticias.com/o-sao-paulo-avancou-nas-negociacoes-com-o-botafogo-para/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-27T14:12:32-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Aos 12 anos, nova joia do Palmeiras tem mais de 200 gols e carreira nas mãos de agentes de Vinicius Jr. e Endrick",
+        "link": "https://roonoticias.com/paulo-henrique-carneiro-neto-conhecido-como-ph-neto/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-27T14:17:30-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Como R$ 7 milhões ‘destinado à presidência’ ameaçam aprovação de contas de Casares no São Paulo",
+        "link": "https://roonoticias.com/o-sao-paulo-apresentou-na-ultima-quarta-feira-25/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-27T14:22:38-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Nikolas rebate Erika Hilton após ação na AGU: “Minha fã incubada”",
+        "link": "https://roonoticias.com/o-deputado-federal-nikolas-ferreira-reagiu-a-acao-apresentada/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-27T14:26:24-04:00",
+        "categories": [
+          "Policial"
+        ],
+        "category_ids": [
+          66
+        ]
+      },
+      {
+        "title": "PL acionará STF para reverter inelegibilidade de Castro, diz Valdemar",
+        "link": "https://roonoticias.com/o-presidente-nacional-do-partido-liberal-valdemar-costa-neto/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-27T14:33:37-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Sem mandato, Carlos Bolsonaro passa a ganhar salário do PL; veja valor",
+        "link": "https://roonoticias.com/sem-mandato-desde-dezembro-de-2025/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-27T14:37:16-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
-  }
-}ias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
