@@ -1,23 +1,560 @@
 {
-  "generated_at": "2026-03-27T14:07:21.781081-04:00",
+  "generated_at": "2026-03-28T14:00:52.153920-04:00",
   "window": {
-    "start": "2026-03-27T00:00:00-04:00",
-    "end": "2026-03-27T14:00:00-04:00"
+    "start": "2026-03-28T00:00:00-04:00",
+    "end": "2026-03-28T14:00:00-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      {
+        "title": "Cascavel é encontrada dentro de residência e assusta moradores; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/cascavel-e-encontrada-dentro-de-residencia-e-assusta-moradores-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-28T08:04:12-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem com tornozeleira eletrônica desligada é flagrado com drogas durante abordagem em Nova Mutum; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-flagrado-drogas-abordagem-nova-mutum-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-28T08:12:43-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Motorista de caminhonete invade casa após falha mecânica e mata duas mulheres em Tangará da Serra; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motorista-caminhonete-invade-casa-mata-mulheres-tangara-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-28T09:23:45-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Dupla ligada ao PCC é flagrada com drogas enterradas e esquema marítimo; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/329562-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-28T09:57:20-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Guarda Municipal coordena operação e fiscaliza bares e conveniências por poluição sonora e irregularidades em VG; veja vídeo",
+        "link": "https://perrenguematogrosso.com/operacao-fiscaliza-poluicao-sonora-vg-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-28T10:27:37-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Rapper fala sobre inclusão LGBTQIAPN+ e derruba preconceitos no mundo do rap; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/rapper-fala-sobre-inclusao-lgbtqiapn-e-derruba-preconceitos-no-mundo-do-rap-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-28T10:55:44-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Força Tática prende dupla com drogas prontas para venda e tentativa de suborno em Lucas do Rio Verde; veja vídeo",
+        "link": "https://perrenguematogrosso.com/forca-tatica-dupla-drogas-suborno-lucas-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-28T11:25:00-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Dupla de funcionárias é presa por furtos frequentes em supermercado; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/dupla-de-funcionarias-e-presa-por-furtos-frequentes-em-supermercado-de-goiania/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-28T11:54:30-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Servidores do SAMU realizam manifestação no centro de Cuiabá após desligamento de 56 profissionais; veja vídeo",
+        "link": "https://perrenguematogrosso.com/servidores-samu-manifestacao-centro-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-28T12:04:57-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Menina de 7 anos guarda espermatozoide para comprovar abuso do tio; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/menina-de-7-anos-guarda-espermatozoide-para-comprovar-abuso-do-tio-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-28T13:08:36-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Servidor encontra cascavel escondida em motor de carro da prefeitura em Jaciara; veja vídeo",
+        "link": "https://perrenguematogrosso.com/servidor-encontra-cascavel-motor-carro-jaciara-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-28T13:20:00-04:00",
+        "categories": [
+          "Notícias",
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          5,
+          16
+        ]
+      }
+    ],
+    "afolhalivre": [
+      {
+        "title": "Corte de árvores em avenida altera cenário urbano e revolta moradores em Primavera do Leste; veja vídeo",
+        "link": "https://afolhalivre.com/moradores-de-primavera-do-leste-reagiram-com-indignacao-apos-equipes-cortarem-arvores-na-avenida-pupunha-alem-disso-o-caso-ganhou/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T08:01:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Suspeito é flagrado com droga e cultivo ilegal durante patrulhamento em Primavera do Leste; veja vídeo",
+        "link": "https://afolhalivre.com/policiais-militares-intensificaram-o-patrulhamento-em-primavera-do-leste-e-abordaram-um-suspeito-durante-a-noite-de-quinta-feira-logo-apos-v/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T09:51:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Dois suspeitos são detidos com drogas e materiais do tráfico durante operação policial em Primavera do Leste",
+        "link": "https://afolhalivre.com/policiais-militares-intensificaram-o-patrulhamento-em-primavera-do-leste-e-conduziram-dois-suspeitos-por-trafico-de-drogas-na-tarde-de-sex/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T11:57:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Cobra cascavel é encontrada dentro de casa e mobiliza resgate em condomínio; Veja vídeo",
+        "link": "https://omatogrossense.com/cobra-cascavel-e-encontrada-dentro-de-casa-e-mobiliza-resgate-em-condominio-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-28T08:03:39-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Homem com tornozeleira desligada é flagrado com drogas em Nova Mutum; veja vídeo",
+        "link": "https://omatogrossense.com/homem-tornozeleira-desligada-drogas-nova-mutum-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-28T08:12:38-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Motorista invade casa e mata duas mulheres em Tangará da Serra; veja vídeo",
+        "link": "https://omatogrossense.com/motorista-invade-casa-mata-mulheres-tangara-serra/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-28T09:23:49-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Esquema com drogas por barco é descoberto e dupla acaba presa em flagrante; Veja vídeo",
+        "link": "https://omatogrossense.com/136636-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-28T09:56:59-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Operação Sossego Azul mobiliza forças de segurança e fiscaliza estabelecimentos em VG; veja vídeo",
+        "link": "https://omatogrossense.com/operacao-forcas-fiscaliza-estabelecimentos-vg-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-28T10:27:31-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Rapper faz discurso emocionante sobre amor e quebra de barreiras no rap; Veja vídeo",
+        "link": "https://omatogrossense.com/rapper-faz-discurso-emocionante-sobre-amor-e-quebra-de-barreiras-no-rap-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-28T10:55:05-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Força Tática prende dupla com drogas e flagra tentativa de suborno em Lucas do Rio Verde; veja vídeo",
+        "link": "https://omatogrossense.com/forca-tatica-prende-dupla-drogas-lucas-rio-verde-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-28T11:33:39-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Funcionárias são presas por furtar supermercado; Veja vídeo",
+        "link": "https://omatogrossense.com/funcionarias-sao-presas-por-furtar-supermercado-em-goiania/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-28T11:53:44-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Servidores do SAMU realizam protesto no centro de Cuiabá após desligamento de 56 profissionais; veja vídeo",
+        "link": "https://omatogrossense.com/servidores-samu-protesto-centro-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-28T12:05:10-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Criança de 7 anos guarda espermatozoide na boca para provar abuso do tio; Veja vídeo",
+        "link": "https://omatogrossense.com/crianca-de-7-anos-guarda-espermatozoide-na-boca-para-provar-abuso-do-tio-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-28T13:08:47-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Servidor encontra cascavel escondida em motor de veículo público em Jaciara; veja vídeo",
+        "link": "https://omatogrossense.com/cascavel-escondida-motor-veiculo-jaciara-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-28T13:20:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "portalnortemt": [
+      {
+        "title": "Mulher é morta com facada no pescoço em Sinop e suspeito é preso em flagrante",
+        "link": "https://portalnortemt.com/uma-mulher-morreu-apos-sofrer-um-ataque-com-faca-na-tarde-desta-sexta-feira-em-sinop-na-rua-11-no-bairro-boa-esperanca-o-corpo-de-bombeiros/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T07:54:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Mais de 50 quilos de drogas são encontrados enterrados em área urbana de Lucas do Rio Verde",
+        "link": "https://portalnortemt.com/a-policia-civil-apreendeu-grande-quantidade-de-entorpecentes-durante-acao-da-derf-em-lucas-do-rio-verde-equipes-realizaram-buscas-em-uma-are/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T09:54:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Homem com tornozeleira volta a ser detido por tráfico de drogas em Sinop",
+        "link": "https://portalnortemt.com/policiais-militares-prenderam-um-suspeito-de-trafico-de-drogas-durante-acao-da-cavalaria-em-sinop-proximo-ao-parque-do-jardim-botanico-o-hom/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T12:01:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Corpo encontrado em mata pode ser de jovem desaparecido há três dias em Pontes e Lacerda",
+        "link": "https://portalpantanalmt.com/equipes-localizaram-o-corpo-de-um-homem-nesta-sexta-feira-em-uma-area-de-mata-em-pontes-e-lacerda-a-suspeita-aponta-que-a-vitima-seja/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T08:04:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      },
+      {
+        "title": "Viatura da Polícia Militar sai da pista após derrapagem em trecho entre Cáceres e Cuiabá",
+        "link": "https://portalpantanalmt.com/um-policial-militar-perdeu-o-controle-da-viatura-durante-deslocamento-na-manha-desta-quinta-feira-na-br-070-no-trecho-entre-caceres-e-cuiaba/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T10:00:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      },
+      {
+        "title": "Suspeito foge da Polícia Militar pulando muros e abandona dinheiro e droga em Cáceres",
+        "link": "https://portalpantanalmt.com/policiais-militares-avistaram-um-homem-em-atitude-suspeita-durante-rondas-na-tarde-desta-sexta-feira-na-rua-dos-sapateiros-no-bairro-rodeio/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T12:01:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Motociclista com sinais de embriaguez perde controle e bate em poste em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-motociclista-perdeu-o-controle-da-direcao-e-bateu-contra-um-poste-na-manha-desta-sexta-feira-em-rondonopolis-no-bairro-sagrada-familia/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T07:53:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Carga de madeira com irregularidades é interceptada em fiscalização na BR-364 em Rondonópolis",
+        "link": "https://roonoticias.com/a-policia-rodoviaria-federal-abordou-um-caminhao-m-benz-l-2013-durante-fiscalizacao-no-km-211-da-br-364-em-rondonopolis-a-equipe-realizou-a/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T09:59:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Foragido com tornozeleira desligada é reconhecido e preso durante ronda policial em Rondonópolis",
+        "link": "https://roonoticias.com/policiais-militares-localizaram-e-prenderam-um-homem-com-mandado-em-aberto-durante-patrulhamento-no-centro-de-rondonopolis-na-manha-de-sexta/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T12:05:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Polícia Civil desmonta grupo ligado à pesca ilegal em Barão de Melgaço e Cuiabá; veja vídeo",
+        "link": "https://roonoticias.com/a-policia-civil-de-mato-grosso-deflagrou-3/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-28T12:24:02-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Motorista embriagado invade contramão, atinge dois motociclistas e foge em Cuiabá; veja vídeo",
+        "link": "https://roonoticias.com/uma-camera-de-seguranca-registrou-um-grave-acidente-na-noite/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-28T13:11:15-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Operação policial apreende drogas, arma e desmantela ponto de tráfico em Nova Mutum; veja vídeo",
+        "link": "https://roonoticias.com/a-policia-militar-prendeu-uma-mulher-de-32-anos/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-28T13:34:08-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Milagre acontece após capela desabar e deixa fiéis chocados; veja vídeo",
+        "link": "https://roonoticias.com/a-capela-de-santa-ana-desabou-na-noite-de-quarta-feira/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-28T13:49:17-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
