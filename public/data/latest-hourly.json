@@ -1,112 +1,23 @@
 {
-  "generated_at": "2026-03-28T11:00:00.234239-04:00",
+  "generated_at": "2026-03-28T12:01:04.422071-04:00",
   "window": {
-    "start": "2026-03-28T10:00:00.234239-04:00",
-    "end": "2026-03-28T11:00:00.234239-04:00"
+    "start": "2026-03-28T11:01:04.422071-04:00",
+    "end": "2026-03-28T12:01:04.422071-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Guarda Municipal coordena operação e fiscaliza bares e conveniências por poluição sonora e irregularidades em VG; veja vídeo",
-        "link": "https://perrenguematogrosso.com/operacao-fiscaliza-poluicao-sonora-vg-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-28T10:27:37-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Rapper fala sobre inclusão LGBTQIAPN+ e derruba preconceitos no mundo do rap; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/rapper-fala-sobre-inclusao-lgbtqiapn-e-derruba-preconceitos-no-mundo-do-rap-veja-video/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-28T10:55:44-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Operação Sossego Azul mobiliza forças de segurança e fiscaliza estabelecimentos em VG; veja vídeo",
-        "link": "https://omatogrossense.com/operacao-forcas-fiscaliza-estabelecimentos-vg-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-28T10:27:31-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Rapper faz discurso emocionante sobre amor e quebra de barreiras no rap; Veja vídeo",
-        "link": "https://omatogrossense.com/rapper-faz-discurso-emocionante-sobre-amor-e-quebra-de-barreiras-no-rap-veja-video/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-28T10:55:05-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
