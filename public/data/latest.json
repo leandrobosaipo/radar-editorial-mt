@@ -1,23 +1,112 @@
 {
-  "generated_at": "2026-03-28T18:05:08.628484-04:00",
+  "generated_at": "2026-03-28T19:12:00.984814-04:00",
   "window": {
-    "start": "2026-03-28T17:05:08.628484-04:00",
-    "end": "2026-03-28T18:05:08.628484-04:00"
+    "start": "2026-03-28T18:12:00.984814-04:00",
+    "end": "2026-03-28T19:12:00.984814-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Imagens revelam volume extremo de água na Cachoeira da Fumaça após fortes chuvas em Jaciara; veja vídeo",
+        "link": "https://perrenguematogrosso.com/volume-extremo-agua-cachoeira-fumaca-jaciara-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-28T18:30:00-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Queda de balão provoca incêndio em residência; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/queda-de-balao-provoca-incendio-em-residencia-e-mobiliza-equipes-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-28T18:52:34-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Visitantes registram aumento do volume de água na Cachoeira da Fumaça após chuvas em Jaciara; veja vídeo",
+        "link": "https://omatogrossense.com/aumento-volume-agua-cachoeira-fumaca-jaciara-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-28T18:30:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Balão atinge casa, provoca curto-circuito; Veja vídeo",
+        "link": "https://omatogrossense.com/balao-atinge-casa-provoca-curto-circuito-e-acende-alerta-para-incendios-em-sp/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-28T18:54:43-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
