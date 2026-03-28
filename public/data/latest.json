@@ -1,15 +1,97 @@
 {
-  "generated_at": "2026-03-28T08:00:05.369301-04:00",
+  "generated_at": "2026-03-28T09:00:05.286268-04:00",
   "window": {
-    "start": "2026-03-28T07:00:05.369301-04:00",
-    "end": "2026-03-28T08:00:05.369301-04:00"
+    "start": "2026-03-28T08:00:05.286268-04:00",
+    "end": "2026-03-28T09:00:05.286268-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Cascavel é encontrada dentro de residência e assusta moradores; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/cascavel-e-encontrada-dentro-de-residencia-e-assusta-moradores-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-28T08:04:12-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem com tornozeleira eletrônica desligada é flagrado com drogas durante abordagem em Nova Mutum; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-flagrado-drogas-abordagem-nova-mutum-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-28T08:12:43-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      }
+    ],
+    "afolhalivre": [
+      {
+        "title": "Corte de árvores em avenida altera cenário urbano e revolta moradores em Primavera do Leste; veja vídeo",
+        "link": "https://afolhalivre.com/moradores-de-primavera-do-leste-reagiram-com-indignacao-apos-equipes-cortarem-arvores-na-avenida-pupunha-alem-disso-o-caso-ganhou/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T08:01:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Cobra cascavel é encontrada dentro de casa e mobiliza resgate em condomínio; Veja vídeo",
+        "link": "https://omatogrossense.com/cobra-cascavel-e-encontrada-dentro-de-casa-e-mobiliza-resgate-em-condominio-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-28T08:03:39-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Homem com tornozeleira desligada é flagrado com drogas em Nova Mutum; veja vídeo",
+        "link": "https://omatogrossense.com/homem-tornozeleira-desligada-drogas-nova-mutum-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-28T08:12:38-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
-    "portalpantanalmt": [],
+    "portalpantanalmt": [
+      {
+        "title": "Corpo encontrado em mata pode ser de jovem desaparecido há três dias em Pontes e Lacerda",
+        "link": "https://portalpantanalmt.com/equipes-localizaram-o-corpo-de-um-homem-nesta-sexta-feira-em-uma-area-de-mata-em-pontes-e-lacerda-a-suspeita-aponta-que-a-vitima-seja/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-28T08:04:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
     "roonoticias": []
   },
   "menu_category_ids": {
