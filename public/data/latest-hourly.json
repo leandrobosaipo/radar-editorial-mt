@@ -1,93 +1,13 @@
 {
-  "generated_at": "2026-03-27T20:00:00.474519-04:00",
+  "generated_at": "2026-03-28T08:00:05.369301-04:00",
   "window": {
-    "start": "2026-03-27T19:00:00.474519-04:00",
-    "end": "2026-03-27T20:00:00.474519-04:00"
+    "start": "2026-03-28T07:00:05.369301-04:00",
+    "end": "2026-03-28T08:00:05.369301-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Piastri lidera treino no Japão, Verstappen reclama e Bortoleto enfrenta problema técnico",
-        "link": "https://perrenguematogrosso.com/piastri-lidera-treino-no-japao/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-27T19:19:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Homem é imobilizado e preso em tentativa de fuga da polícia em Tangará da Serra; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-e-imobilizado-e-preso-em-tentativa-de-fuga-da-policia-em-tangara-da-serra-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-27T19:25:34-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Comportamento incomum de boi mamando em vaca acende alerta para prejuízos na produção rural; veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-caso-curioso-registrado-em-uma-propriedade-rural-chamou-a-atencao-apos-um-boi-adulto-ser-flagrado-mamando-leite-diretamente-de-uma-vaca/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-03-27T19:30:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Piastri lidera treino no Japão, Verstappen reclama do carro e Bortoleto enfrenta problema técnico",
-        "link": "https://omatogrossense.com/piastri-lidera-treino-no-japao/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-27T19:19:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Homem é imobilizado e preso em tentativa de fuga da polícia em Tangará da Serra; veja vídeo",
-        "link": "https://omatogrossense.com/homem-e-imobilizado-e-preso-em-tentativa-de-fuga-da-policia-em-tangara-da-serra-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-27T19:25:28-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Comportamento incomum de boi mamando em vaca acende alerta para prejuízos na produção rural; veja vídeo",
-        "link": "https://omatogrossense.com/um-caso-curioso-registrado-em-uma-propriedade-rural-chamou-a-atencao-apos-um-boi-adulto-ser-flagrado-mamando-leite-diretamente-de-uma-vaca/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-27T19:30:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
