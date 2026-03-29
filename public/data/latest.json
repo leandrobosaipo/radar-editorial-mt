@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-03-29T16:00:05.318933-04:00",
+  "generated_at": "2026-03-29T17:05:49.015164-04:00",
   "window": {
-    "start": "2026-03-29T15:00:05.318933-04:00",
-    "end": "2026-03-29T16:00:05.318933-04:00"
+    "start": "2026-03-29T16:05:49.015164-04:00",
+    "end": "2026-03-29T17:05:49.015164-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Susto na F1: Bearman se envolve em disputa intensa, mas escapa sem ferimentos graves; veja vídeo",
-        "link": "https://perrenguematogrosso.com/susto-na-f1-bearman-se-envolve-em-disputa-intensa-mas-escapa-sem-ferimentos-graves-veja-video/",
+        "title": "Patinadora se machuca no gelo, sangra durante apresentação e impressiona ao terminar rotina",
+        "link": "https://perrenguematogrosso.com/patinadora-se-machuca-no-gelo-sangra-durante-apresentacao-e-impressiona-ao-terminar-rotina/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-29T15:50:55-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Briga entre mulheres termina em morte na Colômbia e caso levanta questionamentos sobre legítima defesa; veja vídeo",
-        "link": "https://perrenguematogrosso.com/briga-entre-mulheres-termina-em-morte-na-colombia-e-caso-levanta-questionamentos-sobre-legitima-defesa-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-29T15:52:56-04:00",
+        "published": "2026-03-29T16:55:58-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,11 +20,11 @@
         ]
       },
       {
-        "title": "Estudante de MT conquista aprovação em Harvard, Stanford e mais 3 universidades dos EUA; veja vídeo",
-        "link": "https://perrenguematogrosso.com/estudante-de-mt-conquista-aprovacao-em-harvard-stanford-e-mais-3-universidades-dos-eua-veja-video/",
+        "title": "Debaixo da ponte: famílias vivem há 30 anos em área invisível de Várzea Grande",
+        "link": "https://perrenguematogrosso.com/329837-2/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-03-29T15:54:46-04:00",
+        "published": "2026-03-29T16:56:36-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -49,24 +36,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Susto na F1: Bearman se envolve em disputa intensa, mas escapa sem ferimentos graves; veja vídeo",
-        "link": "https://omatogrossense.com/susto-na-f1-bearman-se-envolve-em-disputa-intensa-mas-escapa-sem-ferimentos-graves-veja-video/",
+        "title": "Patinadora se machuca no gelo, sangra durante apresentação e impressiona ao terminar rotina",
+        "link": "https://omatogrossense.com/patinadora-se-machuca-no-gelo-sangra-durante-apresentacao-e-impressiona-ao-terminar-rotina/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-29T15:51:01-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Briga entre mulheres termina em morte na Colômbia e caso levanta questionamentos sobre legítima defesa; veja vídeo",
-        "link": "https://omatogrossense.com/briga-entre-mulheres-termina-em-morte-na-colombia-e-caso-levanta-questionamentos-sobre-legitima-defesa-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-29T15:53:08-04:00",
+        "published": "2026-03-29T16:56:25-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -75,11 +49,11 @@
         ]
       },
       {
-        "title": "Estudante de MT conquista aprovação em Harvard, Stanford e mais 3 universidades dos EUA; veja vídeo",
-        "link": "https://omatogrossense.com/estudante-de-mt-conquista-aprovacao-em-harvard-stanford-e-mais-3-universidades-dos-eua-veja-video/",
+        "title": "Debaixo da ponte: famílias vivem há 30 anos em área invisível de Várzea Grande",
+        "link": "https://omatogrossense.com/136873-2/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-03-29T15:54:55-04:00",
+        "published": "2026-03-29T16:56:50-04:00",
         "categories": [
           "MT Notícias"
         ],
