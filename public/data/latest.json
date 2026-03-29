@@ -1,67 +1,13 @@
 {
-  "generated_at": "2026-03-29T17:05:49.015164-04:00",
+  "generated_at": "2026-03-29T18:00:00.231718-04:00",
   "window": {
-    "start": "2026-03-29T16:05:49.015164-04:00",
-    "end": "2026-03-29T17:05:49.015164-04:00"
+    "start": "2026-03-29T17:00:00.231718-04:00",
+    "end": "2026-03-29T18:00:00.231718-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Patinadora se machuca no gelo, sangra durante apresentação e impressiona ao terminar rotina",
-        "link": "https://perrenguematogrosso.com/patinadora-se-machuca-no-gelo-sangra-durante-apresentacao-e-impressiona-ao-terminar-rotina/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-29T16:55:58-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Debaixo da ponte: famílias vivem há 30 anos em área invisível de Várzea Grande",
-        "link": "https://perrenguematogrosso.com/329837-2/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-29T16:56:36-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Patinadora se machuca no gelo, sangra durante apresentação e impressiona ao terminar rotina",
-        "link": "https://omatogrossense.com/patinadora-se-machuca-no-gelo-sangra-durante-apresentacao-e-impressiona-ao-terminar-rotina/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-29T16:56:25-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Debaixo da ponte: famílias vivem há 30 anos em área invisível de Várzea Grande",
-        "link": "https://omatogrossense.com/136873-2/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-29T16:56:50-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
