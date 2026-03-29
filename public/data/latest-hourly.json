@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-28T19:12:00.984814-04:00",
+  "generated_at": "2026-03-28T20:00:05.937319-04:00",
   "window": {
-    "start": "2026-03-28T18:12:00.984814-04:00",
-    "end": "2026-03-28T19:12:00.984814-04:00"
+    "start": "2026-03-28T19:00:05.937319-04:00",
+    "end": "2026-03-28T20:00:05.937319-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Imagens revelam volume extremo de água na Cachoeira da Fumaça após fortes chuvas em Jaciara; veja vídeo",
-        "link": "https://perrenguematogrosso.com/volume-extremo-agua-cachoeira-fumaca-jaciara-veja-video/",
+        "title": "Piloto compartilha vídeo completo da manobra de pouso em aeroporto de Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/piloto-manobra-pouso-aeroporto-varzea-grande-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-28T18:30:00-04:00",
+        "published": "2026-03-28T19:30:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "Queda de balão provoca incêndio em residência; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/queda-de-balao-provoca-incendio-em-residencia-e-mobiliza-equipes-veja-video/",
+        "title": "Mulher contrata trabalhadores latinos para reforma e aciona imigração ao final para evitar pagamento de US$ 10 mil; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/mulher-contrata-trabalhadores-latinos-para-reforma-e-aciona-imigracao-ao-final-para-evitar-pagamento-de-us-10-mil-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-28T18:52:34-04:00",
+        "published": "2026-03-28T19:53:47-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,11 +36,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Visitantes registram aumento do volume de água na Cachoeira da Fumaça após chuvas em Jaciara; veja vídeo",
-        "link": "https://omatogrossense.com/aumento-volume-agua-cachoeira-fumaca-jaciara-video/",
+        "title": "Piloto publica registro completo da aterrissagem em aeroporto de Várzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/piloto-registro-aterrissagem-aeroporto-varzea-grande-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-28T18:30:00-04:00",
+        "published": "2026-03-28T19:30:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,11 +49,11 @@
         ]
       },
       {
-        "title": "Balão atinge casa, provoca curto-circuito; Veja vídeo",
-        "link": "https://omatogrossense.com/balao-atinge-casa-provoca-curto-circuito-e-acende-alerta-para-incendios-em-sp/",
+        "title": "Mulher contrata latinos para reformar casa e, ao final do serviço, aciona imigração e evita pagamento de US$ 10 mil; Veja vídeo",
+        "link": "https://omatogrossense.com/mulher-contrata-latinos-para-reformar-casa-e-ao-final-do-servico-aciona-imigracao-e-evita-pagamento-de-us-10-mil-veja-video/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-28T18:54:43-04:00",
+        "published": "2026-03-28T19:53:56-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -74,13 +74,7 @@
       509,
       510
     ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       5,
       7,
