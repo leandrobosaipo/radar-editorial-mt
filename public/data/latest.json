@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-29T10:00:04.623693-04:00",
+  "generated_at": "2026-03-29T11:00:05.288521-04:00",
   "window": {
-    "start": "2026-03-29T09:00:04.623693-04:00",
-    "end": "2026-03-29T10:00:04.623693-04:00"
+    "start": "2026-03-29T10:00:05.288521-04:00",
+    "end": "2026-03-29T11:00:05.288521-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Criminosa caí no momento da fuga após roubar joalheria em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/criminosa-cai-no-momento-da-fuga-apos-roubar-joalheria-em-cuiaba-veja-video/",
+        "title": "Hospital de Tabaporã é denunciado por infestação de carrapatos; veja vídeo",
+        "link": "https://perrenguematogrosso.com/hospital-de-tabapora-e-denunciado-por-infestacao-de-carrapatos-veja-video/",
         "author": "Victor Hugo Moreira do Nascimento",
         "author_id": 293,
-        "published": "2026-03-29T09:20:55-04:00",
+        "published": "2026-03-29T10:14:46-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "Criança de 2 anos luta contra peso e consegue salvar o irmão preso sob cômoda; veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-momento-registrado-por-uma-camera-de-baba-eletronica-mostrou-a-reacao-rapida-de-uma-crianca-de-apenas-2-anos-ao-perceber/",
+        "title": "Incêndio de grandes proporções mobiliza força-tarefa e provoca apagão em área central; veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-incendio-de-grandes-proporcoes-atingiu-uma-edificacao-comercial-na-regiao-central-de-sao-paulo-na-noite-de-sabado-28-mobilizando/",
         "author": "Lindy Oliveira",
         "author_id": 292,
-        "published": "2026-03-29T10:00:00-04:00",
+        "published": "2026-03-29T11:00:00-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,24 +36,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Céu fica vermelho cor de sangue e fenômeno raro impressiona o mundo; veja vídeo",
-        "link": "https://omatogrossense.com/um-ciclone-com-trajetoria-considerada-incomum-transformou-o-ceu-sobre-a-baia-dos-tubaroes-na-australia-ocidental-em-um/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-29T09:01:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Criminosa caí no momento da fuga após roubar joalheria em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/criminosa-cai-no-momento-da-fuga-apos-roubar-joalheria-em-cuiaba-veja-video/",
+        "title": "Hospital de Tabaporã é denunciado por infestação de carrapatos; veja vídeo",
+        "link": "https://omatogrossense.com/hospital-de-tabapora-e-denunciado-por-infestacao-de-carrapatos-veja-video/",
         "author": "Victor Hugo Moreira do Nascimento",
         "author_id": 28,
-        "published": "2026-03-29T09:23:52-04:00",
+        "published": "2026-03-29T10:14:43-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,11 +49,11 @@
         ]
       },
       {
-        "title": "Criança de 2 anos luta contra peso e consegue salvar o irmão preso sob cômoda; veja vídeo",
-        "link": "https://omatogrossense.com/um-momento-registrado-por-uma-camera-de-baba-eletronica-mostrou-a-reacao-rapida-de-uma-crianca-de-apenas-2-anos-ao-perceber/",
+        "title": "Incêndio de grandes proporções mobiliza força-tarefa e provoca apagão em área central; veja vídeo",
+        "link": "https://omatogrossense.com/um-incendio-de-grandes-proporcoes-atingiu-uma-edificacao-comercial-na-regiao-central-de-sao-paulo-na-noite-de-sabado-28-mobilizando/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-03-29T10:00:00-04:00",
+        "published": "2026-03-29T11:00:00-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -75,127 +62,37 @@
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+    "portalnortemt": [
       {
-        "title": "Mãe de Virginia exibe corpo após 30 dias de cirurgias e comemora com novo procedimento; veja vídeo",
-        "link": "https://roonoticias.com/margareth-serrao-mae-da-influenciadora-virginia-fonseca/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-29T09:01:10-04:00",
+        "title": "Polícia descobre “cemitério” de drogas enterradas em área de mata em Lucas do Rio Verde; veja vídeo",
+        "link": "https://portalnortemt.com/uma-operacao-da-policia-civil-revelou-um-esquema-estruturado-de-armazenamento-de-drogas-em-lucas-do-rio-verde-e-alem-disso-escancaro/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-29T10:05:00-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Sinop"
         ],
         "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Moraes nega livre acesso de filhos de Bolsonaro em prisão domiciliar",
-        "link": "https://roonoticias.com/o-ministro-alexandre-de-moraes-do-supremo-tribunal-3/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-29T09:04:31-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "MPF denuncia ex-presidente do Rioprevidência por obstrução de justiça",
-        "link": "https://roonoticias.com/o-ministerio-publico-federal-do-rio-de-janeiro-denunciou/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-29T09:06:55-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Jorge Martín vence corrida sprint do GP dos EUA de MotoGP na última volta; Diogo Moreira abandona prova",
-        "link": "https://roonoticias.com/jorge-martin-venceu-a-prova-sprint-do-grande-premio/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-29T09:08:07-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Filipe Luís abre rotina na Europa e revela ‘próximos passos’ após deixar Flamengo",
-        "link": "https://roonoticias.com/demitido-do-flamengo-no-dia-3-de-maio/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-29T09:09:16-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Denúncia após serviço quase concluído leva trabalhadores à detenção e gera indignação nos EUA; veja vídeo",
-        "link": "https://roonoticias.com/uma-mulher-acionou-agentes-de-imigracao-dos-estados-unidos/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-29T09:10:42-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Advogado morre em grave acidente de trânsito em Alta Floresta; veja vídeo",
-        "link": "https://roonoticias.com/um-advogado-de-33-anos-identificado-como-atilio-valnez/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-29T09:13:19-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Operação Sossego Azul intensifica fiscalização e reforça segurança em Várzea Grande; veja vídeo",
-        "link": "https://roonoticias.com/a-guarda-municipal-de-varzea-grande-coordenou/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-29T09:14:07-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Polícia descobre drogas enterradas e desmantela esconderijo da facção; veja vídeo",
-        "link": "https://roonoticias.com/uma-operacao-da-policia-civil-revelou-um-esquema-estruturado-de-armazenamento-de-drogas-em-lucas-do-rio-verde-e-alem-disso-escancaro/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-29T09:17:02-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
+          3030
         ]
       }
-    ]
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Criminosos tentam invadir casa em Cáceres, disparam contra residência e vítimas escapam por pouco",
+        "link": "https://portalpantanalmt.com/uma-mulher-de-31-anos-e-uma-adolescente-de-16-viveram-momentos-de-panico-apos-uma-tentativa-de-homicidio-no-bairro-vista-alegre-em-caceres/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-29T10:05:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
