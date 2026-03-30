@@ -1,23 +1,204 @@
 {
-  "generated_at": "2026-03-30T14:04:50.804380-04:00",
+  "generated_at": "2026-03-30T15:00:05.851544-04:00",
   "window": {
-    "start": "2026-03-30T13:04:50.804380-04:00",
-    "end": "2026-03-30T14:04:50.804380-04:00"
+    "start": "2026-03-30T14:00:05.851544-04:00",
+    "end": "2026-03-30T15:00:05.851544-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Cuiabá não reage, perde para o Gama e amplia jejum para sete jogos; veja o gol",
+        "link": "https://perrenguematogrosso.com/cuiaba-nao-reage-perde-para-o-gama/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-30T14:01:42-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Homem vence competição após comer mais de 30 ovos em cinco minutos em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-competicao-ovos-cinco-minutos-varzea-grande-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-30T14:21:12-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Primavera perde em casa, leva dois gols e segue sem vitória na Copa Centro-Oeste; veja os gols",
+        "link": "https://perrenguematogrosso.com/primavera-perde-em-casa/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-30T14:21:16-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Ataques atingem refinaria e incêndio gigante assusta população; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/ataque-fogo-e-alerta-foram-registrado/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-30T14:41:57-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Mauro Mendes fala sobre futuro e deixa recado direto ao encerrar ciclo no governo de MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mauro-mendes-fala-sobre-futuro-e-deixa-recado-direto-ao-encerrar-ciclo-no-governo-de-mt-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-30T14:55:59-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Gama domina Cuiabá, vence por 1 a 0 e amplia jejum do Dourado na Copa Centro-Oeste; veja o gol",
+        "link": "https://omatogrossense.com/gama-domina-cuiaba/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-30T14:11:06-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Participante vence festival após comer mais de 30 ovos em cinco minutos em VG; veja vídeo",
+        "link": "https://omatogrossense.com/participante-festival-comer-ovos-vg-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-30T14:21:08-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ataque atinge refinaria e provoca incêndio de grande proporção; Veja vídeo",
+        "link": "https://omatogrossense.com/tensao-foram-registrados-em-haifa/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-30T14:42:01-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Araguaína vence no Cerradão, derruba Primavera e mantém jejum do Gigante Roxo; veja os gols",
+        "link": "https://omatogrossense.com/araguaina-vence-no-cerradao/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-30T14:44:13-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Mauro Mendes fala sobre futuro e deixa recado direto ao encerrar ciclo no governo de MT; veja vídeo",
+        "link": "https://omatogrossense.com/mauro-mendes-fala-sobre-futuro-e-deixa-recado-direto-ao-encerrar-ciclo-no-governo-de-mt-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-30T14:56:07-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Há 30 anos sob a ponte: famílias resistem e sobrevivem à margem do rio em Várzea Grande; veja vídeo",
+        "link": "https://roonoticias.com/debaixo-da-ponte-julio-muller-familias-mantem-uma/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-03-30T14:22:55-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
