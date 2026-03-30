@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-30T11:00:00.738662-04:00",
+  "generated_at": "2026-03-30T12:00:01.298654-04:00",
   "window": {
-    "start": "2026-03-30T10:00:00.738662-04:00",
-    "end": "2026-03-30T11:00:00.738662-04:00"
+    "start": "2026-03-30T11:00:01.298654-04:00",
+    "end": "2026-03-30T12:00:01.298654-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Arena Pantanal se prepara para receber famílias em emocionante espetáculo da Paixão de Cristo; veja vídeo",
-        "link": "https://perrenguematogrosso.com/arena-pantanal-prepara-emocionante-espetaculo-paixao-de-cristo-video/",
+        "title": "Fisioterapeuta relata recuperação após ser vítima de tentativa de feminicídio pelo ex-marido em Sorriso",
+        "link": "https://perrenguematogrosso.com/fisioterapeuta-tentativa-feminicidio-ex-marido-sorriso-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-30T10:16:13-04:00",
+        "published": "2026-03-30T11:10:28-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,24 +20,11 @@
         ]
       },
       {
-        "title": "“Nem criança faria isso”, diz Gilmar Mendes sobre vazamento de dados e expõe falha grave; veja vídeo",
-        "link": "https://perrenguematogrosso.com/nem-crianca-faria-isso-diz-gilmar-mendes-sobre-vazamento-de-dados-e-expoe-falha-grave-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-30T10:52:33-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/330019-2/",
+        "title": "(sem título)",
+        "link": "https://perrenguematogrosso.com/330029-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-30T10:52:58-04:00",
+        "published": "2026-03-30T11:54:38-04:00",
         "categories": [
           "Notícias"
         ],
@@ -49,76 +36,35 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Arena Pantanal recebe preparativos finais para reunir famílias em espetáculo da Paixão de Cristo; veja vídeo",
-        "link": "https://omatogrossense.com/arena-pantanal-recebe-preparativos-paixao-de-cristo-video/",
+        "title": "Fisioterapeuta descreve momentos de pânico  após sobreviver a ataque do ex em Sorriso; veja vídeo",
+        "link": "https://omatogrossense.com/fisioterapeuta-descreve-momentos-de-panico-apos-sobreviver-a-ataque-do-ex-em-sorriso-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-30T10:18:40-04:00",
+        "published": "2026-03-30T11:10:44-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
-        ]
-      },
-      {
-        "title": "“Nem criança faria isso”, diz Gilmar Mendes sobre vazamento de dados e expõe falha grave; veja vídeo",
-        "link": "https://omatogrossense.com/nem-crianca-faria-isso-diz-gilmar-mendes-sobre-vazamento-de-dados-e-expoe-falha-grave-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-30T10:52:44-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
         ]
       },
       {
         "title": ".",
-        "link": "https://omatogrossense.com/137028-2/",
+        "link": "https://omatogrossense.com/137039-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-30T10:52:53-04:00",
+        "published": "2026-03-30T11:54:03-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
+          973
         ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Casal é preso com grande quantidade de agrotóxicos irregulares em Sorriso; veja vídeo",
-        "link": "https://portalnortemt.com/uma-acao-da-forca-tatica-resultou-na-prisao-de-um-casal-e-na-apreensao-de-uma-grande-quantidade-de-defensivos-agricolas-irregulares-em-sorris/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-30T10:06:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
+    "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Manutenção na Serra de São Vicente altera tráfego e impõe bloqueios temporários na BR-364 entre Rondonópolis e Cuiabá",
-        "link": "https://roonoticias.com/a-concessionaria-nova-rota-programou-intervencoes-na-serra-de-sao-vicente-entre-os-quilometros-343-e-352-da-br-364-no-sentido-norte/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-30T10:04:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
