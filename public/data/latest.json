@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-03-30T09:00:00.652609-04:00",
+  "generated_at": "2026-03-30T10:00:00.864264-04:00",
   "window": {
-    "start": "2026-03-30T08:00:00.652609-04:00",
-    "end": "2026-03-30T09:00:00.652609-04:00"
+    "start": "2026-03-30T09:00:00.864264-04:00",
+    "end": "2026-03-30T10:00:00.864264-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Prefeito nas ruas chama atenção e reforça presença constante em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/prefeito-nas-ruas-chama-atencao/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-30T08:02:00-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Motociclista morre após perder controle da moto e bater contra meio-fio em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motociclista-morre-bater-contra-meio-fio-cuiaba-video/",
+        "title": "Grupo registra onça-pintada rondando acampamento durante pescaria em Cáceres; veja vídeo",
+        "link": "https://perrenguematogrosso.com/onca-pintada-rondando-acampamento-caceres-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-30T08:12:40-04:00",
+        "published": "2026-03-30T09:20:52-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,11 +20,24 @@
         ]
       },
       {
-        "title": "Explosão em pleno ar: avião com mais de 280 pessoas faz pouso de emergência em Guarulhos; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/minutos-apos-a-decolagem/",
+        "title": "Vereadora denuncia ataques e expõe realidade enfrentada por mulheres na política em Mato Grosso; veja vídeo",
+        "link": "https://perrenguematogrosso.com/vereadora-denuncia-ataques-e-expoe-realidade-enfrentada-por-mulheres-na-politica-em-mato-grosso-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-30T09:43:23-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/330002-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-30T08:32:15-04:00",
+        "published": "2026-03-30T09:53:54-04:00",
         "categories": [
           "Notícias"
         ],
@@ -49,24 +49,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Prefeito nas ruas chama atenção e reforça presença constante em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/prefeito-nas-ruas-chama-atencao/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-30T08:02:00-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Motociclista morre após perder controle da moto e ser arremessado em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/motociclista-morre-arremessado-cuiaba-video/",
+        "title": "Pescadores filmam onça-pintada se aproximando de acampamento em Cáceres; veja vídeo",
+        "link": "https://omatogrossense.com/pescadores-filmam-onca-pintada-acampamento-caceres-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-30T08:12:44-04:00",
+        "published": "2026-03-30T09:20:32-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -75,34 +62,33 @@
         ]
       },
       {
-        "title": "Desespero no ar: motor explode após decolagem e avião retorna às pressas em São Paulo; veja vídeo",
-        "link": "https://omatogrossense.com/aviao-da-delta-air-lines/",
+        "title": "Vereadora denuncia ataques e expõe realidade enfrentada por mulheres na política em Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/vereadora-denuncia-ataques-e-expoe-realidade-enfrentada-por-mulheres-na-politica-em-mato-grosso-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-30T09:43:07-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://omatogrossense.com/137012-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-30T08:29:40-04:00",
+        "published": "2026-03-30T09:53:46-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Três suspeitos morrem após confronto com a PM durante tentativa de roubo em Lucas do Rio Verde",
-        "link": "https://portalnortemt.com/uma-acao-da-policia-militar-terminou-com-a-morte-de-tres-assaltantes-na-madrugada-deste-domingo-em-lucas-do-rio-verde-apos-uma-tentativa/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-30T08:02:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
+    "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
