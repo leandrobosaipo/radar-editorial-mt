@@ -1,30 +1,43 @@
 {
-  "generated_at": "2026-03-30T12:00:01.298654-04:00",
+  "generated_at": "2026-03-30T13:00:05.580138-04:00",
   "window": {
-    "start": "2026-03-30T11:00:01.298654-04:00",
-    "end": "2026-03-30T12:00:01.298654-04:00"
+    "start": "2026-03-30T12:00:05.580138-04:00",
+    "end": "2026-03-30T13:00:05.580138-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Fisioterapeuta relata recuperação após ser vítima de tentativa de feminicídio pelo ex-marido em Sorriso",
-        "link": "https://perrenguematogrosso.com/fisioterapeuta-tentativa-feminicidio-ex-marido-sorriso-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-30T11:10:28-04:00",
+        "title": "Djalminha sofre assalto ao chegar com o filho em jogo de futsal no Rio; veja vídeo",
+        "link": "https://perrenguematogrosso.com/djalminha-sofre-assalto/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-30T12:16:58-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Esporte"
         ],
         "category_ids": [
-          16
+          509
         ]
       },
       {
-        "title": "(sem título)",
-        "link": "https://perrenguematogrosso.com/330029-2/",
+        "title": "Mauro Carvalho rompe o silêncio após destituição e denuncia bastidores de acordos no PRD em MT",
+        "link": "https://perrenguematogrosso.com/mauro-carvalho-rompe-o-silencio-apos-destituicao-e-denuncia-bastidores-de-acordos-no-prd-em-mt/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-30T12:52:11-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Papa Leão XIV alerta contra líderes que promovem guerras, “Deus rejeita suas orações”; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/papa-leao-xiv-alerta-contra-lideres-que-promovem-guerras-deus-rejeita-suas-oracoes-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-30T11:54:38-04:00",
+        "published": "2026-03-30T12:53:35-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,24 +49,37 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Fisioterapeuta descreve momentos de pânico  após sobreviver a ataque do ex em Sorriso; veja vídeo",
-        "link": "https://omatogrossense.com/fisioterapeuta-descreve-momentos-de-panico-apos-sobreviver-a-ataque-do-ex-em-sorriso-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-30T11:10:44-04:00",
+        "title": "VÍDEO: Criminosos assaltam Djalminha durante jogo do filho no Rio",
+        "link": "https://omatogrossense.com/criminosos-assaltam-djalminha/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-30T12:44:28-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       },
       {
-        "title": ".",
-        "link": "https://omatogrossense.com/137039-2/",
+        "title": "Mauro Carvalho rompe o silêncio após destituição e denuncia bastidores de acordos no PRD em MT",
+        "link": "https://omatogrossense.com/mauro-carvalho-rompe-o-silencio-apos-destituicao-e-denuncia-bastidores-de-acordos-no-prd-em-mt/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-30T12:52:15-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Papa Leão XIV diz que Deus rejeita orações de líderes que promovem guerras; Veja vídeo",
+        "link": "https://omatogrossense.com/papa-leao-xiv-diz-que-deus-rejeita-oracoes-de-lideres-que-promovem-guerras-veja-video/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-30T11:54:03-04:00",
+        "published": "2026-03-30T12:52:47-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
