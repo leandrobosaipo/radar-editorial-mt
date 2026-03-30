@@ -1,14 +1,108 @@
 {
-  "generated_at": "2026-03-30T08:00:00.426358-04:00",
+  "generated_at": "2026-03-30T09:00:00.652609-04:00",
   "window": {
-    "start": "2026-03-30T07:00:00.426358-04:00",
-    "end": "2026-03-30T08:00:00.426358-04:00"
+    "start": "2026-03-30T08:00:00.652609-04:00",
+    "end": "2026-03-30T09:00:00.652609-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Prefeito nas ruas chama atenção e reforça presença constante em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/prefeito-nas-ruas-chama-atencao/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-30T08:02:00-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Motociclista morre após perder controle da moto e bater contra meio-fio em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motociclista-morre-bater-contra-meio-fio-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-30T08:12:40-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Explosão em pleno ar: avião com mais de 280 pessoas faz pouso de emergência em Guarulhos; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/minutos-apos-a-decolagem/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-03-30T08:32:15-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
+    "omatogrossense": [
+      {
+        "title": "Prefeito nas ruas chama atenção e reforça presença constante em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/prefeito-nas-ruas-chama-atencao/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-30T08:02:00-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Motociclista morre após perder controle da moto e ser arremessado em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/motociclista-morre-arremessado-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-30T08:12:44-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Desespero no ar: motor explode após decolagem e avião retorna às pressas em São Paulo; veja vídeo",
+        "link": "https://omatogrossense.com/aviao-da-delta-air-lines/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-03-30T08:29:40-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      }
+    ],
+    "portalnortemt": [
+      {
+        "title": "Três suspeitos morrem após confronto com a PM durante tentativa de roubo em Lucas do Rio Verde",
+        "link": "https://portalnortemt.com/uma-acao-da-policia-militar-terminou-com-a-morte-de-tres-assaltantes-na-madrugada-deste-domingo-em-lucas-do-rio-verde-apos-uma-tentativa/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-30T08:02:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
     "portalpantanalmt": [],
     "roonoticias": []
   },
