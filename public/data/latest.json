@@ -1,43 +1,17 @@
 {
-  "generated_at": "2026-03-30T16:00:05.719127-04:00",
+  "generated_at": "2026-03-30T20:03:24.517678-04:00",
   "window": {
-    "start": "2026-03-30T15:00:05.719127-04:00",
-    "end": "2026-03-30T16:00:05.719127-04:00"
+    "start": "2026-03-30T19:03:24.517678-04:00",
+    "end": "2026-03-30T20:03:24.517678-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Nocaute rápido no UFC: Maycee Barber reage após derrota e faz desabafo nas redes; veja vídeo",
-        "link": "https://perrenguematogrosso.com/maycee-barber-reage-apos-derrota/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-30T15:01:35-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "“Vamos conversar com todos” Avalone reage à crise do PRD e sinaliza nova articulação política; veja vídeo",
-        "link": "https://perrenguematogrosso.com/vamos-conversar-com-todos-avalone-reage-a-crise-do-prd-e-sinaliza-nova-articulacao-politica-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-30T15:16:04-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Tiros, execução e pânico: ataque flagrado por câmeras deixa dois feridos na Capital; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/tiros-execucao-e-panico-foram-registrados/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-30T15:32:07-04:00",
+        "title": "Idoso denuncia abandono, maus-tratos e apropriação de bens pela própria família; veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-idoso-de-75-anos-denunciou-uma-situacao-grave-de-abandono-e-maus-tratos-em-caldas-novas-em-goias-apos-dias-sem-alimentacao/",
+        "author": "Lindy Oliveira",
+        "author_id": 292,
+        "published": "2026-03-30T19:31:00-04:00",
         "categories": [
           "Notícias"
         ],
@@ -46,53 +20,40 @@
         ]
       },
       {
-        "title": "“Estou tranquila”: Mauren Lazzaretti fala sobre futuro no governo e revela detalhes de obras em andamento; veja vídeo",
-        "link": "https://perrenguematogrosso.com/estou-tranquila-mauren-lazzaretti-fala-sobre-futuro-no-governo-e-revela-detalhes-de-obras-em-andamento-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-30T15:32:56-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Polícia Civil cumpre mandados e identifica rede suspeita por trás de homicídio e tentativa de assassinato em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-civil-cumpre-mandados-e-identifica-rede-suspeita-por-tras-de-homicidio-e-tentativa-de-assassinato-em-mt-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-30T15:53:20-04:00",
+        "title": "Adolescente é atingido por bala de borracha ao tentar fugir de policiais em Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/adolescente-e-atingido-por-bala-de-borracha-ao-tentar-fugir-de-policiais-em-sinop-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-03-30T19:45:29-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
+      },
+      {
+        "title": "Ingressos para jogos da Seleção em Cuiabá começam a ser vendidos nesta quarta",
+        "link": "https://perrenguematogrosso.com/ingressos-para-jogos-da-selecao-em-cuiaba/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-30T20:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "“Vamos conversar com todos” Avalone reage à crise do PRD e sinaliza nova articulação política; veja vídeo",
-        "link": "https://omatogrossense.com/vamos-conversar-com-todos-avalone-reage-a-crise-do-prd-e-sinaliza-nova-articulacao-politica-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-30T15:16:12-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Execução, tiros e medo: ataque a tiros deixa feridos e assusta moradores; Veja vídeo",
-        "link": "https://omatogrossense.com/execucao-tiros-e-medo-marcaram/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-30T15:32:03-04:00",
+        "title": "Idoso denuncia abandono, maus-tratos e apropriação de bens pela própria família; veja vídeo",
+        "link": "https://omatogrossense.com/um-idoso-de-75-anos-denunciou-uma-situacao-grave-de-abandono-e-maus-tratos-em-caldas-novas-em-goias-apos-dias-sem-alimentacao/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-03-30T19:30:00-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -101,37 +62,11 @@
         ]
       },
       {
-        "title": "“Estou tranquila”: Mauren Lazzaretti fala sobre futuro no governo e revela detalhes de obras em andamento; veja vídeo",
-        "link": "https://omatogrossense.com/estou-tranquila-mauren-lazzaretti-fala-sobre-futuro-no-governo-e-revela-detalhes-de-obras-em-andamento-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-30T15:33:00-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "VÍDEO: Grasso nocauteia Barber em menos de 3 minutos e reação da lutadora repercute",
-        "link": "https://omatogrossense.com/grasso-nocauteia-barber/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-30T15:35:26-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Polícia cumpre mandados e aponta planejamento de grupo em homicídio e tentativa de assassinato em MT; veja vídeo",
-        "link": "https://omatogrossense.com/policia-cumpre-mandados-e-aponta-planejamento-de-grupo-em-homicidio-e-tentativa-de-assassinato-em-mt-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-30T15:55:19-04:00",
+        "title": "Adolescente é atingido por bala de borracha ao tentar fugir de policiais em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/adolescente-e-atingido-por-bala-de-borracha-ao-tentar-fugir-de-policiais-em-sinop-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-03-30T19:47:28-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -140,11 +75,11 @@
         ]
       },
       {
-        "title": "Ancelotti projeta cinco mudanças na Seleção para duelo contra a Croácia",
-        "link": "https://omatogrossense.com/ancelotti-projeta-cinco-mudancas-na-selecao/",
+        "title": "Cuiabá inicia venda de ingressos para jogos da Seleção na Arena Pantanal",
+        "link": "https://omatogrossense.com/jogos-da-selecao-na-arena-pantanal/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-03-30T15:59:57-04:00",
+        "published": "2026-03-30T20:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -155,47 +90,7 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Djalminha sofre assalto armado ao lado do filho e relata momento de tensão no Rio; veja vídeo",
-        "link": "https://roonoticias.com/o-ex-jogador-da-selecao-brasileira-djalminha/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-30T15:07:34-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Vinicius Jr. ainda é dúvida na Seleção e pode ser substituído contra a Croácia",
-        "link": "https://roonoticias.com/vinicius-jr-participou-do-treino-deste-domingo-29/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-30T15:23:42-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Ancelotti antecipa convocação de nome do Flamengo para a Copa e diz que tem seleção definida para estreia",
-        "link": "https://roonoticias.com/o-tecnico-carlo-ancelotti-surpreendeu-ao-afirmar/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-03-30T15:48:47-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
