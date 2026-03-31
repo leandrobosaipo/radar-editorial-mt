@@ -1,112 +1,23 @@
 {
-  "generated_at": "2026-03-31T10:00:05.134845-04:00",
+  "generated_at": "2026-03-31T11:00:58.912069-04:00",
   "window": {
-    "start": "2026-03-31T09:00:05.134845-04:00",
-    "end": "2026-03-31T10:00:05.134845-04:00"
+    "start": "2026-03-31T10:00:58.912069-04:00",
+    "end": "2026-03-31T11:00:58.912069-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Moradora com filhos e netos recusa sair de região com risco de desabamento em Poconé; veja vídeo",
-        "link": "https://perrenguematogrosso.com/moradora-recusa-sair-regiao-risco-desabamento-pocone-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-31T09:29:58-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Juiz ameaça deixar carreira após criticar salário e comparar ganhos com médicos; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/juiz-ameaca-deixar-carreira-apos-criticar-salario-e-comparar-ganhos-com-medicos-veja-video/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-31T09:52:34-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Mãe recusa abandonar imóvel e critica auxílio temporário oferecido pela prefeitura em Poconé; veja vídeo",
-        "link": "https://omatogrossense.com/mae-recusa-abandonar-imovel-pocone-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-31T09:29:08-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Juiz critica salário, expõe rotina e diz que pode deixar a magistratura; Veja vídeo",
-        "link": "https://omatogrossense.com/juiz-critica-salario-expoe-rotina-e-diz-que-pode-deixar-a-magistratura-veja-video/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-31T09:51:42-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
