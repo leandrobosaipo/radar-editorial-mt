@@ -1,138 +1,23 @@
 {
-  "generated_at": "2026-03-31T18:15:20.384768-04:00",
+  "generated_at": "2026-03-31T19:23:42.328401-04:00",
   "window": {
-    "start": "2026-03-31T17:15:20.384768-04:00",
-    "end": "2026-03-31T18:15:20.384768-04:00"
+    "start": "2026-03-31T18:23:42.328401-04:00",
+    "end": "2026-03-31T19:23:42.328401-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "PM desarticula ponto de venda de drogas e prende dupla durante operação em Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/pm-desarticula-ponto-drogas-operacao-rondonopolis-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-31T17:47:03-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Gol no fim garante Suécia na Copa de 2026 após jogo com cinco gols; veja o lance",
-        "link": "https://perrenguematogrosso.com/gol-no-fim-garante-suecia-na-copa/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-31T17:48:20-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Vídeo revela atropelamento fatal de mãe e filho e coloca versão de motorista em dúvida",
-        "link": "https://perrenguematogrosso.com/330399-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-03-31T17:57:49-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Polícia Militar prende dois suspeitos por tráfico no bairro Vila Canaã em Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/policia-prende-dois-trafico-rondonopolis-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-31T17:47:24-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Gol no fim garante Suécia na Copa de 2026 e define grupo com gigantes; veja o lance",
-        "link": "https://omatogrossense.com/gol-no-fim-garante-suecia-na-copa/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-31T17:54:42-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Câmeras registram atropelamento que matou mãe e filho e imagens contradizem motorista; Veja vídeo",
-        "link": "https://omatogrossense.com/137371-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-03-31T17:57:22-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
