@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-31T13:05:10.707286-04:00",
+  "generated_at": "2026-03-31T14:00:14.272788-04:00",
   "window": {
-    "start": "2026-03-31T12:05:10.707286-04:00",
-    "end": "2026-03-31T13:05:10.707286-04:00"
+    "start": "2026-03-31T13:00:14.272788-04:00",
+    "end": "2026-03-31T14:00:14.272788-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "“Decisão mais difícil”: renúncia de Tião da Zaeli expõe bastidores e levanta questionamentos sobre gestão; veja vídeo",
-        "link": "https://perrenguematogrosso.com/decisao-mais-dificil-renuncia-de-tiao-da-zaeli-expoe-bastidores-e-levanta-questionamentos-sobre-gestao-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-31T12:46:49-04:00",
+        "title": "Polícia Civil combate crime organizado e apreende armamentos ligados a facção em Aripuanã; veja vídeo",
+        "link": "https://perrenguematogrosso.com/crime-organizado-armamentos-faccao-aripuana-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-03-31T13:27:36-04:00",
         "categories": [
-          "Política"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          510
+          16
         ]
       },
       {
-        "title": "Chuvas intensas provocam transbordamento em mineradora e sedimentos atingem córrego; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/chuvas-intensas-provocam-transbordamento-em-mineradora-e-sedimentos-atingem-corrego-veja-video/",
+        "title": "PRF flagra carro com botijão de gás na rodovia e motorista sem CNH gera risco na BR-405; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/prf-flagra-carro-com-botijao-de-gas-na-rodovia-e-motorista-sem-cnh-gera-risco-na-br-405-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-31T12:53:23-04:00",
+        "published": "2026-03-31T13:55:07-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,24 +36,24 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "“Decisão mais difícil”: renúncia de Tião da Zaeli expõe bastidores e levanta questionamentos sobre gestão; veja vídeo",
-        "link": "https://omatogrossense.com/decisao-mais-dificil-renuncia-de-tiao-da-zaeli-expoe-bastidores-e-levanta-questionamentos-sobre-gestao-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-31T12:46:53-04:00",
+        "title": "Polícia Civil apreende armamentos de uso restrito ligados a possível facção criminosa em Aripuanã; veja vídep",
+        "link": "https://omatogrossense.com/policia-apreende-armamentos-faccao-aripuana-videp/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-03-31T13:27:44-04:00",
         "categories": [
-          "Política"
+          "MT Notícias"
         ],
         "category_ids": [
-          5
+          20
         ]
       },
       {
-        "title": "Temporal causa transbordamento em mineradora e sedimentos avançam sobre córrego; Veja vídeo",
-        "link": "https://omatogrossense.com/137286-2/",
+        "title": "Carro com botijão de gás é flagrado na BR-405 e motorista admite ter bebido; Veja vídeo",
+        "link": "https://omatogrossense.com/flagrante-gas-e-irregularidades-marcaram/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-31T12:58:15-04:00",
+        "published": "2026-03-31T13:55:14-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -101,6 +101,12 @@
       973,
       3105
     ],
-    "roonoticias": []
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
