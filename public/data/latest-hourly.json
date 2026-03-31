@@ -1,30 +1,56 @@
 {
-  "generated_at": "2026-03-31T14:00:14.272788-04:00",
+  "generated_at": "2026-03-31T15:00:13.794026-04:00",
   "window": {
-    "start": "2026-03-31T13:00:14.272788-04:00",
-    "end": "2026-03-31T14:00:14.272788-04:00"
+    "start": "2026-03-31T14:00:13.794026-04:00",
+    "end": "2026-03-31T15:00:13.794026-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Polícia Civil combate crime organizado e apreende armamentos ligados a facção em Aripuanã; veja vídeo",
-        "link": "https://perrenguematogrosso.com/crime-organizado-armamentos-faccao-aripuana-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-03-31T13:27:36-04:00",
+        "title": "Luverdense contrata zagueiro Gutierrez após saída do Manaus",
+        "link": "https://perrenguematogrosso.com/luverdense-contrata-zagueiro-gutierrez/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-31T14:02:08-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Esporte"
         ],
         "category_ids": [
-          16
+          509
         ]
       },
       {
-        "title": "PRF flagra carro com botijão de gás na rodovia e motorista sem CNH gera risco na BR-405; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/prf-flagra-carro-com-botijao-de-gas-na-rodovia-e-motorista-sem-cnh-gera-risco-na-br-405-veja-video/",
+        "title": "Denúncia barrada: Câmara de Várzea Grande rejeita acusação de quebra de decoro; veja vídeo",
+        "link": "https://perrenguematogrosso.com/denuncia-barrada-camara-de-varzea-grande-rejeita-acusacao-de-quebra-de-decoro-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-03-31T14:06:06-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Tottenham troca técnico em meio à crise e anuncia De Zerbi até 2031",
+        "link": "https://perrenguematogrosso.com/tottenham-troca-tecnico-em-meio-a-crise/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-03-31T14:19:47-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Homem é preso após jovem ser encontrada morta em freezer; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/prisao-freezer-e-brutalidade-marcaram/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-31T13:55:07-04:00",
+        "published": "2026-03-31T14:54:49-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,24 +62,50 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Polícia Civil apreende armamentos de uso restrito ligados a possível facção criminosa em Aripuanã; veja vídep",
-        "link": "https://omatogrossense.com/policia-apreende-armamentos-faccao-aripuana-videp/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-03-31T13:27:44-04:00",
+        "title": "Luverdense anuncia zagueiro com passagem marcante pelo Manaus e agita bastidores da Série D",
+        "link": "https://omatogrossense.com/luverdense-anuncia-zagueiro-com-passagem-marcante-pelo-manaus/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-31T14:10:26-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       },
       {
-        "title": "Carro com botijão de gás é flagrado na BR-405 e motorista admite ter bebido; Veja vídeo",
-        "link": "https://omatogrossense.com/flagrante-gas-e-irregularidades-marcaram/",
+        "title": "Denúncia barrada: Câmara de Várzea Grande rejeita acusação de quebra de decoro; veja vídeo",
+        "link": "https://omatogrossense.com/denuncia-barrada-camara-de-varzea-grande-rejeita-acusacao-de-quebra-de-decoro-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-03-31T14:14:50-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Tottenham troca técnico em meio à ameaça de rebaixamento e aposta em De Zerbi até 2031",
+        "link": "https://omatogrossense.com/tottenham-troca-tecnico/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-03-31T14:27:53-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Suspeito de matar jovem encontrada em freezer é preso; Veja vídeo",
+        "link": "https://omatogrossense.com/prisao-freezer-e-crime-brutal-marcaram-o/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-31T13:55:14-04:00",
+        "published": "2026-03-31T14:51:57-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
