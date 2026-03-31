@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-31T09:00:00.472122-04:00",
+  "generated_at": "2026-03-31T10:00:05.134845-04:00",
   "window": {
-    "start": "2026-03-31T08:00:00.472122-04:00",
-    "end": "2026-03-31T09:00:00.472122-04:00"
+    "start": "2026-03-31T09:00:05.134845-04:00",
+    "end": "2026-03-31T10:00:05.134845-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Polícia Civil desarticula faccionados que atuavam para fortalecer facção e controlar territórios em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/faccionados-fortalecer-faccao-controlar-territorios-cuiaba-video/",
+        "title": "Moradora com filhos e netos recusa sair de região com risco de desabamento em Poconé; veja vídeo",
+        "link": "https://perrenguematogrosso.com/moradora-recusa-sair-regiao-risco-desabamento-pocone-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-03-31T08:17:41-04:00",
+        "published": "2026-03-31T09:29:58-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,40 +20,27 @@
         ]
       },
       {
-        "title": "Incêndio de grandes proporções atinge distribuidora e mobiliza dezenas de bombeiros; Vedja vídeo",
-        "link": "https://perrenguematogrosso.com/incendio-fumaca-e-mobilizacao/",
+        "title": "Juiz ameaça deixar carreira após criticar salário e comparar ganhos com médicos; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/juiz-ameaca-deixar-carreira-apos-criticar-salario-e-comparar-ganhos-com-medicos-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-03-31T08:22:37-04:00",
+        "published": "2026-03-31T09:52:34-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
-      },
-      {
-        "title": "Bolsas globais se dividem antes da abertura: o que os mercados estão sinalizando nas primeiras horas do dia",
-        "link": "https://perrenguematogrosso.com/bolsas-globais-se-dividem-antes-da-abertura-o-que-os-mercados-estao-sinalizando-nas-primeiras-horas-do-dia/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-03-31T08:59:33-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Polícia Civil identifica faccionados que articulavam expansão territorial e influência social em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/faccionados-expansao-territorial-influencia-cuiaba-video/",
+        "title": "Mãe recusa abandonar imóvel e critica auxílio temporário oferecido pela prefeitura em Poconé; veja vídeo",
+        "link": "https://omatogrossense.com/mae-recusa-abandonar-imovel-pocone-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-03-31T08:17:44-04:00",
+        "published": "2026-03-31T09:29:08-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,62 +49,21 @@
         ]
       },
       {
-        "title": "Incêndio gigante atinge distribuidora de tintas e mobiliza 60 bombeiros; Veja vídeo",
-        "link": "https://omatogrossense.com/incendio-chamas-e-fumaca-tomaram-conta/",
+        "title": "Juiz critica salário, expõe rotina e diz que pode deixar a magistratura; Veja vídeo",
+        "link": "https://omatogrossense.com/juiz-critica-salario-expoe-rotina-e-diz-que-pode-deixar-a-magistratura-veja-video/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-03-31T08:21:53-04:00",
+        "published": "2026-03-31T09:51:42-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
         ]
-      },
-      {
-        "title": "Bolsas globais se dividem antes da abertura: o que os mercados estão sinalizando nas primeiras horas do dia",
-        "link": "https://omatogrossense.com/bolsas-globais-se-dividem-antes-da-abertura-o-que-os-mercados-estao-sinalizando-nas-primeiras-horas-do-dia/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-03-31T08:59:45-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Sobrevivente de tentativa de feminicídio em Sorriso relata trauma e recuperação após ataque do ex-marido; veja vídeo",
-        "link": "https://portalnortemt.com/a-fisioterapeuta-aline-petri-compartilhou-um-relato-emocionante-apos-sobreviver-a-uma-tentativa-de-feminicidio-em-sorriso-e-descreveu-o-epis/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-31T08:03:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "Corpo é encontrado boiando em área isolada em Pontes e Lacerda; veja vídeo",
-        "link": "https://portalpantanalmt.com/moradores-encontraram-o-corpo-de-um-homem-na-manha-desta-segunda-feira-30-na-regiao-conhecida-como-nativo-em-pontes-e-lacerda-a-viti/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-31T08:02:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
