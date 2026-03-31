@@ -1,93 +1,13 @@
 {
-  "generated_at": "2026-03-30T20:03:24.517678-04:00",
+  "generated_at": "2026-03-31T08:00:00.402930-04:00",
   "window": {
-    "start": "2026-03-30T19:03:24.517678-04:00",
-    "end": "2026-03-30T20:03:24.517678-04:00"
+    "start": "2026-03-31T07:00:00.402930-04:00",
+    "end": "2026-03-31T08:00:00.402930-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Idoso denuncia abandono, maus-tratos e apropriação de bens pela própria família; veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-idoso-de-75-anos-denunciou-uma-situacao-grave-de-abandono-e-maus-tratos-em-caldas-novas-em-goias-apos-dias-sem-alimentacao/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-03-30T19:31:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Adolescente é atingido por bala de borracha ao tentar fugir de policiais em Sinop; veja vídeo",
-        "link": "https://perrenguematogrosso.com/adolescente-e-atingido-por-bala-de-borracha-ao-tentar-fugir-de-policiais-em-sinop-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-03-30T19:45:29-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Ingressos para jogos da Seleção em Cuiabá começam a ser vendidos nesta quarta",
-        "link": "https://perrenguematogrosso.com/ingressos-para-jogos-da-selecao-em-cuiaba/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-03-30T20:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Idoso denuncia abandono, maus-tratos e apropriação de bens pela própria família; veja vídeo",
-        "link": "https://omatogrossense.com/um-idoso-de-75-anos-denunciou-uma-situacao-grave-de-abandono-e-maus-tratos-em-caldas-novas-em-goias-apos-dias-sem-alimentacao/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-03-30T19:30:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Adolescente é atingido por bala de borracha ao tentar fugir de policiais em Sinop; veja vídeo",
-        "link": "https://omatogrossense.com/adolescente-e-atingido-por-bala-de-borracha-ao-tentar-fugir-de-policiais-em-sinop-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-03-30T19:47:28-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Cuiabá inicia venda de ingressos para jogos da Seleção na Arena Pantanal",
-        "link": "https://omatogrossense.com/jogos-da-selecao-na-arena-pantanal/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-03-30T20:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
