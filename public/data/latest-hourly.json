@@ -1,138 +1,23 @@
 {
-  "generated_at": "2026-04-01T09:06:49.122650-04:00",
+  "generated_at": "2026-04-01T10:27:45.289762-04:00",
   "window": {
-    "start": "2026-04-01T08:06:49.122650-04:00",
-    "end": "2026-04-01T09:06:49.122650-04:00"
+    "start": "2026-04-01T09:27:45.289762-04:00",
+    "end": "2026-04-01T10:27:45.289762-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Motorista de caminhonete morre após bater violentamente na traseira de carreta na BR-364; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motorista-caminhonete-bater-traseira-carreta-br-364-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-01T08:15:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Tentativa de assalto em clínica termina com reação de mulher e fuga de criminosos; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/assalto-reacao-e-fuga-marcaram/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-01T08:25:07-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Disparada global nas bolsas surpreende investidores e muda o clima do mercado nesta manhã",
-        "link": "https://perrenguematogrosso.com/disparada-global-nas-bolsas-surpreende-investidores-e-muda-o-clima-do-mercado-nesta-manha/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-01T08:56:09-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Motorista perde controle e morre após bater na traseira de carreta na BR-364; veja vídeo",
-        "link": "https://omatogrossense.com/motorista-morre-bater-traseira-carreta-br-364/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-01T08:15:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Mulher reage a assalto dentro de clínica e frustra ação de dupla no DF",
-        "link": "https://omatogrossense.com/invasao-reacao-e-fuga-marcaram/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-01T08:36:18-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Disparada global nas bolsas surpreende investidores e muda o clima do mercado nesta manhã",
-        "link": "https://omatogrossense.com/disparada-global-nas-bolsas-surpreende-investidores-e-muda-o-clima-do-mercado-nesta-manha/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-01T08:56:34-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
