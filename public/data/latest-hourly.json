@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-01T15:00:06.254438-04:00",
+  "generated_at": "2026-04-01T16:00:05.490788-04:00",
   "window": {
-    "start": "2026-04-01T14:00:06.254438-04:00",
-    "end": "2026-04-01T15:00:06.254438-04:00"
+    "start": "2026-04-01T15:00:05.490788-04:00",
+    "end": "2026-04-01T16:00:05.490788-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Feira do Peixe Santo leva peixe a preço fixo de R$ 25 para diferentes regiões em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/feira-peixe-santo-diferentes-regioes-cuiaba-video/",
+        "title": "Câmera flagra homem furtando cocos em frente a residência em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-recolhendo-cocos-calcada-rondonopolis-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-01T14:11:15-04:00",
+        "published": "2026-04-01T15:36:14-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "Com mais de 94% de rejeição, Solange Couto sai do BBB26 e leva bronca ao vivo no Mais Você; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/eliminacao-critica-e-emocao-marcaram-a-saida/",
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/330638-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-01T14:42:56-04:00",
+        "published": "2026-04-01T15:54:57-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,27 +33,27 @@
         ]
       },
       {
-        "title": "Calderano vira jogo tenso, vence sueco e avança às oitavas da Copa do Mundo",
-        "link": "https://perrenguematogrosso.com/calderano-vira-jogo-tenso/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-01T15:00:00-04:00",
+        "title": "“Zero chance de apoio”: Jayme Campos abre o jogo, fala de Pivetta e crava posição na disputa; veja vídeo",
+        "link": "https://perrenguematogrosso.com/zero-chance-de-apoio-jayme-campos-abre-o-jogo-fala-de-pivetta-e-crava-posicao-na-disputa-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-01T15:56:07-04:00",
         "categories": [
-          "Esporte"
+          "Política"
         ],
         "category_ids": [
-          509
+          510
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Feira do Peixe Santo com preço fixo de R$ 25 para população em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/feira-peixe-santo-populacao-cuiaba-video/",
+        "title": "Câmera flagra homem furtando cocos em frente a residência em Rondonópolis; veja vídeo",
+        "link": "https://omatogrossense.com/camera-homem-furtando-cocos-residencia-rondonopolis-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-01T14:12:16-04:00",
+        "published": "2026-04-01T15:36:19-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,24 +62,37 @@
         ]
       },
       {
-        "title": "Solange Couto deixa BBB26 com 94% e é confrontada por Ana Maria Braga; Veja vídeo",
-        "link": "https://omatogrossense.com/rejeicao-polemica-e-bronca-marcaram/",
+        "title": ".",
+        "link": "https://omatogrossense.com/137559-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-01T14:42:58-04:00",
+        "published": "2026-04-01T15:54:21-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       },
       {
-        "title": "Calderano vence no sufoco e garante vaga nas oitavas da Copa do Mundo",
-        "link": "https://omatogrossense.com/calderano-vence-no-sufoco/",
+        "title": "“Zero chance de apoio”: Jayme Campos abre o jogo, fala de Pivetta e crava posição na disputa; veja video",
+        "link": "https://omatogrossense.com/zero-chance-de-apoio-jayme-campos-abre-o-jogo-fala-de-pivetta-e-crava-posicao-na-disputa/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-01T15:58:24-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "VÍDEO: Endrick se emociona com esposa após vitória do Brasil sobre a Croácia",
+        "link": "https://omatogrossense.com/endrick-se-emociona-com-esposa/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-01T15:00:00-04:00",
+        "published": "2026-04-01T16:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -90,7 +103,21 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Lucas Moura pode trocar São Paulo por MLS ou Arábia Saudita? Checamos",
+        "link": "https://roonoticias.com/enquanto-se-recupera-de-fraturas-nas-costelas/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-01T15:54:38-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
