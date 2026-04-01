@@ -1,23 +1,112 @@
 {
-  "generated_at": "2026-04-01T17:47:20.554975-04:00",
+  "generated_at": "2026-04-01T19:00:25.287022-04:00",
   "window": {
-    "start": "2026-04-01T16:47:20.554975-04:00",
-    "end": "2026-04-01T17:47:20.554975-04:00"
+    "start": "2026-04-01T18:00:25.287022-04:00",
+    "end": "2026-04-01T19:00:25.287022-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Gravação de MC Mestrão simulando pisar em mulher durante show ganha repercussão após prisão em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mc-mestrao-simulando-pisar-mulher-show-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-01T18:04:49-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Ibovespa sobe e Wall Street dispara: o que está impulsionando o otimismo global nos mercados",
+        "link": "https://perrenguematogrosso.com/ibovespa-sobe-e-wall-street-dispara-o-que-esta-impulsionando-o-otimismo-global-nos-mercados/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-01T18:13:07-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Vídeo de MC Mestrão simulando pisar na cabeça de mulher em show gera revolta após prisão em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/mc-mestrao-simulando-pisar-cabeca-mulher-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-01T18:04:46-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ibovespa sobe e Wall Street dispara: o que está impulsionando o otimismo global nos mercados",
+        "link": "https://omatogrossense.com/ibovespa-sobe-e-wall-street-dispara-o-que-esta-impulsionando-o-otimismo-global-nos-mercados/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-01T18:12:59-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
