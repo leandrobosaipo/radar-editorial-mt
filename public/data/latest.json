@@ -1,165 +1,23 @@
 {
-  "generated_at": "2026-04-01T16:00:05.490788-04:00",
+  "generated_at": "2026-04-01T17:47:20.554975-04:00",
   "window": {
-    "start": "2026-04-01T15:00:05.490788-04:00",
-    "end": "2026-04-01T16:00:05.490788-04:00"
+    "start": "2026-04-01T16:47:20.554975-04:00",
+    "end": "2026-04-01T17:47:20.554975-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Câmera flagra homem furtando cocos em frente a residência em Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-recolhendo-cocos-calcada-rondonopolis-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-01T15:36:14-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/330638-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-01T15:54:57-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "“Zero chance de apoio”: Jayme Campos abre o jogo, fala de Pivetta e crava posição na disputa; veja vídeo",
-        "link": "https://perrenguematogrosso.com/zero-chance-de-apoio-jayme-campos-abre-o-jogo-fala-de-pivetta-e-crava-posicao-na-disputa-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-01T15:56:07-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Câmera flagra homem furtando cocos em frente a residência em Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/camera-homem-furtando-cocos-residencia-rondonopolis-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-01T15:36:19-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://omatogrossense.com/137559-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-01T15:54:21-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "“Zero chance de apoio”: Jayme Campos abre o jogo, fala de Pivetta e crava posição na disputa; veja video",
-        "link": "https://omatogrossense.com/zero-chance-de-apoio-jayme-campos-abre-o-jogo-fala-de-pivetta-e-crava-posicao-na-disputa/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-01T15:58:24-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "VÍDEO: Endrick se emociona com esposa após vitória do Brasil sobre a Croácia",
-        "link": "https://omatogrossense.com/endrick-se-emociona-com-esposa/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-01T16:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Lucas Moura pode trocar São Paulo por MLS ou Arábia Saudita? Checamos",
-        "link": "https://roonoticias.com/enquanto-se-recupera-de-fraturas-nas-costelas/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-01T15:54:38-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
