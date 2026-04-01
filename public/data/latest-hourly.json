@@ -1,23 +1,147 @@
 {
-  "generated_at": "2026-04-01T12:26:47.588622-04:00",
+  "generated_at": "2026-04-01T13:02:15.331906-04:00",
   "window": {
-    "start": "2026-04-01T11:26:47.588622-04:00",
-    "end": "2026-04-01T12:26:47.588622-04:00"
+    "start": "2026-04-01T12:02:15.331906-04:00",
+    "end": "2026-04-01T13:02:15.331906-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Funcionários capturam jacaré dentro de unidade de saúde durante expediente em Mato Grosso; veja vídeo",
+        "link": "https://perrenguematogrosso.com/funcionarios-capturam-jacare-unidade-saude-mato-grosso-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-01T12:27:07-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "(sem título)",
+        "link": "https://perrenguematogrosso.com/330542-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-01T12:43:59-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Bósnia vence Itália nos pênaltis, volta à Copa após 12 anos e leva torcida às ruas; veja vídeo",
+        "link": "https://perrenguematogrosso.com/bosnia-vence-italia/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-01T12:46:22-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      }
+    ],
+    "afolhalivre": [
+      {
+        "title": "Prefeitura intervém em trânsito e reforça segurança em frente a escola em Primavera do Leste",
+        "link": "https://afolhalivre.com/a-prefeitura-de-primavera-do-leste-iniciou-na-manha-desta-terca-feira-31-uma-intervencao-no-transito-em-frente-a-escola-estadual-professora/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-01T12:07:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Funcionários capturam jacaré dentro de unidade de saúde em Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/funcionarios-jacare-unidade-saude-mato-grosso-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-01T12:31:09-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": ",",
+        "link": "https://omatogrossense.com/137485-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-01T12:43:32-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Carro com sinais de adulteração é identificado durante vistoria em Rondonópolis",
+        "link": "https://roonoticias.com/um-veiculo-com-indicios-de-adulteracao-mobilizou-equipes-policiais-nesta-terca-feira-31-durante-uma-vistoria-de-transferencia-realizada/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-01T12:03:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
