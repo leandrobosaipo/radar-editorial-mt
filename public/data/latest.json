@@ -1,108 +1,17 @@
 {
-  "generated_at": "2026-04-02T16:00:05.443673-04:00",
+  "generated_at": "2026-04-02T17:10:36.426950-04:00",
   "window": {
-    "start": "2026-04-02T15:00:05.443673-04:00",
-    "end": "2026-04-02T16:00:05.443673-04:00"
+    "start": "2026-04-02T16:10:36.426950-04:00",
+    "end": "2026-04-02T17:10:36.426950-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Retorno travado: Câmara ainda não recebeu decisão e futuro de Chico 2000 segue indefinido; veja vídeo",
-        "link": "https://perrenguematogrosso.com/retorno-travado-camara-ainda-nao-recebeu-decisao-e-futuro-de-chico-2000-segue-indefinido-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-02T15:10:23-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3200/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-02T15:44:16-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3201/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-02T15:45:22-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Polícia divulga imagens da prisão de Tiger Woods após acidente nos EUA; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-divulga-imagens-da-prisao-de-tiger-woods/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-02T15:46:08-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3202/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-02T15:47:21-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3203/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-02T15:48:15-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3204/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-02T15:48:56-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Polícia Civil descobre “bunker” de drogas e apreende 305 tabletes em Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-civil-descobre-bunker-de-drogas-e-apreende-305-tabletes-em-rondonopolis-veja-video/",
+        "title": "Casal morre em acidente entre Jeep Compass e carreta na BR-163 em Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/casal-morre-acidente-jeep-br-163-sinop-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-02T15:50:07-04:00",
+        "published": "2026-04-02T16:29:29-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -111,40 +20,53 @@
         ]
       },
       {
-        "title": "Momento raro: foguete da NASA é filmado de dentro de avião e surpreende passageiros; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/flagra-surpreendente-foi-registrado-durante/",
+        "title": "Allan se desculpa após expulsão por gesto obsceno em derrota do Corinthians; veja vídeo",
+        "link": "https://perrenguematogrosso.com/allan-se-desculpa-apos-expulsao-por-gesto-obsceno/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-02T16:40:07-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Empresário e vigilantes são presos após tortura e homicídio em obra; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/tragedia-ocorreu-em-um-ca/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-02T15:52:32-04:00",
+        "published": "2026-04-02T16:51:52-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Idoso desaparece após sair para caminhada e é encontrado morto em matagal de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/idoso-desaparece-encontrado-morto-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-02T16:57:16-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Retorno travado: Câmara ainda não recebeu decisão e futuro de Chico 2000 segue indefinido; veja vídeo",
-        "link": "https://omatogrossense.com/retorno-travado-camara-ainda-nao-recebeu-decisao-e-futuro-de-chico-2000-segue-indefinido-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-02T15:10:29-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Polícia Civil apreende 305 tabletes e derruba esquema de facção em Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/policia-civil-apreende-305-tabletes-e-derruba-esquema-de-faccao-em-rondonopolis-veja-video/",
+        "title": "Casal morre em batida entre Jeep Compass e caminhão na BR-163 em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/casal-morre-batida-jeep-br-163-sinop-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-02T15:50:10-04:00",
+        "published": "2026-04-02T16:29:33-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -153,24 +75,37 @@
         ]
       },
       {
-        "title": "Passageira flagra lançamento da Artemis II durante voo e surpreende avião inteiro; Veja vídeo",
-        "link": "https://omatogrossense.com/passageira-registrou-momento-i/",
+        "title": "Empresário e dois vigilantes são presos por tortura e homicídio; Veja vídeo",
+        "link": "https://omatogrossense.com/crime-brutal-foi-registrado-em-obra-n/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-02T15:52:03-04:00",
+        "published": "2026-04-02T16:51:46-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       },
       {
-        "title": "Polícia divulga vídeo da prisão de Tiger Woods após capotamento nos EUA; veja vídeo",
-        "link": "https://omatogrossense.com/policia-divulga-video-da-prisao-de-tiger-woods/",
+        "title": "Idoso é encontrado morto em área de mata próxima a residências em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/idoso-morto-area-mata-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-02T16:56:38-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Expulsão por gesto obsceno faz Allan se desculpar após derrota do Corinthians; veja vídeo",
+        "link": "https://omatogrossense.com/expulsao-por-gesto-obsceno-faz-allan-se-desculpar/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-02T15:54:21-04:00",
+        "published": "2026-04-02T16:58:56-04:00",
         "categories": [
           "Esporte"
         ],
@@ -181,34 +116,7 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Wolney desiste de eleição para deputado e continuará no governo Lula",
-        "link": "https://roonoticias.com/o-ministro-da-previdencia-social-wolney-queiroz/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-02T15:14:01-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Atlas/Intel no Paraná: Moro tem 51,5% e Requião 28,4% para o governo",
-        "link": "https://roonoticias.com/um-levantamento-da-atlasintel-divulgado-nesta-quinta-feira/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-02T15:21:55-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
