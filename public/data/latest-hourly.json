@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-04-02T09:00:01.534599-04:00",
+  "generated_at": "2026-04-02T10:00:05.834530-04:00",
   "window": {
-    "start": "2026-04-02T08:00:01.534599-04:00",
-    "end": "2026-04-02T09:00:01.534599-04:00"
+    "start": "2026-04-02T09:00:05.834530-04:00",
+    "end": "2026-04-02T10:00:05.834530-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PF apreende R$ 14,5 milhões em operação contra venda de decisões; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/luxo-esquema-e-milhoes-marcaram/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-02T08:11:57-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Drone registra pedido de casamento surpreendente ao nascer do sol na Serra do Roncador em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/drone-registra-pedido-de-casamento-surpreendente-ao-nascer-do-sol-na-serra-do-roncador-em-mt-veja-video/",
+        "title": "Azul anuncia quatro novas rotas diretas em Cuiabá e promete reduzir distâncias no Centro-Oeste; veja vídeo",
+        "link": "https://perrenguematogrosso.com/azul-anuncia-quatro-novas-rotas-diretas-em-cuiaba-e-promete-reduzir-distancias-no-centro-oeste-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-02T08:30:52-04:00",
+        "published": "2026-04-02T09:28:04-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,40 +20,27 @@
         ]
       },
       {
-        "title": "Mercados Globais Amanhecem em Queda Enquanto Petróleo Dispara e Acende Sinal de Atenção",
-        "link": "https://perrenguematogrosso.com/mercados-globais-amanhecem-em-queda-enquanto-petroleo-dispara-e-acende-sinal-de-atencao/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-02T08:56:56-04:00",
+        "title": "Testemunha é morta a facadas após ser reconhecida pelo suspeito na rua; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/faca-vinganca-e-fuga-marcaram-o-crime/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-02T09:30:16-04:00",
         "categories": [
-          "Política"
+          "Notícias"
         ],
         "category_ids": [
-          510
+          5
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "PF apreende carros de luxo, joias e milhões em operação contra esquema no Judiciário; Veja vídeo",
-        "link": "https://omatogrossense.com/milhoes-luxo-e-esquema-expuseram/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-02T08:12:08-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Pedido de casamento na Serra do Roncador viraliza e destaca cenário turístico de Barra do Garças; veja vídeo",
-        "link": "https://omatogrossense.com/pedido-casamento-serra-roncador-barra-do-garcas-video/",
+        "title": "Azul confirma quatro novas rotas aéreas diretas para facilitar viagens e conexões em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/azul-confirma-quatro-novas-rotas-aereas-diretas-para-facilitar-viagens-e-conexoes-em-cuiaba-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-02T08:30:31-04:00",
+        "published": "2026-04-02T09:28:19-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -75,22 +49,75 @@
         ]
       },
       {
-        "title": "Mercados Globais Amanhecem em Queda Enquanto Petróleo Dispara e Acende Sinal de Atenção",
-        "link": "https://omatogrossense.com/mercados-globais-amanhecem-em-queda-enquanto-petroleo-dispara-e-acende-sinal-de-atencao/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-02T08:59:26-04:00",
+        "title": "Homem reconhece testemunha na rua, persegue e mata a facadas; Veja vídeo",
+        "link": "https://omatogrossense.com/perseguicao-facadas-e-vinganca-marcaram/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-02T09:30:31-04:00",
         "categories": [
-          "Política"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          5
+          973
         ]
       }
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Zé Felipe anuncia novas regras para os filhos e diz que viagens vão acabar: “Sem Copa do Mundo”; veja vídeo",
+        "link": "https://roonoticias.com/o-cantor-ze-felipe-usou-as-redes-sociais-para-compartilhar/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-02T09:46:56-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Mulher se desespera e escala portão ao dar de cara com animal; veja vídeo",
+        "link": "https://roonoticias.com/uma-jovem-protagonizou-uma-cena-inusitada-nesta-quarta-feira/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-02T09:49:52-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Cadela é resgatada após passar uma semana perdida em floresta; veja vídeo",
+        "link": "https://roonoticias.com/uma-cadela-da-raca-border-collie-foi-localizada-apos/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-02T09:57:21-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Discussão em jogo de futebol acaba em homicídio e choca moradores de Várzea Grande; veja vídeo",
+        "link": "https://roonoticias.com/ma-discussao-em-um-campo-de-futebol-no-bairro-alameda/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-02T09:58:41-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
@@ -120,7 +147,19 @@
       973,
       3030
     ],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
