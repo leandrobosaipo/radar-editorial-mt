@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-04-02T13:06:35.317390-04:00",
+  "generated_at": "2026-04-02T14:00:05.605985-04:00",
   "window": {
-    "start": "2026-04-02T12:06:35.317390-04:00",
-    "end": "2026-04-02T13:06:35.317390-04:00"
+    "start": "2026-04-02T13:00:05.605985-04:00",
+    "end": "2026-04-02T14:00:05.605985-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PM prende cinco suspeitos que usavam ovos de Páscoa para promover facção em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/cinco-suspeitos-ovos-pascoa-faccao-mt-video/",
+        "title": "Mudança estratégica: Barbudo troca de partido e movimenta cenário eleitoral em Mato Grosso",
+        "link": "https://perrenguematogrosso.com/mudanca-estrategica-barbudo-troca-de-partido-e-movimenta-cenario-eleitoral-em-mato-grosso/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-02T13:26:20-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Homem ameaça matar companheira com faca e acaba preso após denúncia familiar em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-ameaca-matar-companheira-com-faca-e-acaba-preso-apos-denuncia-familiar-em-cuiaba-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-02T12:17:26-04:00",
+        "published": "2026-04-02T13:29:30-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,27 +33,53 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/330826-2/",
-        "author": "Desconhecido",
-        "author_id": 290,
-        "published": "2026-04-02T12:58:33-04:00",
+        "title": "Ingressos para Cuiabá x Ceará já estão à venda para jogo na Arena Pantanal",
+        "link": "https://perrenguematogrosso.com/ingressos-para-cuiaba-x-ceara-ja-estao-a-venda/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-02T13:46:07-04:00",
         "categories": [
-          "Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          5
+          509
+        ]
+      },
+      {
+        "title": "“Nome forte decide eleição”: Rezende defende peso político e revela estratégia dentro do União Brasil; veja vídeo",
+        "link": "https://perrenguematogrosso.com/nome-forte-decide-eleicao-rezende-defende-peso-politico-e-revela-estrategia-dentro-do-uniao-brasil-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-02T13:48:51-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "PM prende grupo que usava ovos de Páscoa para promover facção em Primavera do Leste; veja vídeo",
-        "link": "https://omatogrossense.com/pm-usava-ovos-pascoa-promover-faccao-primavera-leste-video/",
+        "title": "Mudança estratégica: Barbudo troca de partido e movimenta cenário eleitoral em Mato Grosso",
+        "link": "https://omatogrossense.com/mudanca-estrategica-barbudo-troca-de-partido-e-movimenta-cenario-eleitoral-em-mato-grosso/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-02T13:26:14-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem tenta matar companheira durante a madrugada e é preso após denúncia do filho em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/homem-tenta-matar-companheira-madrugada-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-02T12:17:27-04:00",
+        "published": "2026-04-02T13:29:32-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,16 +88,16 @@
         ]
       },
       {
-        "title": "Padrasto é preso após envenenar menina de 9 anos; Veja vídeo",
-        "link": "https://omatogrossense.com/crime-chocou-alto-horizonte-go/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-02T12:58:36-04:00",
+        "title": "“Nome forte decide eleição” Rezende defende peso político e revela estratégia dentro do União Brasil; veja vídeo",
+        "link": "https://omatogrossense.com/nome-forte-decide-eleicao-rezende-defende-peso-politico-e-revela-estrategia-dentro-do-uniao-brasil-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-02T13:49:19-04:00",
         "categories": [
-          "MT Notícias"
+          "Política"
         ],
         "category_ids": [
-          20
+          5
         ]
       }
     ],
@@ -94,7 +133,13 @@
       973,
       3030
     ],
-    "portalpantanalmt": [],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
     "roonoticias": [
       5,
       7,
