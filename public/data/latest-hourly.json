@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-04-02T10:00:05.834530-04:00",
+  "generated_at": "2026-04-02T11:00:06.138563-04:00",
   "window": {
-    "start": "2026-04-02T09:00:05.834530-04:00",
-    "end": "2026-04-02T10:00:05.834530-04:00"
+    "start": "2026-04-02T10:00:06.138563-04:00",
+    "end": "2026-04-02T11:00:06.138563-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Azul anuncia quatro novas rotas diretas em Cuiabá e promete reduzir distâncias no Centro-Oeste; veja vídeo",
-        "link": "https://perrenguematogrosso.com/azul-anuncia-quatro-novas-rotas-diretas-em-cuiaba-e-promete-reduzir-distancias-no-centro-oeste-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-02T09:28:04-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Testemunha é morta a facadas após ser reconhecida pelo suspeito na rua; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/faca-vinganca-e-fuga-marcaram-o-crime/",
+        "title": "Noivo morre horas após casamento e família se revolta com cobrança por terno rasgado; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/tragedia-choque-e-revolta-marcaram/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-02T09:30:16-04:00",
+        "published": "2026-04-02T10:51:36-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,24 +23,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Azul confirma quatro novas rotas aéreas diretas para facilitar viagens e conexões em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/azul-confirma-quatro-novas-rotas-aereas-diretas-para-facilitar-viagens-e-conexoes-em-cuiaba-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-02T09:28:19-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Homem reconhece testemunha na rua, persegue e mata a facadas; Veja vídeo",
-        "link": "https://omatogrossense.com/perseguicao-facadas-e-vinganca-marcaram/",
+        "title": "Noivo morre horas após casamento e família enfrenta polêmica com terno rasgado; Veja vídeo",
+        "link": "https://omatogrossense.com/noivo-morre-horas-apos-casamento-e-familia-enfrenta-polemica-com-terno-rasgado-veja-video/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-02T09:30:31-04:00",
+        "published": "2026-04-02T10:51:53-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -62,59 +36,48 @@
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
+    "portalnortemt": [
+      {
+        "title": "Homem perde quase R$ 37 mil após cair em golpe do falso gerente em Sorriso",
+        "link": "https://portalnortemt.com/um-homem-perdeu-quase-r-37-mil-apos-cair-em-um-golpe-aplicado-por-telefone-na-tarde-desta-quarta-feira-1o-em-sorriso-o-criminoso-ligou-p/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-02T10:03:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Evento de Páscoa é cancelado em Cáceres e prefeitura emite nota de esclarecimento",
+        "link": "https://portalpantanalmt.com/o-que-deveria-movimentar-o-turismo-e-impulsionar-a-economia-local-acabou-cancelado-e-gerou-questionamentos-em-caceres-a-prefeitura-por/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-02T10:01:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
     "roonoticias": [
       {
-        "title": "Zé Felipe anuncia novas regras para os filhos e diz que viagens vão acabar: “Sem Copa do Mundo”; veja vídeo",
-        "link": "https://roonoticias.com/o-cantor-ze-felipe-usou-as-redes-sociais-para-compartilhar/",
+        "title": "Presidente do Barcelona detona a Fifa após lesão de Raphinha em amistoso pelo Brasil: ‘Revoltante’",
+        "link": "https://roonoticias.com/o-presidente-do-barcelona-joan-laporta-criticou-duramente/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-02T09:46:56-04:00",
+        "published": "2026-04-02T10:55:52-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Esporte"
         ],
         "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Mulher se desespera e escala portão ao dar de cara com animal; veja vídeo",
-        "link": "https://roonoticias.com/uma-jovem-protagonizou-uma-cena-inusitada-nesta-quarta-feira/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-02T09:49:52-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Cadela é resgatada após passar uma semana perdida em floresta; veja vídeo",
-        "link": "https://roonoticias.com/uma-cadela-da-raca-border-collie-foi-localizada-apos/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-02T09:57:21-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Discussão em jogo de futebol acaba em homicídio e choca moradores de Várzea Grande; veja vídeo",
-        "link": "https://roonoticias.com/ma-discussao-em-um-campo-de-futebol-no-bairro-alameda/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-02T09:58:41-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
+          7
         ]
       }
     ]
