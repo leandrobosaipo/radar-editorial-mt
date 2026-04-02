@@ -1,17 +1,56 @@
 {
-  "generated_at": "2026-04-02T11:00:06.138563-04:00",
+  "generated_at": "2026-04-02T12:00:05.491244-04:00",
   "window": {
-    "start": "2026-04-02T10:00:06.138563-04:00",
-    "end": "2026-04-02T11:00:06.138563-04:00"
+    "start": "2026-04-02T11:00:05.491244-04:00",
+    "end": "2026-04-02T12:00:05.491244-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Noivo morre horas após casamento e família se revolta com cobrança por terno rasgado; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/tragedia-choque-e-revolta-marcaram/",
+        "title": "Mudança estratégica: Pivetta anuncia novos nomes e inicia reestruturação no governo de Mato Grosso; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mudanca-estrategica-pivetta-anuncia-novos-nomes-e-inicia-reestruturacao-no-governo-de-mato-grosso-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-02T11:31:38-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Influenciador registra casa alagada com presença de peixes após fortes chuvas em Cáceres; veja vídeo",
+        "link": "https://perrenguematogrosso.com/influenciador-registra-casa-alagada-com-presenca-de-peixes-apos-fortes-chuvas-em-caceres-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-02T11:42:24-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Rezende condiciona futuro político e coloca apoio como moeda-chave na disputa pelo governo de MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/rezende-condiciona-futuro-politico-e-coloca-apoio-como-moeda-chave-na-disputa-pelo-governo-de-mt-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-02T11:53:00-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "(sem título)",
+        "link": "https://perrenguematogrosso.com/330804-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-02T10:51:36-04:00",
+        "published": "2026-04-02T11:53:55-04:00",
         "categories": [
           "Notícias"
         ],
@@ -23,56 +62,67 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Noivo morre horas após casamento e família enfrenta polêmica com terno rasgado; Veja vídeo",
-        "link": "https://omatogrossense.com/noivo-morre-horas-apos-casamento-e-familia-enfrenta-polemica-com-terno-rasgado-veja-video/",
+        "title": "Mudança estratégica: Pivetta anuncia novos nomes e inicia reestruturação no governo de Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/mudanca-estrategica-pivetta-anuncia-novos-nomes-e-inicia-reestruturacao-no-governo-de-mato-grosso-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-02T11:31:46-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Influenciador mostra impacto da chuva com casa alagada e presença de peixes em Cáceres; veja vídeo",
+        "link": "https://omatogrossense.com/influenciador-mostra-impacto-da-chuva-com-casa-alagada-e-presenca-de-peixes-em-caceres-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-02T11:44:02-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Rezende condiciona futuro político e coloca apoio como moeda-chave na disputa pelo governo de MT; veja vídeo",
+        "link": "https://omatogrossense.com/rezende-condiciona-futuro-politico-e-coloca-apoio-como-moeda-chave-na-disputa-pelo-governo-de-mt-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-02T11:52:47-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://omatogrossense.com/137726-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-02T10:51:53-04:00",
+        "published": "2026-04-02T11:54:06-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Homem perde quase R$ 37 mil após cair em golpe do falso gerente em Sorriso",
-        "link": "https://portalnortemt.com/um-homem-perdeu-quase-r-37-mil-apos-cair-em-um-golpe-aplicado-por-telefone-na-tarde-desta-quarta-feira-1o-em-sorriso-o-criminoso-ligou-p/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-02T10:03:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "Evento de Páscoa é cancelado em Cáceres e prefeitura emite nota de esclarecimento",
-        "link": "https://portalpantanalmt.com/o-que-deveria-movimentar-o-turismo-e-impulsionar-a-economia-local-acabou-cancelado-e-gerou-questionamentos-em-caceres-a-prefeitura-por/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-02T10:01:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Presidente do Barcelona detona a Fifa após lesão de Raphinha em amistoso pelo Brasil: ‘Revoltante’",
-        "link": "https://roonoticias.com/o-presidente-do-barcelona-joan-laporta-criticou-duramente/",
+        "title": "Rogério Ceni adota estratégia por blocos e mantém Bahia firme na briga pelo topo",
+        "link": "https://roonoticias.com/o-tecnico-rogerio-ceni-revelou-um-metodo-considerado-curioso/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-02T10:55:52-04:00",
+        "published": "2026-04-02T11:07:43-04:00",
         "categories": [
           "Esporte"
         ],
