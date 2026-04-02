@@ -1,67 +1,13 @@
 {
-  "generated_at": "2026-04-01T20:00:48.393405-04:00",
+  "generated_at": "2026-04-02T08:00:05.551551-04:00",
   "window": {
-    "start": "2026-04-01T19:00:48.393405-04:00",
-    "end": "2026-04-01T20:00:48.393405-04:00"
+    "start": "2026-04-02T07:00:05.551551-04:00",
+    "end": "2026-04-02T08:00:05.551551-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Bombeiros levam ‘drible’ de capivara em captura em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/bombeiros-levam-drible-de-capivara-em-captura-em-cuiaba-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-04-01T19:28:08-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Menos de dois meses após causar tragédia com família inteira, caminhoneiro morre em novo acidente; veja vídeos",
-        "link": "https://perrenguematogrosso.com/o-caminhoneiro-que-causou-a-morte-de-tres-pessoas-da-mesma-familia-em-um-grave-acidente-na-br-101-morreu-na-madrugada-desta/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-04-01T19:30:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Bombeiros levam ‘drible’ de capivara em captura em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/bombeiros-levam-drible-de-capivara-em-captura-em-cuiaba-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-04-01T19:27:30-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Menos de dois meses após causar tragédia com família inteira, caminhoneiro morre em novo acidente; veja vídeos",
-        "link": "https://omatogrossense.com/o-caminhoneiro-que-causou-a-morte-de-tres-pessoas-da-mesma-familia-em-um-grave-acidente-na-br-101-morreu-na-madrugada-desta/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-01T19:30:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
