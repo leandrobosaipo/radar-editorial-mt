@@ -1,37 +1,11 @@
 {
-  "generated_at": "2026-04-03T17:12:27.412167-04:00",
+  "generated_at": "2026-04-03T18:00:46.058291-04:00",
   "window": {
-    "start": "2026-04-03T16:12:27.412167-04:00",
-    "end": "2026-04-03T17:12:27.412167-04:00"
+    "start": "2026-04-03T17:00:46.058291-04:00",
+    "end": "2026-04-03T18:00:46.058291-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
-      {
-        "title": "Bombeiro é preso após disparar contra portão de residência e ferir cachorro em Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/bombeiro-preso-disparar-portao-residencia-rondonopolis-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-03T16:14:50-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Cuiabá demite técnico do Sub-20 após derrota e má campanha no Brasileirão",
-        "link": "https://perrenguematogrosso.com/cuiaba-demite-tecnico-do-sub-20/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-03T17:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
       {
         "title": "Mulher entra em pânico em simulador de realidade virtual e shopping inteiro ri; Veja vídeo",
         "link": "https://perrenguematogrosso.com/giselle-abreu-testou-um-simulador-de/",
@@ -44,36 +18,62 @@
         "category_ids": [
           5
         ]
-      }
-    ],
-    "afolhalivre": [],
-    "omatogrossense": [
+      },
       {
-        "title": "Bombeiro é preso após disparar contra portão de residência e ferir cachorro em Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/bombeiro-preso-disparar-portao-residencia-rondonopolis-video/",
+        "title": "Carro fica pendurado em trincheira após acidente com motocicleta na em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/carro-fica-pendurado-trincheira-acidente-cuiaba-video/",
         "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-03T16:14:56-04:00",
+        "author_id": 279,
+        "published": "2026-04-03T17:17:35-04:00",
         "categories": [
-          "MT Notícias"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          20
+          16
         ]
       },
       {
-        "title": "Cuiabá demite Eduardo Zuma após derrota em casa e má campanha no Sub-20",
-        "link": "https://omatogrossense.com/cuiaba-demite-eduardo-zuma/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-03T17:00:00-04:00",
+        "title": "Veja como ficou o restaurante após queda de avião que matou quatro pessoas; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-aviao-de-pequeno-porte-c/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-03T17:55:09-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Trump corta creches, amplia gasto militar e reacende debate sobre prioridades nos EUA; veja vídeo",
+        "link": "https://perrenguematogrosso.com/trump-corta-creches-amplia-gasto-militar-e-reacende-debate-sobre-prioridades-nos-eua-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-03T17:56:55-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "“Ficou incrível”: Messi elogia novo estádio e Inter Miami prepara estreia histórica; veja vídeo",
+        "link": "https://perrenguematogrosso.com/messi-elogia-novo-estadio/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-03T18:00:00-04:00",
         "categories": [
           "Esporte"
         ],
         "category_ids": [
-          7
+          509
         ]
-      },
+      }
+    ],
+    "afolhalivre": [],
+    "omatogrossense": [
       {
         "title": "Desespero: mulher grita e enlouquece em simulador parado no shopping; Veja vídeo",
         "link": "https://omatogrossense.com/giselle-abreu-entrou-em-panico-ao/",
@@ -86,17 +86,13 @@
         "category_ids": [
           973
         ]
-      }
-    ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+      },
       {
-        "title": "Cuiabá vai parar: aniversário da capital terá 4 dias de festa com shows nacionais e mais de 50 atrações; Veja vídeo",
-        "link": "https://roonoticias.com/a-cidade-de-cuiaba-prepara-uma-grande-celebracao-para/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-03T16:26:27-04:00",
+        "title": "Corolla fica pendurado sobre trincheira após forte batida com motocicleta em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/corolla-fica-pendurado-trincheira-batida-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-03T17:17:11-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -105,19 +101,48 @@
         ]
       },
       {
-        "title": "PM registra suspeito entalado em portão após tentativa de furto em residência em Sinop; veja vídeo",
-        "link": "https://roonoticias.com/um-homem-tentou-furtar-uma-residencia-mas-acabou-preso/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-03T16:31:35-04:00",
+        "title": "Avião cai sobre restaurante em Capão da Canoa e deixa quatro mortos; Veja vídeo",
+        "link": "https://omatogrossense.com/um-aviao-de-pequeno-porte/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-03T17:54:35-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
+          973
+        ]
+      },
+      {
+        "title": "Trump corta creches, amplia gasto militar e reacende debate sobre prioridades nos EUA; veja vídeo",
+        "link": "https://omatogrossense.com/trump-corta-creches-amplia-gasto-militar-e-reacende-debate-sobre-prioridades-nos-eua-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-03T17:57:25-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "VÍDEO: Messi elogia novo estádio do Inter Miami antes da estreia oficial",
+        "link": "https://omatogrossense.com/messi-elogia-novo-estadio-do-inter-miami/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-03T18:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
-    ]
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
