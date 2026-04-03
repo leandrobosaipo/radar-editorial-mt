@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-03T11:00:04.834538-04:00",
+  "generated_at": "2026-04-03T12:10:29.922039-04:00",
   "window": {
-    "start": "2026-04-03T10:00:04.834538-04:00",
-    "end": "2026-04-03T11:00:04.834538-04:00"
+    "start": "2026-04-03T11:10:29.922039-04:00",
+    "end": "2026-04-03T12:10:29.922039-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PM prende homem durante furto de cobre em torre de transmissão em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-furto-cobre-torre-transmissao-cuiaba-video/",
+        "title": "PM prende mulher após provocar cortes profundos no próprio filho em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/pm-prende-mulher-cortes-filho-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-03T10:01:30-04:00",
+        "published": "2026-04-03T11:47:29-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,53 +20,41 @@
         ]
       },
       {
-        "title": "Homem é preso após tentar fugir da PM pulando em rio; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-homem-foi-preso-na-tarde-de/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-03T10:07:56-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "“Só se eu morrer”: prefeita trava sucessão e endurece discurso sobre comando em Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/so-se-eu-morrer-prefeita-trava-sucessao-e-endurece-discurso-sobre-comando-em-varzea-grande-veja-video/",
+        "title": "Impasse na ONU pode escalar guerra no Irã e ameaça rota vital do petróleo mundial",
+        "link": "https://perrenguematogrosso.com/331120-2/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-03T10:54:32-04:00",
+        "published": "2026-04-03T11:53:53-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           510
         ]
-      },
+      }
+    ],
+    "afolhalivre": [
       {
-        "title": "PM registra suspeito entalado em portão após tentativa de furto em residência em Sinop; veja vídeo",
-        "link": "https://perrenguematogrosso.com/suspeito-entalado-portao-tentativa-furto-sinop-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-03T10:57:30-04:00",
+        "title": "Suspeito com mandado é preso e mãe acaba detida por desacato em Campo Verde",
+        "link": "https://afolhalivre.com/a-policia-militar-de-mato-grosso-prendeu-um-homem-de-21-anos-com-mandado-de-prisao-preventiva-em-aberto-durante-patrulhamento/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-03T11:57:00-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Primavera"
         ],
         "category_ids": [
-          16
+          3032
         ]
       }
     ],
-    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "PM prende homem após flagrá-lo no alto de torre furtando fios de cobre em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/homem-alto-torre-furtando-cobre-cuiaba-video/",
+        "title": "Mulher é detida pela Polícia Militar após ferir o próprio filho em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/mulher-detida-ferir-proprio-filho-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-03T10:01:27-04:00",
+        "published": "2026-04-03T11:47:22-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -75,72 +63,47 @@
         ]
       },
       {
-        "title": "Homem tenta fugir da PM pulando em rio, mas é preso; Veja vídeo",
-        "link": "https://omatogrossense.com/homem-foi-preso-apos-tentar-fugir-da-policia-militar/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-03T10:07:51-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "“Só se eu morrer”: prefeita trava sucessão e endurece discurso sobre comando em Várzea Grande; veja vídeo",
-        "link": "https://omatogrossense.com/so-se-eu-morrer-prefeita-trava-sucessao-e-endurece-discurso-sobre-comando-em-varzea-grande-veja-video/",
+        "title": "Impasse na ONU pode escalar guerra no Irã e ameaça rota vital do petróleo mundial",
+        "link": "https://omatogrossense.com/138028-2/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-03T10:54:41-04:00",
+        "published": "2026-04-03T11:54:48-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
         ]
-      },
-      {
-        "title": "PM encontra homem entalado em portão durante tentativa de furto em Sinop; veja vídeo",
-        "link": "https://omatogrossense.com/homem-entalado-portao-tentativa-furto-sinop-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-03T10:58:21-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
       }
     ],
     "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+    "portalpantanalmt": [
       {
-        "title": "Vândalos atingem recepção da UPA em Rondonópolis em menos de um mês após a entrega da reforma",
-        "link": "https://roonoticias.com/a-nova-recepcao-da-unidade-de-pronto-atendimento-upa-24-horas-de-rondonopolis-ja-sofreu-atos-de-vandalismo-menos-de-um-mes-apos-a-entrega/",
+        "title": "Buracos na via derrubam motociclista em Pontes e Lacerda e  ampliam pressão por reparo",
+        "link": "https://portalpantanalmt.com/uma-mulher-caiu-de-uma-motocicleta-na-noite-desta-quinta-feira-02-apos-o-condutor-frear-bruscamente-ao-se-deparar-com-buracos-na-avenida/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-03T10:05:00-04:00",
+        "published": "2026-04-03T12:06:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Ex-namorado usa tadalafila, invade casa e força relação sexual em Rondonópolis",
+        "link": "https://roonoticias.com/um-homem-foi-preso-em-flagrante-apos-usar-tadalafila-invadir-a-casa-da-ex-companheira-e-forcar-uma-relacao-sexual-em-rondonopolis-a-polic/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-03T11:59:00-04:00",
         "categories": [
           "Rondonópolis"
         ],
         "category_ids": [
           3118
-        ]
-      },
-      {
-        "title": "CNSE Teste PATCH-09 Validacao Meta Fields Loop Portais",
-        "link": "https://roonoticias.com/cnse-teste-patch-09-validacao-meta-fields-loop-portais/",
-        "author": "codigo5",
-        "author_id": 1,
-        "published": "2026-04-03T10:44:36-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
         ]
       }
     ]
