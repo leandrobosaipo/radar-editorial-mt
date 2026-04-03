@@ -1,60 +1,46 @@
 {
-  "generated_at": "2026-04-03T12:10:29.922039-04:00",
+  "generated_at": "2026-04-03T13:00:05.592472-04:00",
   "window": {
-    "start": "2026-04-03T11:10:29.922039-04:00",
-    "end": "2026-04-03T12:10:29.922039-04:00"
+    "start": "2026-04-03T12:00:05.592472-04:00",
+    "end": "2026-04-03T13:00:05.592472-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PM prende mulher após provocar cortes profundos no próprio filho em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/pm-prende-mulher-cortes-filho-cuiaba-video/",
+        "title": "Onça-parda volta a invadir área urbana e causa medo após aparecer em quintal de casa",
+        "link": "https://perrenguematogrosso.com/onca-parda-volta-a-invadir-area-urbana-e-causa-medo-apos-aparecer-em-quintal-de-casa/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-03T12:22:46-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Município mato-grossense se destaca após trend de cachoeira viralizar nas redes sociais; veja vídeo",
+        "link": "https://perrenguematogrosso.com/municipio-mato-grossense-se-destaca-apos-trend-de-cachoeira-viralizar-nas-redes-sociais-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-03T11:47:29-04:00",
+        "published": "2026-04-03T12:55:08-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
-      },
-      {
-        "title": "Impasse na ONU pode escalar guerra no Irã e ameaça rota vital do petróleo mundial",
-        "link": "https://perrenguematogrosso.com/331120-2/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-03T11:53:53-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
       }
     ],
-    "afolhalivre": [
-      {
-        "title": "Suspeito com mandado é preso e mãe acaba detida por desacato em Campo Verde",
-        "link": "https://afolhalivre.com/a-policia-militar-de-mato-grosso-prendeu-um-homem-de-21-anos-com-mandado-de-prisao-preventiva-em-aberto-durante-patrulhamento/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-03T11:57:00-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Mulher é detida pela Polícia Militar após ferir o próprio filho em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/mulher-detida-ferir-proprio-filho-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-03T11:47:22-04:00",
+        "title": "Onça-parda invade quintal de casa e volta a assustar moradores; Veja vídeo",
+        "link": "https://omatogrossense.com/onca-parda-invade-quintal-de-casa-e-volta-a-assustar-moradores-em-cidade-de-minas/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-03T12:22:48-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -63,20 +49,34 @@
         ]
       },
       {
-        "title": "Impasse na ONU pode escalar guerra no Irã e ameaça rota vital do petróleo mundial",
-        "link": "https://omatogrossense.com/138028-2/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-03T11:54:48-04:00",
+        "title": "Município de MT viraliza após vídeo impressionantes de cachoeira; veja vídeo",
+        "link": "https://omatogrossense.com/municipio-mt-viraliza-video-cachoeira-veja/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-03T12:56:20-04:00",
         "categories": [
-          "Política"
+          "MT Notícias"
         ],
         "category_ids": [
-          5
+          20
         ]
       }
     ],
-    "portalnortemt": [],
+    "portalnortemt": [
+      {
+        "title": "Três homens trocam agressões e um deles é atingido com capacete em Sinop; veja vídeo",
+        "link": "https://portalnortemt.com/uma-briga-de-rua-registrada-nesta-quinta-feira-02-em-sinop-no-mato-grosso-ganhou-repercussao-apos-circular-nas-redes-sociais-o-confronto/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-03T12:03:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
     "portalpantanalmt": [
       {
         "title": "Buracos na via derrubam motociclista em Pontes e Lacerda e  ampliam pressão por reparo",
@@ -92,21 +92,7 @@
         ]
       }
     ],
-    "roonoticias": [
-      {
-        "title": "Ex-namorado usa tadalafila, invade casa e força relação sexual em Rondonópolis",
-        "link": "https://roonoticias.com/um-homem-foi-preso-em-flagrante-apos-usar-tadalafila-invadir-a-casa-da-ex-companheira-e-forcar-uma-relacao-sexual-em-rondonopolis-a-polic/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-03T11:59:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
