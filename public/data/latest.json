@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-03T10:00:00.588725-04:00",
+  "generated_at": "2026-04-03T11:00:04.834538-04:00",
   "window": {
-    "start": "2026-04-03T09:00:00.588725-04:00",
-    "end": "2026-04-03T10:00:00.588725-04:00"
+    "start": "2026-04-03T10:00:04.834538-04:00",
+    "end": "2026-04-03T11:00:04.834538-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Motorista embriagado provoca acidente com carreta ao invadir pátio de madeireira em Brasnorte; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motorista-embriagado-acidente-carreta-brasnorte-video/",
+        "title": "PM prende homem durante furto de cobre em torre de transmissão em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-furto-cobre-torre-transmissao-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-03T09:09:27-04:00",
+        "published": "2026-04-03T10:01:30-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,24 +20,11 @@
         ]
       },
       {
-        "title": "Sorvete com maionese: Festival do baguncinha promete agitar aniversário de Cuiabá e atrair multidão; veja vídeo",
-        "link": "https://perrenguematogrosso.com/sorvete-com-maionese-festival-do-baguncinha-promete-agitar-aniversario-de-cuiaba-e-atrair-multidao-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-03T09:15:25-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Astronauta da missão Artemis II resolve falha no sistema de resíduos e vira ‘encanadora espacial’; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/a-missao-artemis-ii/",
+        "title": "Homem é preso após tentar fugir da PM pulando em rio; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-homem-foi-preso-na-tarde-de/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-03T09:20:04-04:00",
+        "published": "2026-04-03T10:07:56-04:00",
         "categories": [
           "Notícias"
         ],
@@ -46,27 +33,40 @@
         ]
       },
       {
-        "title": "R$ 112 milhões para asfalto: prefeitura anuncia plano que promete mudar a realidade de bairros em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/r-112-milhoes-para-asfalto-prefeitura-anuncia-plano-que-promete-mudar-a-realidade-de-bairros-em-cuiaba-veja-video/",
+        "title": "“Só se eu morrer”: prefeita trava sucessão e endurece discurso sobre comando em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/so-se-eu-morrer-prefeita-trava-sucessao-e-endurece-discurso-sobre-comando-em-varzea-grande-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-03T09:45:21-04:00",
+        "published": "2026-04-03T10:54:32-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           510
         ]
+      },
+      {
+        "title": "PM registra suspeito entalado em portão após tentativa de furto em residência em Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/suspeito-entalado-portao-tentativa-furto-sinop-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-03T10:57:30-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Motorista bêbado perde controle e carreta invade madeireira em Brasnorte; veja vídeo",
-        "link": "https://omatogrossense.com/motorista-carreta-invade-madeireira-brasnorte-video/",
+        "title": "PM prende homem após flagrá-lo no alto de torre furtando fios de cobre em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/homem-alto-torre-furtando-cobre-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-03T09:09:23-04:00",
+        "published": "2026-04-03T10:01:27-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -75,24 +75,11 @@
         ]
       },
       {
-        "title": "Discurso de Trump gera efeito contrário, dispara petróleo e levanta alerta global; veja vídeo",
-        "link": "https://omatogrossense.com/discurso-de-trump/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-03T09:15:48-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Falha no sistema de coleta de resíduos é resolvida por encanadora espacial da missão Artemis II; Veja vídeo",
-        "link": "https://omatogrossense.com/a-missao-artemis-ii-enfrentou-um-problem/",
+        "title": "Homem tenta fugir da PM pulando em rio, mas é preso; Veja vídeo",
+        "link": "https://omatogrossense.com/homem-foi-preso-apos-tentar-fugir-da-policia-militar/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-03T09:20:07-04:00",
+        "published": "2026-04-03T10:07:51-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -101,22 +88,62 @@
         ]
       },
       {
-        "title": "Trump provoca Macron, cita Brigitte e cria novo ruído diplomático em meio a tensão global; veja vídeo",
-        "link": "https://omatogrossense.com/trump-provoca-macron-cita-brigitte-e-cria-novo-ruido-diplomatico-em-meio-a-tensao-global-veja-video/",
+        "title": "“Só se eu morrer”: prefeita trava sucessão e endurece discurso sobre comando em Várzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/so-se-eu-morrer-prefeita-trava-sucessao-e-endurece-discurso-sobre-comando-em-varzea-grande-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-03T09:45:34-04:00",
+        "published": "2026-04-03T10:54:41-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "PM encontra homem entalado em portão durante tentativa de furto em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/homem-entalado-portao-tentativa-furto-sinop-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-03T10:58:21-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
       }
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Vândalos atingem recepção da UPA em Rondonópolis em menos de um mês após a entrega da reforma",
+        "link": "https://roonoticias.com/a-nova-recepcao-da-unidade-de-pronto-atendimento-upa-24-horas-de-rondonopolis-ja-sofreu-atos-de-vandalismo-menos-de-um-mes-apos-a-entrega/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-03T10:05:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "CNSE Teste PATCH-09 Validacao Meta Fields Loop Portais",
+        "link": "https://roonoticias.com/cnse-teste-patch-09-validacao-meta-fields-loop-portais/",
+        "author": "codigo5",
+        "author_id": 1,
+        "published": "2026-04-03T10:44:36-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
