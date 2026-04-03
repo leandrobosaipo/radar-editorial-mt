@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-03T09:00:01.315723-04:00",
+  "generated_at": "2026-04-03T10:00:00.588725-04:00",
   "window": {
-    "start": "2026-04-03T08:00:01.315723-04:00",
-    "end": "2026-04-03T09:00:01.315723-04:00"
+    "start": "2026-04-03T09:00:00.588725-04:00",
+    "end": "2026-04-03T10:00:00.588725-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Polícia prende novamente mulher condenada por abusar e matar o próprio filho de 2 anos em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-condenada-abusar-matar-filho-mt-video/",
+        "title": "Motorista embriagado provoca acidente com carreta ao invadir pátio de madeireira em Brasnorte; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motorista-embriagado-acidente-carreta-brasnorte-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-03T08:10:09-04:00",
+        "published": "2026-04-03T09:09:27-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,24 @@
         ]
       },
       {
-        "title": "gari surpreende ao reagir com humildade a ajuda financeira; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-momento-simples-registrado-em-sao-bernardo/",
+        "title": "Sorvete com maionese: Festival do baguncinha promete agitar aniversário de Cuiabá e atrair multidão; veja vídeo",
+        "link": "https://perrenguematogrosso.com/sorvete-com-maionese-festival-do-baguncinha-promete-agitar-aniversario-de-cuiaba-e-atrair-multidao-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-03T09:15:25-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Astronauta da missão Artemis II resolve falha no sistema de resíduos e vira ‘encanadora espacial’; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/a-missao-artemis-ii/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-03T08:15:54-04:00",
+        "published": "2026-04-03T09:20:04-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,11 +46,11 @@
         ]
       },
       {
-        "title": "Ibovespa oscila e fecha no vermelho enquanto bolsas dos EUA dividem sinais",
-        "link": "https://perrenguematogrosso.com/ibovespa-oscila-e-fecha-no-vermelho-enquanto-bolsas-dos-eua-dividem-sinais/",
+        "title": "R$ 112 milhões para asfalto: prefeitura anuncia plano que promete mudar a realidade de bairros em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/r-112-milhoes-para-asfalto-prefeitura-anuncia-plano-que-promete-mudar-a-realidade-de-bairros-em-cuiaba-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-03T08:51:56-04:00",
+        "published": "2026-04-03T09:45:21-04:00",
         "categories": [
           "Política"
         ],
@@ -49,11 +62,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Mulher condenada por matar o filho de 2 anos viola regras judiciais e acaba presa novamente em MT; veja vídeo",
-        "link": "https://omatogrossense.com/mulher-condenada-matar-filho-presa-mt-video/",
+        "title": "Motorista bêbado perde controle e carreta invade madeireira em Brasnorte; veja vídeo",
+        "link": "https://omatogrossense.com/motorista-carreta-invade-madeireira-brasnorte-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-03T08:10:32-04:00",
+        "published": "2026-04-03T09:09:23-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,11 +75,24 @@
         ]
       },
       {
-        "title": "Gari recebe ajuda financeira, mas atitude inesperada delal comove a todos; Veja vídeo",
-        "link": "https://omatogrossense.com/um-encontro-inesperado-em-sao/",
+        "title": "Discurso de Trump gera efeito contrário, dispara petróleo e levanta alerta global; veja vídeo",
+        "link": "https://omatogrossense.com/discurso-de-trump/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-03T09:15:48-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Falha no sistema de coleta de resíduos é resolvida por encanadora espacial da missão Artemis II; Veja vídeo",
+        "link": "https://omatogrossense.com/a-missao-artemis-ii-enfrentou-um-problem/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-03T08:15:56-04:00",
+        "published": "2026-04-03T09:20:07-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -75,11 +101,11 @@
         ]
       },
       {
-        "title": "Ibovespa oscila e fecha no vermelho enquanto bolsas dos EUA dividem sinais",
-        "link": "https://omatogrossense.com/ibovespa-oscila-e-fecha-no-vermelho-enquanto-bolsas-dos-eua-dividem-sinais/",
+        "title": "Trump provoca Macron, cita Brigitte e cria novo ruído diplomático em meio a tensão global; veja vídeo",
+        "link": "https://omatogrossense.com/trump-provoca-macron-cita-brigitte-e-cria-novo-ruido-diplomatico-em-meio-a-tensao-global-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-03T08:53:47-04:00",
+        "published": "2026-04-03T09:45:34-04:00",
         "categories": [
           "Política"
         ],
@@ -90,21 +116,7 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Homem invade trabalho, esfaqueia mulher e acaba preso por tentativa de feminicídio; veja vídeo",
-        "link": "https://roonoticias.com/a-policia-civil-cumpriu-nesta-quinta-feira-02-o-mandado-de-prisao-preventiva-de-um-homem-de-39-anos-acusado-de-tentativa-de-feminicidio-em/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-03T08:05:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
