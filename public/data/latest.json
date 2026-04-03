@@ -1,16 +1,110 @@
 {
-  "generated_at": "2026-04-03T08:00:00.488387-04:00",
+  "generated_at": "2026-04-03T09:00:01.315723-04:00",
   "window": {
-    "start": "2026-04-03T07:00:00.488387-04:00",
-    "end": "2026-04-03T08:00:00.488387-04:00"
+    "start": "2026-04-03T08:00:01.315723-04:00",
+    "end": "2026-04-03T09:00:01.315723-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Polícia prende novamente mulher condenada por abusar e matar o próprio filho de 2 anos em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mulher-condenada-abusar-matar-filho-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-03T08:10:09-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "gari surpreende ao reagir com humildade a ajuda financeira; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-momento-simples-registrado-em-sao-bernardo/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-03T08:15:54-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Ibovespa oscila e fecha no vermelho enquanto bolsas dos EUA dividem sinais",
+        "link": "https://perrenguematogrosso.com/ibovespa-oscila-e-fecha-no-vermelho-enquanto-bolsas-dos-eua-dividem-sinais/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-03T08:51:56-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Mulher condenada por matar o filho de 2 anos viola regras judiciais e acaba presa novamente em MT; veja vídeo",
+        "link": "https://omatogrossense.com/mulher-condenada-matar-filho-presa-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-03T08:10:32-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Gari recebe ajuda financeira, mas atitude inesperada delal comove a todos; Veja vídeo",
+        "link": "https://omatogrossense.com/um-encontro-inesperado-em-sao/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-03T08:15:56-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Ibovespa oscila e fecha no vermelho enquanto bolsas dos EUA dividem sinais",
+        "link": "https://omatogrossense.com/ibovespa-oscila-e-fecha-no-vermelho-enquanto-bolsas-dos-eua-dividem-sinais/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-03T08:53:47-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Homem invade trabalho, esfaqueia mulher e acaba preso por tentativa de feminicídio; veja vídeo",
+        "link": "https://roonoticias.com/a-policia-civil-cumpriu-nesta-quinta-feira-02-o-mandado-de-prisao-preventiva-de-um-homem-de-39-anos-acusado-de-tentativa-de-feminicidio-em/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-03T08:05:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
