@@ -1,66 +1,14 @@
 {
-  "generated_at": "2026-04-03T14:09:26.920022-04:00",
+  "generated_at": "2026-04-03T15:00:02.863228-04:00",
   "window": {
-    "start": "2026-04-03T13:09:26.920022-04:00",
-    "end": "2026-04-03T14:09:26.920022-04:00"
+    "start": "2026-04-03T14:00:02.863228-04:00",
+    "end": "2026-04-03T15:00:02.863228-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Avião cai sobre restaurante, pega fogo e deixa vítima; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-aviao-de-pequeno-porte-caiu-so/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-03T13:10:51-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Lego reúne Messi, CR7, Mbappé e Vini Jr. em ação especial a 70 dias da Copa; veja vídeo",
-        "link": "https://perrenguematogrosso.com/lego-reune-messi-cr7-mbappe-e-vini-jr/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-03T13:14:19-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/331150-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-03T13:53:41-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Fim da escala 6×1 vira aposta política de Lula e pode travar o Congresso nas próximas semanas",
-        "link": "https://perrenguematogrosso.com/fim-da-escala-6x1-vira-aposta-politica-de-lula-e-pode-travar-o-congresso-nas-proximas-semanas/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-03T13:54:58-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
         "title": "PM frustra suposto esquema de facção com cestas básicas em Sapezal; veja vídeo",
-        "link": "https://perrenguematogrosso.com/pm-frustra-suposto-esquema-de-faccao-com-cestas-basicas-em-sapezal-veja-video/",
+        "link": "https://perrenguematogrosso.com/esquema-faccao-cestas-basicas-sapezal-video/",
         "author": "Mhylenna",
         "author_id": 279,
         "published": "2026-04-03T14:08:08-04:00",
@@ -70,16 +18,68 @@
         "category_ids": [
           16
         ]
+      },
+      {
+        "title": "Alex Poatan mostra que vai além do octógono e chama atenção ao provar vinhos; veja vídeo",
+        "link": "https://perrenguematogrosso.com/alex-poatan-mostra-que-vai-alem-do-octogono/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-03T14:09:34-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "“Não tem perna ruim”: Neymar decide, dá assistência e tira o Santos do Z4; veja vídeo",
+        "link": "https://perrenguematogrosso.com/nao-tem-perna-ruim-neymar-decide-da-assistencia-e-tira-o-santos-do-z4-veja-video/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-03T14:48:06-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "“Fui traído”: Wagner rompe grupo político, expõe bastidores e anuncia ida ao MDB; veja vídeo",
+        "link": "https://perrenguematogrosso.com/fui-traido-wagner-rompe-grupo-politico-expoe-bastidores-e-anuncia-ida-ao-mdb-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-03T14:53:11-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/331177-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-03T14:59:46-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Avião despenca, atinge restaurante e deixa rastro de fogo; Veja vídeo",
-        "link": "https://omatogrossense.com/um-aviao-de-pequeno-porte-caiu-s/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-03T13:10:47-04:00",
+        "title": "PM frustra suposto esquema de facção com cestas básicas em Sapezal; veja vídeo",
+        "link": "https://omatogrossense.com/esquema-faccao-cestas-basicas-sapezal-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-03T14:09:16-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -88,11 +88,37 @@
         ]
       },
       {
-        "title": "VÍDEO: Messi, Cristiano Ronaldo, Mbappé e Vini Jr. viram Lego e protagonizam disputa inusitada antes da Copa",
-        "link": "https://omatogrossense.com/messi-cristiano-ronaldo-mbappe-e-vini-jr-viram-lego/",
+        "title": "De “sommelier” a campeão: vídeo de Poatan com vinho viraliza e resgata passado do lutador",
+        "link": "https://omatogrossense.com/video-de-poatan-com-vinho-viraliza/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-03T13:24:02-04:00",
+        "published": "2026-04-03T14:27:51-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "“Fui traído”: Wagner rompe grupo político, expõe bastidores e anuncia ida ao MDB; veja vídeo",
+        "link": "https://omatogrossense.com/fui-traido-wagner-rompe-grupo-politico-expoe-bastidores-e-anuncia-ida-ao-mdb-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-03T14:52:47-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "“Qual é a perna ruim? Não tem”: Neymar decide jogo e tira Santos do Z4; veja vídeo",
+        "link": "https://omatogrossense.com/qual-e-a-perna-ruim-nao-tem-neymar-decide-jogo-e-tira-santos-do-z4/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-03T14:57:17-04:00",
         "categories": [
           "Esporte"
         ],
@@ -102,36 +128,10 @@
       },
       {
         "title": ".",
-        "link": "https://omatogrossense.com/138060-2/",
+        "link": "https://omatogrossense.com/138096-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-03T13:53:53-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Fim da escala 6×1 vira aposta política de Lula e pode travar o Congresso nas próximas semanas",
-        "link": "https://omatogrossense.com/fim-da-escala-6x1-vira-aposta-politica-de-lula-e-pode-travar-o-congresso-nas-proximas-semanas/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-03T13:55:18-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "PM frustra suposto esquema de facção com cestas básicas em Sapezal; veja vídeo",
-        "link": "https://omatogrossense.com/pm-frustra-suposto-esquema-de-faccao-com-cestas-basicas-em-sapezal-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-03T14:09:16-04:00",
+        "published": "2026-04-03T14:59:54-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -142,7 +142,47 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Árbitro detalha em súmula motivo do cartão que tirou Neymar de Flamengo x Santos",
+        "link": "https://roonoticias.com/o-atacante-neymar-sera-desfalque-do-santos-na-proxima/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-03T14:18:17-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "São Paulo quitou dívida de R$ 2,1 milhões com Crespo dias antes de demissão",
+        "link": "https://roonoticias.com/o-tecnico-hernan-crespo-dias-antes-de-anunciar/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-03T14:25:55-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "A ambiciosa meta do PSD para a Câmara dos Deputados",
+        "link": "https://roonoticias.com/meta-ambiciosa-para-as-eleicoes-a-camara-dos-deputados-em-outubro/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-03T14:33:43-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
