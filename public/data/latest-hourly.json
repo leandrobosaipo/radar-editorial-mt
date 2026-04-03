@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-02T20:12:44.025524-04:00",
+  "generated_at": "2026-04-03T08:00:00.488387-04:00",
   "window": {
-    "start": "2026-04-02T19:12:44.025524-04:00",
-    "end": "2026-04-02T20:12:44.025524-04:00"
+    "start": "2026-04-03T07:00:00.488387-04:00",
+    "end": "2026-04-03T08:00:00.488387-04:00"
   },
   "sites": {
     "perrenguematogrosso": [],
@@ -13,11 +13,46 @@
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
