@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-03T13:00:05.592472-04:00",
+  "generated_at": "2026-04-03T14:09:26.920022-04:00",
   "window": {
-    "start": "2026-04-03T12:00:05.592472-04:00",
-    "end": "2026-04-03T13:00:05.592472-04:00"
+    "start": "2026-04-03T13:09:26.920022-04:00",
+    "end": "2026-04-03T14:09:26.920022-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Onça-parda volta a invadir área urbana e causa medo após aparecer em quintal de casa",
-        "link": "https://perrenguematogrosso.com/onca-parda-volta-a-invadir-area-urbana-e-causa-medo-apos-aparecer-em-quintal-de-casa/",
+        "title": "Avião cai sobre restaurante, pega fogo e deixa vítima; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-aviao-de-pequeno-porte-caiu-so/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-03T12:22:46-04:00",
+        "published": "2026-04-03T13:10:51-04:00",
         "categories": [
           "Notícias"
         ],
@@ -20,11 +20,50 @@
         ]
       },
       {
-        "title": "Município mato-grossense se destaca após trend de cachoeira viralizar nas redes sociais; veja vídeo",
-        "link": "https://perrenguematogrosso.com/municipio-mato-grossense-se-destaca-apos-trend-de-cachoeira-viralizar-nas-redes-sociais-veja-video/",
+        "title": "Lego reúne Messi, CR7, Mbappé e Vini Jr. em ação especial a 70 dias da Copa; veja vídeo",
+        "link": "https://perrenguematogrosso.com/lego-reune-messi-cr7-mbappe-e-vini-jr/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-03T13:14:19-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/331150-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-03T13:53:41-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Fim da escala 6×1 vira aposta política de Lula e pode travar o Congresso nas próximas semanas",
+        "link": "https://perrenguematogrosso.com/fim-da-escala-6x1-vira-aposta-politica-de-lula-e-pode-travar-o-congresso-nas-proximas-semanas/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-03T13:54:58-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "PM frustra suposto esquema de facção com cestas básicas em Sapezal; veja vídeo",
+        "link": "https://perrenguematogrosso.com/pm-frustra-suposto-esquema-de-faccao-com-cestas-basicas-em-sapezal-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-03T12:55:08-04:00",
+        "published": "2026-04-03T14:08:08-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -36,11 +75,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Onça-parda invade quintal de casa e volta a assustar moradores; Veja vídeo",
-        "link": "https://omatogrossense.com/onca-parda-invade-quintal-de-casa-e-volta-a-assustar-moradores-em-cidade-de-minas/",
+        "title": "Avião despenca, atinge restaurante e deixa rastro de fogo; Veja vídeo",
+        "link": "https://omatogrossense.com/um-aviao-de-pequeno-porte-caiu-s/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-03T12:22:48-04:00",
+        "published": "2026-04-03T13:10:47-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,11 +88,50 @@
         ]
       },
       {
-        "title": "Município de MT viraliza após vídeo impressionantes de cachoeira; veja vídeo",
-        "link": "https://omatogrossense.com/municipio-mt-viraliza-video-cachoeira-veja/",
+        "title": "VÍDEO: Messi, Cristiano Ronaldo, Mbappé e Vini Jr. viram Lego e protagonizam disputa inusitada antes da Copa",
+        "link": "https://omatogrossense.com/messi-cristiano-ronaldo-mbappe-e-vini-jr-viram-lego/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-03T13:24:02-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://omatogrossense.com/138060-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-03T13:53:53-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Fim da escala 6×1 vira aposta política de Lula e pode travar o Congresso nas próximas semanas",
+        "link": "https://omatogrossense.com/fim-da-escala-6x1-vira-aposta-politica-de-lula-e-pode-travar-o-congresso-nas-proximas-semanas/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-03T13:55:18-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "PM frustra suposto esquema de facção com cestas básicas em Sapezal; veja vídeo",
+        "link": "https://omatogrossense.com/pm-frustra-suposto-esquema-de-faccao-com-cestas-basicas-em-sapezal-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-03T12:56:20-04:00",
+        "published": "2026-04-03T14:09:16-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,36 +140,8 @@
         ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Três homens trocam agressões e um deles é atingido com capacete em Sinop; veja vídeo",
-        "link": "https://portalnortemt.com/uma-briga-de-rua-registrada-nesta-quinta-feira-02-em-sinop-no-mato-grosso-ganhou-repercussao-apos-circular-nas-redes-sociais-o-confronto/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-03T12:03:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "Buracos na via derrubam motociclista em Pontes e Lacerda e  ampliam pressão por reparo",
-        "link": "https://portalpantanalmt.com/uma-mulher-caiu-de-uma-motocicleta-na-noite-desta-quinta-feira-02-apos-o-condutor-frear-bruscamente-ao-se-deparar-com-buracos-na-avenida/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-03T12:06:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
