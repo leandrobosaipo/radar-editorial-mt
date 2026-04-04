@@ -1,122 +1,58 @@
 {
-  "generated_at": "2026-04-03T20:03:22.683682-04:00",
+  "generated_at": "2026-04-04T08:13:13.235515-04:00",
   "window": {
-    "start": "2026-04-03T19:03:22.683682-04:00",
-    "end": "2026-04-03T20:03:22.683682-04:00"
+    "start": "2026-04-04T07:13:13.235515-04:00",
+    "end": "2026-04-04T08:13:13.235515-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Mulher morre em colisão de frente em Tangará da Serra; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-morre-em-colisao-de-frente-em-tangara-da-serra-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-04-03T19:05:18-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Peaky Blinders invade estádio: Birmingham faz mosaico com Thomas Shelby e surpreende torcida; veja vídeo",
-        "link": "https://perrenguematogrosso.com/peaky-blinders-invade-estadio/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-03T19:27:23-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Criança de 3 anos morre após picada de escorpião e pai denuncia falhas no atendimento; veja vídeo",
-        "link": "https://perrenguematogrosso.com/uma-crianca-de-3-anos-morreu-apos-sofrer-duas-picadas-de-escorpiao-em-conchal-no-interior-de-sao-paulo-e-o-pai-paulo-mendes/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-04-03T19:29:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Cuiabá recebe o Ceará na Arena Pantanal e tenta melhorar retrospecto no confronto; veja a tabela",
-        "link": "https://perrenguematogrosso.com/cuiaba-recebe-o-ceara-na-arena-pantanal/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-03T20:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
+    "omatogrossense": [],
+    "portalnortemt": [
       {
-        "title": "Mulher morre em colisão de frente em Tangará da Serra; veja vídeo",
-        "link": "https://omatogrossense.com/mulher-morre-em-colisao-de-frente-em-tangara-da-serra-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-04-03T19:06:27-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Criança de 3 anos morre após picada de escorpião e pai denuncia falhas no atendimento; veja vídeo",
-        "link": "https://omatogrossense.com/uma-crianca-de-3-anos-morreu-apos-sofrer-duas-picadas-de-escorpiao-em-conchal-no-interior-de-sao-paulo-e-o-pai-paulo-mendes/",
+        "title": "Suspeito fica enroscado em portão ao tentar furtar casa em Sinop e sargento se diverte com a situação, veja vídeo",
+        "link": "https://portalnortemt.com/um-homem-ficou-enroscado-em-um-portao-ao-tentar-furtar-uma-residencia-em-sinop-no-mato-grosso-e-acabou-sendo-encontrado-pela-policia-militar/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-03T19:29:00-04:00",
+        "published": "2026-04-04T07:58:00-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Sinop"
         ],
         "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "VÍDEO: Birmingham cria mosaico com Thomas Shelby e Bellingham, mas perde em campo",
-        "link": "https://omatogrossense.com/birmingham-cria-mosaico-com-thomas-shelby/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-03T19:36:36-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Cuiabá enfrenta o Ceará na Arena Pantanal com técnico suspenso e ingressos a partir de R$ 10; veja a tabela",
-        "link": "https://omatogrossense.com/cuiaba-enfrenta-o-ceara-na-arena-pantanal/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-03T20:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
+          3030
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalpantanalmt": [
+      {
+        "title": "PM desmonta ponto de tráfico em Cáceres, apreende arma e aciona Conselho Tutelar após encontrar crianças no local",
+        "link": "https://portalpantanalmt.com/a-policia-militar-desarticulou-um-ponto-de-trafico-de-drogas-durante-a-operacao-territorio-livre-e-apreendeu-arma-entorpecentes-e-dinheiro-em/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-04T08:00:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Homem procura rival, atira contra casa e acaba preso em flagrante em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-homem-de-44-anos-acabou-preso-apos-efetuar-diversos-disparos-contra-uma-residencia-em-rondonopolis-no-mato-grosso-enquanto/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-04T07:54:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
@@ -146,7 +82,13 @@
       973,
       3030
     ],
-    "portalpantanalmt": [],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
     "roonoticias": [
       5,
       7,
