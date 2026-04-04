@@ -1,85 +1,33 @@
 {
-  "generated_at": "2026-04-04T17:00:05.683712-04:00",
+  "generated_at": "2026-04-04T18:00:03.223453-04:00",
   "window": {
-    "start": "2026-04-04T16:00:05.683712-04:00",
-    "end": "2026-04-04T17:00:05.683712-04:00"
+    "start": "2026-04-04T17:00:03.223453-04:00",
+    "end": "2026-04-04T18:00:03.223453-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "“Neymar pode ir parar na cadeia” Fala explosiva de Nikolas Ferreira incendeia debate no futebol brasileiro; veja vídeo",
-        "link": "https://perrenguematogrosso.com/neymar-pode-ir-parar-na-cadeia-fala-explosiva-de-nikolas-ferreira-incendeia-debate-no-futebol-brasileiro-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-04T16:06:41-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Funcionário de empresa agrícola é preso após furtar itens de informática em Cuiabá",
-        "link": "https://perrenguematogrosso.com/funcionario-empresa-agricola-preso-furta-informatica-cuiaba/",
+        "title": "PM prende homem em flagrante com arma e drogas durante operação em Nova Mutum",
+        "link": "https://perrenguematogrosso.com/pm-prende-homem-flagrante-operacao-nova-mutum/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-04T16:40:00-04:00",
+        "published": "2026-04-04T17:40:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
-      },
-      {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/331460-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-04T16:53:08-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "“Neymar pode ir parar na cadeia” Fala explosiva de Nikolas Ferreira incendeia debate no futebol brasileiro; veja vídeo",
-        "link": "https://omatogrossense.com/neymar-pode-ir-parar-na-cadeia-fala-explosiva-de-nikolas-ferreira-incendeia-debate-no-futebol-brasileiro-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-04T16:06:47-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Funcionário de empresa do agronegócio furta equipamentos de informática e acaba detido em Cuiabá",
-        "link": "https://omatogrossense.com/funcionario-empresa-agronegocio-furta-equipamentos-cuiaba/",
+        "title": "PM prende homem em flagrante com arma e drogas durante operação em MT",
+        "link": "https://omatogrossense.com/pm-prende-homem-arma-drogas-mt/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-04T16:40:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "/",
-        "link": "https://omatogrossense.com/138329-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-04T16:53:12-04:00",
+        "published": "2026-04-04T17:40:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -92,37 +40,11 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Ex de Luiza Marquesa reage ao vivo após vídeo envolvendo Zé Felipe e dá o troco; veja vídeo",
-        "link": "https://roonoticias.com/a-repercussao-do-video-envolvendo-o-cantor-ze-felipe/",
+        "title": "O gesto provocativo de Simeone que causou polêmica em Atlético de Madrid x Barcelona e o que assistir no Disney+",
+        "link": "https://roonoticias.com/atletico-de-madrid-e-barcelona-entram-em-campo-neste-sabado-4/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-04T16:11:28-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Empresária leva ovos de Páscoa a moradores de rua e população vulnerável na Grande Cuiabá; veja vídeo",
-        "link": "https://roonoticias.com/mais-de-900-pessoas-em-situacao-de-vulnerabilidade/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-04T16:28:22-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Quem é o lateral-esquerdo que pode ser ‘surpresa’ do Palmeiras na Libertadores após lesões de Piquerez e Jefté",
-        "link": "https://roonoticias.com/o-palmeiras-enfrenta-um-problema-imediato-no-elenco/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-04T16:39:54-04:00",
+        "published": "2026-04-04T17:01:36-04:00",
         "categories": [
           "Esporte"
         ],
@@ -131,16 +53,29 @@
         ]
       },
       {
-        "title": "À ESPN, Endrick detalha relação com Ancelotti na seleção, explica ‘resenha’ com Modric e abre o jogo sobre vaga na Copa",
-        "link": "https://roonoticias.com/o-atacante-endrick-destacou-a-sensacao-de-dever-cumprido/",
+        "title": "Túlio Gadêlha se filia ao PSD de Caiado, mas dispara: “Apoiarei Lula”",
+        "link": "https://roonoticias.com/o-deputado-tulio-gadelha-anunciou-que-apoiara-a-reeleicao/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-04T16:50:34-04:00",
+        "published": "2026-04-04T17:16:45-04:00",
         "categories": [
-          "Esporte"
+          "Política"
         ],
         "category_ids": [
-          7
+          5
+        ]
+      },
+      {
+        "title": "Michelle sobre estado de saúde de Bolsonaro: “Sem soluços há 6 dias”",
+        "link": "https://roonoticias.com/a-ex-primeira-dama-michelle-bolsonaro-utilizou/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-04T17:26:27-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ]
