@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-04-04T09:13:22.922841-04:00",
+  "generated_at": "2026-04-04T10:14:01.009481-04:00",
   "window": {
-    "start": "2026-04-04T08:13:22.922841-04:00",
-    "end": "2026-04-04T09:13:22.922841-04:00"
+    "start": "2026-04-04T09:14:01.009481-04:00",
+    "end": "2026-04-04T10:14:01.009481-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Moradores registram momento em que lotérica pega fogo no centro de Chapada dos Guimarães; veja vídeo",
-        "link": "https://perrenguematogrosso.com/loterica-pega-fogo-chapada-dos-guimaraes-incendio-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-04T08:22:05-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Queda após falha em paramotor termina com piloto internado e novas cirurgias previstas; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/falha-queda-e-cirurgia-foram/",
+        "title": "Pai de advogada argentina repete gesto racista em vídeo e amplia polêmica após caso no Brasil; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/video-gesto-e-racismo-voltaram-a-re/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-04T08:44:08-04:00",
+        "published": "2026-04-04T09:34:05-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Músico morre após sofrer mal súbito durante subida em escadaria turística em Barra do Garças; veja vídeo",
+        "link": "https://perrenguematogrosso.com/musico-morre-sofrer-mal-subito-barra-do-garcas-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-04T09:34:25-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Vídeo mostra moradores tentando conter fogo em lotérica no centro de Chapada dos Guimarães; veja vídeo",
-        "link": "https://omatogrossense.com/video-fogo-loterica-centro-chapada-dos-guimaraes/",
+        "title": "Músico morre após sofrer infarto durante subida na escadaria da Serra Azul em Barra do Garças; veja vídeo",
+        "link": "https://omatogrossense.com/musico-morre-apos-sofrer-infarto-durante-subida-na-escadaria-da-serra-azul-em-barra-do-garcas-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-04T08:25:14-04:00",
+        "published": "2026-04-04T09:34:34-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,24 +49,11 @@
         ]
       },
       {
-        "title": "Falha mecânica provoca queda de paramotor e piloto passa por cirurgias após acidente; Veja vídeo",
-        "link": "https://omatogrossense.com/queda-falha-e-cirurgia-marcaram/",
+        "title": "Multidão emociona e transforma Via-Sacra em espetáculo de fé com mais de 100 mil pessoas; Veja vídeo",
+        "link": "https://omatogrossense.com/fe-multidao-e-emocao-marcaram/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-04T08:44:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Novo vídeo de gesto racista envolve pai de advogada e gera revolta após caso no Brasil; Veja video",
-        "link": "https://omatogrossense.com/video-gesto-e-racismo-voltaram/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-04T09:08:10-04:00",
+        "published": "2026-04-04T10:00:22-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -75,9 +62,51 @@
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalnortemt": [
+      {
+        "title": "Jovem é preso com tablete e dezenas de porções de cocaína ao sair de casa em Sinop",
+        "link": "https://portalnortemt.com/a-policia-militar-prendeu-um-jovem-de-24-anos-por-trafico-de-drogas-apos-flagra-lo-transportando-entorpecentes-no-bairro-vila-mariana-em-sinop/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-04T10:02:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Motociclista morre após acidente em Pontes e Lacerda e motorista menor foge sem prestar socorro",
+        "link": "https://portalpantanalmt.com/um-motociclista-de-36-anos-morreu-apos-um-grave-acidente-registrado-nas-primeiras-horas-da-manha-desta-sexta-feira-3-em-pontes-e-lacerda/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-04T10:00:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Homem é indiciado após série de mortes de gatos em Rondonópolis",
+        "link": "https://roonoticias.com/a-policia-civil-de-mato-grosso-indiciou-um-homem-de-40-anos-por-maus-tratos-a-animais-com-resultado-morte-apos-investigar-a-morte-de-gatos/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-04T09:57:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
