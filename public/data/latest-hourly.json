@@ -1,50 +1,11 @@
 {
-  "generated_at": "2026-04-03T19:07:13.262213-04:00",
+  "generated_at": "2026-04-03T20:03:22.683682-04:00",
   "window": {
-    "start": "2026-04-03T18:07:13.262213-04:00",
-    "end": "2026-04-03T19:07:13.262213-04:00"
+    "start": "2026-04-03T19:03:22.683682-04:00",
+    "end": "2026-04-03T20:03:22.683682-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
-      {
-        "title": "Caminhonete capota na Estrada da Guia e família é socorrida rapidamente por condutores; veja vídeo",
-        "link": "https://perrenguematogrosso.com/caminhonete-capota-estrada-guia-familia-socorrida-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-03T18:08:37-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Veja como ficou o restaurante após queda de avião que matou quatro pessoas; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-aviao-de-pequeno-porte-c/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-03T18:19:19-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Carteira secreta do Safra: Veja as 10 ações escolhidas para bater o Ibovespa em abril",
-        "link": "https://perrenguematogrosso.com/carteira-secreta-do-safra-veja-as-10-acoes-escolhidas-para-bater-o-ibovespa-em-abril/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-03T18:44:28-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
       {
         "title": "Mulher morre em colisão de frente em Tangará da Serra; veja vídeo",
         "link": "https://perrenguematogrosso.com/mulher-morre-em-colisao-de-frente-em-tangara-da-serra-veja-video/",
@@ -57,49 +18,49 @@
         "category_ids": [
           16
         ]
-      }
-    ],
-    "afolhalivre": [],
-    "omatogrossense": [
+      },
       {
-        "title": "Caminhonete capota na Estrada da Guia e família é socorrida rapidamente por populares; veja vídeo",
-        "link": "https://omatogrossense.com/caminhonete-capota-estrada-guia-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-03T18:08:33-04:00",
+        "title": "Peaky Blinders invade estádio: Birmingham faz mosaico com Thomas Shelby e surpreende torcida; veja vídeo",
+        "link": "https://perrenguematogrosso.com/peaky-blinders-invade-estadio/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-03T19:27:23-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          509
         ]
       },
       {
-        "title": "Veja como ficou após avião cair sobre restaurante; Veja vídeo",
-        "link": "https://omatogrossense.com/um-aviao-de-pequeno-porte/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-03T18:18:24-04:00",
+        "title": "Criança de 3 anos morre após picada de escorpião e pai denuncia falhas no atendimento; veja vídeo",
+        "link": "https://perrenguematogrosso.com/uma-crianca-de-3-anos-morreu-apos-sofrer-duas-picadas-de-escorpiao-em-conchal-no-interior-de-sao-paulo-e-o-pai-paulo-mendes/",
+        "author": "Lindy Oliveira",
+        "author_id": 292,
+        "published": "2026-04-03T19:29:00-04:00",
         "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Carteira secreta do Safra: Veja as 10 ações escolhidas para bater o Ibovespa em abril",
-        "link": "https://omatogrossense.com/carteira-secreta-do-safra-veja-as-10-acoes-escolhidas-para-bater-o-ibovespa-em-abril/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-03T18:44:32-04:00",
-        "categories": [
-          "Política"
+          "Notícias"
         ],
         "category_ids": [
           5
         ]
       },
+      {
+        "title": "Cuiabá recebe o Ceará na Arena Pantanal e tenta melhorar retrospecto no confronto; veja a tabela",
+        "link": "https://perrenguematogrosso.com/cuiaba-recebe-o-ceara-na-arena-pantanal/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-03T20:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      }
+    ],
+    "afolhalivre": [],
+    "omatogrossense": [
       {
         "title": "Mulher morre em colisão de frente em Tangará da Serra; veja vídeo",
         "link": "https://omatogrossense.com/mulher-morre-em-colisao-de-frente-em-tangara-da-serra-veja-video/",
@@ -111,6 +72,45 @@
         ],
         "category_ids": [
           20
+        ]
+      },
+      {
+        "title": "Criança de 3 anos morre após picada de escorpião e pai denuncia falhas no atendimento; veja vídeo",
+        "link": "https://omatogrossense.com/uma-crianca-de-3-anos-morreu-apos-sofrer-duas-picadas-de-escorpiao-em-conchal-no-interior-de-sao-paulo-e-o-pai-paulo-mendes/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-03T19:29:00-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "VÍDEO: Birmingham cria mosaico com Thomas Shelby e Bellingham, mas perde em campo",
+        "link": "https://omatogrossense.com/birmingham-cria-mosaico-com-thomas-shelby/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-03T19:36:36-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Cuiabá enfrenta o Ceará na Arena Pantanal com técnico suspenso e ingressos a partir de R$ 10; veja a tabela",
+        "link": "https://omatogrossense.com/cuiaba-enfrenta-o-ceara-na-arena-pantanal/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-03T20:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ],
@@ -146,13 +146,7 @@
       973,
       3030
     ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
+    "portalpantanalmt": [],
     "roonoticias": [
       5,
       7,
