@@ -1,67 +1,41 @@
 {
-  "generated_at": "2026-04-04T10:14:01.009481-04:00",
+  "generated_at": "2026-04-04T11:01:05.971158-04:00",
   "window": {
-    "start": "2026-04-04T09:14:01.009481-04:00",
-    "end": "2026-04-04T10:14:01.009481-04:00"
+    "start": "2026-04-04T10:01:05.971158-04:00",
+    "end": "2026-04-04T11:01:05.971158-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Pai de advogada argentina repete gesto racista em vídeo e amplia polêmica após caso no Brasil; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/video-gesto-e-racismo-voltaram-a-re/",
+        "title": "Arco-íris emociona multidão e marca Via-Sacra com mais de 100 mil fiéis; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/emocao-fe-e-multidao-tomaram-c/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-04T09:34:05-04:00",
+        "published": "2026-04-04T10:30:23-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
-      },
+      }
+    ],
+    "afolhalivre": [
       {
-        "title": "Músico morre após sofrer mal súbito durante subida em escadaria turística em Barra do Garças; veja vídeo",
-        "link": "https://perrenguematogrosso.com/musico-morre-sofrer-mal-subito-barra-do-garcas-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-04T09:34:25-04:00",
+        "title": "Polícia Militar flagra suspeito em moto, impede fuga e apreende drogas em Primavera do Leste",
+        "link": "https://afolhalivre.com/a-policia-militar-flagrou-um-suspeito-em-atitude-suspeita-durante-patrulhamento-ostensivo-em-primavera-do-leste-no-mato-grosso-enquanto/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-04T10:03:00-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Primavera"
         ],
         "category_ids": [
-          16
+          3032
         ]
       }
     ],
-    "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Músico morre após sofrer infarto durante subida na escadaria da Serra Azul em Barra do Garças; veja vídeo",
-        "link": "https://omatogrossense.com/musico-morre-apos-sofrer-infarto-durante-subida-na-escadaria-da-serra-azul-em-barra-do-garcas-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-04T09:34:34-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Multidão emociona e transforma Via-Sacra em espetáculo de fé com mais de 100 mil pessoas; Veja vídeo",
-        "link": "https://omatogrossense.com/fe-multidao-e-emocao-marcaram/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-04T10:00:22-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [
       {
         "title": "Jovem é preso com tablete e dezenas de porções de cocaína ao sair de casa em Sinop",
@@ -77,36 +51,8 @@
         ]
       }
     ],
-    "portalpantanalmt": [
-      {
-        "title": "Motociclista morre após acidente em Pontes e Lacerda e motorista menor foge sem prestar socorro",
-        "link": "https://portalpantanalmt.com/um-motociclista-de-36-anos-morreu-apos-um-grave-acidente-registrado-nas-primeiras-horas-da-manha-desta-sexta-feira-3-em-pontes-e-lacerda/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-04T10:00:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
-    "roonoticias": [
-      {
-        "title": "Homem é indiciado após série de mortes de gatos em Rondonópolis",
-        "link": "https://roonoticias.com/a-policia-civil-de-mato-grosso-indiciou-um-homem-de-40-anos-por-maus-tratos-a-animais-com-resultado-morte-apos-investigar-a-morte-de-gatos/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-04T09:57:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
