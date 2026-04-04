@@ -1,58 +1,83 @@
 {
-  "generated_at": "2026-04-04T08:13:13.235515-04:00",
+  "generated_at": "2026-04-04T09:13:22.922841-04:00",
   "window": {
-    "start": "2026-04-04T07:13:13.235515-04:00",
-    "end": "2026-04-04T08:13:13.235515-04:00"
+    "start": "2026-04-04T08:13:22.922841-04:00",
+    "end": "2026-04-04T09:13:22.922841-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Moradores registram momento em que lotérica pega fogo no centro de Chapada dos Guimarães; veja vídeo",
+        "link": "https://perrenguematogrosso.com/loterica-pega-fogo-chapada-dos-guimaraes-incendio-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-04T08:22:05-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Queda após falha em paramotor termina com piloto internado e novas cirurgias previstas; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/falha-queda-e-cirurgia-foram/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-04T08:44:08-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [
+    "omatogrossense": [
       {
-        "title": "Suspeito fica enroscado em portão ao tentar furtar casa em Sinop e sargento se diverte com a situação, veja vídeo",
-        "link": "https://portalnortemt.com/um-homem-ficou-enroscado-em-um-portao-ao-tentar-furtar-uma-residencia-em-sinop-no-mato-grosso-e-acabou-sendo-encontrado-pela-policia-militar/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-04T07:58:00-04:00",
+        "title": "Vídeo mostra moradores tentando conter fogo em lotérica no centro de Chapada dos Guimarães; veja vídeo",
+        "link": "https://omatogrossense.com/video-fogo-loterica-centro-chapada-dos-guimaraes/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-04T08:25:14-04:00",
         "categories": [
-          "Sinop"
+          "MT Notícias"
         ],
         "category_ids": [
-          3030
+          20
+        ]
+      },
+      {
+        "title": "Falha mecânica provoca queda de paramotor e piloto passa por cirurgias após acidente; Veja vídeo",
+        "link": "https://omatogrossense.com/queda-falha-e-cirurgia-marcaram/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-04T08:44:00-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Novo vídeo de gesto racista envolve pai de advogada e gera revolta após caso no Brasil; Veja video",
+        "link": "https://omatogrossense.com/video-gesto-e-racismo-voltaram/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-04T09:08:10-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
         ]
       }
     ],
-    "portalpantanalmt": [
-      {
-        "title": "PM desmonta ponto de tráfico em Cáceres, apreende arma e aciona Conselho Tutelar após encontrar crianças no local",
-        "link": "https://portalpantanalmt.com/a-policia-militar-desarticulou-um-ponto-de-trafico-de-drogas-durante-a-operacao-territorio-livre-e-apreendeu-arma-entorpecentes-e-dinheiro-em/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-04T08:00:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
-    "roonoticias": [
-      {
-        "title": "Homem procura rival, atira contra casa e acaba preso em flagrante em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/um-homem-de-44-anos-acabou-preso-apos-efetuar-diversos-disparos-contra-uma-residencia-em-rondonopolis-no-mato-grosso-enquanto/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-04T07:54:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
