@@ -1,98 +1,59 @@
 {
-  "generated_at": "2026-04-04T15:06:14.888775-04:00",
+  "generated_at": "2026-04-04T16:02:35.092399-04:00",
   "window": {
-    "start": "2026-04-04T14:06:14.888775-04:00",
-    "end": "2026-04-04T15:06:14.888775-04:00"
+    "start": "2026-04-04T15:02:35.092399-04:00",
+    "end": "2026-04-04T16:02:35.092399-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3208/",
+        "title": "Suspeito revela esquema de venda de fios furtados e acaba detido pela PM em Nova Mutum",
+        "link": "https://perrenguematogrosso.com/suspeito-esquema-venda-fios-furtados-nova-mutum/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-04T14:08:19-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3209/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-04T14:13:36-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Memes do vovô",
-        "link": "https://perrenguematogrosso.com/memes-do-vovo-3210/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-04T14:16:23-04:00",
-        "categories": [
-          "Memes do vovô"
-        ],
-        "category_ids": [
-          4
-        ]
-      },
-      {
-        "title": "Blairo Maggi visita rancho de Max Russi no Rio Manso e compartilha momento de pesca; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/blairo-maggi-visita-rancho-de-max-russi-no-rio-manso-e-compartilha-momento-de-pesca-veja-video/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-04T14:39:20-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Homem é preso após sequência de agressões e ameaças contra esposa e sogro em Rondonópolis",
-        "link": "https://perrenguematogrosso.com/homem-preso-agressoes-ameacas-esposa-sogro-rondonopolis/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-04T14:40:00-04:00",
+        "published": "2026-04-04T15:40:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
+      },
+      {
+        "title": "Marido de mulher baleada discute com policiais após morte; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/polemica-tragedia-e-indignacao/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-04T15:53:01-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Blairo Maggi visita pesqueiro de Max Russi no Rio Manso e registra momento de lazer; Veja vídeo",
-        "link": "https://omatogrossense.com/blairo-maggi-visita-pesqueiro-de-max-russi-no-rio-manso-e-registra-momento-de-lazer-veja-video/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-04T14:39:47-04:00",
+        "title": "Homem confessa furto de fios e acaba preso em flagrante em Nova Mutum",
+        "link": "https://omatogrossense.com/homem-furto-fios-preso-flagrante-nova-mutum/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-04T15:40:00-04:00",
         "categories": [
-          "Política"
+          "MT Notícias"
         ],
         "category_ids": [
-          5
+          20
         ]
       },
       {
-        "title": "Homem é preso após sequência de agressões e ameaças contra esposa e sogro em MT",
-        "link": "https://omatogrossense.com/homem-preso-agressoes-ameacas-esposa-sogro-mt/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-04T14:40:00-04:00",
+        "title": "Marido de mulher baleada questiona PMs após tragédia; veja vídeo",
+        "link": "https://omatogrossense.com/tragedia-acusacao-e-revolta-marcam/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-04T15:53:25-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -103,7 +64,34 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Carro de luxo na contramão causa acidente com quatro feridos em São Paulo; veja vídeo",
+        "link": "https://roonoticias.com/um-acidente-envolvendo-um-porsche-boxster-deixou-quatro/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-04T15:22:55-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Acidente com irregularidades termina em morte e motorista foge sem prestar socorro em MT; veja vídeo",
+        "link": "https://roonoticias.com/um-grave-acidente-registrado-na-manha-desta-sexta-feira/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-04T15:44:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
