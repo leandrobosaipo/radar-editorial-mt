@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-05T10:02:42.669510-04:00",
+  "generated_at": "2026-04-05T11:02:15.862600-04:00",
   "window": {
-    "start": "2026-04-05T09:02:42.669510-04:00",
-    "end": "2026-04-05T10:02:42.669510-04:00"
+    "start": "2026-04-05T10:02:15.862600-04:00",
+    "end": "2026-04-05T11:02:15.862600-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Registro mostra concentração incomum de tubarões em área costeira; veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-turista-registrou-uma-cena-impactante-na-praia-da-cacimba-do-padre-em-fernando-de-noronha-quando-dezenas-de-tubaroes-ocuparam/",
+        "title": "Zé Neto, da dupla com Cristiano, reage após música associada a Vorcaro gerar ação judicial; veja vídeos",
+        "link": "https://perrenguematogrosso.com/ze-neto-se-manifestou-apos-a-decisao-da-justica-de-sao-paulo-que-determinou-a-retirada-de-um-video-promocional-ligado-a-uma/",
         "author": "Lindy Oliveira",
         "author_id": 292,
-        "published": "2026-04-05T09:06:58-04:00",
+        "published": "2026-04-05T10:04:49-04:00",
         "categories": [
           "Notícias"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "Mistério em Pontes e Lacerda: duas mortes após consumo de bebida levantam suspeita de envenenamento; veja vídeo",
-        "link": "https://perrenguematogrosso.com/misterio-em-pontes-e-lacerda-duas-mortes-apos-consumo-de-bebida-levantam-suspeita-de-envenenamento-veja-video/",
+        "title": "Água invade tudo: influenciadores mostram chácara alagada e realidade impressiona no interior de MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/agua-invade-tudo-influenciadores-mostram-chacara-alagada-e-realidade-impressiona-no-interior-de-mt-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-05T09:45:18-04:00",
+        "published": "2026-04-05T10:53:58-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,28 +33,14 @@
         ]
       }
     ],
-    "afolhalivre": [
-      {
-        "title": "Preços de produtos da Páscoa chegam a variar 300% e pesam no bolso em Primavera do Leste",
-        "link": "https://afolhalivre.com/um-levantamento-do-procon-de-mato-grosso-identificou-variacoes-de-ate-300-nos-precos-de-produtos-tipicos-da-pascoa-e-confirmou-impacto/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-05T10:00:00-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Registro mostra concentração incomum de tubarões em área costeira; veja vídeo",
-        "link": "https://omatogrossense.com/um-turista-registrou-uma-cena-impactante-na-praia-da-cacimba-do-padre-em-fernando-de-noronha-quando-dezenas-de-tubaroes-ocuparam/",
+        "title": "Zé Neto, da dupla com Cristiano, reage após música associada a Vorcaro gerar ação judicial; veja vídeos",
+        "link": "https://omatogrossense.com/ze-neto-se-manifestou-apos-a-decisao-da-justica-de-sao-paulo-que-determinou-a-retirada-de-um-video-promocional-ligado-a-uma/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-05T09:06:54-04:00",
+        "published": "2026-04-05T10:03:58-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -63,11 +49,11 @@
         ]
       },
       {
-        "title": "Mistério em Pontes e Lacerda: duas mortes após consumo de bebida levantam suspeita de envenenamento; veja vídeo",
-        "link": "https://omatogrossense.com/misterio-em-pontes-e-lacerda-duas-mortes-apos-consumo-de-bebida-levantam-suspeita-de-envenenamento-veja-video/",
+        "title": "Água invade tudo: influenciadores mostram chácara alagada e realidade impressiona no interior de MT; veja vídeo",
+        "link": "https://omatogrossense.com/agua-invade-tudo-influenciadores-mostram-chacara-alagada-e-realidade-impressiona-no-interior-de-mt-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-05T09:47:00-04:00",
+        "published": "2026-04-05T10:53:21-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -76,46 +62,48 @@
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
+    "portalnortemt": [
+      {
+        "title": "Polícia Militar resgata vítima de sequestro, prende suspeitos e apreende arma em Sorriso; veja vídeo",
+        "link": "https://portalnortemt.com/a-policia-militar-resgatou-uma-vitima-de-sequestro-em-sorriso-durante-acao-realizada-no-bairro-morada-do-bosque-as-equipes-localizaram-o-imo/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-05T10:05:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Polícia Militar prende jovem com pasta base de cocaína após monitoramento em área de mata em Cáceres",
+        "link": "https://portalpantanalmt.com/a-policia-militar-prendeu-um-jovem-de-19-anos-por-trafico-de-drogas-em-caceres-apos-monitorar-sua-movimentacao-em-uma-area-de-mata-proxima-ao/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-05T10:05:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
     "roonoticias": [
       {
-        "title": "Trump volta a criticar Otan: “Aliado extremamente não confiável”",
-        "link": "https://roonoticias.com/o-presidente-dos-estados-unidos-donald-trump-7/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-05T09:10:59-04:00",
+        "title": "Diretor da UPA de Rondonópolis é internado em estado grave após complicações pós-cirúrgica",
+        "link": "https://roonoticias.com/o-diretor-da-unidade-de-pronto-atendimento-de-rondonopolis-antonion-pereira-de-oliveira-de-44-anos-foi-internado-em-estado-grave-na-ma/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-05T10:04:00-04:00",
         "categories": [
-          "Política"
+          "Rondonópolis"
         ],
         "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Gabigol admite que ‘não se sente à vontade’ de enfrentar o Flamengo e diz reação se for xingado: ‘Sendo sincero’",
-        "link": "https://roonoticias.com/a-partida-entre-flamengo-e-santos-neste-domingo-05/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-05T09:25:16-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Van Dijk faz forte desabafo após City 4 x 0 Liverpool que fez torcedores deixarem o estádio: ‘Entendo a raiva’",
-        "link": "https://roonoticias.com/o-liverpool-foi-dominado-em-campo-e-sofreu-uma-goleada/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-05T09:31:33-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
+          3118
         ]
       }
     ]
