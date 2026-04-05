@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-04-05T15:00:05.682705-04:00",
+  "generated_at": "2026-04-05T16:00:05.006974-04:00",
   "window": {
-    "start": "2026-04-05T14:00:05.682705-04:00",
-    "end": "2026-04-05T15:00:05.682705-04:00"
+    "start": "2026-04-05T15:00:05.006974-04:00",
+    "end": "2026-04-05T16:00:05.006974-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Cuiabá perde dois pênaltis, é derrotado pelo Ceará e segue sem vencer na Série B; veja os gols",
-        "link": "https://perrenguematogrosso.com/cuiaba-perde-dois-penaltis/",
+        "title": "Ciclone extratropical avança pelo Brasil e pode provocar ventos de até 90 km/h e chuvas intensas; veja vídeo",
+        "link": "https://perrenguematogrosso.com/ciclone-extratropical-avanca-pelo-brasil/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-04-05T15:00:00-04:00",
+        "published": "2026-04-05T16:00:00-04:00",
         "categories": [
-          "Esporte"
+          "Notícias"
         ],
         "category_ids": [
-          509
+          5
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Dois pênaltis perdidos e castigo imediato: Cuiabá cai para o Ceará e amplia jejum na Série B; veja os gols",
-        "link": "https://omatogrossense.com/cuiaba-cai-para-o-ceara/",
+        "title": "VÍDEO: Ciclone extratropical avança e coloca estados em alerta com ventos de até 90 km/h",
+        "link": "https://omatogrossense.com/ciclone-extratropical-avanca/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-05T15:00:00-04:00",
+        "published": "2026-04-05T16:00:00-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Estreia oposta: União perde em casa e Luverdense vence fora na largada da Série D",
+        "link": "https://omatogrossense.com/uniao-perde-em-casa-e-luverdense-vence-fora/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-05T16:00:00-04:00",
         "categories": [
           "Esporte"
         ],
