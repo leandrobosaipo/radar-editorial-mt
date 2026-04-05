@@ -1,57 +1,72 @@
 {
-  "generated_at": "2026-04-04T20:00:05.622406-04:00",
+  "generated_at": "2026-04-05T08:05:43.357385-04:00",
   "window": {
-    "start": "2026-04-04T19:00:05.622406-04:00",
-    "end": "2026-04-04T20:00:05.622406-04:00"
+    "start": "2026-04-05T07:05:43.357385-04:00",
+    "end": "2026-04-05T08:05:43.357385-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
+    "perrenguematogrosso": [],
+    "afolhalivre": [
       {
-        "title": "Recorde mundial: barra de chocolate de 222 metros é feita em Bariloche durante festival; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/recorde-mundial-barra-de-chocolate-de-222-metros-e-feita-em-bariloche-durante-festival-veja-video/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-04T19:30:00-04:00",
+        "title": "Líder do CV acusado de torturar e matar primos em Primavera do Leste vai a júri popular",
+        "link": "https://afolhalivre.com/a-decisao-do-superior-tribunal-de-justica-mantem-o-envio-a-juri-popular-de-lucas-marcolino-alves-apontado-como-lider-do-comando-vermelho/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-05T08:01:00-04:00",
         "categories": [
-          "Notícias"
+          "Primavera"
         ],
         "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "‘Peixe Santo’ esgota após venda de 45 toneladas e alta procura na Semana Santa em Cuiabá",
-        "link": "https://perrenguematogrosso.com/peixe-santo-esgota-venda-45-toneladas-semana-santa-cuiaba/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-04T19:40:00-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
+          3032
         ]
       }
     ],
-    "afolhalivre": [],
-    "omatogrossense": [
+    "omatogrossense": [],
+    "portalnortemt": [
       {
-        "title": "Bariloche quebra recorde mundial com barra de chocolate de 222 metros no Festival Nacional do Chocolate; Veja vídeo",
-        "link": "https://omatogrossense.com/bariloche-na-argentina-entrou/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-04T19:32:00-04:00",
+        "title": "Carro pega fogo durante a madrugada em avenida de Sinop e  bombeiros controlam incêndio",
+        "link": "https://portalnortemt.com/um-carro-de-passeio-pegou-fogo-durante-a-madrugada-deste-sabado-04-em-sinop-em-uma-ocorrencia-registrada-por-volta-das-02h30-na-avenida-d/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-05T07:49:00-04:00",
         "categories": [
-          "MT Notícias"
+          "Sinop"
         ],
         "category_ids": [
-          20
+          3030
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalpantanalmt": [
+      {
+        "title": "Suspeito armado invade confraternização, atira contra grupo e fere homem em Cáceres",
+        "link": "https://portalpantanalmt.com/um-homem-armado-invadiu-uma-confraternizacao-entre-pescadores-na-tarde-deste-sabado-em-caceres-e-atirou-contra-um-grupo-ferindo-um/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-05T07:58:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Colisão entre carro, moto e caminhão mobiliza equipes de resgate na BR-364 em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-acidente-envolvendo-um-carro-uma-motocicleta-e-um-caminhao-foi-registrado-na-manha-deste-sabado-por-volta-das-7h-na-br-364-na-saida/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-05T08:00:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
