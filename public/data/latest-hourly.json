@@ -1,46 +1,19 @@
 {
-  "generated_at": "2026-04-05T18:08:45.208214-04:00",
+  "generated_at": "2026-04-05T19:00:05.475241-04:00",
   "window": {
-    "start": "2026-04-05T17:08:45.208214-04:00",
-    "end": "2026-04-05T18:08:45.208214-04:00"
+    "start": "2026-04-05T18:00:05.475241-04:00",
+    "end": "2026-04-05T19:00:05.475241-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Carro capota na Miguel Sutil durante chuva e motorista faz alerta sobre imprudência no trânsito; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/carro-capotou-na-avenida-miguel-sutil/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-05T17:44:37-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "William e Kate retomam tradição de Páscoa após dois anos e reaparecem com os filhos em Windsor; veja vídeo",
-        "link": "https://perrenguematogrosso.com/william-e-kate-retomam-tradicao-de-pascoa/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-05T18:00:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Carro capota na Miguel Sutil durante chuva e motorista faz alerta sobre imprudência no trânsito; Veja vídeo",
-        "link": "https://omatogrossense.com/carro-capotou-na-avenida-miguel-sutil/",
+        "title": "Carro pega fogo no meio da via e deixa motoristas em alerta em Várzea Grande; Veja vídeo",
+        "link": "https://omatogrossense.com/carro-pegou-fogo-no-fim-da-avenida-31/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-05T17:40:36-04:00",
+        "published": "2026-04-05T18:22:45-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,11 +22,24 @@
         ]
       },
       {
-        "title": "VÍDEO: Após dois anos, William e Kate reaparecem com os filhos em missa de Páscoa",
-        "link": "https://omatogrossense.com/william-e-kate-reaparecem-com-os-filhos/",
+        "title": "Subtenente aponta arma para o filho durante briga familiar e caso termina na delegacia em Cuiabá; Veja vídeo",
+        "link": "https://omatogrossense.com/subtenente-da-policia-militar/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-04-05T18:44:10-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "VÍDEO: Máquina com rostos iguais viraliza e expõe padrão imposto por algoritmos",
+        "link": "https://omatogrossense.com/maquina-com-rostos-iguais/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-05T18:00:00-04:00",
+        "published": "2026-04-05T19:00:00-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
