@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-04T19:03:32.165209-04:00",
+  "generated_at": "2026-04-04T20:00:05.622406-04:00",
   "window": {
-    "start": "2026-04-04T18:03:32.165209-04:00",
-    "end": "2026-04-04T19:03:32.165209-04:00"
+    "start": "2026-04-04T19:00:05.622406-04:00",
+    "end": "2026-04-04T20:00:05.622406-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Acidente fatal na BR-262 mata três pessoas; criança de 4 anos entre as vítimas; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-tragico-acidente-ocorrido/",
+        "title": "Recorde mundial: barra de chocolate de 222 metros é feita em Bariloche durante festival; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/recorde-mundial-barra-de-chocolate-de-222-metros-e-feita-em-bariloche-durante-festival-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-04T18:28:09-04:00",
+        "published": "2026-04-04T19:30:00-04:00",
         "categories": [
           "Notícias"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "Idoso é assaltado e baleado após sacar aposentadoria em Sinop",
-        "link": "https://perrenguematogrosso.com/idoso-assaltado-baleado-aposentadoria-sinop/",
+        "title": "‘Peixe Santo’ esgota após venda de 45 toneladas e alta procura na Semana Santa em Cuiabá",
+        "link": "https://perrenguematogrosso.com/peixe-santo-esgota-venda-45-toneladas-semana-santa-cuiaba/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-04T18:40:00-04:00",
+        "published": "2026-04-04T19:40:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -36,24 +36,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Tragédia na BR-262: batida entre carro e carreta bitrem mata três pessoas; Veja vídeo",
-        "link": "https://omatogrossense.com/um-acidente-fatal-ocorrido-2/",
+        "title": "Bariloche quebra recorde mundial com barra de chocolate de 222 metros no Festival Nacional do Chocolate; Veja vídeo",
+        "link": "https://omatogrossense.com/bariloche-na-argentina-entrou/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-04T18:30:07-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Idoso é surpreendido por criminoso, baleado e tem aposentadoria roubada em Sinop",
-        "link": "https://omatogrossense.com/idoso-surpreendido-criminoso-baleado-sinop/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-04T18:40:00-04:00",
+        "published": "2026-04-04T19:32:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -94,7 +81,13 @@
       973,
       3030
     ],
-    "portalpantanalmt": [],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
     "roonoticias": [
       5,
       7,
