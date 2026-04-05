@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-05T09:03:20.391663-04:00",
+  "generated_at": "2026-04-05T10:02:42.669510-04:00",
   "window": {
-    "start": "2026-04-05T08:03:20.391663-04:00",
-    "end": "2026-04-05T09:03:20.391663-04:00"
+    "start": "2026-04-05T09:02:42.669510-04:00",
+    "end": "2026-04-05T10:02:42.669510-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Entregador é flagrado consumindo parte do pedido e urinando em elevador durante entrega; veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-cliente-descobriu-uma-situacao-extremamente-grave-ao-verificar-imagens-de-seguranca-do-predio-apos-desconfiar-da-propria/",
+        "title": "Registro mostra concentração incomum de tubarões em área costeira; veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-turista-registrou-uma-cena-impactante-na-praia-da-cacimba-do-padre-em-fernando-de-noronha-quando-dezenas-de-tubaroes-ocuparam/",
         "author": "Lindy Oliveira",
         "author_id": 292,
-        "published": "2026-04-05T08:20:24-04:00",
+        "published": "2026-04-05T09:06:58-04:00",
         "categories": [
           "Notícias"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "Durante show, fã do Raça Negra que trabalhava no evento é convidada ao palco e emociona o público; veja vídeo",
-        "link": "https://perrenguematogrosso.com/durante-show-fa-do-raca-negra/",
+        "title": "Mistério em Pontes e Lacerda: duas mortes após consumo de bebida levantam suspeita de envenenamento; veja vídeo",
+        "link": "https://perrenguematogrosso.com/misterio-em-pontes-e-lacerda-duas-mortes-apos-consumo-de-bebida-levantam-suspeita-de-envenenamento-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-05T08:20:29-04:00",
+        "published": "2026-04-05T09:45:18-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,14 +33,28 @@
         ]
       }
     ],
-    "afolhalivre": [],
-    "omatogrossense": [
+    "afolhalivre": [
       {
-        "title": "Entregador é flagrado consumindo parte de pedido e urinando em elevador durante entrega; veja vídeo",
-        "link": "https://omatogrossense.com/um-cliente-descobriu-uma-situacao-extremamente-grave-ao-verificar-imagens-de-seguranca-do-predio-apos-desconfiar-da-propria/",
+        "title": "Preços de produtos da Páscoa chegam a variar 300% e pesam no bolso em Primavera do Leste",
+        "link": "https://afolhalivre.com/um-levantamento-do-procon-de-mato-grosso-identificou-variacoes-de-ate-300-nos-precos-de-produtos-tipicos-da-pascoa-e-confirmou-impacto/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-05T08:19:52-04:00",
+        "published": "2026-04-05T10:00:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Registro mostra concentração incomum de tubarões em área costeira; veja vídeo",
+        "link": "https://omatogrossense.com/um-turista-registrou-uma-cena-impactante-na-praia-da-cacimba-do-padre-em-fernando-de-noronha-quando-dezenas-de-tubaroes-ocuparam/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-05T09:06:54-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -49,11 +63,11 @@
         ]
       },
       {
-        "title": "Durante show, fã do Raça Negra que trabalhava no evento é convidada ao palco e emociona o público; veja vídeo",
-        "link": "https://omatogrossense.com/durante-show-fa-do-raca-negra/",
+        "title": "Mistério em Pontes e Lacerda: duas mortes após consumo de bebida levantam suspeita de envenenamento; veja vídeo",
+        "link": "https://omatogrossense.com/misterio-em-pontes-e-lacerda-duas-mortes-apos-consumo-de-bebida-levantam-suspeita-de-envenenamento-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-05T08:20:38-04:00",
+        "published": "2026-04-05T09:47:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -66,42 +80,42 @@
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Oposição no 1º mandato de Lula, Kátia Abreu se filia ao PT",
-        "link": "https://roonoticias.com/a-ex-senadora-katia-abreu-oficializou-sua-filiacao-ao-pt/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-05T08:29:23-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Eduardo Bolsonaro em treta com Nikolas: “Versão caricata de si mesmo”",
-        "link": "https://roonoticias.com/o-ex-parlamentar-eduardo-bolsonaro-entrou-em-embate-com/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-05T08:42:22-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
         "title": "Trump volta a criticar Otan: “Aliado extremamente não confiável”",
-        "link": "https://roonoticias.com/o-presidente-dos-estados-unidos-donald-trump-6/",
+        "link": "https://roonoticias.com/o-presidente-dos-estados-unidos-donald-trump-7/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-05T08:50:48-04:00",
+        "published": "2026-04-05T09:10:59-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
+        ]
+      },
+      {
+        "title": "Gabigol admite que ‘não se sente à vontade’ de enfrentar o Flamengo e diz reação se for xingado: ‘Sendo sincero’",
+        "link": "https://roonoticias.com/a-partida-entre-flamengo-e-santos-neste-domingo-05/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-05T09:25:16-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Van Dijk faz forte desabafo após City 4 x 0 Liverpool que fez torcedores deixarem o estádio: ‘Entendo a raiva’",
+        "link": "https://roonoticias.com/o-liverpool-foi-dominado-em-campo-e-sofreu-uma-goleada/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-05T09:31:33-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ]
@@ -134,7 +148,13 @@
       973,
       3030
     ],
-    "portalpantanalmt": [],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
     "roonoticias": [
       5,
       7,
