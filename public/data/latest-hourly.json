@@ -1,64 +1,38 @@
 {
-  "generated_at": "2026-04-05T14:06:25.774226-04:00",
+  "generated_at": "2026-04-05T15:00:05.682705-04:00",
   "window": {
-    "start": "2026-04-05T13:06:25.774226-04:00",
-    "end": "2026-04-05T14:06:25.774226-04:00"
+    "start": "2026-04-05T14:00:05.682705-04:00",
+    "end": "2026-04-05T15:00:05.682705-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Antes do Raça Negra, dupla de MT rouba a cena e surpreende público no Allure; veja vídeo",
-        "link": "https://perrenguematogrosso.com/antes-do-raca-negra-dupla-de-mt-rouba-a-cena-e-surpreende-publico-no-allure-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-05T13:56:49-04:00",
+        "title": "Cuiabá perde dois pênaltis, é derrotado pelo Ceará e segue sem vencer na Série B; veja os gols",
+        "link": "https://perrenguematogrosso.com/cuiaba-perde-dois-penaltis/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-05T15:00:00-04:00",
         "categories": [
-          "Política"
+          "Esporte"
         ],
         "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "PC dentro de micro-ondas viraliza e prova que criatividade gamer não tem limites; veja vídeo",
-        "link": "https://perrenguematogrosso.com/pc-dentro-de-micro-ondas/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-05T13:58:57-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
+          509
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Antes do Raça Negra, dupla de MT rouba a cena e surpreende público no Allure; veja vídeo",
-        "link": "https://omatogrossense.com/antes-do-raca-negra-dupla-de-mt-rouba-a-cena-e-surpreende-publico-no-allure-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-05T13:57:14-04:00",
+        "title": "Dois pênaltis perdidos e castigo imediato: Cuiabá cai para o Ceará e amplia jejum na Série B; veja os gols",
+        "link": "https://omatogrossense.com/cuiaba-cai-para-o-ceara/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-05T15:00:00-04:00",
         "categories": [
-          "Política"
+          "Esporte"
         ],
         "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "PC dentro de micro-ondas viraliza e prova que criatividade gamer não tem limites; veja vídeo",
-        "link": "https://omatogrossense.com/pc-dentro-de-micro-ondas/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-05T13:59:12-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
+          7
         ]
       }
     ],
