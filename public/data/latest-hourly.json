@@ -1,69 +1,107 @@
 {
-  "generated_at": "2026-04-05T08:05:43.357385-04:00",
+  "generated_at": "2026-04-05T09:03:20.391663-04:00",
   "window": {
-    "start": "2026-04-05T07:05:43.357385-04:00",
-    "end": "2026-04-05T08:05:43.357385-04:00"
+    "start": "2026-04-05T08:03:20.391663-04:00",
+    "end": "2026-04-05T09:03:20.391663-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [
+    "perrenguematogrosso": [
       {
-        "title": "Líder do CV acusado de torturar e matar primos em Primavera do Leste vai a júri popular",
-        "link": "https://afolhalivre.com/a-decisao-do-superior-tribunal-de-justica-mantem-o-envio-a-juri-popular-de-lucas-marcolino-alves-apontado-como-lider-do-comando-vermelho/",
+        "title": "Entregador é flagrado consumindo parte do pedido e urinando em elevador durante entrega; veja vídeo",
+        "link": "https://perrenguematogrosso.com/um-cliente-descobriu-uma-situacao-extremamente-grave-ao-verificar-imagens-de-seguranca-do-predio-apos-desconfiar-da-propria/",
         "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-05T08:01:00-04:00",
+        "author_id": 292,
+        "published": "2026-04-05T08:20:24-04:00",
         "categories": [
-          "Primavera"
+          "Notícias"
         ],
         "category_ids": [
-          3032
+          5
+        ]
+      },
+      {
+        "title": "Durante show, fã do Raça Negra que trabalhava no evento é convidada ao palco e emociona o público; veja vídeo",
+        "link": "https://perrenguematogrosso.com/durante-show-fa-do-raca-negra/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-05T08:20:29-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
         ]
       }
     ],
-    "omatogrossense": [],
-    "portalnortemt": [
+    "afolhalivre": [],
+    "omatogrossense": [
       {
-        "title": "Carro pega fogo durante a madrugada em avenida de Sinop e  bombeiros controlam incêndio",
-        "link": "https://portalnortemt.com/um-carro-de-passeio-pegou-fogo-durante-a-madrugada-deste-sabado-04-em-sinop-em-uma-ocorrencia-registrada-por-volta-das-02h30-na-avenida-d/",
+        "title": "Entregador é flagrado consumindo parte de pedido e urinando em elevador durante entrega; veja vídeo",
+        "link": "https://omatogrossense.com/um-cliente-descobriu-uma-situacao-extremamente-grave-ao-verificar-imagens-de-seguranca-do-predio-apos-desconfiar-da-propria/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-05T07:49:00-04:00",
+        "published": "2026-04-05T08:19:52-04:00",
         "categories": [
-          "Sinop"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          3030
+          973
+        ]
+      },
+      {
+        "title": "Durante show, fã do Raça Negra que trabalhava no evento é convidada ao palco e emociona o público; veja vídeo",
+        "link": "https://omatogrossense.com/durante-show-fa-do-raca-negra/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-05T08:20:38-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
         ]
       }
     ],
-    "portalpantanalmt": [
-      {
-        "title": "Suspeito armado invade confraternização, atira contra grupo e fere homem em Cáceres",
-        "link": "https://portalpantanalmt.com/um-homem-armado-invadiu-uma-confraternizacao-entre-pescadores-na-tarde-deste-sabado-em-caceres-e-atirou-contra-um-grupo-ferindo-um/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-05T07:58:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Colisão entre carro, moto e caminhão mobiliza equipes de resgate na BR-364 em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/um-acidente-envolvendo-um-carro-uma-motocicleta-e-um-caminhao-foi-registrado-na-manha-deste-sabado-por-volta-das-7h-na-br-364-na-saida/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-05T08:00:00-04:00",
+        "title": "Oposição no 1º mandato de Lula, Kátia Abreu se filia ao PT",
+        "link": "https://roonoticias.com/a-ex-senadora-katia-abreu-oficializou-sua-filiacao-ao-pt/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-05T08:29:23-04:00",
         "categories": [
-          "Rondonópolis"
+          "Política"
         ],
         "category_ids": [
-          3118
+          5
+        ]
+      },
+      {
+        "title": "Eduardo Bolsonaro em treta com Nikolas: “Versão caricata de si mesmo”",
+        "link": "https://roonoticias.com/o-ex-parlamentar-eduardo-bolsonaro-entrou-em-embate-com/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-05T08:42:22-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Trump volta a criticar Otan: “Aliado extremamente não confiável”",
+        "link": "https://roonoticias.com/o-presidente-dos-estados-unidos-donald-trump-6/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-05T08:50:48-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ]
@@ -96,13 +134,7 @@
       973,
       3030
     ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
+    "portalpantanalmt": [],
     "roonoticias": [
       5,
       7,
