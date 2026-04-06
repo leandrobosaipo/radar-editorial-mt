@@ -1,13 +1,80 @@
 {
-  "generated_at": "2026-04-06T08:00:00.973960-04:00",
+  "generated_at": "2026-04-06T09:10:15.964636-04:00",
   "window": {
-    "start": "2026-04-06T07:00:00.973960-04:00",
-    "end": "2026-04-06T08:00:00.973960-04:00"
+    "start": "2026-04-06T08:10:15.964636-04:00",
+    "end": "2026-04-06T09:10:15.964636-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Mercados Iniciam a Semana com Sinais Moderados e Foco em Indicadores Econômicos",
+        "link": "https://perrenguematogrosso.com/mercados-iniciam-a-semana-com-sinais-moderados-e-foco-em-indicadores-economicos/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-06T08:26:45-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Cavalinho de pau termina em colisão brutal e deixa mulher em estado grave; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/uma-colisao-frontal-deixou-uma-mulher/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-06T08:34:10-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Mercados Iniciam a Semana com Sinais Moderados e Foco em Indicadores Econômicos",
+        "link": "https://omatogrossense.com/mercados-iniciam-a-semana-com-sinais-moderados-e-foco-em-indicadores-economicos/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-06T08:29:03-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Cavalinho de pau acaba em tragédia com colisão frontal e vítima em estado grave; Veja vídeo",
+        "link": "https://omatogrossense.com/grave-colisao-foi-registrada-na/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-06T08:33:37-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Incêndio de grandes proporções destrói Ditado Popular em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/incendio-grandes-destroi-ditado-popular-sinop-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-06T08:43:30-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
@@ -20,7 +87,13 @@
       509,
       510
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
     "omatogrossense": [
       5,
       7,
@@ -34,19 +107,7 @@
       973,
       3030
     ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
