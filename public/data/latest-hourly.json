@@ -1,133 +1,121 @@
 {
-  "generated_at": "2026-04-06T12:00:00.672854-04:00",
+  "generated_at": "2026-04-06T13:00:00.508835-04:00",
   "window": {
-    "start": "2026-04-06T11:00:00.672854-04:00",
-    "end": "2026-04-06T12:00:00.672854-04:00"
+    "start": "2026-04-06T12:00:00.508835-04:00",
+    "end": "2026-04-06T13:00:00.508835-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Jovem sobrevive a mais de 15 facadas e convoca manifestação por justiça; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/ataque-brutal-com-mais-de-15-facadas/",
+        "title": "Áudio do VAR expõe motivo de gol anulado do Flamengo contra o Santos; veja vídeo",
+        "link": "https://perrenguematogrosso.com/audio-do-var-expoe-motivo-de-gol-anulado-do-flamengo/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-06T12:22:13-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "/",
+        "link": "https://perrenguematogrosso.com/331863-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-06T11:38:17-04:00",
+        "published": "2026-04-06T12:55:55-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
-      },
-      {
-        "title": "Pela primeira vez, mulher assume Segurança Pública de MT e marca mudança histórica no comando",
-        "link": "https://perrenguematogrosso.com/pela-primeira-vez-mulher-assume-seguranca-publica-de-mt-e-marca-mudanca-historica-no-comando/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-06T11:50:56-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Proprietário do Ditado Popular mostra prejuízo após incêndio consumir estrutura do bar em Sinop; veja vídeo",
-        "link": "https://perrenguematogrosso.com/proprietario-ditado-popular-prejuizo-incendio-sinop-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-06T11:57:26-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Jovem sobrevive a ataque com mais de 15 facadas e convoca protesto; Veja vídeo",
-        "link": "https://omatogrossense.com/alana-anisio-rosa-de-20-anos/",
+        "title": "VÍDEO: Áudio do VAR vem à tona e explica gol anulado do Flamengo contra o Santos; lance revolta jogadores",
+        "link": "https://omatogrossense.com/audio-do-var-vem-a-tona-e-explica-gol-anulado-do-flamengo/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-06T12:31:20-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "/",
+        "link": "https://omatogrossense.com/138706-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-06T11:38:13-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Pela primeira vez, mulher assume Segurança Pública de MT e marca mudança histórica no comando",
-        "link": "https://omatogrossense.com/pela-primeira-vez-mulher-assume-seguranca-publica-de-mt-e-marca-mudanca-historica-no-comando/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-06T11:52:23-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Proprietário do Ditado Popular registra bar em cinzas após incêndio na madrugada em Sinop; veja vídeo",
-        "link": "https://omatogrossense.com/proprietario-ditado-popular-bar-cinzas-sinop-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-06T11:57:09-04:00",
+        "published": "2026-04-06T12:56:26-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
         ]
+      },
+      {
+        "title": "VÍDEO: Mixto segura pressão fora de casa e estreia com empate na Série D",
+        "link": "https://omatogrossense.com/mixto-segura-pressao-fora-de-casa/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-06T13:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
       }
     ],
-    "portalnortemt": [],
+    "portalnortemt": [
+      {
+        "title": "Polícia Militar prende homem por transporte ilegal de cigarros e apreende carga em Sinop",
+        "link": "https://portalnortemt.com/a-policia-militar-prendeu-um-homem-de-34-anos-por-transporte-ilegal-de-cigarros-durante-abordagem-no-complexo-de-chacaras-sao-cristovao-em-sin/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-06T12:05:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Jornal espanhol critica Endrick e Lyon, cita ‘seca’ de gols e crise: ‘Precisam melhorar’",
-        "link": "https://roonoticias.com/apos-brilhar-com-a-selecao-brasileira-na-vitoria-por-3-a-1/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-06T11:06:16-04:00",
+        "title": "Engavetamento na MT-270 envolve três carros, uma moto e gestante de 23 semanas em Rondonópolis",
+        "link": "https://roonoticias.com/um-engavetamento-envolvendo-tres-carros-e-uma-motocicleta-mobilizou-equipes-de-resgate-na-noite-deste-domingo-5-na-mt-270-nas-proximi/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-06T12:01:00-04:00",
         "categories": [
-          "Esporte"
+          "Rondonópolis"
         ],
         "category_ids": [
-          7
+          3118
         ]
       },
       {
-        "title": "Estêvão empolga técnico do Chelsea após show com gol e assistência: ‘Não há limite para ele’",
-        "link": "https://roonoticias.com/o-jovem-estevao-foi-um-dos-destaques-na-goleada-por-7-a-0/",
+        "title": "Suspeito é preso por tráfico doméstico durante operação da PM em MT",
+        "link": "https://roonoticias.com/a-policia-militar-prendeu-um-homem-suspeito-de-trafico/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-06T11:18:47-04:00",
+        "published": "2026-04-06T12:13:27-04:00",
         "categories": [
-          "Esporte"
+          "MT Notícias"
         ],
         "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Chelsea de um lado e Manchester City de outro: sorteio define as semifinais da Copa da Inglaterra",
-        "link": "https://roonoticias.com/as-semifinais-da-copa-da-inglaterra-estao-definidas-apos/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-06T11:29:06-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
+          20
         ]
       }
     ]
