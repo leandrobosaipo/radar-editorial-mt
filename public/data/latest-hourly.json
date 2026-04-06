@@ -1,72 +1,98 @@
 {
-  "generated_at": "2026-04-06T13:00:00.508835-04:00",
+  "generated_at": "2026-04-06T14:00:00.643621-04:00",
   "window": {
-    "start": "2026-04-06T12:00:00.508835-04:00",
-    "end": "2026-04-06T13:00:00.508835-04:00"
+    "start": "2026-04-06T13:00:00.643621-04:00",
+    "end": "2026-04-06T14:00:00.643621-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Áudio do VAR expõe motivo de gol anulado do Flamengo contra o Santos; veja vídeo",
-        "link": "https://perrenguematogrosso.com/audio-do-var-expoe-motivo-de-gol-anulado-do-flamengo/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-06T12:22:13-04:00",
+        "title": "Câmera registra criminosos invadindo casa e sequestrando família com bebê em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/criminosos-invadindo-casa-sequestrando-familia-varzea-grande-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-06T13:11:25-04:00",
         "categories": [
-          "Esporte"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          509
+          16
         ]
       },
       {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/331863-2/",
+        "title": "Jovem é atacada com óleo quente por colega de trabalho; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/uma-jovem-de-19-anos-ficou-g/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-06T12:55:55-04:00",
+        "published": "2026-04-06T13:42:21-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Nikolas x Eduardo: troca de críticas expõe tensão e força reação urgente no PL; veja vídeo",
+        "link": "https://perrenguematogrosso.com/nikolas-x-eduardo-troca-de-criticas-expoe-tensao-e-forca-reacao-urgente-no-pl-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-06T13:45:31-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "VÍDEO: Áudio do VAR vem à tona e explica gol anulado do Flamengo contra o Santos; lance revolta jogadores",
-        "link": "https://omatogrossense.com/audio-do-var-vem-a-tona-e-explica-gol-anulado-do-flamengo/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-06T12:31:20-04:00",
+        "title": "Câmera flagra momento em que criminosos invadem casa e sequestram família com bebê em VG; veja vídeo",
+        "link": "https://omatogrossense.com/camera-criminosos-invadem-casa-sequestram-familia-vg-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-06T13:10:29-04:00",
         "categories": [
-          "Esporte"
+          "MT Notícias"
         ],
         "category_ids": [
-          7
+          20
         ]
       },
       {
-        "title": "/",
-        "link": "https://omatogrossense.com/138706-2/",
+        "title": "Jovem é queimada com óleo quente por colega de trabalho; Veja vídeo",
+        "link": "https://omatogrossense.com/uma-jovem-de-19-anos-sofreu-um-ataque/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-06T12:56:26-04:00",
+        "published": "2026-04-06T13:42:16-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
+          973
         ]
       },
       {
-        "title": "VÍDEO: Mixto segura pressão fora de casa e estreia com empate na Série D",
-        "link": "https://omatogrossense.com/mixto-segura-pressao-fora-de-casa/",
+        "title": "Nikolas x Eduardo: troca de críticas expõe tensão e força reação urgente no PL; veja vídeo",
+        "link": "https://omatogrossense.com/nikolas-x-eduardo-troca-de-criticas-expoe-tensao-e-forca-reacao-urgente-no-pl-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-06T13:45:22-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Primavera reage fora de casa, segura pressão do Brasiliense e estreia com empate na Série D; veja os gols",
+        "link": "https://omatogrossense.com/primavera-reage-fora-de-casa/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-06T13:00:00-04:00",
+        "published": "2026-04-06T14:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -75,50 +101,9 @@
         ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Polícia Militar prende homem por transporte ilegal de cigarros e apreende carga em Sinop",
-        "link": "https://portalnortemt.com/a-policia-militar-prendeu-um-homem-de-34-anos-por-transporte-ilegal-de-cigarros-durante-abordagem-no-complexo-de-chacaras-sao-cristovao-em-sin/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-06T12:05:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
+    "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Engavetamento na MT-270 envolve três carros, uma moto e gestante de 23 semanas em Rondonópolis",
-        "link": "https://roonoticias.com/um-engavetamento-envolvendo-tres-carros-e-uma-motocicleta-mobilizou-equipes-de-resgate-na-noite-deste-domingo-5-na-mt-270-nas-proximi/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-06T12:01:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      },
-      {
-        "title": "Suspeito é preso por tráfico doméstico durante operação da PM em MT",
-        "link": "https://roonoticias.com/a-policia-militar-prendeu-um-homem-suspeito-de-trafico/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-06T12:13:27-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
