@@ -1,109 +1,133 @@
 {
-  "generated_at": "2026-04-06T11:00:00.619884-04:00",
+  "generated_at": "2026-04-06T12:00:00.672854-04:00",
   "window": {
-    "start": "2026-04-06T10:00:00.619884-04:00",
-    "end": "2026-04-06T11:00:00.619884-04:00"
+    "start": "2026-04-06T11:00:00.672854-04:00",
+    "end": "2026-04-06T12:00:00.672854-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Casal é detido após cortar sistema de segurança e tentar furtar estabelecimento em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/casal-detido-cortar-sistema-furtar-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-06T10:33:22-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Casal é preso vendendo canetas emagrecedoras ilegais; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/a-policia-civil-do-rj-prendeu-um/",
+        "title": "Jovem sobrevive a mais de 15 facadas e convoca manifestação por justiça; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/ataque-brutal-com-mais-de-15-facadas/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-06T10:42:02-04:00",
+        "published": "2026-04-06T11:38:17-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Pela primeira vez, mulher assume Segurança Pública de MT e marca mudança histórica no comando",
+        "link": "https://perrenguematogrosso.com/pela-primeira-vez-mulher-assume-seguranca-publica-de-mt-e-marca-mudanca-historica-no-comando/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-06T11:50:56-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Proprietário do Ditado Popular mostra prejuízo após incêndio consumir estrutura do bar em Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/proprietario-ditado-popular-prejuizo-incendio-sinop-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-06T11:57:26-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Casal é preso após invadir comércio e tentar furtar local com uso de ferramentas em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/casal-preso-invadir-comerciotentar-furtar-local-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-06T10:33:17-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Casal é preso vendendo canetas emagrecedoras ilegais; Veja vídeo",
-        "link": "https://omatogrossense.com/um-casal-foi-preso-nesta-segund/",
+        "title": "Jovem sobrevive a ataque com mais de 15 facadas e convoca protesto; Veja vídeo",
+        "link": "https://omatogrossense.com/alana-anisio-rosa-de-20-anos/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-06T10:42:25-04:00",
+        "published": "2026-04-06T11:38:13-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
         ]
-      }
-    ],
-    "portalnortemt": [
+      },
       {
-        "title": "Homem devolve bag furtada, deixa carta de desculpas e caso tem desfecho surpreendente em Lucas do Rio Verde; veja vídeo",
-        "link": "https://portalnortemt.com/um-homem-que-furtou-a-bag-de-um-entregador-voltou-ao-local-durante-a-madrugada-e-devolveu-o-equipamento-em-lucas-do-rio-verde-o-caso-ganhou/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-06T10:06:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "Motociclista é encontrado morto após queda e caso aponta possível mal súbito em Cáceres",
-        "link": "https://portalpantanalmt.com/um-homem-identificado-como-orlando-da-silva-rodrigues-de-55-anos-morreu-na-tarde-deste-domingo-5-apos-cair-de-motocicleta-na-avenida-santos/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-06T10:05:00-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
-    "roonoticias": [
-      {
-        "title": "A dias do fim, CPI do Crime foca no Master apesar de freios do STF",
-        "link": "https://roonoticias.com/a-cpi-do-crime-organizado-do-senado-federal-entra-nos-ultimos/",
-        "author": "Valiatt Arruda",
+        "title": "Pela primeira vez, mulher assume Segurança Pública de MT e marca mudança histórica no comando",
+        "link": "https://omatogrossense.com/pela-primeira-vez-mulher-assume-seguranca-publica-de-mt-e-marca-mudanca-historica-no-comando/",
+        "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-06T10:50:58-04:00",
+        "published": "2026-04-06T11:52:23-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
+        ]
+      },
+      {
+        "title": "Proprietário do Ditado Popular registra bar em cinzas após incêndio na madrugada em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/proprietario-ditado-popular-bar-cinzas-sinop-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-06T11:57:09-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": [
+      {
+        "title": "Jornal espanhol critica Endrick e Lyon, cita ‘seca’ de gols e crise: ‘Precisam melhorar’",
+        "link": "https://roonoticias.com/apos-brilhar-com-a-selecao-brasileira-na-vitoria-por-3-a-1/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-06T11:06:16-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Estêvão empolga técnico do Chelsea após show com gol e assistência: ‘Não há limite para ele’",
+        "link": "https://roonoticias.com/o-jovem-estevao-foi-um-dos-destaques-na-goleada-por-7-a-0/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-06T11:18:47-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Chelsea de um lado e Manchester City de outro: sorteio define as semifinais da Copa da Inglaterra",
+        "link": "https://roonoticias.com/as-semifinais-da-copa-da-inglaterra-estao-definidas-apos/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-06T11:29:06-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
         ]
       }
     ]
