@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-06T14:00:00.643621-04:00",
+  "generated_at": "2026-04-06T15:00:05.398737-04:00",
   "window": {
-    "start": "2026-04-06T13:00:00.643621-04:00",
-    "end": "2026-04-06T14:00:00.643621-04:00"
+    "start": "2026-04-06T14:00:05.398737-04:00",
+    "end": "2026-04-06T15:00:05.398737-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Câmera registra criminosos invadindo casa e sequestrando família com bebê em Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/criminosos-invadindo-casa-sequestrando-familia-varzea-grande-video/",
+        "title": "PM identifica ponto de tráfico, apreende entorpecentes e leva suspeitos após tentativa de fuga em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/pm-identifica-ponto-trafico-tentativa-fuga-mt-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-06T13:11:25-04:00",
+        "published": "2026-04-06T14:14:18-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,40 +20,27 @@
         ]
       },
       {
-        "title": "Jovem é atacada com óleo quente por colega de trabalho; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/uma-jovem-de-19-anos-ficou-g/",
+        "title": "/",
+        "link": "https://perrenguematogrosso.com/331917-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-06T13:42:21-04:00",
+        "published": "2026-04-06T14:54:59-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
-      },
-      {
-        "title": "Nikolas x Eduardo: troca de críticas expõe tensão e força reação urgente no PL; veja vídeo",
-        "link": "https://perrenguematogrosso.com/nikolas-x-eduardo-troca-de-criticas-expoe-tensao-e-forca-reacao-urgente-no-pl-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-06T13:45:31-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Câmera flagra momento em que criminosos invadem casa e sequestram família com bebê em VG; veja vídeo",
-        "link": "https://omatogrossense.com/camera-criminosos-invadem-casa-sequestram-familia-vg-video/",
+        "title": "PM flagra tentativa de fuga e desmantela ponto de tráfico em Nova Mutum; veja vídeo",
+        "link": "https://omatogrossense.com/pm-flagra-tentativa-fuga-ponto-trafico-nova-mutum-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-06T13:10:29-04:00",
+        "published": "2026-04-06T14:14:24-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,37 +49,24 @@
         ]
       },
       {
-        "title": "Jovem é queimada com óleo quente por colega de trabalho; Veja vídeo",
-        "link": "https://omatogrossense.com/uma-jovem-de-19-anos-sofreu-um-ataque/",
+        "title": "/",
+        "link": "https://omatogrossense.com/138747-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-06T13:42:16-04:00",
+        "published": "2026-04-06T14:54:50-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       },
       {
-        "title": "Nikolas x Eduardo: troca de críticas expõe tensão e força reação urgente no PL; veja vídeo",
-        "link": "https://omatogrossense.com/nikolas-x-eduardo-troca-de-criticas-expoe-tensao-e-forca-reacao-urgente-no-pl-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-06T13:45:22-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Primavera reage fora de casa, segura pressão do Brasiliense e estreia com empate na Série D; veja os gols",
-        "link": "https://omatogrossense.com/primavera-reage-fora-de-casa/",
+        "title": "Treino do Arsenal expõe situação de Gabriel Magalhães e muda cenário da Seleção Brasileira",
+        "link": "https://omatogrossense.com/treino-do-arsenal-expoe-situacao-de-gabriel-magalhaes/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-06T14:00:00-04:00",
+        "published": "2026-04-06T15:00:00-04:00",
         "categories": [
           "Esporte"
         ],
