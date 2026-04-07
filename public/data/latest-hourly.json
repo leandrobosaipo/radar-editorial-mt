@@ -1,114 +1,23 @@
 {
-  "generated_at": "2026-04-07T10:00:17.525307-04:00",
+  "generated_at": "2026-04-07T11:12:07.307425-04:00",
   "window": {
-    "start": "2026-04-07T09:00:17.525307-04:00",
-    "end": "2026-04-07T10:00:17.525307-04:00"
+    "start": "2026-04-07T10:12:07.307425-04:00",
+    "end": "2026-04-07T11:12:07.307425-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Influenciadora é detida após ser flagrada aplicando golpes em caixas eletrônicos em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/influenciadora-aplicando-golpes-caixas-eletronicos-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-07T09:04:56-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Influenciadora é detida após envolvimento em esquema de fraude com saques eletrônicos em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/influenciadora-detida-envolvimento-fraude-saques-eletronicos-cuiaba/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-07T09:04:58-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
-    "portalpantanalmt": [
-      {
-        "title": "Venezuelano confessa homicídio de idoso e acaba preso horas após crime em Cáceres",
-        "link": "https://portalpantanalmt.com/um-venezuelano-de-25-anos-acabou-preso-no-inicio-da-tarde-desta-segunda-feira-06-em-caceres-apos-confessar-o-homicidio-de-almiro-alves-ribas/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-07T09:10:43-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
-    "roonoticias": [
-      {
-        "title": "Criminoso rende vítima, obriga transferência via Pix e leva veículo em Rondonópolis",
-        "link": "https://roonoticias.com/um-criminoso-roubou-uma-fiat-toro-na-tarde-desta-segunda-feira-06-em-uma-praca-proxima-a-santa-casa-em-rondonopolis/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-07T09:21:57-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
