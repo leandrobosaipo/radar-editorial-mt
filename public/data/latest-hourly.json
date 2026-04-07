@@ -1,139 +1,23 @@
 {
-  "generated_at": "2026-04-07T15:00:05.875256-04:00",
+  "generated_at": "2026-04-07T16:29:48.221606-04:00",
   "window": {
-    "start": "2026-04-07T14:00:05.875256-04:00",
-    "end": "2026-04-07T15:00:05.875256-04:00"
+    "start": "2026-04-07T15:29:48.221606-04:00",
+    "end": "2026-04-07T16:29:48.221606-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Acidente entre caminhões deixa motoristas feridos e preso nas ferragens na BR-163 em Sorriso; veja vídeo",
-        "link": "https://perrenguematogrosso.com/acidente-entre-caminhoes-deixa-motoristas-feridos-e-preso-nas-ferragens-na-br-163-em-sorriso-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-07T14:37:50-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Cuiabá prepara “Vila das Nações” com telão gigante e eventos gratuitos para a Copa de 2026; veja vídeo",
-        "link": "https://perrenguematogrosso.com/cuiaba-prepara-vila-das-nacoes/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-07T14:39:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/332143-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-07T14:50:54-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Acidente entre dois caminhões deixa dois motoristas feridos na BR-163 em Sorriso; veja vídeo",
-        "link": "https://omatogrossense.com/acidente-entre-dois-caminhoes-deixa-dois-motoristas-feridos-na-br-163-em-sorriso-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-07T14:32:48-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "/",
-        "link": "https://omatogrossense.com/138935-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-07T14:50:49-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Além de vídeo, Flávio Bolsonaro ligou para Nikolas e Eduardo",
-        "link": "https://roonoticias.com/o-presidenciavel-flavio-bolsonaro-atuou-para-conter-a-recente/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-07T14:49:10-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
