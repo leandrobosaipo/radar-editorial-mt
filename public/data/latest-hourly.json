@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-04-07T18:00:06.009299-04:00",
+  "generated_at": "2026-04-07T19:00:00.313863-04:00",
   "window": {
-    "start": "2026-04-07T17:00:06.009299-04:00",
-    "end": "2026-04-07T18:00:06.009299-04:00"
+    "start": "2026-04-07T18:00:00.313863-04:00",
+    "end": "2026-04-07T19:00:00.313863-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Jejum de vitórias pressiona Cuiabá antes de duelo decisivo contra o Atlético-GO",
-        "link": "https://perrenguematogrosso.com/jejum-de-vitorias-pressiona-cuiaba/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-07T17:48:42-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Flanelinhas são proibidos de cobrar estacionamento durante celebrações do aniversário de Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/flanelinhas-proibidos-cobrar-celebracoes-aniversario-cuiaba-video/",
+        "title": "Polícia prende falso médico que manipulava pacientes e cometia abusos durante atendimentos em MT",
+        "link": "https://perrenguematogrosso.com/falso-medico-manipulava-pacientes-abusos-mt/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-07T17:49:16-04:00",
+        "published": "2026-04-07T18:12:07-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,27 +20,93 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/332203-2/",
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3211/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-07T17:57:54-04:00",
+        "published": "2026-04-07T18:18:27-04:00",
         "categories": [
-          "Notícias"
+          "Memes do vovô"
         ],
         "category_ids": [
-          5
+          4
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3212/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-07T18:21:22-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3213/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-07T18:23:39-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Cuiabá recebe Grand Prix de judô paralímpico com campeões mundiais e expectativa de 233 atletas",
+        "link": "https://perrenguematogrosso.com/cuiaba-recebe-grand-prix-de-judo-paralimpico/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-07T18:27:04-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Operário VG reage no fim, busca empate sob chuva e estreia com ponto na Série D; veja os gols",
+        "link": "https://perrenguematogrosso.com/operario-vg-reage-no-fim/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-07T18:51:33-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
         ]
       }
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "colisão entre caminhões deixa dois feridos na br-163 em sorriso",
+        "link": "https://afolhalivre.com/colisao-entre-caminhoes-br163-sorriso/",
+        "author": "Redação Código5",
+        "author_id": 24,
+        "published": "2026-04-07T18:38:37-04:00",
+        "categories": [
+          "Uncategorized"
+        ],
+        "category_ids": [
+          1
+        ]
+      }
+    ],
     "omatogrossense": [
       {
-        "title": "Cobrança de flanelinhas vira alvo da prefeitura às vésperas do aniversário de Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/cobranca-flanelinhas-alvo-vesperas-aniversario-cuiaba/",
+        "title": "Polícia prende homem que se passava por médico e cometia abusos contra pacientes em MT",
+        "link": "https://omatogrossense.com/homem-passava-medico-abusos-pacientes-mt/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-07T17:49:24-04:00",
+        "published": "2026-04-07T18:10:26-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,11 +115,11 @@
         ]
       },
       {
-        "title": "Cuiabá entra em campo para encerrar jejum de dois meses sem vitórias na temporada",
-        "link": "https://omatogrossense.com/cuiaba-entra-em-campo-para-encerrar-jejum/",
+        "title": "Cuiabá recebe competição nacional e internacional de judô paralímpico com campeões mundiais",
+        "link": "https://omatogrossense.com/cuiaba-recebe-competicao-nacional-e-internacional-de-judo/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-07T17:54:18-04:00",
+        "published": "2026-04-07T18:35:36-04:00",
         "categories": [
           "Esporte"
         ],
@@ -75,21 +128,49 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://omatogrossense.com/138989-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-07T17:57:35-04:00",
+        "title": "Operário VG reage no fim, marca dois gols e empata na estreia da Série D; veja os gols",
+        "link": "https://omatogrossense.com/operario-vg-reage-no-fim/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-07T18:59:01-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
+    "portalnortemt": [
+      {
+        "title": "Colisão entre caminhões na BR-163 em Sorriso deixa feridos",
+        "link": "https://portalnortemt.com/acidente-na-br-163-sorriso/",
+        "author": "Redação Código5",
+        "author_id": 24,
+        "published": "2026-04-07T18:38:29-04:00",
+        "categories": [
+          "Uncategorized"
+        ],
+        "category_ids": [
+          1
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Colisão entre caminhões na BR-163 deixa dois feridos em Sorriso",
+        "link": "https://portalpantanalmt.com/colisao-entre-caminhoes-br163-sorriso/",
+        "author": "Redação Código5",
+        "author_id": 24,
+        "published": "2026-04-07T18:38:45-04:00",
+        "categories": [
+          "Uncategorized"
+        ],
+        "category_ids": [
+          1
+        ]
+      }
+    ],
     "roonoticias": []
   },
   "menu_category_ids": {
