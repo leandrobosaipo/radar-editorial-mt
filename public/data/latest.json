@@ -1,15 +1,123 @@
 {
-  "generated_at": "2026-04-08T08:00:04.977416-04:00",
+  "generated_at": "2026-04-08T09:00:05.550183-04:00",
   "window": {
-    "start": "2026-04-08T07:00:04.977416-04:00",
-    "end": "2026-04-08T08:00:04.977416-04:00"
+    "start": "2026-04-08T08:00:05.550183-04:00",
+    "end": "2026-04-08T09:00:05.550183-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Guarda Municipal prende venezuelano com moto adulterada e tentativa de suborno em VG; veja vídeo",
+        "link": "https://perrenguematogrosso.com/moto-adulterada-e-tentativa-de-suborno-vg-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-08T08:08:05-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "“Nos amamos vocês”: mensagem emocionante marca recorde e retorno da missão Artemis II",
+        "link": "https://perrenguematogrosso.com/332316-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-08T08:14:32-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Disparada Global nas Bolsas Contrasta com Queda Histórica do Petróleo e Chama Atenção do Mercado",
+        "link": "https://perrenguematogrosso.com/disparada-global-nas-bolsas-contrasta-com-queda-historica-do-petroleo-e-chama-atencao-do-mercado/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-08T08:57:03-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
+    "afolhalivre": [
+      {
+        "title": "Bombeiros resgatam jiboia encontrada em área urbana de Campo Verde; veja vídeo",
+        "link": "https://afolhalivre.com/uma-jiboia-foi-encontrada-em-area-urbana-de-campo-verde-em-mato-grosso-na-tarde-desta-terca-feira-7-moradores-que-passavam-pelo-local/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-08T08:02:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Guarda Municipal prende venezuelano após flagrar moto adulterada e tentativa de suborno em VG; veja vídeo",
+        "link": "https://omatogrossense.com/venezuelano-moto-adulterada-tentativa-suborno-vg/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-08T08:08:26-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "“Nos amamos vocês”: recado antes do silêncio marca recorde histórico na missão Artemis II",
+        "link": "https://omatogrossense.com/139057-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-08T08:14:27-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Disparada Global nas Bolsas Contrasta com Queda Histórica do Petróleo e Chama Atenção do Mercado",
+        "link": "https://omatogrossense.com/disparada-global-nas-bolsas-contrasta-com-queda-historica-do-petroleo-e-chama-atencao-do-mercado/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-08T08:59:05-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "portalnortemt": [],
-    "portalpantanalmt": [],
+    "portalpantanalmt": [
+      {
+        "title": "Carreta carregada com soja pega fogo e carga é destruída em estrada rural em Pontes e Lacerda; veja vídeo",
+        "link": "https://portalpantanalmt.com/um-incendio-atingiu-uma-carreta-carregada-com-soja-na-tarde-desta-terca-feira-7-na-estrada-do-matao-nas-proximidades-da-comunidade/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-08T08:02:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
     "roonoticias": []
   },
   "menu_category_ids": {
