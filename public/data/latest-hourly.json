@@ -1,37 +1,11 @@
 {
-  "generated_at": "2026-04-08T10:06:28.269043-04:00",
+  "generated_at": "2026-04-08T11:00:01.224087-04:00",
   "window": {
-    "start": "2026-04-08T09:06:28.269043-04:00",
-    "end": "2026-04-08T10:06:28.269043-04:00"
+    "start": "2026-04-08T10:00:01.224087-04:00",
+    "end": "2026-04-08T11:00:01.224087-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
-      {
-        "title": "Homem é morto a tiros após ser rendido por criminoso em motocicleta em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-morto-tiros-rendido-criminoso-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-08T09:10:25-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "“Nunca consegui nada por ser gay”: Carlinhos Maia provoca debate acalorado ao vivo",
-        "link": "https://perrenguematogrosso.com/carlinhos-maia-enfrentou-criticos/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-08T09:51:03-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
       {
         "title": "Jaguatirica é encontrada morta após ser atropelada na estrada da Guia em Cuiabá; veja vídeo",
         "link": "https://perrenguematogrosso.com/jaguatirica-encontrada-morta-atropelada-estrada-guia-video/",
@@ -44,50 +18,36 @@
         "category_ids": [
           16
         ]
-      }
-    ],
-    "afolhalivre": [
+      },
       {
-        "title": "Colisão entre veículos derruba poste e causa danos em  Primavera do Leste; veja vídeo",
-        "link": "https://afolhalivre.com/um-acidente-envolvendo-dois-veiculos-deixou-danos-estruturais-em-uma-via-de-primavera-do-leste-em-mato-grosso-a-colisao-ocorreu/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-08T09:52:00-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
-    "omatogrossense": [
-      {
-        "title": "Homem é morto após ser rendido por criminoso em motocicleta no interior de MT; veja vídeo",
-        "link": "https://omatogrossense.com/homem-morto-rendido-criminoso-mt-video/",
+        "title": "Jogos da seleção brasileira feminina se aproximam e Arena Pantanal entra na reta final em Cuiabá",
+        "link": "https://perrenguematogrosso.com/arena-pantanal-partidas-selecao-brasileira-feminina-cuiaba/",
         "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-08T09:10:28-04:00",
+        "author_id": 279,
+        "published": "2026-04-08T10:37:13-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          509
         ]
       },
       {
-        "title": "“Nunca consegui nada por ser gay”: fala de Carlinhos Maia gera polêmica e divide opiniões; Veja vídeo",
-        "link": "https://omatogrossense.com/declaracao-forte-foi-feita-ao-vivo/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-08T09:50:07-04:00",
+        "title": "/",
+        "link": "https://perrenguematogrosso.com/332347-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-08T10:56:36-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Notícias"
         ],
         "category_ids": [
-          973
+          5
         ]
-      },
+      }
+    ],
+    "afolhalivre": [],
+    "omatogrossense": [
       {
         "title": "Jaguatirica é encontrada morta após ser atropelada na estrada da Guia em Cuiabá; veja vídeo",
         "link": "https://omatogrossense.com/jaguatirica-morta-atropelada-estrada-guia-video/",
@@ -100,24 +60,63 @@
         "category_ids": [
           20
         ]
+      },
+      {
+        "title": "Arena Pantanal intensifica preparativos para receber jogos da Seleção Brasileira feminina em Cuiabá",
+        "link": "https://omatogrossense.com/arena-pantanal-preparativos-jogos-selecao-feminina-cuiaba/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-08T10:35:42-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "“Vou jogar bola com tua cabeça”, diz policial aposentado ameaças, sequestro e perseguição chocam e viralizam; Veja vídeo",
+        "link": "https://omatogrossense.com/vou-jogar-bola-com-tua-cabeca-diz-policial-aposentado-ameacas-sequestro-e-perseguicao-chocam-e-viralizam-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-08T10:56:28-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
       }
     ],
     "portalnortemt": [
       {
-        "title": "Casal investigado por incêndios criminosos registrados em Sinop entre 2023 e 2025 é preso no Nordeste",
-        "link": "https://portalnortemt.com/a-policia-civil-prendeu-um-casal-investigado-por-incendios-criminosos-registrados-em-sinop-apos-localizar-os-suspeitos-na-orla-de-pajucara/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-08T09:59:00-04:00",
+        "title": "acidente em rotatória de rondonópolis alerta para segurança viária",
+        "link": "https://portalnortemt.com/uma-mulher-ficou-ferida-na-manha-desta-terca-feira-7-apos-uma-colisao-entre-moto-e-carro-na-rotatoria-da-avenida-dos-estudantes-com-o-a/",
+        "author": "Redação Código5",
+        "author_id": 24,
+        "published": "2026-04-08T10:01:00-04:00",
         "categories": [
-          "Sinop"
+          "Uncategorized"
         ],
         "category_ids": [
-          3030
+          1
         ]
       }
     ],
     "portalpantanalmt": [
+      {
+        "title": "acidente entre moto e carro mobiliza trânsito em rondonópolis",
+        "link": "https://portalpantanalmt.com/uma-mulher-ficou-ferida-na-manha-desta-terca-feira-7-apos-uma-colisao-entre-moto-e-carro-na-rotatoria-da-avenida-dos-estudantes-com-o-a/",
+        "author": "Redação Código5",
+        "author_id": 24,
+        "published": "2026-04-08T10:01:00-04:00",
+        "categories": [
+          "Uncategorized"
+        ],
+        "category_ids": [
+          1
+        ]
+      },
       {
         "title": "Vítima reage a ataque a tiros em mercearia de Cáceres e suspeitos abandonam arma e celular durante fuga",
         "link": "https://portalpantanalmt.com/um-homem-de-50-anos-sobreviveu-a-uma-tentativa-de-homicidio-na-manha-desta-terca-feira-7-dentro-de-uma-mercearia-localizada-na-rua-das/",
