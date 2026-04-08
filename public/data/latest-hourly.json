@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-04-08T18:00:00.937658-04:00",
+  "generated_at": "2026-04-08T19:00:05.704993-04:00",
   "window": {
-    "start": "2026-04-08T17:00:00.937658-04:00",
-    "end": "2026-04-08T18:00:00.937658-04:00"
+    "start": "2026-04-08T18:00:05.704993-04:00",
+    "end": "2026-04-08T19:00:05.704993-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Moradores registram cinco helicópteros sobrevoando bairros residenciais em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/moradores-registram-helicopteros-bairros-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-08T17:21:22-04:00",
+        "title": "Disparada nos mercados: Ibovespa salta mais de 2% e Wall Street registra forte alta no dia",
+        "link": "https://perrenguematogrosso.com/disparada-nos-mercados-ibovespa-salta-mais-de-2-e-wall-street-registra-forte-alta-no-dia/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-08T18:15:22-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Política"
         ],
         "category_ids": [
-          16
+          510
         ]
       },
       {
-        "title": "Cuiabá articula com CBF e confirma FIFA Series feminina com jogos na Arena Pantanal",
-        "link": "https://perrenguematogrosso.com/cuiaba-articula-com-cbf/",
+        "title": "PSG domina o Liverpool, vence em Paris e abre vantagem nas quartas da Champions; veja os gols",
+        "link": "https://perrenguematogrosso.com/psg-domina-o-liverpool/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-04-08T17:32:10-04:00",
+        "published": "2026-04-08T18:30:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -33,53 +33,40 @@
         ]
       },
       {
-        "title": "Carne Halal cresce em Mato Grosso e abre portas para mercado global bilionário",
-        "link": "https://perrenguematogrosso.com/carne-halal-cresce-em-mato-grosso-e-abre-portas-para-mercado-global-bilionario/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-08T17:49:16-04:00",
+        "title": "Torcedores atacam ônibus do Atlético de Madrid antes de jogo contra o Barcelona na Champions; veja vídeo",
+        "link": "https://perrenguematogrosso.com/torcedores-atacam-onibus-do-atletico-de-madrid/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-08T19:00:00-04:00",
         "categories": [
-          "Política"
+          "Esporte"
         ],
         "category_ids": [
-          510
+          509
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Moradores registram cinco helicópteros sobrevoando bairros em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/cinco-helicopteros-sobrevoando-bairros-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-08T17:20:22-04:00",
+        "title": "Veja como ficou o velódromo olímpico após incêndio; Veja vídeo",
+        "link": "https://omatogrossense.com/veja-como-ficou-o-velodromo-olimpico-apos-incendio-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-08T18:11:31-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
+          973
         ]
       },
       {
-        "title": "Cuiabá confirma FIFA Series feminina após reunião com a CBF",
-        "link": "https://omatogrossense.com/cuiaba-confirma-fifa-series/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-08T17:39:40-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Carne Halal cresce em Mato Grosso e abre portas para mercado global bilionário",
-        "link": "https://omatogrossense.com/carne-halal-cresce-em-mato-grosso-e-abre-portas-para-mercado-global-bilionario/",
+        "title": "Disparada nos mercados: Ibovespa salta mais de 2% e Wall Street registra forte alta no dia",
+        "link": "https://omatogrossense.com/disparada-nos-mercados-ibovespa-salta-mais-de-2-e-wall-street-registra-forte-alta-no-dia/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-08T17:49:22-04:00",
+        "published": "2026-04-08T18:15:14-04:00",
         "categories": [
           "Política"
         ],
@@ -88,11 +75,24 @@
         ]
       },
       {
-        "title": "Atlético domina com um a mais, vence o Barcelona no Camp Nou e abre vantagem na Champions; veja os gols",
-        "link": "https://omatogrossense.com/atletico-domina-com-um-a-mais/",
+        "title": "PSG domina o Liverpool, vence em Paris e abre vantagem nas quartas da Champions; veja os gols",
+        "link": "https://omatogrossense.com/psg-domina-o-liverpool/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-08T18:00:00-04:00",
+        "published": "2026-04-08T18:30:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "VÍDEO: Torcedores atacam ônibus do Atlético de Madrid antes de jogo contra o Barcelona na Champions",
+        "link": "https://omatogrossense.com/torcedores-atacam-onibus-do-atletico-de-madrid/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-08T19:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -103,86 +103,7 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Motociclista fica ferida após colisão em rotatória e recebe atendimento em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/uma-mulher-ficou-ferida-na-manha-desta-terca-feira-7-apos/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-08T17:03:36-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Carreta com etanol pega fogo após colisão e interdita BR-364 na Serra de São Vicente; veja vídeo",
-        "link": "https://roonoticias.com/um-acidente-entre-dois-veiculos-de-carga-provocou-a-interdicao/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-08T17:23:27-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Diniz trata Memphis Depay como ‘superestrela mundial’ e responde se conta com astro no Corinthians após a Copa",
-        "link": "https://roonoticias.com/o-corinthians-apresentou-fernando-diniz-como-novo-tecnico/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-08T17:34:15-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Pontinha de mágoa e vídeo que irritou Paz: como Dorival Júnior digeriu saída do Corinthians",
-        "link": "https://roonoticias.com/a-saida-de-dorival-junior-do-corinthians-foi-marcada-por-frustracao/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-08T17:46:40-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Vice dos EUA diz que trégua é “frágil” e que Trump está “impaciente”",
-        "link": "https://roonoticias.com/o-vice-presidente-dos-estados-unidos-jd-vance/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-08T17:52:07-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Presidente da CCJ diz que não fala com Alcolumbre há 30 dias.",
-        "link": "https://roonoticias.com/o-presidente-do-senado-davi-alcolumbre-nao-conversa/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-08T17:58:20-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
