@@ -1,17 +1,69 @@
 {
-  "generated_at": "2026-04-08T12:00:05.741639-04:00",
+  "generated_at": "2026-04-08T13:00:05.359064-04:00",
   "window": {
-    "start": "2026-04-08T11:00:05.741639-04:00",
-    "end": "2026-04-08T12:00:05.741639-04:00"
+    "start": "2026-04-08T12:00:05.359064-04:00",
+    "end": "2026-04-08T13:00:05.359064-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/332363-2/",
+        "title": "“Cheiro de Novo” e R$ 4,4 Milhões: Licitação de Frota em Desperta Atenção por Exigências e Modelo Adotado",
+        "link": "https://perrenguematogrosso.com/cheiro-de-novo-e-r-44-milhoes-licitacao-de-frota-em-desperta-atencao-por-exigencias-e-modelo-adotado/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-08T12:01:41-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Festa em celebração aos 307 anos de Cuiabá no Parque das Águas reúne mais de 60 mil pessoas com shows nacionais; veja vídeo",
+        "link": "https://perrenguematogrosso.com/festa-celebracao-307-anos-cuiaba-parque-das-aguas-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-08T12:18:44-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Festa, promessa e recado direto: Abílio usa aniversário de Cuiabá para marcar posição; veja vídeo",
+        "link": "https://perrenguematogrosso.com/festa-promessa-e-recado-direto-abilio-usa-aniversario-de-cuiaba-para-marcar-posicao-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-08T12:49:34-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Polícia desarticula esquema de fraude milionária com uso de notas frias e laranjas no setor pecuário em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/fraude-milionaria-notas-frias-laranjas-pecuario-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-08T12:54:33-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Cão farejador encontra bunker com 48 toneladas de droga; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/cao-farejador-encontra-bunker-com-48-toneladas-de-droga-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-08T11:52:11-04:00",
+        "published": "2026-04-08T12:54:35-04:00",
         "categories": [
           "Notícias"
         ],
@@ -20,25 +72,133 @@
         ]
       }
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "Suspeito invade casa, retira familiares da vítima e realiza disparos em Dom Aquino",
+        "link": "https://afolhalivre.com/um-homem-foi-baleado-dentro-de-casa-na-manha-desta-terca-feira-7-em-dom-aquino-no-mato-grosso-apos-um-suspeito-invadir-o-imovel/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-08T12:04:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
     "omatogrossense": [
       {
-        "title": "/",
-        "link": "https://omatogrossense.com/139097-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-08T11:52:06-04:00",
+        "title": "“Cheiro de Novo” e R$ 4,4 Milhões: Licitação de Frota em Desperta Atenção por Exigências e Modelo Adotado",
+        "link": "https://omatogrossense.com/cheiro-de-novo-e-r-44-milhoes-licitacao-de-frota-em-desperta-atencao-por-exigencias-e-modelo-adotado/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-08T12:03:29-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Festa de aniversário de Cuiabá no Parque das Águas reúne mais de 60 mil pessoas e movimenta a capital; veja vídeo",
+        "link": "https://omatogrossense.com/festa-aniversario-cuiaba-parque-das-aguas-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-08T12:18:35-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
         ]
+      },
+      {
+        "title": "Discurso do passado volta à tona e pressiona Abílio com promessa de gestão eficiente agora é cobrada; veja vídeo",
+        "link": "https://omatogrossense.com/discurso-do-passado-volta-a-tona-e-pressiona-abilio-com-promessa-de-gestao-eficiente-agora-e-cobrada-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-08T12:50:15-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Polícia desmantela organização que simulava operações com gado para sonegar impostos em MT; veja vídeo",
+        "link": "https://omatogrossense.com/policia-organizacao-gado-sonegar-impostos-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-08T12:54:31-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Operação com cão farejador revela bunker com toneladas de droga e termina em confronto; Veja vídeo",
+        "link": "https://omatogrossense.com/operacao-com-cao-farejador-revela-bunker-com-toneladas-de-droga-e-termina-em-confronto-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-08T12:55:07-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalnortemt": [
+      {
+        "title": "Oportunidade de adoção reúne cães e gatos no centro de Sorriso neste sábado",
+        "link": "https://portalnortemt.com/a-prefeitura-de-sorriso-promove-neste-sabado-11-uma-feira-de-adocao-responsavel-no-parque-ecologico-municipal-claudino-francio/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-08T12:02:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Prefeitura de Cáceres garante reforço financeiro de R$ 800 mil para exames de alta complexidade e cirurgias eletivas",
+        "link": "https://portalpantanalmt.com/a-prefeitura-de-caceres-garantiu-um-reforco-financeiro-de-r-800-mil-para-a-saude-publica-e-dessa-forma-vai-ampliar-a-oferta-de-exames-de-alta/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-08T12:03:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Carreta perde controle, derruba poste e trava trânsito por horas na BR-364,no perímetro urbano de Rondonópolis",
+        "link": "https://roonoticias.com/um-acidente-com-uma-carreta-bitrem-graneleira-provocou-grande-transtorno-na-tarde-desta-terca-feira-7-na-br-364-km-205-no-perimetro-urbano/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-08T12:04:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
