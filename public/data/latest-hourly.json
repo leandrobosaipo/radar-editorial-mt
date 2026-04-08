@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-08T09:00:05.550183-04:00",
+  "generated_at": "2026-04-08T10:06:28.269043-04:00",
   "window": {
-    "start": "2026-04-08T08:00:05.550183-04:00",
-    "end": "2026-04-08T09:00:05.550183-04:00"
+    "start": "2026-04-08T09:06:28.269043-04:00",
+    "end": "2026-04-08T10:06:28.269043-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Guarda Municipal prende venezuelano com moto adulterada e tentativa de suborno em VG; veja vídeo",
-        "link": "https://perrenguematogrosso.com/moto-adulterada-e-tentativa-de-suborno-vg-video/",
+        "title": "Homem é morto a tiros após ser rendido por criminoso em motocicleta em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-morto-tiros-rendido-criminoso-mt-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-08T08:08:05-04:00",
+        "published": "2026-04-08T09:10:25-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "“Nos amamos vocês”: mensagem emocionante marca recorde e retorno da missão Artemis II",
-        "link": "https://perrenguematogrosso.com/332316-2/",
+        "title": "“Nunca consegui nada por ser gay”: Carlinhos Maia provoca debate acalorado ao vivo",
+        "link": "https://perrenguematogrosso.com/carlinhos-maia-enfrentou-criticos/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-08T08:14:32-04:00",
+        "published": "2026-04-08T09:51:03-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,26 +33,26 @@
         ]
       },
       {
-        "title": "Disparada Global nas Bolsas Contrasta com Queda Histórica do Petróleo e Chama Atenção do Mercado",
-        "link": "https://perrenguematogrosso.com/disparada-global-nas-bolsas-contrasta-com-queda-historica-do-petroleo-e-chama-atencao-do-mercado/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-08T08:57:03-04:00",
+        "title": "Jaguatirica é encontrada morta após ser atropelada na estrada da Guia em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/jaguatirica-encontrada-morta-atropelada-estrada-guia-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-08T10:00:19-04:00",
         "categories": [
-          "Política"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          510
+          16
         ]
       }
     ],
     "afolhalivre": [
       {
-        "title": "Bombeiros resgatam jiboia encontrada em área urbana de Campo Verde; veja vídeo",
-        "link": "https://afolhalivre.com/uma-jiboia-foi-encontrada-em-area-urbana-de-campo-verde-em-mato-grosso-na-tarde-desta-terca-feira-7-moradores-que-passavam-pelo-local/",
+        "title": "Colisão entre veículos derruba poste e causa danos em  Primavera do Leste; veja vídeo",
+        "link": "https://afolhalivre.com/um-acidente-envolvendo-dois-veiculos-deixou-danos-estruturais-em-uma-via-de-primavera-do-leste-em-mato-grosso-a-colisao-ocorreu/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-08T08:02:00-04:00",
+        "published": "2026-04-08T09:52:00-04:00",
         "categories": [
           "Primavera"
         ],
@@ -63,11 +63,11 @@
     ],
     "omatogrossense": [
       {
-        "title": "Guarda Municipal prende venezuelano após flagrar moto adulterada e tentativa de suborno em VG; veja vídeo",
-        "link": "https://omatogrossense.com/venezuelano-moto-adulterada-tentativa-suborno-vg/",
+        "title": "Homem é morto após ser rendido por criminoso em motocicleta no interior de MT; veja vídeo",
+        "link": "https://omatogrossense.com/homem-morto-rendido-criminoso-mt-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-08T08:08:26-04:00",
+        "published": "2026-04-08T09:10:28-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -76,40 +76,54 @@
         ]
       },
       {
-        "title": "“Nos amamos vocês”: recado antes do silêncio marca recorde histórico na missão Artemis II",
-        "link": "https://omatogrossense.com/139057-2/",
+        "title": "“Nunca consegui nada por ser gay”: fala de Carlinhos Maia gera polêmica e divide opiniões; Veja vídeo",
+        "link": "https://omatogrossense.com/declaracao-forte-foi-feita-ao-vivo/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-08T08:14:27-04:00",
+        "published": "2026-04-08T09:50:07-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Jaguatirica é encontrada morta após ser atropelada na estrada da Guia em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/jaguatirica-morta-atropelada-estrada-guia-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-08T10:00:09-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
-        ]
-      },
-      {
-        "title": "Disparada Global nas Bolsas Contrasta com Queda Histórica do Petróleo e Chama Atenção do Mercado",
-        "link": "https://omatogrossense.com/disparada-global-nas-bolsas-contrasta-com-queda-historica-do-petroleo-e-chama-atencao-do-mercado/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-08T08:59:05-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [
+    "portalnortemt": [
       {
-        "title": "Carreta carregada com soja pega fogo e carga é destruída em estrada rural em Pontes e Lacerda; veja vídeo",
-        "link": "https://portalpantanalmt.com/um-incendio-atingiu-uma-carreta-carregada-com-soja-na-tarde-desta-terca-feira-7-na-estrada-do-matao-nas-proximidades-da-comunidade/",
+        "title": "Casal investigado por incêndios criminosos registrados em Sinop entre 2023 e 2025 é preso no Nordeste",
+        "link": "https://portalnortemt.com/a-policia-civil-prendeu-um-casal-investigado-por-incendios-criminosos-registrados-em-sinop-apos-localizar-os-suspeitos-na-orla-de-pajucara/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-08T08:02:00-04:00",
+        "published": "2026-04-08T09:59:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Vítima reage a ataque a tiros em mercearia de Cáceres e suspeitos abandonam arma e celular durante fuga",
+        "link": "https://portalpantanalmt.com/um-homem-de-50-anos-sobreviveu-a-uma-tentativa-de-homicidio-na-manha-desta-terca-feira-7-dentro-de-uma-mercearia-localizada-na-rua-das/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-08T10:02:00-04:00",
         "categories": [
           "Cáceres"
         ],
@@ -118,7 +132,21 @@
         ]
       }
     ],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Colisão entre carro e moto deixa motociclista ferida no Anel Viário em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/uma-mulher-ficou-ferida-na-manha-desta-terca-feira-7-apos-uma-colisao-entre-moto-e-carro-na-rotatoria-da-avenida-dos-estudantes-com-o-a/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-08T10:01:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
