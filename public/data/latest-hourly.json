@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-04-08T15:00:05.529321-04:00",
+  "generated_at": "2026-04-08T16:00:05.324954-04:00",
   "window": {
-    "start": "2026-04-08T14:00:05.529321-04:00",
-    "end": "2026-04-08T15:00:05.529321-04:00"
+    "start": "2026-04-08T15:00:05.324954-04:00",
+    "end": "2026-04-08T16:00:05.324954-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Megaoperação derruba esquema bilionário de jogos ilegais e prende 55 pessoas, incluindo vereadores; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/esquema-bilionario-foi-desarticulado/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-08T14:55:30-04:00",
+        "title": "Câmera registra criminosos invadindo doceria e furtando ovos de Páscoa em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/criminosos-invadindo-doceria-furtando-ovos-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-08T15:05:27-04:00",
         "categories": [
-          "Notícias"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          5
+          16
+        ]
+      },
+      {
+        "title": "Jayme Campos vota por jornada menor para enfermeiros e reforça; “sustentam a saúde do país”",
+        "link": "https://perrenguematogrosso.com/jayme-campos-vota-por-jornada-menor-para-enfermeiros-e-reforca-sustentam-a-saude-do-pais/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-08T15:53:44-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Moradores encontram homem morto dentro de terminal no CPA III em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/homem-morto-dentro-terminal-cpa-cuiaba-video/",
+        "title": "Criminosos quebram vitrine de doceria e furtam ovos de Páscoa em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/criminosos-quebram-vitrine-doceria-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-08T14:04:31-04:00",
+        "published": "2026-04-08T15:05:56-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -36,16 +49,16 @@
         ]
       },
       {
-        "title": "Operação gigante atinge esquema de R$ 2 bilhões, prende 55 pessoas e derruba sites ilegais; Veja vídeo",
-        "link": "https://omatogrossense.com/operacao-policial-atingiu-organizacao/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-08T14:55:37-04:00",
+        "title": "Jayme Campos vota por jornada menor para enfermeiros e reforça; “sustentam a saúde do país”",
+        "link": "https://omatogrossense.com/jayme-campos-vota-por-jornada-menor-para-enfermeiros-e-reforca-sustentam-a-saude-do-pais/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-08T15:53:49-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       }
     ],
