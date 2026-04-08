@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-08T16:00:05.324954-04:00",
+  "generated_at": "2026-04-08T17:00:05.206904-04:00",
   "window": {
-    "start": "2026-04-08T15:00:05.324954-04:00",
-    "end": "2026-04-08T16:00:05.324954-04:00"
+    "start": "2026-04-08T16:00:05.206904-04:00",
+    "end": "2026-04-08T17:00:05.206904-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Câmera registra criminosos invadindo doceria e furtando ovos de Páscoa em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/criminosos-invadindo-doceria-furtando-ovos-cuiaba-video/",
+        "title": "Panfleto deixado em carro engana motorista com falsa multa e revela anúncio de sexo em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/panfleto-carro-falsa-multa-anuncio-sexo-mt-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-08T15:05:27-04:00",
+        "published": "2026-04-08T16:03:33-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,50 @@
         ]
       },
       {
-        "title": "Jayme Campos vota por jornada menor para enfermeiros e reforça; “sustentam a saúde do país”",
-        "link": "https://perrenguematogrosso.com/jayme-campos-vota-por-jornada-menor-para-enfermeiros-e-reforca-sustentam-a-saude-do-pais/",
+        "title": "Pane em voo obriga América-MEX a pousar de emergência em Miami",
+        "link": "https://perrenguematogrosso.com/pane-em-voo-obriga-america-mex-a-pousar/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-08T16:07:11-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Cuiabá reage no segundo tempo, acerta a trave, mas perde para o Atlético-GO fora de casa; veja o gol",
+        "link": "https://perrenguematogrosso.com/cuiaba-reage-no-segundo-tempo/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-08T16:18:02-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Fogo atinge Velódromo no Parque Olímpico, mobiliza 60 bombeiros e leva à interdição",
+        "link": "https://perrenguematogrosso.com/incendio-atingiu-cobertura-do/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-08T16:44:28-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "“Dispostos a sofrer pela liberdade” fala de Trump sobre iranianos eleva tensão e gera repercussão global; veja vídeo",
+        "link": "https://perrenguematogrosso.com/dispostos-a-sofrer-pela-liberdade-fala-de-trump-sobre-iranianos-eleva-tensao-e-gera-repercussao-global-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-08T15:53:44-04:00",
+        "published": "2026-04-08T16:53:52-04:00",
         "categories": [
           "Política"
         ],
@@ -36,11 +75,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Criminosos quebram vitrine de doceria e furtam ovos de Páscoa em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/criminosos-quebram-vitrine-doceria-cuiaba-video/",
+        "title": "Panfleto deixado em carro engana motorista com falsa multa e revela anúncio de sexo em MT; veja vídeo",
+        "link": "https://omatogrossense.com/panfleto-deixado-carro-anuncio-sexo-mt-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-08T15:05:56-04:00",
+        "published": "2026-04-08T16:03:37-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,11 +88,80 @@
         ]
       },
       {
-        "title": "Jayme Campos vota por jornada menor para enfermeiros e reforça; “sustentam a saúde do país”",
-        "link": "https://omatogrossense.com/jayme-campos-vota-por-jornada-menor-para-enfermeiros-e-reforca-sustentam-a-saude-do-pais/",
+        "title": "Pane em voo obriga América-MEX a pousar de emergência em Miami",
+        "link": "https://omatogrossense.com/pane-em-voo-obriga-america-mex-a-pousar/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-08T16:10:59-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Cuiabá reage no segundo tempo, acerta a trave, mas perde para o Atlético-GO fora de casa; veja o gol",
+        "link": "https://omatogrossense.com/cuiaba-reage-no-segundo-tempo/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-08T16:24:17-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Incêndio atinge Velódromo, mobiliza bombeiros e provoca interdição; Veja vídeo",
+        "link": "https://omatogrossense.com/incendio-atingiu-estrutura/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-08T16:44:16-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "“Dispostos a sofrer pela liberdade” fala de Trump sobre iranianos eleva tensão e gera repercussão global; veja vídeo",
+        "link": "https://omatogrossense.com/dispostos-a-sofrer-pela-liberdade-fala-de-trump-sobre-iranianos-eleva-tensao-e-gera-repercussao-global-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-08T15:53:49-04:00",
+        "published": "2026-04-08T16:54:02-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Apagão fora de casa: Cuiabá leva 3 do Cruzeiro e segue no Z-4 do Brasileirão Sub-20",
+        "link": "https://omatogrossense.com/cuiaba-leva-3-do-cruzeiro/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-08T17:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      }
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": [
+      {
+        "title": "Colisão entre caminhões deixa feridos e mobiliza resgate na BR-163 em Sorriso; veja vídeo",
+        "link": "https://roonoticias.com/uma-colisao-entre-dois-caminhoes-deixou-dois-feridos-no-inicio-2/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-08T16:49:23-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -61,10 +169,7 @@
           20
         ]
       }
-    ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
