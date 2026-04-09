@@ -1,16 +1,110 @@
 {
-  "generated_at": "2026-04-09T08:00:00.528569-04:00",
+  "generated_at": "2026-04-09T09:00:00.443550-04:00",
   "window": {
-    "start": "2026-04-09T07:00:00.528569-04:00",
-    "end": "2026-04-09T08:00:00.528569-04:00"
+    "start": "2026-04-09T08:00:00.443550-04:00",
+    "end": "2026-04-09T09:00:00.443550-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Tráfico é desmontado em esconderijo e três pessoas são presas em flagrante; veja vídeo",
+        "link": "https://perrenguematogrosso.com/imovel-invadido/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T08:13:31-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Polícia Civil cumpre mandados de busca e prisão contra criminosos ligados ao maior roubo de Mato Grosso, em Confresa; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mandados-prisao-busca-criminosos-roubo-confresa-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-09T08:21:09-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Sinal de Alerta: Bolsas Globais Caem em Bloco Enquanto Petróleo Dispara no Início do Dia",
+        "link": "https://perrenguematogrosso.com/sinal-de-alerta-bolsas-globais-caem-em-bloco-enquanto-petroleo-dispara-no-inicio-do-dia/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-09T08:44:30-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Esconderijo do tráfico é estourado e três integrantes do CV são presos; veja vídeo",
+        "link": "https://omatogrossense.com/ponto-de-drogas-funcionava-em/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-09T08:13:35-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Polícia deflagra opração e cumpre 97 ordens judiciais contra suspeitos do roubo em Confresa; veja vídeo",
+        "link": "https://omatogrossense.com/opracao-ordens-judiciais-suspeitos-roubo-confresa-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-09T08:21:37-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Sinal de Alerta: Bolsas Globais Caem em Bloco Enquanto Petróleo Dispara no Início do Dia",
+        "link": "https://omatogrossense.com/sinal-de-alerta-bolsas-globais-caem-em-bloco-enquanto-petroleo-dispara-no-inicio-do-dia/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-09T08:46:47-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Durante fiscalização em Rondonópolis três bolivianas são presas pela PRF com drogas escondidas em malas",
+        "link": "https://roonoticias.com/a-policia-rodoviaria-federal-prendeu-tres-mulheres-de-nacionalidade-boliviana-apos-flagra-las-transportando-pasta-base-de-cocaina-escondida-e/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-09T08:02:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
