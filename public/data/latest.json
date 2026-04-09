@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-04-09T18:04:21.668065-04:00",
+  "generated_at": "2026-04-09T19:09:44.917134-04:00",
   "window": {
-    "start": "2026-04-09T17:04:21.668065-04:00",
-    "end": "2026-04-09T18:04:21.668065-04:00"
+    "start": "2026-04-09T18:09:44.917134-04:00",
+    "end": "2026-04-09T19:09:44.917134-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Cuiabá busca novo financiamento para asfalto e fala de Samantha Íris revela bastidores da decisão; veja vídeo",
-        "link": "https://perrenguematogrosso.com/cuiaba-busca-novo-financiamento-para-asfalto-e-fala-de-samantha-iris-revela-bastidores-da-decisao-veja-video/",
+        "title": "Cabo da PM atira e mata duas mulheres durante ocorrência; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/cabo-da-pm-atira-e-mata-duas-mulheres-durante-ocorrencia-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T18:24:28-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Paz em negociação, ataques mantidos: Netanyahu endurece discurso e mantém ofensiva contra Hezbollah; veja vídeo",
+        "link": "https://perrenguematogrosso.com/paz-em-negociacao-ataques-mantidos-netanyahu-endurece-discurso-e-mantem-ofensiva-contra-hezbollah-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-09T17:10:35-04:00",
+        "published": "2026-04-09T18:31:09-04:00",
         "categories": [
           "Política"
         ],
@@ -20,11 +33,11 @@
         ]
       },
       {
-        "title": "“Crescimento vem de ocupações”, diz vereadora durante apresentação do Plano Diretor em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/crescimento-vem-de-ocupacoes-diz-vereadora-durante-apresentacao-do-plano-diretor-em-cuiaba-veja-video/",
+        "title": "Petróleo pressiona inflação no Brasil e mercado já projeta alta; veja o que pode pesar no bolso",
+        "link": "https://perrenguematogrosso.com/petroleo-pressiona-inflacao-no-brasil-e-mercado-ja-projeta-alta-veja-o-que-pode-pesar-no-bolso/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-09T17:31:11-04:00",
+        "published": "2026-04-09T18:36:41-04:00",
         "categories": [
           "Política"
         ],
@@ -33,11 +46,24 @@
         ]
       },
       {
-        "title": "Criança fica com a cabeça presa em viga de concreto durante brincadeira em escola no interior de MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/crianca-fica-cabeca-presa-viga-concreto-escola-mt-video/",
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3214/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T18:36:43-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Grave acidente entre caminhões mata mecânico entre Lucas do Rio Verde e Tapurah; veja vídeo",
+        "link": "https://perrenguematogrosso.com/grave-acidente-entre-caminhoes-mata-mecanico-entre-lucas-do-rio-verde-e-tapurah-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-09T17:42:54-04:00",
+        "published": "2026-04-09T18:37:33-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -46,37 +72,115 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/332835-2/",
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3215/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-09T17:55:56-04:00",
+        "published": "2026-04-09T18:37:43-04:00",
         "categories": [
-          "Notícias"
+          "Memes do vovô"
         ],
         "category_ids": [
-          5
+          4
         ]
       },
       {
-        "title": "Cadela farejadora revela esconderijo e polícia apreende 81 kg de droga em carreta",
-        "link": "https://perrenguematogrosso.com/332837-2/",
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3216/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-09T17:57:17-04:00",
+        "published": "2026-04-09T18:38:43-04:00",
         "categories": [
-          "Notícias"
+          "Memes do vovô"
         ],
         "category_ids": [
-          5
+          4
         ]
       },
       {
-        "title": "Jovem russo de 16 anos se destaca no Mundial de Skate Adaptado e fica perto do pódio; veja vídeo",
-        "link": "https://perrenguematogrosso.com/jovem-russo-de-16-anos-se-destaca-no-mundial-de-skate/",
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3217/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T18:39:17-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3218/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T18:41:46-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3219/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T18:42:25-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3220/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T18:44:01-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3221/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T18:44:34-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3222/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T18:45:48-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Top 3 da ATP e campeão olímpico: conheça Zverev, adversário de João Fonseca; veja vídeo",
+        "link": "https://perrenguematogrosso.com/conheca-zverev-adversario-de-joao-fonseca/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-04-09T18:00:00-04:00",
+        "published": "2026-04-09T19:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -88,50 +192,50 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Cuiabá busca novo financiamento para asfalto e fala de Samantha Íris revela bastidores da decisão; veja vídeo",
-        "link": "https://omatogrossense.com/cuiaba-busca-novo-financiamento-para-asfalto-e-fala-de-samantha-iris-revela-bastidores-da-decisao-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-09T17:10:45-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "“Crescimento vem de ocupações”, diz vereadora durante apresentação do Plano Diretor em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/crescimento-vem-de-ocupacoes-diz-vereadora-durante-apresentacao-do-plano-diretor-em-cuiaba-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-09T17:31:27-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Criança fica presa em viga de concreto durante brincadeira em escola de MT; veja vídeo",
-        "link": "https://omatogrossense.com/crianca-presa-viga-concreto-brincadeira-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-09T17:42:56-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://omatogrossense.com/139516-2/",
+        "title": "Policial militar mata duas mulheres a tiros durante ocorrência; Veja vídeo",
+        "link": "https://omatogrossense.com/policial-militar-mata-duas-mulheres-a-tiros-durante-ocorrencia-veja-video/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-09T17:55:18-04:00",
+        "published": "2026-04-09T18:24:15-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Paz em negociação, ataques mantidos: Netanyahu endurece discurso e mantém ofensiva contra Hezbollah; veja vídeo",
+        "link": "https://omatogrossense.com/paz-em-negociacao-ataques-mantidos-netanyahu-endurece-discurso-e-mantem-ofensiva-contra-hezbollah-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-09T18:31:04-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Petróleo pressiona inflação no Brasil e mercado já projeta alta; veja o que pode pesar no bolso",
+        "link": "https://omatogrossense.com/petroleo-pressiona-inflacao-no-brasil-e-mercado-ja-projeta-alta-veja-o-que-pode-pesar-no-bolso/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-09T18:36:46-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Grave acidente entre caminhões mata mecânico entre Lucas do Rio Verde e Tapurah; veja vídeo",
+        "link": "https://omatogrossense.com/grave-acidente-entre-caminhoes-mata-mecanico-entre-lucas-do-rio-verde-e-tapurah-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-09T18:37:25-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -140,11 +244,11 @@
         ]
       },
       {
-        "title": "VÍDEO: Russo de 16 anos se destaca no Mundial de Skate Adaptado em São Paulo",
-        "link": "https://omatogrossense.com/russo-de-16-anos-se-destaca-no-mundial-de-skate/",
+        "title": "VÍDEO: Ouro olímpico e número 3 do mundo: quem é Zverev, rival de João Fonseca",
+        "link": "https://omatogrossense.com/video-ouro-olimpico-e-numero-3-do-mundo-quem-e-zverev-rival-de-joao-fonseca/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-09T18:00:00-04:00",
+        "published": "2026-04-09T19:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -185,7 +289,13 @@
       973,
       3030
     ],
-    "portalpantanalmt": [],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
     "roonoticias": [
       5,
       7,
