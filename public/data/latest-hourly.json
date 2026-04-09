@@ -1,119 +1,13 @@
 {
-  "generated_at": "2026-04-08T20:00:05.601729-04:00",
+  "generated_at": "2026-04-09T08:00:00.528569-04:00",
   "window": {
-    "start": "2026-04-08T19:00:05.601729-04:00",
-    "end": "2026-04-08T20:00:05.601729-04:00"
+    "start": "2026-04-09T07:00:00.528569-04:00",
+    "end": "2026-04-09T08:00:00.528569-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Mulher é assaltada enquanto passeia com cachorro em Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-e-assaltada-enquanto-passeia-com-cachorro-em-rondonopolis-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-04-08T19:05:35-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Bayern vence no Bernabéu, quebra tabu histórico e larga na frente contra o Real; veja os gols",
-        "link": "https://perrenguematogrosso.com/bayern-vence-no-bernabeu/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-08T19:30:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Desabamento de telhado deixa feridos durante confraternização familiar em zona rural; veja vídeo",
-        "link": "https://perrenguematogrosso.com/o-desabamento-do-telhado-de-uma-residencia-na-zona-rural-de-granja-no-interior-do-ceara-deixou-ao-menos-dez-pessoas-feridas-nesta-sexta-feira/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-04-08T19:30:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Renato assiste ao Vasco de casa, é flagrado pela filha e vídeo viraliza; veja vídeo",
-        "link": "https://perrenguematogrosso.com/renato-assiste-ao-vasco-de-casa/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-08T20:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Mulher é assaltada enquanto passeia com cachorro em Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/mulher-e-assaltada-enquanto-passeia-com-cachorro-em-rondonopolis-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-04-08T19:03:35-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Desabamento de telhado deixa feridos durante confraternização familiar em zona rural; veja vídeo",
-        "link": "https://omatogrossense.com/o-desabamento-do-telhado-de-uma-residencia-na-zona-rural-de-granja-no-interior-do-ceara-deixou-ao-menos-dez-pessoas-feridas-nesta-sexta-feira/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-08T19:30:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Bayern vence no Bernabéu, quebra tabu histórico e larga na frente contra o Real; veja os gols",
-        "link": "https://omatogrossense.com/bayern-vence-no-bernabeu/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-08T19:37:40-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Renato assiste ao Vasco de casa, é flagrado pela filha e vídeo viraliza; veja",
-        "link": "https://omatogrossense.com/renato-assiste-ao-vasco-de-casa/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-08T19:59:46-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
