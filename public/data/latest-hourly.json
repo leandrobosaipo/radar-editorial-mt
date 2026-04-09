@@ -1,40 +1,14 @@
 {
-  "generated_at": "2026-04-09T10:10:51.269815-04:00",
+  "generated_at": "2026-04-09T11:00:05.597202-04:00",
   "window": {
-    "start": "2026-04-09T09:10:51.269815-04:00",
-    "end": "2026-04-09T10:10:51.269815-04:00"
+    "start": "2026-04-09T10:00:05.597202-04:00",
+    "end": "2026-04-09T11:00:05.597202-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Cuiabanos cantam “parabéns” para Cuiabá durante festividades no Parque das Águas; veja vídeo",
-        "link": "https://perrenguematogrosso.com/cuiabanos-cantam-parabens-festividades-parque-das-aguas-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-09T09:35:13-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Flávio Bolsonaro no Agro: Presença Confirmada em Feira de MT Reforça Aproximação com o Setor; veja vídeo",
-        "link": "https://perrenguematogrosso.com/flavio-bolsonaro-no-agro-presenca-confirmada-em-feira-de-mt-reforca-aproximacao-com-o-setor-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-09T09:55:16-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
         "title": "Incêndio em feira deixa mulher morta e homem ferido; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/incendio-em-feira-deixa-mulher-morta-e-homem-ferido-veja-video/",
+        "link": "https://perrenguematogrosso.com/fogo-atingiu-banheiro-de-feira/",
         "author": "Karolina silva",
         "author_id": 290,
         "published": "2026-04-09T10:07:40-04:00",
@@ -44,53 +18,52 @@
         "category_ids": [
           5
         ]
-      }
-    ],
-    "afolhalivre": [
+      },
       {
-        "title": "PM apreende mais de 750 cigarros eletrônicos e prende suspeito por contrabando em Primavera do Leste",
-        "link": "https://afolhalivre.com/a-policia-militar-apreendeu-mais-de-750-cigarros-eletronicos-e-prendeu-um-suspeito-por-contrabando-durante-diligencias-realizadas/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-09T09:52:00-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
-    "omatogrossense": [
-      {
-        "title": "Cuiabanos cantam “parabéns” para Cuiabá durante celebração com shows no Parque das Águas; veja vídeo",
-        "link": "https://omatogrossense.com/cuiabanos-cantam-parabens-celebracao-parque-das-aguas/",
+        "title": "MC Poze encara processo por tráfico e mais sete crimes com andamento na Justiça em Mato Grosso",
+        "link": "https://perrenguematogrosso.com/mc-poze-processo-trafico-crimes-mato-grosso/",
         "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-09T09:35:02-04:00",
+        "author_id": 279,
+        "published": "2026-04-09T10:27:16-04:00",
         "categories": [
-          "MT Notícias"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          20
+          16
         ]
       },
       {
-        "title": "Flávio Bolsonaro no Agro: Presença Confirmada em Feira de MT Reforça Aproximação com o Setor; veja vídeo",
-        "link": "https://omatogrossense.com/flavio-bolsonaro-no-agro-presenca-confirmada-em-feira-de-mt-reforca-aproximacao-com-o-setor-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-09T09:58:05-04:00",
+        "title": "/",
+        "link": "https://perrenguematogrosso.com/332654-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T10:44:44-04:00",
         "categories": [
-          "Política"
+          "Notícias"
         ],
         "category_ids": [
           5
         ]
       },
       {
+        "title": "Mudança na Educação de MT: Pivetta Escolhe Nome Técnico e Reforça Continuidade na Seduc; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mudanca-na-educacao-de-mt-pivetta-escolhe-nome-tecnico-e-reforca-continuidade-na-seduc-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-09T10:53:31-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
+    "afolhalivre": [],
+    "omatogrossense": [
+      {
         "title": "Mulher morre após incêndio em banheiro e marido fica gravemente ferido; Veja vídeo",
-        "link": "https://omatogrossense.com/mulher-morre-apos-incendio-em-banheiro-e-marido-fica-gravemente-ferido-veja-video/",
+        "link": "https://omatogrossense.com/terminou-com-morte-em-feira-publica/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
         "published": "2026-04-09T10:07:20-04:00",
@@ -100,9 +73,62 @@
         "category_ids": [
           973
         ]
+      },
+      {
+        "title": "MC Poze enfrenta processo por tráfico e mais sete crimes investigados pela polícia em MT",
+        "link": "https://omatogrossense.com/mc-poze-processo-trafico-crimes-policia-mt/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-09T10:27:20-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "/",
+        "link": "https://omatogrossense.com/139347-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-09T10:45:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Mudança na Educação de MT: Pivetta Escolhe Nome Técnico e Reforça Continuidade na Seduc: veja vídeo",
+        "link": "https://omatogrossense.com/mudanca-na-educacao-de-mt-pivetta-escolhe-nome-tecnico-e-reforca-continuidade-na-seduc-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-09T10:56:18-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
-    "portalnortemt": [],
+    "portalnortemt": [
+      {
+        "title": "Alunos de 12 anos são flagrados usando droga em banheiro de escola estadual em Sorriso",
+        "link": "https://portalnortemt.com/a-policia-militar-atendeu-uma-ocorrencia-na-escola-estadual-jose-domingos-fraga-localizada-no-bairro-residencial-village-em-sorriso-apos-pr/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-09T10:06:00-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
     "portalpantanalmt": [
       {
         "title": "“Princesa” do CV é ligada à morte de jovem em Cáceres após gesto associado ao PCC",
@@ -118,21 +144,7 @@
         ]
       }
     ],
-    "roonoticias": [
-      {
-        "title": "Mulher é assaltada após ser derrubada por criminosos durante abordagem em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/um-assalto-foi-registrado-na-noite-de-terca-feira-7-por-volta-das-19h-na-rua-manuel-simplicio-sobrinho-no-bairro-parque-sagrada-familia/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-09T10:00:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
