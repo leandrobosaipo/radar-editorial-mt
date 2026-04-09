@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-09T12:04:27.328453-04:00",
+  "generated_at": "2026-04-09T13:00:05.942811-04:00",
   "window": {
-    "start": "2026-04-09T11:04:27.328453-04:00",
-    "end": "2026-04-09T12:04:27.328453-04:00"
+    "start": "2026-04-09T12:00:05.942811-04:00",
+    "end": "2026-04-09T13:00:05.942811-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Adolescentes são flagrados com entorpecentes durante ação da Cavalaria em Nova Mutum; veja vídeo",
-        "link": "https://perrenguematogrosso.com/adolescentes-entorpecentes-cavalaria-nova-mutum-video/",
+        "title": "Trabalhador de 18 anos morre após perder controle de moto e ser arremessado em Alta Floresta; veja vídeo",
+        "link": "https://perrenguematogrosso.com/trabalhador-morre-moto-arremessado-alta-floresta-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-09T11:26:08-04:00",
+        "published": "2026-04-09T12:19:23-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,24 @@
         ]
       },
       {
-        "title": "“Nunca vimos nada igual”: astronautas da Artemis II contam o que viveram no lado oculto da Lua; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/astronautas-da-artemis-ii-falam-direto-do-espaco-apos-viagem-historica-ao-redor-da-lua/",
+        "title": "Samantha Iris Confirma Pré-Candidatura e Amplia Presença no Cenário Político de Mato Grosso; veja vídeo",
+        "link": "https://perrenguematogrosso.com/samantha-iris-confirma-pre-candidatura-e-amplia-presenca-no-cenario-politico-de-mato-grosso-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-09T12:30:10-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "(sem título)",
+        "link": "https://perrenguematogrosso.com/332700-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-09T11:56:23-04:00",
+        "published": "2026-04-09T12:56:04-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,28 +46,14 @@
         ]
       }
     ],
-    "afolhalivre": [
-      {
-        "title": "Feira comercial mantém trânsito interditado até domingo em Primavera do Leste",
-        "link": "https://afolhalivre.com/a-prefeitura-de-primavera-do-leste-mantem-a-interdicao-no-transito-na-rua-piracicaba-no-trecho-entre-a-avenida-sao-joao-e-a-rua-blumenau/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-09T11:55:00-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Alunos são detidos pela Cavalaria após denúncia de tráfico de drogas em Nova Mutum; veja vídeo",
-        "link": "https://omatogrossense.com/alunos-detidos-cavalaria-trafico-nova-mutum-video/",
+        "title": "Trabalhador de 18 anos morre após perder controle de moto durante entrega em MT; veja vídeo",
+        "link": "https://omatogrossense.com/trabalhador-morre-controle-moto-mt-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-09T11:26:12-04:00",
+        "published": "2026-04-09T12:19:19-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -63,114 +62,49 @@
         ]
       },
       {
-        "title": "Astronautas da Artemis II revelam os momentos mais impressionantes da missão histórica ao redor da Lua; Veja vídeo",
-        "link": "https://omatogrossense.com/139372-2/",
+        "title": "Samantha Iris Confirma Pré-Candidatura e Amplia Presença no Cenário Político de Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/samantha-iris-confirma-pre-candidatura-e-amplia-presenca-no-cenario-politico-de-mato-grosso-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-09T12:32:36-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "/",
+        "link": "https://omatogrossense.com/139393-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-09T11:55:59-04:00",
+        "published": "2026-04-09T12:55:56-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [
+    "portalnortemt": [
       {
-        "title": "Operação Ganatum mira esquema milionário de sonegação de ICMS e cumpre mandados em Pontes e Lacerda",
-        "link": "https://portalpantanalmt.com/a-policia-civil-de-mato-grosso-deflagrou-nesta-quarta-feira-8-a-operacao-ganatum-e-avancou-contra-um-esquema-estruturado-de-sonegacao/",
+        "title": "Empresário perde mais de R$ 129 mil em golpe na compra de equipamentos médicos em Sorriso",
+        "link": "https://portalnortemt.com/a-policia-civil-investiga-um-caso-de-estelionato-que-causou-prejuizo-de-r-129-300-a-um-empresario-de-35-anos-em-sorriso-apos-a-tentativa-de/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-09T11:58:00-04:00",
+        "published": "2026-04-09T12:03:00-04:00",
         "categories": [
-          "Cáceres"
+          "Sinop"
         ],
         "category_ids": [
-          3105
+          3030
         ]
       }
     ],
+    "portalpantanalmt": [],
     "roonoticias": [
-      {
-        "title": "Volta ao Brasil ou MLS? As opções de ex-Corinthians para voltar a jogar após lesão grave no joelho",
-        "link": "https://roonoticias.com/livre-no-mercado-apos-rescindir-contrato-com-o-corinthians/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-09T11:22:23-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "STF tem empate parcial e suspende julgamento sobre eleição no RJ",
-        "link": "https://roonoticias.com/o-supremo-tribunal-federal-formou-placar-parcial-de-1-a-1/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-09T11:23:42-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Motta conversa com governo em busca de acordo em “bomba fiscal”",
-        "link": "https://roonoticias.com/o-presidente-da-camara-hugo-motta-tera-uma-reuniao/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-09T11:27:47-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Flávio Bolsonaro diz que Lula fez time para atacá-lo e vai à Justiça",
-        "link": "https://roonoticias.com/o-pre-candidato-a-presidencia-flavio-bolsonaro-afirmou/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-09T11:29:03-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Plata fica? Como Flamengo e Jardim veem futuro do atacante na janela do meio do ano",
-        "link": "https://roonoticias.com/o-atacante-gonzalo-plata-vive-uma-reviravolta-no-flamengo/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-09T11:36:04-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Jogam contra o Corinthians? Os planos do Palmeiras para as voltas de Vitor Roque e Paulinho",
-        "link": "https://roonoticias.com/o-palmeiras-deve-contar-com-o-retorno-de-vitor-roque-para-o/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-09T11:52:05-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
       {
         "title": "Motocicleta roubada é recuperada e homem é detido durante abordagem em Rondonópolis",
         "link": "https://roonoticias.com/a-policia-militar-recuperou-uma-motocicleta-com-registro-de-roubo-durante-patrulhamento-no-bairro-cidade-de-deus-ii-em-rondonopolis-alem/",
@@ -182,6 +116,19 @@
         ],
         "category_ids": [
           3118
+        ]
+      },
+      {
+        "title": "Mulher é assaltada durante passeio com cachorro e ação é registrada por câmeras; veja vídeo",
+        "link": "https://roonoticias.com/uma-mulher-teve-o-celular-roubado-na-noite-de-terca-feira-7/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-09T12:31:56-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
         ]
       }
     ]
