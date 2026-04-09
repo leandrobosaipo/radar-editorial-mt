@@ -1,43 +1,30 @@
 {
-  "generated_at": "2026-04-09T13:00:05.942811-04:00",
+  "generated_at": "2026-04-09T14:00:02.111454-04:00",
   "window": {
-    "start": "2026-04-09T12:00:05.942811-04:00",
-    "end": "2026-04-09T13:00:05.942811-04:00"
+    "start": "2026-04-09T13:00:02.111454-04:00",
+    "end": "2026-04-09T14:00:02.111454-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Trabalhador de 18 anos morre após perder controle de moto e ser arremessado em Alta Floresta; veja vídeo",
-        "link": "https://perrenguematogrosso.com/trabalhador-morre-moto-arremessado-alta-floresta-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-09T12:19:23-04:00",
+        "title": "Primavera empata com Vila Nova nos acréscimos pela Copa Verde; veja os gols",
+        "link": "https://perrenguematogrosso.com/primavera-empata-com-vila-nova/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-09T13:36:42-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Esporte"
         ],
         "category_ids": [
-          16
+          509
         ]
       },
       {
-        "title": "Samantha Iris Confirma Pré-Candidatura e Amplia Presença no Cenário Político de Mato Grosso; veja vídeo",
-        "link": "https://perrenguematogrosso.com/samantha-iris-confirma-pre-candidatura-e-amplia-presenca-no-cenario-politico-de-mato-grosso-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-09T12:30:10-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "(sem título)",
-        "link": "https://perrenguematogrosso.com/332700-2/",
+        "title": "/",
+        "link": "https://perrenguematogrosso.com/332714-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-09T12:56:04-04:00",
+        "published": "2026-04-09T13:57:52-04:00",
         "categories": [
           "Notícias"
         ],
@@ -49,86 +36,72 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Trabalhador de 18 anos morre após perder controle de moto durante entrega em MT; veja vídeo",
-        "link": "https://omatogrossense.com/trabalhador-morre-controle-moto-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-09T12:19:19-04:00",
+        "title": "Primavera reage duas vezes e empata com Vila Nova no Cerradão; veja os gols",
+        "link": "https://omatogrossense.com/primavera-reage-duas-vezes/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-09T13:43:22-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Samantha Iris Confirma Pré-Candidatura e Amplia Presença no Cenário Político de Mato Grosso; veja vídeo",
-        "link": "https://omatogrossense.com/samantha-iris-confirma-pre-candidatura-e-amplia-presenca-no-cenario-politico-de-mato-grosso-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-09T12:32:36-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
+          7
         ]
       },
       {
         "title": "/",
-        "link": "https://omatogrossense.com/139393-2/",
+        "link": "https://omatogrossense.com/139403-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-09T12:55:56-04:00",
+        "published": "2026-04-09T13:58:00-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
-        ]
-      }
-    ],
-    "portalnortemt": [
-      {
-        "title": "Empresário perde mais de R$ 129 mil em golpe na compra de equipamentos médicos em Sorriso",
-        "link": "https://portalnortemt.com/a-policia-civil-investiga-um-caso-de-estelionato-que-causou-prejuizo-de-r-129-300-a-um-empresario-de-35-anos-em-sorriso-apos-a-tentativa-de/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-09T12:03:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
-    "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Motocicleta roubada é recuperada e homem é detido durante abordagem em Rondonópolis",
-        "link": "https://roonoticias.com/a-policia-militar-recuperou-uma-motocicleta-com-registro-de-roubo-durante-patrulhamento-no-bairro-cidade-de-deus-ii-em-rondonopolis-alem/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-09T12:01:00-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
         ]
       },
       {
-        "title": "Mulher é assaltada durante passeio com cachorro e ação é registrada por câmeras; veja vídeo",
-        "link": "https://roonoticias.com/uma-mulher-teve-o-celular-roubado-na-noite-de-terca-feira-7/",
+        "title": "CBF detalha tabela e Cuiabá terá maioria dos jogos em casa na Série B",
+        "link": "https://omatogrossense.com/cuiaba-tera-maioria-dos-jogos-em-casa/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-09T14:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      }
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": [
+      {
+        "title": "Imagens revelam onde cão da PM encontrou quase 50 toneladas de maconha; veja vídeo",
+        "link": "https://roonoticias.com/o-cao-farejador-huck-ajudou-a-policia-militar-a-localizar/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-09T12:31:56-04:00",
+        "published": "2026-04-09T13:13:50-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
+        ]
+      },
+      {
+        "title": "Encanamento rompe no meio de embarque internacional de aeroporto; veja vídeo",
+        "link": "https://roonoticias.com/um-rompimento-de-encanamento-provocou-alagamento-na-tarde/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-09T13:25:40-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
         ]
       }
     ]
