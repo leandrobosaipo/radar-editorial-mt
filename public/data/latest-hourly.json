@@ -1,23 +1,197 @@
 {
-  "generated_at": "2026-04-09T17:16:40.806751-04:00",
+  "generated_at": "2026-04-09T18:04:21.668065-04:00",
   "window": {
-    "start": "2026-04-09T16:16:40.806751-04:00",
-    "end": "2026-04-09T17:16:40.806751-04:00"
+    "start": "2026-04-09T17:04:21.668065-04:00",
+    "end": "2026-04-09T18:04:21.668065-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Cuiabá busca novo financiamento para asfalto e fala de Samantha Íris revela bastidores da decisão; veja vídeo",
+        "link": "https://perrenguematogrosso.com/cuiaba-busca-novo-financiamento-para-asfalto-e-fala-de-samantha-iris-revela-bastidores-da-decisao-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-09T17:10:35-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "“Crescimento vem de ocupações”, diz vereadora durante apresentação do Plano Diretor em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/crescimento-vem-de-ocupacoes-diz-vereadora-durante-apresentacao-do-plano-diretor-em-cuiaba-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-09T17:31:11-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Criança fica com a cabeça presa em viga de concreto durante brincadeira em escola no interior de MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/crianca-fica-cabeca-presa-viga-concreto-escola-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-09T17:42:54-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/332835-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T17:55:56-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Cadela farejadora revela esconderijo e polícia apreende 81 kg de droga em carreta",
+        "link": "https://perrenguematogrosso.com/332837-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T17:57:17-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Jovem russo de 16 anos se destaca no Mundial de Skate Adaptado e fica perto do pódio; veja vídeo",
+        "link": "https://perrenguematogrosso.com/jovem-russo-de-16-anos-se-destaca-no-mundial-de-skate/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-09T18:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Cuiabá busca novo financiamento para asfalto e fala de Samantha Íris revela bastidores da decisão; veja vídeo",
+        "link": "https://omatogrossense.com/cuiaba-busca-novo-financiamento-para-asfalto-e-fala-de-samantha-iris-revela-bastidores-da-decisao-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-09T17:10:45-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "“Crescimento vem de ocupações”, diz vereadora durante apresentação do Plano Diretor em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/crescimento-vem-de-ocupacoes-diz-vereadora-durante-apresentacao-do-plano-diretor-em-cuiaba-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-09T17:31:27-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Criança fica presa em viga de concreto durante brincadeira em escola de MT; veja vídeo",
+        "link": "https://omatogrossense.com/crianca-presa-viga-concreto-brincadeira-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-09T17:42:56-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://omatogrossense.com/139516-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-09T17:55:18-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "VÍDEO: Russo de 16 anos se destaca no Mundial de Skate Adaptado em São Paulo",
+        "link": "https://omatogrossense.com/russo-de-16-anos-se-destaca-no-mundial-de-skate/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-09T18:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
