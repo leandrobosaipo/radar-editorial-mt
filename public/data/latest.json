@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-04-09T09:00:00.443550-04:00",
+  "generated_at": "2026-04-09T10:10:51.269815-04:00",
   "window": {
-    "start": "2026-04-09T08:00:00.443550-04:00",
-    "end": "2026-04-09T09:00:00.443550-04:00"
+    "start": "2026-04-09T09:10:51.269815-04:00",
+    "end": "2026-04-09T10:10:51.269815-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Tráfico é desmontado em esconderijo e três pessoas são presas em flagrante; veja vídeo",
-        "link": "https://perrenguematogrosso.com/imovel-invadido/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-09T08:13:31-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Polícia Civil cumpre mandados de busca e prisão contra criminosos ligados ao maior roubo de Mato Grosso, em Confresa; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mandados-prisao-busca-criminosos-roubo-confresa-video/",
+        "title": "Cuiabanos cantam “parabéns” para Cuiabá durante festividades no Parque das Águas; veja vídeo",
+        "link": "https://perrenguematogrosso.com/cuiabanos-cantam-parabens-festividades-parque-das-aguas-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-09T08:21:09-04:00",
+        "published": "2026-04-09T09:35:13-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,40 +20,54 @@
         ]
       },
       {
-        "title": "Sinal de Alerta: Bolsas Globais Caem em Bloco Enquanto Petróleo Dispara no Início do Dia",
-        "link": "https://perrenguematogrosso.com/sinal-de-alerta-bolsas-globais-caem-em-bloco-enquanto-petroleo-dispara-no-inicio-do-dia/",
+        "title": "Flávio Bolsonaro no Agro: Presença Confirmada em Feira de MT Reforça Aproximação com o Setor; veja vídeo",
+        "link": "https://perrenguematogrosso.com/flavio-bolsonaro-no-agro-presenca-confirmada-em-feira-de-mt-reforca-aproximacao-com-o-setor-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-09T08:44:30-04:00",
+        "published": "2026-04-09T09:55:16-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           510
         ]
-      }
-    ],
-    "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Esconderijo do tráfico é estourado e três integrantes do CV são presos; veja vídeo",
-        "link": "https://omatogrossense.com/ponto-de-drogas-funcionava-em/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-09T08:13:35-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
       },
       {
-        "title": "Polícia deflagra opração e cumpre 97 ordens judiciais contra suspeitos do roubo em Confresa; veja vídeo",
-        "link": "https://omatogrossense.com/opracao-ordens-judiciais-suspeitos-roubo-confresa-video/",
+        "title": "Incêndio em feira deixa mulher morta e homem ferido; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/incendio-em-feira-deixa-mulher-morta-e-homem-ferido-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T10:07:40-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
+    "afolhalivre": [
+      {
+        "title": "PM apreende mais de 750 cigarros eletrônicos e prende suspeito por contrabando em Primavera do Leste",
+        "link": "https://afolhalivre.com/a-policia-militar-apreendeu-mais-de-750-cigarros-eletronicos-e-prendeu-um-suspeito-por-contrabando-durante-diligencias-realizadas/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-09T09:52:00-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Cuiabanos cantam “parabéns” para Cuiabá durante celebração com shows no Parque das Águas; veja vídeo",
+        "link": "https://omatogrossense.com/cuiabanos-cantam-parabens-celebracao-parque-das-aguas/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-09T08:21:37-04:00",
+        "published": "2026-04-09T09:35:02-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -75,28 +76,55 @@
         ]
       },
       {
-        "title": "Sinal de Alerta: Bolsas Globais Caem em Bloco Enquanto Petróleo Dispara no Início do Dia",
-        "link": "https://omatogrossense.com/sinal-de-alerta-bolsas-globais-caem-em-bloco-enquanto-petroleo-dispara-no-inicio-do-dia/",
+        "title": "Flávio Bolsonaro no Agro: Presença Confirmada em Feira de MT Reforça Aproximação com o Setor; veja vídeo",
+        "link": "https://omatogrossense.com/flavio-bolsonaro-no-agro-presenca-confirmada-em-feira-de-mt-reforca-aproximacao-com-o-setor-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-09T08:46:47-04:00",
+        "published": "2026-04-09T09:58:05-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Mulher morre após incêndio em banheiro e marido fica gravemente ferido; Veja vídeo",
+        "link": "https://omatogrossense.com/mulher-morre-apos-incendio-em-banheiro-e-marido-fica-gravemente-ferido-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-09T10:07:20-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
       }
     ],
     "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+    "portalpantanalmt": [
       {
-        "title": "Durante fiscalização em Rondonópolis três bolivianas são presas pela PRF com drogas escondidas em malas",
-        "link": "https://roonoticias.com/a-policia-rodoviaria-federal-prendeu-tres-mulheres-de-nacionalidade-boliviana-apos-flagra-las-transportando-pasta-base-de-cocaina-escondida-e/",
+        "title": "“Princesa” do CV é ligada à morte de jovem em Cáceres após gesto associado ao PCC",
+        "link": "https://portalpantanalmt.com/a-policia-civil-de-mato-grosso-deflagrou-uma-operacao-em-caceres-que-resultou-na-prisao-de-quatro-pessoas-e-teve-como-alvo-a-lideranca-de-uma/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-09T08:02:00-04:00",
+        "published": "2026-04-09T10:03:00-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Mulher é assaltada após ser derrubada por criminosos durante abordagem em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-assalto-foi-registrado-na-noite-de-terca-feira-7-por-volta-das-19h-na-rua-manuel-simplicio-sobrinho-no-bairro-parque-sagrada-familia/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-09T10:00:00-04:00",
         "categories": [
           "Rondonópolis"
         ],
