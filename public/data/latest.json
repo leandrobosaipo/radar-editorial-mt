@@ -1,17 +1,43 @@
 {
-  "generated_at": "2026-04-09T14:00:02.111454-04:00",
+  "generated_at": "2026-04-09T15:12:55.926766-04:00",
   "window": {
-    "start": "2026-04-09T13:00:02.111454-04:00",
-    "end": "2026-04-09T14:00:02.111454-04:00"
+    "start": "2026-04-09T14:12:55.926766-04:00",
+    "end": "2026-04-09T15:12:55.926766-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Primavera empata com Vila Nova nos acréscimos pela Copa Verde; veja os gols",
-        "link": "https://perrenguematogrosso.com/primavera-empata-com-vila-nova/",
+        "title": "Casa desaba durante descanso em família e deixa cerca de 10 feridos no interior; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/desabamento-aconteceu-de-for/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-09T14:47:52-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "“Michelle Bolsonaro pode vir a Mato Grosso” Declaração de Samantha Iris agita cenário político; veja vídeo",
+        "link": "https://perrenguematogrosso.com/michelle-bolsonaro-pode-vir-a-mato-grosso-declaracao-de-samantha-iris-agita-cenario-politico-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-09T14:52:16-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "FIFA Series chega a Cuiabá com jogos da Seleção Feminina e programação especial na Arena Pantanal",
+        "link": "https://perrenguematogrosso.com/fifa-series-chega-a-cuiaba/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-04-09T13:36:42-04:00",
+        "published": "2026-04-09T15:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -20,11 +46,11 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/332714-2/",
+        "title": "Funcionário mata chefe a tiros e tenta fugir para Belo Horizonte; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/funcionario-reagiu-a-advertencia-e/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-09T13:57:52-04:00",
+        "published": "2026-04-09T15:07:52-04:00",
         "categories": [
           "Notícias"
         ],
@@ -34,77 +60,10 @@
       }
     ],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Primavera reage duas vezes e empata com Vila Nova no Cerradão; veja os gols",
-        "link": "https://omatogrossense.com/primavera-reage-duas-vezes/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-09T13:43:22-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "/",
-        "link": "https://omatogrossense.com/139403-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-09T13:58:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "CBF detalha tabela e Cuiabá terá maioria dos jogos em casa na Série B",
-        "link": "https://omatogrossense.com/cuiaba-tera-maioria-dos-jogos-em-casa/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-09T14:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Imagens revelam onde cão da PM encontrou quase 50 toneladas de maconha; veja vídeo",
-        "link": "https://roonoticias.com/o-cao-farejador-huck-ajudou-a-policia-militar-a-localizar/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-09T13:13:50-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Encanamento rompe no meio de embarque internacional de aeroporto; veja vídeo",
-        "link": "https://roonoticias.com/um-rompimento-de-encanamento-provocou-alagamento-na-tarde/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-09T13:25:40-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
@@ -114,39 +73,10 @@
       509,
       510
     ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
