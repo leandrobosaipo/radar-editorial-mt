@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-04-09T11:00:05.597202-04:00",
+  "generated_at": "2026-04-09T12:04:27.328453-04:00",
   "window": {
-    "start": "2026-04-09T10:00:05.597202-04:00",
-    "end": "2026-04-09T11:00:05.597202-04:00"
+    "start": "2026-04-09T11:04:27.328453-04:00",
+    "end": "2026-04-09T12:04:27.328453-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Incêndio em feira deixa mulher morta e homem ferido; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/fogo-atingiu-banheiro-de-feira/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-09T10:07:40-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "MC Poze encara processo por tráfico e mais sete crimes com andamento na Justiça em Mato Grosso",
-        "link": "https://perrenguematogrosso.com/mc-poze-processo-trafico-crimes-mato-grosso/",
+        "title": "Adolescentes são flagrados com entorpecentes durante ação da Cavalaria em Nova Mutum; veja vídeo",
+        "link": "https://perrenguematogrosso.com/adolescentes-entorpecentes-cavalaria-nova-mutum-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-09T10:27:16-04:00",
+        "published": "2026-04-09T11:26:08-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,109 +20,70 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/332654-2/",
+        "title": "“Nunca vimos nada igual”: astronautas da Artemis II contam o que viveram no lado oculto da Lua; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/astronautas-da-artemis-ii-falam-direto-do-espaco-apos-viagem-historica-ao-redor-da-lua/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-09T10:44:44-04:00",
+        "published": "2026-04-09T11:56:23-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
-      },
+      }
+    ],
+    "afolhalivre": [
       {
-        "title": "Mudança na Educação de MT: Pivetta Escolhe Nome Técnico e Reforça Continuidade na Seduc; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mudanca-na-educacao-de-mt-pivetta-escolhe-nome-tecnico-e-reforca-continuidade-na-seduc-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-09T10:53:31-04:00",
+        "title": "Feira comercial mantém trânsito interditado até domingo em Primavera do Leste",
+        "link": "https://afolhalivre.com/a-prefeitura-de-primavera-do-leste-mantem-a-interdicao-no-transito-na-rua-piracicaba-no-trecho-entre-a-avenida-sao-joao-e-a-rua-blumenau/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-09T11:55:00-04:00",
         "categories": [
-          "Política"
+          "Primavera"
         ],
         "category_ids": [
-          510
+          3032
         ]
       }
     ],
-    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Mulher morre após incêndio em banheiro e marido fica gravemente ferido; Veja vídeo",
-        "link": "https://omatogrossense.com/terminou-com-morte-em-feira-publica/",
+        "title": "Alunos são detidos pela Cavalaria após denúncia de tráfico de drogas em Nova Mutum; veja vídeo",
+        "link": "https://omatogrossense.com/alunos-detidos-cavalaria-trafico-nova-mutum-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-09T11:26:12-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Astronautas da Artemis II revelam os momentos mais impressionantes da missão histórica ao redor da Lua; Veja vídeo",
+        "link": "https://omatogrossense.com/139372-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-09T10:07:20-04:00",
+        "published": "2026-04-09T11:55:59-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
         ]
-      },
-      {
-        "title": "MC Poze enfrenta processo por tráfico e mais sete crimes investigados pela polícia em MT",
-        "link": "https://omatogrossense.com/mc-poze-processo-trafico-crimes-policia-mt/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-09T10:27:20-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "/",
-        "link": "https://omatogrossense.com/139347-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-09T10:45:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Mudança na Educação de MT: Pivetta Escolhe Nome Técnico e Reforça Continuidade na Seduc: veja vídeo",
-        "link": "https://omatogrossense.com/mudanca-na-educacao-de-mt-pivetta-escolhe-nome-tecnico-e-reforca-continuidade-na-seduc-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-09T10:56:18-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Alunos de 12 anos são flagrados usando droga em banheiro de escola estadual em Sorriso",
-        "link": "https://portalnortemt.com/a-policia-militar-atendeu-uma-ocorrencia-na-escola-estadual-jose-domingos-fraga-localizada-no-bairro-residencial-village-em-sorriso-apos-pr/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-09T10:06:00-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
+    "portalnortemt": [],
     "portalpantanalmt": [
       {
-        "title": "“Princesa” do CV é ligada à morte de jovem em Cáceres após gesto associado ao PCC",
-        "link": "https://portalpantanalmt.com/a-policia-civil-de-mato-grosso-deflagrou-uma-operacao-em-caceres-que-resultou-na-prisao-de-quatro-pessoas-e-teve-como-alvo-a-lideranca-de-uma/",
+        "title": "Operação Ganatum mira esquema milionário de sonegação de ICMS e cumpre mandados em Pontes e Lacerda",
+        "link": "https://portalpantanalmt.com/a-policia-civil-de-mato-grosso-deflagrou-nesta-quarta-feira-8-a-operacao-ganatum-e-avancou-contra-um-esquema-estruturado-de-sonegacao/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-09T10:03:00-04:00",
+        "published": "2026-04-09T11:58:00-04:00",
         "categories": [
           "Cáceres"
         ],
@@ -144,7 +92,99 @@
         ]
       }
     ],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Volta ao Brasil ou MLS? As opções de ex-Corinthians para voltar a jogar após lesão grave no joelho",
+        "link": "https://roonoticias.com/livre-no-mercado-apos-rescindir-contrato-com-o-corinthians/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-09T11:22:23-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "STF tem empate parcial e suspende julgamento sobre eleição no RJ",
+        "link": "https://roonoticias.com/o-supremo-tribunal-federal-formou-placar-parcial-de-1-a-1/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-09T11:23:42-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Motta conversa com governo em busca de acordo em “bomba fiscal”",
+        "link": "https://roonoticias.com/o-presidente-da-camara-hugo-motta-tera-uma-reuniao/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-09T11:27:47-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Flávio Bolsonaro diz que Lula fez time para atacá-lo e vai à Justiça",
+        "link": "https://roonoticias.com/o-pre-candidato-a-presidencia-flavio-bolsonaro-afirmou/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-09T11:29:03-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Plata fica? Como Flamengo e Jardim veem futuro do atacante na janela do meio do ano",
+        "link": "https://roonoticias.com/o-atacante-gonzalo-plata-vive-uma-reviravolta-no-flamengo/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-09T11:36:04-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Jogam contra o Corinthians? Os planos do Palmeiras para as voltas de Vitor Roque e Paulinho",
+        "link": "https://roonoticias.com/o-palmeiras-deve-contar-com-o-retorno-de-vitor-roque-para-o/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-09T11:52:05-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Motocicleta roubada é recuperada e homem é detido durante abordagem em Rondonópolis",
+        "link": "https://roonoticias.com/a-policia-militar-recuperou-uma-motocicleta-com-registro-de-roubo-durante-patrulhamento-no-bairro-cidade-de-deus-ii-em-rondonopolis-alem/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-09T12:01:00-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
