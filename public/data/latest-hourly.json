@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-10T17:06:50.478238-04:00",
+  "generated_at": "2026-04-10T18:11:39.994546-04:00",
   "window": {
-    "start": "2026-04-10T16:06:50.478238-04:00",
-    "end": "2026-04-10T17:06:50.478238-04:00"
+    "start": "2026-04-10T17:11:39.994546-04:00",
+    "end": "2026-04-10T18:11:39.994546-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Piloto de avião grava trem gigante cruzando região agrícola no interior de MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/trem-gigante-cruzando-regiao-agricola-mt-video/",
+        "title": "Motorista perde controle e capota carro após atingir árvore em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motorista-capota-carro-atingir-arvore-rondonopolis-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-10T16:37:31-04:00",
+        "published": "2026-04-10T17:23:52-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,24 @@
         ]
       },
       {
-        "title": "Tensão no Golfo: reage a taxas no estreito de Ormuz e cita acordo de cessar-fogo;veja vídeo",
-        "link": "https://perrenguematogrosso.com/tensao-no-golfo-reage-a-taxas-no-estreito-de-ormuz-e-cita-acordo-de-cessar-fogoveja-video/",
+        "title": "Homem confessa ter matado jovem após consumo de álcool e drogas em Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-jovem-consumo-alcool-drogas-sinop-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-10T17:50:17-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Ibovespa sobe e contrasta com EUA: veja o que movimentou os mercados no fechamento",
+        "link": "https://perrenguematogrosso.com/ibovespa-sobe-e-contrasta-com-eua-veja-o-que-movimentou-os-mercados-no-fechamento/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-10T16:51:12-04:00",
+        "published": "2026-04-10T17:51:46-04:00",
         "categories": [
           "Política"
         ],
@@ -33,11 +46,11 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/333079-2/",
+        "title": "Imigrante pede emprego durante missa e pedido emociona fiéis em igreja; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/333117-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-10T16:55:09-04:00",
+        "published": "2026-04-10T17:57:35-04:00",
         "categories": [
           "Notícias"
         ],
@@ -46,24 +59,11 @@
         ]
       },
       {
-        "title": "Dupla é presa com mais de 140 tabletes de droga escondidos em veículo na BR-070 em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/dupla-presa-tabletes-droga-veiculo-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-10T16:57:02-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Pablo Maia passa por cirurgia no rosto após fraturas em treino do São Paulo",
-        "link": "https://perrenguematogrosso.com/pablo-maia-passa-por-cirurgia/",
+        "title": "João Fonseca fatura quase R$ 1 milhão em Monte Carlo e supera marca na carreira",
+        "link": "https://perrenguematogrosso.com/joao-fonseca-fatura-quase-r-1-milhao/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-04-10T17:00:00-04:00",
+        "published": "2026-04-10T18:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -72,28 +72,14 @@
         ]
       }
     ],
-    "afolhalivre": [
-      {
-        "title": "Condutores de Primavera do Leste têm até sexta- feira para garantir desconto no IPVA 2026",
-        "link": "https://afolhalivre.com/prazo-para-placas-5-6-e-7-termina/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T16:25:03-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Piloto de avião registra trem de grande extensão cruzando área rural em MT; veja vídeo",
-        "link": "https://omatogrossense.com/piloto-aviao-registra-trem-cruzando-mt-video/",
+        "title": "Motorista perde controle e capota carro após atingir árvore em Rondonópolis; veja vídeo",
+        "link": "https://omatogrossense.com/motorista-perde-controle-capota-rondonopolis-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-10T16:37:34-04:00",
+        "published": "2026-04-10T17:24:28-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -102,11 +88,37 @@
         ]
       },
       {
-        "title": "Tensão no Golfo: Reage a Taxas no Estreito de Ormuz e Cita Acordo de Cessar-Fogo; veja vídeo",
-        "link": "https://omatogrossense.com/tensao-no-golfo-reage-a-taxas-no-estreito-de-ormuz-e-cita-acordo-de-cessar-fogo-veja-video/",
+        "title": "Palestra em Cuiabá aborda “guerra interior” com base no Bhagavad Gita",
+        "link": "https://omatogrossense.com/palestra-em-cuiaba-aborda-guerra-interior/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-10T17:38:01-04:00",
+        "categories": [
+          "Entretenimento"
+        ],
+        "category_ids": [
+          6
+        ]
+      },
+      {
+        "title": "Homem confessa ter matado jovem após consumo de álcool e drogas em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/homem-matado-jovem-apos-alcool-sinop-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-10T17:50:14-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ibovespa Sobe e Contrasta com EUA: Veja o Que Movimentou os Mercados no Fechamento",
+        "link": "https://omatogrossense.com/ibovespa-sobe-e-contrasta-com-eua-veja-o-que-movimentou-os-mercados-no-fechamento/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-10T16:53:17-04:00",
+        "published": "2026-04-10T17:54:14-04:00",
         "categories": [
           "Política"
         ],
@@ -115,37 +127,24 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://omatogrossense.com/139701-2/",
+        "title": "Imigrante interrompe missa para pedir emprego e comove fiéis em igreja; Veja vídeo",
+        "link": "https://omatogrossense.com/139738-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-10T16:55:01-04:00",
+        "published": "2026-04-10T17:57:43-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
+          973
         ]
       },
       {
-        "title": "Dupla é presa transportando mais de 140 tabletes de pasta base de cocaína em MT; veja vídeo",
-        "link": "https://omatogrossense.com/dupla-presa-transportando-tabletes-cocaina-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-10T16:57:07-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Pablo Maia opera fraturas no rosto após lesão em treino do São Paulo",
-        "link": "https://omatogrossense.com/pablo-maia-opera-fraturas/",
+        "title": "João Fonseca fatura quase R$ 1 milhão após quartas em Monte Carlo",
+        "link": "https://omatogrossense.com/joao-fonseca-fatura-quase-r-1-milhao/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-10T17:00:00-04:00",
+        "published": "2026-04-10T18:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -155,101 +154,8 @@
       }
     ],
     "portalnortemt": [],
-    "portalpantanalmt": [
-      {
-        "title": "Jacaré é resgatado em frente a casa em Cáceres e devolvido à natureza",
-        "link": "https://portalpantanalmt.com/animal-mobilizou-bombeiros/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T16:34:52-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Homem de 55 anos é morto a tiros em Cáceres durante ataque em residência",
-        "link": "https://portalpantanalmt.com/crime-ocorreu-no-bairro-jardim/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T16:42:27-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      },
-      {
-        "title": "Jovem de 22 anos é preso com munições e drogas em Cáceres; criança estava na moto",
-        "link": "https://portalpantanalmt.com/1suspeito-foi-flagrado-com-gps/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T16:54:15-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
-    "roonoticias": [
-      {
-        "title": "Grêmio chega pressionado para Gre-Nal, mas técnico segue prestigiado pela diretoria",
-        "link": "https://roonoticias.com/o-gremio-entra-em-campo-pressionado-para-o-gre-nal/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-10T16:17:55-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Vice dos EUA diz esperar avanço com Irã e reforça pressão por acordo nas negociações",
-        "link": "https://roonoticias.com/o-vice-presidente-dos-estados-unidos-jd-vance-2/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-10T16:30:15-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Moraes rejeita ação contra PL da Dosimetria e mantém debate sobre penas no STF",
-        "link": "https://roonoticias.com/o-ministro-alexandre-de-moraes-rejeitou-a-primeira-tentativa/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-10T16:35:51-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "PT decide apoiar chapa de pai de Hugo Motta na Paraíba",
-        "link": "https://roonoticias.com/o-pt-da-paraiba-presidido-por-cida-ramos/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-10T16:44:44-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ]
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
