@@ -1,59 +1,85 @@
 {
-  "generated_at": "2026-04-10T13:00:05.311160-04:00",
+  "generated_at": "2026-04-10T14:00:05.523622-04:00",
   "window": {
-    "start": "2026-04-10T12:00:05.311160-04:00",
-    "end": "2026-04-10T13:00:05.311160-04:00"
+    "start": "2026-04-10T13:00:05.523622-04:00",
+    "end": "2026-04-10T14:00:05.523622-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "João Fonseca iguala marca de Guga em Monte Carlo e sobe no ranking da ATP; veja vídeo",
-        "link": "https://perrenguematogrosso.com/joao-fonseca-iguala-marca-de-guga-em-monte-carlo/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-10T12:07:34-04:00",
+        "title": "Professor aparece pelado durante reunião virtual com reitora da UFMT ; veja vídeo",
+        "link": "https://perrenguematogrosso.com/professor-pelado-reuniao-virtual-reitora-ufmt-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-10T13:13:47-04:00",
         "categories": [
-          "Esporte"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          509
+          16
         ]
       },
       {
-        "title": "Mulher pede ajuda em silêncio dentro de avião e alerta sobre sinais de violência em voos; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/vitima-usa-mensagem-na-pele-para-indicar/",
+        "title": "Esbarrão em bar termina em tiros, prisão e dupla tentativa de homicídio; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/confusao-evoluiu-para-violencia/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-10T12:37:37-04:00",
+        "published": "2026-04-10T13:40:33-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "“Vai movimentar toda a cidade”: Fábio Tardin destaca impacto da EXPOVG após 21 anos sem grandes eventos; veja vídeo",
+        "link": "https://perrenguematogrosso.com/vai-movimentar-toda-a-cidade-fabio-tardin-destaca-impacto-da-expovg-apos-21-anos-sem-grandes-eventos-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-10T13:49:03-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Ibovespa em movimento: ações disparam e outras recuam ao meio-dia; veja quem lidera o jogo",
+        "link": "https://perrenguematogrosso.com/ibovespa-em-movimento-acoes-disparam-e-outras-recuam-ao-meio-dia-veja-quem-lidera-o-jogo/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-10T13:57:09-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "VÍDEO: João Fonseca entra no top 40 e repete feito de Guga em Monte Carlo",
-        "link": "https://omatogrossense.com/joao-fonseca-entra-no-top-40/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-10T12:15:52-04:00",
+        "title": "Professor aparece pelado durante reunião com reitora da UFMT e causa constrangimento; veja vídeo",
+        "link": "https://omatogrossense.com/professor-pelado-reuniao-reitora-ufmt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-10T13:13:49-04:00",
         "categories": [
-          "Esporte"
+          "MT Notícias"
         ],
         "category_ids": [
-          7
+          20
         ]
       },
       {
-        "title": "Mulher pede ajuda em silêncio dentro de avião e caso de tensão a bordo choca passageiros; Veja vídeo",
-        "link": "https://omatogrossense.com/vitima-usa-mensagem-na-pele/",
+        "title": "Briga por esbarrão termina em tiros, prisão e dupla tentativa de homicídio; Veja vídeo",
+        "link": "https://omatogrossense.com/discussao-em-bar-terminou-com/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-10T12:37:08-04:00",
+        "published": "2026-04-10T13:40:29-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -62,11 +88,37 @@
         ]
       },
       {
-        "title": "VÍDEO: Chute de Messi atinge câmera e quebra lente em treino do Inter Miami",
-        "link": "https://omatogrossense.com/chute-de-messi-atinge-camera/",
+        "title": "“Vai movimentar toda a cidade”: Fábio Tardin destaca impacto da EXPOVG após 21 anos sem grandes eventos; veja vídeo",
+        "link": "https://omatogrossense.com/vai-movimentar-toda-a-cidade-fabio-tardin-destaca-impacto-da-expovg-apos-21-anos-sem-grandes-eventos-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-10T13:51:40-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Ibovespa em movimento: ações disparam e outras recuam ao meio-dia; veja quem lidera o jogo",
+        "link": "https://omatogrossense.com/ibovespa-em-movimento-acoes-disparam-e-outras-recuam-ao-meio-dia-veja-quem-lidera-o-jogo/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-10T13:55:14-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "VÍDEO: Cuiabá recebe seleções femininas para treinos no CT Manoel Dresch",
+        "link": "https://omatogrossense.com/cuiaba-recebe-selecoes-femininas/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-10T13:00:00-04:00",
+        "published": "2026-04-10T14:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -75,7 +127,34 @@
         ]
       }
     ],
-    "portalnortemt": [],
+    "portalnortemt": [
+      {
+        "title": "Jovem é encontrada morta dentro de casa e imagens revelam último contato com suspeito em Sinop; Veja vídeo",
+        "link": "https://portalnortemt.com/vitima-de-24-anos-foi/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-10T13:26:33-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Erro em certificado tira vaga de professora e gera indenização de quase R$ 93 mil em Sinop; Veja vídeo",
+        "link": "https://portalnortemt.com/falha-em-documento-impediu/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-10T13:47:33-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
     "portalpantanalmt": [],
     "roonoticias": []
   },
