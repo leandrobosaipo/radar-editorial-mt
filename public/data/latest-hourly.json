@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-04-10T15:00:01.681915-04:00",
+  "generated_at": "2026-04-10T16:00:05.392704-04:00",
   "window": {
-    "start": "2026-04-10T14:00:01.681915-04:00",
-    "end": "2026-04-10T15:00:01.681915-04:00"
+    "start": "2026-04-10T15:00:05.392704-04:00",
+    "end": "2026-04-10T16:00:05.392704-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Baderna em praças explode e força ação imediata da polícia; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/confusoes-brigas-e-cenas-de/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-10T14:10:16-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Câmera flagra momento exato em que passageiro de carro executa motociclista a tiros em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/criminosos-carro-abordam-vitima-executam-motociclista-comodoro-video/",
+        "title": "Motociclista é arremessado após acidente grave envolvendo carro em cruzamento de Juína; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motociclista-arremessado-acidente-cruzamento-juina-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-10T14:14:50-04:00",
+        "published": "2026-04-10T15:25:39-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,40 +20,40 @@
         ]
       },
       {
-        "title": "EXPOVG chega com shows nacionais e entrada gratuita; veja vídeo",
-        "link": "https://perrenguematogrosso.com/expovg-chega-com-shows-nacionais-e-entrada-gratuita-veja-video/",
+        "title": "Sementes de café em alta: EPAMIG abre venda produtores buscam mudas de qualidade",
+        "link": "https://perrenguematogrosso.com/sementes-de-cafe-em-alta-epamig-abre-venda-produtores-buscam-mudas-de-qualidade/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-10T14:51:35-04:00",
+        "published": "2026-04-10T15:51:28-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           510
         ]
+      },
+      {
+        "title": "Carro capota ao colidir com viatura da PM em perseguição a fugitivo; vídeo impressiona",
+        "link": "https://perrenguematogrosso.com/carro-capota-ao-colidir-com-viatura-da-pm-em-perseguicao-a-fugitivo-video-impressiona/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-10T15:52:58-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Baderna, sexo e brigas levam polícia a reforçar patrulhamento em áreas públicas; Veja vídeo",
-        "link": "https://omatogrossense.com/cenas-de-desordem-em-aguas/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-10T14:10:48-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Câmera registra momento em que passageiro de carro executa motociclista a tiros em MT; veja vídeo",
-        "link": "https://omatogrossense.com/camera-passageiro-carro-executa-motociclista-mt-video/",
+        "title": "Motociclista é arremessado após batida violenta em cruzamento de Juína; veja vídeo",
+        "link": "https://omatogrossense.com/motociclista-arremessado-batida-cruzamento-juina-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-10T14:16:07-04:00",
+        "published": "2026-04-10T15:25:43-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -75,11 +62,24 @@
         ]
       },
       {
-        "title": "EXPOVG chega com shows nacionais e entrada gratuita; veja vídeo",
-        "link": "https://omatogrossense.com/expovg-chega-com-shows-nacionais-e-entrada-gratuita-veja-video/",
+        "title": "Carro capota após bater em viatura da PM que buscava fugitivo; Veja vídeo",
+        "link": "https://omatogrossense.com/carro-capota-apos-bater-em-viatura-da-pm-que-buscava-fugitivo-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-10T15:49:54-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Sementes de café em alta: EPAMIG abre venda e produtores buscam mudas de qualidade",
+        "link": "https://omatogrossense.com/sementes-de-cafe-em-alta-epamig-abre-venda-e-produtores-buscam-mudas-de-qualidade/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-10T14:53:53-04:00",
+        "published": "2026-04-10T15:53:25-04:00",
         "categories": [
           "Política"
         ],
@@ -88,11 +88,11 @@
         ]
       },
       {
-        "title": "VÍDEO: LeBron marca após passe de Bronny e Lakers vencem Warriors",
-        "link": "https://omatogrossense.com/lebron-marca-apos-passe-de-bronny/",
+        "title": "VÍDEO: Endrick e Gabriely anunciam gravidez nas redes sociais",
+        "link": "https://omatogrossense.com/endrick-e-gabriely-anunciam-gravidez/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-10T15:00:00-04:00",
+        "published": "2026-04-10T16:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -101,54 +101,29 @@
         ]
       }
     ],
-    "portalnortemt": [],
+    "portalnortemt": [
+      {
+        "title": "Empresa chinesa líder em maquinário agrícola confirma primeira concessionária no Brasil em Sinop; Veja vídeo",
+        "link": "https://portalnortemt.com/empresa-lider-em-maquinas-agricolas/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-10T15:25:16-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
     "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Criança fica com cabeça presa em estrutura de escola e é resgatada pelos bombeiros em Sorriso; veja vídeo",
-        "link": "https://roonoticias.com/uma-crianca-de-4-anos-ficou-com-a-cabeca-presa-entre-vigas/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-10T14:04:44-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Homem é baleado com vários tiros e socorrido em estado grave em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/um-homem-de-48-anos-foi-socorrido-em-estado-grave-por/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-10T14:13:59-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Polícia Civil prende suspeito de ataque a transportadora de valores em operação; veja vídeo",
-        "link": "https://roonoticias.com/a-policia-civil-prendeu-nesta-quarta-feira-8/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-10T14:26:31-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "STJ manda policial voltar a julgamento no caso da chacina de Rondonópolis",
-        "link": "https://roonoticias.com/o-superior-tribunal-de-justica/",
+        "title": "Coronel Fernando Turbino assume comando do 4º CR da PM em Rondonópolis",
+        "link": "https://roonoticias.com/troca-de-comando-do-4o-comando/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-10T14:40:19-04:00",
+        "published": "2026-04-10T15:01:09-04:00",
         "categories": [
           "Rondonópolis"
         ],
@@ -157,11 +132,11 @@
         ]
       },
       {
-        "title": "Processo de extração de caviar chama atenção e revela técnica na pesca especializada; veja vídeo",
-        "link": "https://roonoticias.com/um-processo-que-chama-atencao-pela-tecnica-e-precisao/",
+        "title": "Novo vídeo mostra ataque de tubarão a advogada durante mergulho em Noronha; veja vídeo",
+        "link": "https://roonoticias.com/um-novo-registro-divulgado-nas-redes-sociais-revelou-outro/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-10T14:45:13-04:00",
+        "published": "2026-04-10T15:22:12-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -170,29 +145,16 @@
         ]
       },
       {
-        "title": "Colisão entre moto e carro deixa mulher ferida em cruzamento de Rondonópolis",
-        "link": "https://roonoticias.com/colisao-entre-uma-motocicleta/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T14:48:07-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      },
-      {
-        "title": "Papa Leão XIV interage com Harlem Globetrotters e arrisca jogada com bola; veja vídeo",
-        "link": "https://roonoticias.com/o-papa-leao-xiv-participou-de-um-momento-descontraido/",
+        "title": "Qual o plano do Santos para Neymar na sequência de quatro jogos na Vila Belmiro",
+        "link": "https://roonoticias.com/o-santos-tera-uma-sequencia-de-quatro-jogos-na-vila-belmiro/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-10T14:59:35-04:00",
+        "published": "2026-04-10T15:41:37-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "Esporte"
         ],
         "category_ids": [
-          973
+          7
         ]
       }
     ]
