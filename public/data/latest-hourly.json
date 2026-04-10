@@ -1,13 +1,106 @@
 {
-  "generated_at": "2026-04-10T08:00:00.613405-04:00",
+  "generated_at": "2026-04-10T09:00:05.900211-04:00",
   "window": {
-    "start": "2026-04-10T07:00:00.613405-04:00",
-    "end": "2026-04-10T08:00:00.613405-04:00"
+    "start": "2026-04-10T08:00:05.900211-04:00",
+    "end": "2026-04-10T09:00:05.900211-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "PM flagra criminosos aplicando golpes online e fecha escritório clandestino em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/criminosos-aplicando-golpes-escritorio-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-10T08:13:20-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Mercados Sem Direção Única: Ásia Avança, EUA Recuam e Petróleo Volta a Subir",
+        "link": "https://perrenguematogrosso.com/mercados-sem-direcao-unica-asia-avanca-eua-recuam-e-petroleo-volta-a-subir/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-10T08:15:29-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Parabéns em dose dupla vira correria animada e diverte família; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/familia-celebra-dois-aniversarios/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-10T08:18:59-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "PM desmonta “escritório do golpe” e prende quadrilha por estelionato em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/pm-desmonta-escritorio-golpe-quadrilha-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-10T08:13:25-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Mercados Sem Direção Única: Ásia Avança, EUA Recuam e Petróleo Volta a Subir",
+        "link": "https://omatogrossense.com/mercados-sem-direcao-unica-asia-avanca-eua-recuam-e-petroleo-volta-a-subir/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-10T08:18:18-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Parabéns em dobro vira correria e arranca risadas em família; Veja vídeo",
+        "link": "https://omatogrossense.com/comemoracao-em-dose-dupla/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-10T08:19:55-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Veja momento impressionante em que macacos se unem e formam “ponte” durante chuva; Veja vídeo",
+        "link": "https://omatogrossense.com/um-video-gravado-no-brasil/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-10T08:41:39-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
