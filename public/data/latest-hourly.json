@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-04-10T14:00:05.523622-04:00",
+  "generated_at": "2026-04-10T15:00:01.681915-04:00",
   "window": {
-    "start": "2026-04-10T13:00:05.523622-04:00",
-    "end": "2026-04-10T14:00:05.523622-04:00"
+    "start": "2026-04-10T14:00:01.681915-04:00",
+    "end": "2026-04-10T15:00:01.681915-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Professor aparece pelado durante reunião virtual com reitora da UFMT ; veja vídeo",
-        "link": "https://perrenguematogrosso.com/professor-pelado-reuniao-virtual-reitora-ufmt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-10T13:13:47-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Esbarrão em bar termina em tiros, prisão e dupla tentativa de homicídio; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/confusao-evoluiu-para-violencia/",
+        "title": "Baderna em praças explode e força ação imediata da polícia; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/confusoes-brigas-e-cenas-de/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-10T13:40:33-04:00",
+        "published": "2026-04-10T14:10:16-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,24 +20,24 @@
         ]
       },
       {
-        "title": "“Vai movimentar toda a cidade”: Fábio Tardin destaca impacto da EXPOVG após 21 anos sem grandes eventos; veja vídeo",
-        "link": "https://perrenguematogrosso.com/vai-movimentar-toda-a-cidade-fabio-tardin-destaca-impacto-da-expovg-apos-21-anos-sem-grandes-eventos-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-10T13:49:03-04:00",
+        "title": "Câmera flagra momento exato em que passageiro de carro executa motociclista a tiros em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/criminosos-carro-abordam-vitima-executam-motociclista-comodoro-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-10T14:14:50-04:00",
         "categories": [
-          "Política"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          510
+          16
         ]
       },
       {
-        "title": "Ibovespa em movimento: ações disparam e outras recuam ao meio-dia; veja quem lidera o jogo",
-        "link": "https://perrenguematogrosso.com/ibovespa-em-movimento-acoes-disparam-e-outras-recuam-ao-meio-dia-veja-quem-lidera-o-jogo/",
+        "title": "EXPOVG chega com shows nacionais e entrada gratuita; veja vídeo",
+        "link": "https://perrenguematogrosso.com/expovg-chega-com-shows-nacionais-e-entrada-gratuita-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-10T13:57:09-04:00",
+        "published": "2026-04-10T14:51:35-04:00",
         "categories": [
           "Política"
         ],
@@ -62,24 +49,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Professor aparece pelado durante reunião com reitora da UFMT e causa constrangimento; veja vídeo",
-        "link": "https://omatogrossense.com/professor-pelado-reuniao-reitora-ufmt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-10T13:13:49-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Briga por esbarrão termina em tiros, prisão e dupla tentativa de homicídio; Veja vídeo",
-        "link": "https://omatogrossense.com/discussao-em-bar-terminou-com/",
+        "title": "Baderna, sexo e brigas levam polícia a reforçar patrulhamento em áreas públicas; Veja vídeo",
+        "link": "https://omatogrossense.com/cenas-de-desordem-em-aguas/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-10T13:40:29-04:00",
+        "published": "2026-04-10T14:10:48-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -88,11 +62,24 @@
         ]
       },
       {
-        "title": "“Vai movimentar toda a cidade”: Fábio Tardin destaca impacto da EXPOVG após 21 anos sem grandes eventos; veja vídeo",
-        "link": "https://omatogrossense.com/vai-movimentar-toda-a-cidade-fabio-tardin-destaca-impacto-da-expovg-apos-21-anos-sem-grandes-eventos-veja-video/",
+        "title": "Câmera registra momento em que passageiro de carro executa motociclista a tiros em MT; veja vídeo",
+        "link": "https://omatogrossense.com/camera-passageiro-carro-executa-motociclista-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-10T14:16:07-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "EXPOVG chega com shows nacionais e entrada gratuita; veja vídeo",
+        "link": "https://omatogrossense.com/expovg-chega-com-shows-nacionais-e-entrada-gratuita-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-10T13:51:40-04:00",
+        "published": "2026-04-10T14:53:53-04:00",
         "categories": [
           "Política"
         ],
@@ -101,24 +88,11 @@
         ]
       },
       {
-        "title": "Ibovespa em movimento: ações disparam e outras recuam ao meio-dia; veja quem lidera o jogo",
-        "link": "https://omatogrossense.com/ibovespa-em-movimento-acoes-disparam-e-outras-recuam-ao-meio-dia-veja-quem-lidera-o-jogo/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-10T13:55:14-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "VÍDEO: Cuiabá recebe seleções femininas para treinos no CT Manoel Dresch",
-        "link": "https://omatogrossense.com/cuiaba-recebe-selecoes-femininas/",
+        "title": "VÍDEO: LeBron marca após passe de Bronny e Lakers vencem Warriors",
+        "link": "https://omatogrossense.com/lebron-marca-apos-passe-de-bronny/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-10T14:00:00-04:00",
+        "published": "2026-04-10T15:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -127,36 +101,101 @@
         ]
       }
     ],
-    "portalnortemt": [
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": [
       {
-        "title": "Jovem é encontrada morta dentro de casa e imagens revelam último contato com suspeito em Sinop; Veja vídeo",
-        "link": "https://portalnortemt.com/vitima-de-24-anos-foi/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T13:26:33-04:00",
+        "title": "Criança fica com cabeça presa em estrutura de escola e é resgatada pelos bombeiros em Sorriso; veja vídeo",
+        "link": "https://roonoticias.com/uma-crianca-de-4-anos-ficou-com-a-cabeca-presa-entre-vigas/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-10T14:04:44-04:00",
         "categories": [
-          "Sinop"
+          "MT Notícias"
         ],
         "category_ids": [
-          3030
+          20
         ]
       },
       {
-        "title": "Erro em certificado tira vaga de professora e gera indenização de quase R$ 93 mil em Sinop; Veja vídeo",
-        "link": "https://portalnortemt.com/falha-em-documento-impediu/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T13:47:33-04:00",
+        "title": "Homem é baleado com vários tiros e socorrido em estado grave em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-homem-de-48-anos-foi-socorrido-em-estado-grave-por/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-10T14:13:59-04:00",
         "categories": [
-          "Sinop"
+          "MT Notícias"
         ],
         "category_ids": [
-          3030
+          20
+        ]
+      },
+      {
+        "title": "Polícia Civil prende suspeito de ataque a transportadora de valores em operação; veja vídeo",
+        "link": "https://roonoticias.com/a-policia-civil-prendeu-nesta-quarta-feira-8/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-10T14:26:31-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "STJ manda policial voltar a julgamento no caso da chacina de Rondonópolis",
+        "link": "https://roonoticias.com/o-superior-tribunal-de-justica/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-10T14:40:19-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Processo de extração de caviar chama atenção e revela técnica na pesca especializada; veja vídeo",
+        "link": "https://roonoticias.com/um-processo-que-chama-atencao-pela-tecnica-e-precisao/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-10T14:45:13-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Colisão entre moto e carro deixa mulher ferida em cruzamento de Rondonópolis",
+        "link": "https://roonoticias.com/colisao-entre-uma-motocicleta/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-10T14:48:07-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Papa Leão XIV interage com Harlem Globetrotters e arrisca jogada com bola; veja vídeo",
+        "link": "https://roonoticias.com/o-papa-leao-xiv-participou-de-um-momento-descontraido/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-10T14:59:35-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
         ]
       }
-    ],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
