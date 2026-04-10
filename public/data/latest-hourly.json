@@ -1,23 +1,138 @@
 {
-  "generated_at": "2026-04-10T11:26:11.460225-04:00",
+  "generated_at": "2026-04-10T12:00:05.778980-04:00",
   "window": {
-    "start": "2026-04-10T10:26:11.460225-04:00",
-    "end": "2026-04-10T11:26:11.460225-04:00"
+    "start": "2026-04-10T11:00:05.778980-04:00",
+    "end": "2026-04-10T12:00:05.778980-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Filhote de cachorro cai em fossa de 6 metros; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/queda-em-buraco-profundo-mobilizou-b/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-10T11:30:37-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Federação defende atuação de sargento na Casa Militar e critica pressão de oficiais em MT",
+        "link": "https://perrenguematogrosso.com/federacao-defende-atuacao-de-sargento-na-casa-militar-e-critica-pressao-de-oficiais-em-mt/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-10T11:50:05-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Expectativa em Alta: Prefeita Destaca Impacto da I EXPOVG para Economia e Cultura de Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/expectativa-em-alta-prefeita-destaca-impacto-da-i-expovg-para-economia-e-cultura-de-varzea-grande-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-10T11:52:11-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Filhote é salvo de fossa de 6 metros após resgate tenso; Veja vídeo",
+        "link": "https://omatogrossense.com/cachorro-caiu-em-buraco-profundo/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-10T11:34:56-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Federação reforça defesa de sargento na Casa Militar e aponta resistência de oficiais em MT",
+        "link": "https://omatogrossense.com/federacao-reforca-defesa-de-sargento-na-casa-militar-e-aponta-resistencia-de-oficiais-em-mt/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-10T11:50:10-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Expectativa em Alta: Prefeita Destaca Impacto da I EXPOVG para Economia e Cultura de Várzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/expectativa-em-alta-prefeita-destaca-impacto-da-i-expovg-para-economia-e-cultura-de-varzea-grande-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-10T11:54:31-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
