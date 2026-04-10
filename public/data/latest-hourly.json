@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-10T18:11:39.994546-04:00",
+  "generated_at": "2026-04-10T19:03:38.487410-04:00",
   "window": {
-    "start": "2026-04-10T17:11:39.994546-04:00",
-    "end": "2026-04-10T18:11:39.994546-04:00"
+    "start": "2026-04-10T18:03:38.487410-04:00",
+    "end": "2026-04-10T19:03:38.487410-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Motorista perde controle e capota carro após atingir árvore em Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motorista-capota-carro-atingir-arvore-rondonopolis-video/",
+        "title": "Filhote de macaco-bugio é resgatado em área urbana de Mato Grosso; veja vídeo",
+        "link": "https://perrenguematogrosso.com/filhote-macaco-bugio-resgatado-mato-grosso-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-10T17:23:52-04:00",
+        "published": "2026-04-10T18:14:12-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,66 +20,41 @@
         ]
       },
       {
-        "title": "Homem confessa ter matado jovem após consumo de álcool e drogas em Sinop; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-jovem-consumo-alcool-drogas-sinop-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-10T17:50:17-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Ibovespa sobe e contrasta com EUA: veja o que movimentou os mercados no fechamento",
-        "link": "https://perrenguematogrosso.com/ibovespa-sobe-e-contrasta-com-eua-veja-o-que-movimentou-os-mercados-no-fechamento/",
+        "title": "Tilápia Importada Avança e Já Representa 10% do Mercado Nacional",
+        "link": "https://perrenguematogrosso.com/tilapia-importada-avanca-e-ja-representa-10-do-mercado-nacional/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-10T17:51:46-04:00",
+        "published": "2026-04-10T18:24:49-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           510
         ]
-      },
+      }
+    ],
+    "afolhalivre": [
       {
-        "title": "Imigrante pede emprego durante missa e pedido emociona fiéis em igreja; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/333117-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-10T17:57:35-04:00",
+        "title": "Bombeiros realizam treino coletivo “longão” em preparação para Corrida Homens do Fogo em Primavera do Leste",
+        "link": "https://afolhalivre.com/treino-coletivo-aberto-a-comunidade/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-10T18:16:27-04:00",
         "categories": [
-          "Notícias"
+          "Primavera"
         ],
         "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "João Fonseca fatura quase R$ 1 milhão em Monte Carlo e supera marca na carreira",
-        "link": "https://perrenguematogrosso.com/joao-fonseca-fatura-quase-r-1-milhao/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-10T18:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
+          3032
         ]
       }
     ],
-    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Motorista perde controle e capota carro após atingir árvore em Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/motorista-perde-controle-capota-rondonopolis-video/",
+        "title": "Filhote de macaco-bugio é salvo por equipes ambientais em região urbana de MT; veja vídeo",
+        "link": "https://omatogrossense.com/filhote-macaco-bugio-salvo-regiao-urbana-mt-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-10T17:24:28-04:00",
+        "published": "2026-04-10T18:15:06-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -88,74 +63,36 @@
         ]
       },
       {
-        "title": "Palestra em Cuiabá aborda “guerra interior” com base no Bhagavad Gita",
-        "link": "https://omatogrossense.com/palestra-em-cuiaba-aborda-guerra-interior/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-10T17:38:01-04:00",
-        "categories": [
-          "Entretenimento"
-        ],
-        "category_ids": [
-          6
-        ]
-      },
-      {
-        "title": "Homem confessa ter matado jovem após consumo de álcool e drogas em Sinop; veja vídeo",
-        "link": "https://omatogrossense.com/homem-matado-jovem-apos-alcool-sinop-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-10T17:50:14-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Ibovespa Sobe e Contrasta com EUA: Veja o Que Movimentou os Mercados no Fechamento",
-        "link": "https://omatogrossense.com/ibovespa-sobe-e-contrasta-com-eua-veja-o-que-movimentou-os-mercados-no-fechamento/",
+        "title": "Tilápia Importada Avança e Já Representa 10% do Mercado Nacional",
+        "link": "https://omatogrossense.com/tilapia-importada-avanca-e-ja-representa-10-do-mercado-nacional/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-10T17:54:14-04:00",
+        "published": "2026-04-10T18:26:49-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
         ]
-      },
-      {
-        "title": "Imigrante interrompe missa para pedir emprego e comove fiéis em igreja; Veja vídeo",
-        "link": "https://omatogrossense.com/139738-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-10T17:57:43-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "João Fonseca fatura quase R$ 1 milhão após quartas em Monte Carlo",
-        "link": "https://omatogrossense.com/joao-fonseca-fatura-quase-r-1-milhao/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-10T18:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
       }
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Adolescente é levada à delegacia após ameaças de ataque em escola de Rondonópolis",
+        "link": "https://roonoticias.com/possivel-ataque-em-uma-escola/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-10T18:39:08-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
