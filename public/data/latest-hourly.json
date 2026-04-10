@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-04-10T09:00:05.900211-04:00",
+  "generated_at": "2026-04-10T10:00:00.308576-04:00",
   "window": {
-    "start": "2026-04-10T08:00:05.900211-04:00",
-    "end": "2026-04-10T09:00:05.900211-04:00"
+    "start": "2026-04-10T09:00:00.308576-04:00",
+    "end": "2026-04-10T10:00:00.308576-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PM flagra criminosos aplicando golpes online e fecha escritório clandestino em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/criminosos-aplicando-golpes-escritorio-cuiaba-video/",
+        "title": "Veja o momento impressionante em que macacos se unem e formam “ponte” durante chuva; assista ao vídeo",
+        "link": "https://perrenguematogrosso.com/video-gravado/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-10T09:00:34-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Jovem é encontrada morta dentro de residência após presença de suspeito em Sinop; veja vídeo",
+        "link": "https://perrenguematogrosso.com/jovem-morta-dentro-residencia-suspeito-sinop-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-10T08:13:20-04:00",
+        "published": "2026-04-10T09:16:09-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,40 +33,40 @@
         ]
       },
       {
-        "title": "Mercados Sem Direção Única: Ásia Avança, EUA Recuam e Petróleo Volta a Subir",
-        "link": "https://perrenguematogrosso.com/mercados-sem-direcao-unica-asia-avanca-eua-recuam-e-petroleo-volta-a-subir/",
+        "title": "Corrida ao Planalto: 11 pré-candidatos já se movimentam para 2026",
+        "link": "https://perrenguematogrosso.com/corrida-ao-planalto-11-pre-candidatos-ja-se-movimentam-para-2026/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-10T08:15:29-04:00",
+        "published": "2026-04-10T09:29:30-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           510
         ]
-      },
-      {
-        "title": "Parabéns em dose dupla vira correria animada e diverte família; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/familia-celebra-dois-aniversarios/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-10T08:18:59-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "PM desmonta “escritório do golpe” e prende quadrilha por estelionato em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/pm-desmonta-escritorio-golpe-quadrilha-cuiaba-video/",
+        "title": "Macacos surpreendem ao se unir e formar “ponte” durante chuva; veja o vídeo",
+        "link": "https://omatogrossense.com/um-video-gravado-no-brasil/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-10T09:00:45-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Jovem é encontrada morta dentro de casa após receber homem suspeito em Sinop; veja vídeo",
+        "link": "https://omatogrossense.com/jovem-encontrada-morta-homem-suspeito-sinop-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-10T08:13:25-04:00",
+        "published": "2026-04-10T09:16:13-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -62,42 +75,16 @@
         ]
       },
       {
-        "title": "Mercados Sem Direção Única: Ásia Avança, EUA Recuam e Petróleo Volta a Subir",
-        "link": "https://omatogrossense.com/mercados-sem-direcao-unica-asia-avanca-eua-recuam-e-petroleo-volta-a-subir/",
+        "title": "Corrida ao Planalto: 11 pré-candidatos já se movimentam para 2026",
+        "link": "https://omatogrossense.com/corrida-ao-planalto-11-pre-candidatos-ja-se-movimentam-para-2026/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-10T08:18:18-04:00",
+        "published": "2026-04-10T09:31:53-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
-        ]
-      },
-      {
-        "title": "Parabéns em dobro vira correria e arranca risadas em família; Veja vídeo",
-        "link": "https://omatogrossense.com/comemoracao-em-dose-dupla/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-10T08:19:55-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Veja momento impressionante em que macacos se unem e formam “ponte” durante chuva; Veja vídeo",
-        "link": "https://omatogrossense.com/um-video-gravado-no-brasil/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-10T08:41:39-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
         ]
       }
     ],
