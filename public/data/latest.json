@@ -1,108 +1,13 @@
 {
-  "generated_at": "2026-04-09T20:11:01.825077-04:00",
+  "generated_at": "2026-04-10T08:00:00.613405-04:00",
   "window": {
-    "start": "2026-04-09T19:11:01.825077-04:00",
-    "end": "2026-04-09T20:11:01.825077-04:00"
+    "start": "2026-04-10T07:00:00.613405-04:00",
+    "end": "2026-04-10T08:00:00.613405-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Mulher é encontrada morta dentro de casa em Sinop; veja vídeo",
-        "link": "https://perrenguematogrosso.com/mulher-e-encontrada-morta-dentro-de-casa-em-sinop-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-04-09T19:19:36-04:00",
-        "categories": [
-          "Notícias",
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          5,
-          16
-        ]
-      },
-      {
-        "title": "10 filhos se reúnem e surpreendem mãe de 91 anos com noite especial de aniversário; veja vídeo",
-        "link": "https://perrenguematogrosso.com/uma-idosa-de-91-anos-viveu-um-momento-marcante-ao-celebrar-seu-aniversario-cercada-pelos-10-filhos-dentro-da-propria-casa/",
-        "author": "Lindy Oliveira",
-        "author_id": 292,
-        "published": "2026-04-09T19:30:00-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "STJD suspende Abel Ferreira por oito jogos após expulsões",
-        "link": "https://perrenguematogrosso.com/stjd-suspende-abel-ferreira/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-09T20:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Homem rouba escada e volta a cena do crime buscar bicicleta em Tangará da Serra; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-rouba-escada-e-volta-a-cena-do-crime-buscar-bicicleta-em-tangara-da-serra-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-04-09T20:06:00-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Mulher é encontrada morta dentro de casa em Sinop; veja vídeo",
-        "link": "https://omatogrossense.com/mulher-e-encontrada-morta-dentro-de-casa-em-sinop-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-04-09T19:19:45-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "10 filhos se reúnem e surpreendem mãe de 91 anos com noite especial de aniversário; veja vídeo",
-        "link": "https://omatogrossense.com/uma-idosa-de-91-anos-viveu-um-momento-marcante-ao-celebrar-seu-aniversario-cercada-pelos-10-filhos-dentro-da-propria-casa/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-09T19:30:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "STJD suspende Abel Ferreira por oito jogos no Brasileirão",
-        "link": "https://omatogrossense.com/stjd-suspende-abel-ferreira/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-09T20:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
