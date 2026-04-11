@@ -1,73 +1,33 @@
 {
-  "generated_at": "2026-04-11T17:04:05.460755-04:00",
+  "generated_at": "2026-04-11T18:00:05.520855-04:00",
   "window": {
-    "start": "2026-04-11T16:04:05.460755-04:00",
-    "end": "2026-04-11T17:04:05.460755-04:00"
+    "start": "2026-04-11T17:00:05.520855-04:00",
+    "end": "2026-04-11T18:00:05.520855-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Imagens mostram momento em que homem é atacado com faca durante briga em bar de Poxoréu; veja vídeo",
-        "link": "https://perrenguematogrosso.com/imagens-homem-atacado-faca-briga-bar-poxoreu-video/",
+        "title": "Homem mata cães com ferramenta e polícia encontra oficina clandestina de armas em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-mata-caes-ferramenta-oficina-armas-mt-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-11T16:20:00-04:00",
+        "published": "2026-04-11T17:20:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
-      },
-      {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/333303-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-11T16:54:01-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
       }
     ],
-    "afolhalivre": [
-      {
-        "title": "Homem sob efeito de álcool colide com trailer na Av. Inácio Castelli em Primavera do Leste (MT)",
-        "link": "https://afolhalivre.com/homem-sob-efeito-de-alcool-colide-com-trailer-na-av-inacio-castelli-em-primavera-do-leste-mt/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-11T17:00:01-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Câmera registra homem sendo esfaqueado após discussão em frente a bar em MT; veja vídeo",
-        "link": "https://omatogrossense.com/camera-homem-esfaqueado-frente-bar-mt-video/",
+        "title": "Homem mata cães com ferramenta e polícia encontra oficina clandestina de armas em MT; veja vídeo",
+        "link": "https://omatogrossense.com/homem-mata-caes-policia-encontra-armas-mt-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-11T16:20:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "/",
-        "link": "https://omatogrossense.com/139911-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-11T16:53:57-04:00",
+        "published": "2026-04-11T17:20:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -77,34 +37,7 @@
       }
     ],
     "portalnortemt": [],
-    "portalpantanalmt": [
-      {
-        "title": "Estudo propõe ferrovia de Cuiabá a Cáceres e ligação até o Oceano Pacífico, aponta viabilidade técnica em MT",
-        "link": "https://portalpantanalmt.com/comissao-da-ufmt-analisa-expansa/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-04-11T16:09:09-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      },
-      {
-        "title": "Tentativa de homicídio em Cáceres: vítima é atacada dentro de mercearia e suspeitos fogem deixando objetos no local",
-        "link": "https://portalpantanalmt.com/tentativa-de-homicidio-em-caceres-vitima-e-atacada-dentro-de-mercearia-e-suspeitos-fogem-deixando-objetos-no-local/",
-        "author": "Redação",
-        "author_id": 4,
-        "published": "2026-04-11T16:53:54-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
+    "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
