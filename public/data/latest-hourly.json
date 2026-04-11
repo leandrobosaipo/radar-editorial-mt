@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-11T10:04:43.308953-04:00",
+  "generated_at": "2026-04-11T12:17:58.759895-04:00",
   "window": {
-    "start": "2026-04-11T09:04:43.308953-04:00",
-    "end": "2026-04-11T10:04:43.308953-04:00"
+    "start": "2026-04-11T11:17:58.759895-04:00",
+    "end": "2026-04-11T12:17:58.759895-04:00"
   },
   "sites": {
     "perrenguematogrosso": [],
@@ -13,13 +13,7 @@
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
     "omatogrossense": [],
     "portalnortemt": [],
