@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-04-10T14:00:05.523622-04:00",
+  "generated_at": "2026-04-11T14:01:15.799168-04:00",
   "window": {
-    "start": "2026-04-10T00:00:00-04:00",
-    "end": "2026-04-10T14:00:00-04:00"
+    "start": "2026-04-11T00:00:00-04:00",
+    "end": "2026-04-11T14:00:00-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PM flagra criminosos aplicando golpes online e fecha escritório clandestino em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/criminosos-aplicando-golpes-escritorio-cuiaba-video/",
-        "author": "Mhylenna",
+        "title": "“Aquieta o facho”: promotor é denunciado após fala a vítima de violência doméstica; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/uma-mulher-vitima-de-violencia/",
+        "author": "Desconhecido",
+        "author_id": 290,
+        "published": "2026-04-11T08:17:34-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Capela tem placas históricas de 1976 furtadas durante a madrugada em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/capela-placas-historicas-furtadas-durante-cuiaba-video/",
+        "author": "Desconhecido",
         "author_id": 279,
-        "published": "2026-04-10T08:13:20-04:00",
+        "published": "2026-04-11T08:30:35-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,76 +33,11 @@
         ]
       },
       {
-        "title": "Mercados Sem Direção Única: Ásia Avança, EUA Recuam e Petróleo Volta a Subir",
-        "link": "https://perrenguematogrosso.com/mercados-sem-direcao-unica-asia-avanca-eua-recuam-e-petroleo-volta-a-subir/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-10T08:15:29-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Parabéns em dose dupla vira correria animada e diverte família; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/familia-celebra-dois-aniversarios/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-10T08:18:59-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Veja o momento impressionante em que macacos se unem e formam “ponte” durante chuva; assista ao vídeo",
-        "link": "https://perrenguematogrosso.com/video-gravado/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-10T09:00:34-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Corrida ao Planalto: 11 pré-candidatos já se movimentam para 2026",
-        "link": "https://perrenguematogrosso.com/corrida-ao-planalto-11-pre-candidatos-ja-se-movimentam-para-2026/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-10T09:29:30-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Criminosos atacam agência bancária durante a madrugada e usam explosivos na ação; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/criminosos-atacam-banco-durante-a/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-10T10:08:58-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Motorista registra servidores tentando retirar carro da Prefeitura preso em buraco em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/servidores-carro-prefeitura-preso-buraco-cuiaba-video/",
-        "author": "Mhylenna",
+        "title": "Gravação revela tatu dando olhadinha cuidadosa e voltando para toca em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/tatu-dando-olhadinha-cuidadosa-toca-mt-video/",
+        "author": "Desconhecido",
         "author_id": 279,
-        "published": "2026-04-10T10:24:07-04:00",
+        "published": "2026-04-11T09:20:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -98,37 +46,11 @@
         ]
       },
       {
-        "title": "Polícia prende peça-chave da fuga de mega-assalto em Confresa após dois anos de buscas intensas; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-prende-peca-chave-da-fuga-de-mega-assalto-em-confresa-apos-dois-anos-de-buscas-intensas-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-10T10:49:50-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "“Divergência é Democracia” Wellington Fagundes comenta embates no PL e defende unidade para 2026; veja vídeo",
-        "link": "https://perrenguematogrosso.com/divergencia-e-democracia-wellington-fagundes-comenta-embates-no-pl-e-defende-unidade-para-2026-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-10T10:52:31-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Filhote de cachorro cai em fossa de 6 metros; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/queda-em-buraco-profundo-mobilizou-b/",
-        "author": "Karolina silva",
+        "title": "Cápsula Orion pousa com sucesso e encerra viagem tripulada à Lua após 50 anos; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/astronautas-retornam-em-seguranca/",
+        "author": "Desconhecido",
         "author_id": 290,
-        "published": "2026-04-10T11:30:37-04:00",
+        "published": "2026-04-11T09:37:56-04:00",
         "categories": [
           "Notícias"
         ],
@@ -137,11 +59,11 @@
         ]
       },
       {
-        "title": "Federação defende atuação de sargento na Casa Militar e critica pressão de oficiais em MT",
-        "link": "https://perrenguematogrosso.com/federacao-defende-atuacao-de-sargento-na-casa-militar-e-critica-pressao-de-oficiais-em-mt/",
-        "author": "Mhylenna",
+        "title": "Cuiabanos celebram último dia de festa dos 307 anos de Cuiabá ao som de lambadão; veja vídeo",
+        "link": "https://perrenguematogrosso.com/cuiabanos-celebram-festa-307-anos-som-lambadao-video/",
+        "author": "Desconhecido",
         "author_id": 279,
-        "published": "2026-04-10T11:50:05-04:00",
+        "published": "2026-04-11T10:30:58-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -150,37 +72,11 @@
         ]
       },
       {
-        "title": "Expectativa em Alta: Prefeita Destaca Impacto da I EXPOVG para Economia e Cultura de Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/expectativa-em-alta-prefeita-destaca-impacto-da-i-expovg-para-economia-e-cultura-de-varzea-grande-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-10T11:52:11-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "João Fonseca iguala marca de Guga em Monte Carlo e sobe no ranking da ATP; veja vídeo",
-        "link": "https://perrenguematogrosso.com/joao-fonseca-iguala-marca-de-guga-em-monte-carlo/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-10T12:07:34-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Mulher pede ajuda em silêncio dentro de avião e alerta sobre sinais de violência em voos; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/vitima-usa-mensagem-na-pele-para-indicar/",
-        "author": "Karolina silva",
+        "title": "Motorista se assusta ao encontrar rua com bonecas penduradas durante corrida; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/o-cenario-chamou-atencao-pela-f/",
+        "author": "Desconhecido",
         "author_id": 290,
-        "published": "2026-04-10T12:37:37-04:00",
+        "published": "2026-04-11T10:41:17-04:00",
         "categories": [
           "Notícias"
         ],
@@ -189,24 +85,37 @@
         ]
       },
       {
-        "title": "Chute de Messi em treino do Inter Miami quebra lente de fotógrafo e viraliza; veja vídeo",
-        "link": "https://perrenguematogrosso.com/chute-de-messi-em-treino-do-inter-miami/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-10T13:00:00-04:00",
+        "title": "Influenciadora critica caso envolvendo adolescente que ameaçou ataque em escola militar em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/adolescente-ameacou-ataque-escola-militar-rondonopolis-video/",
+        "author": "Desconhecido",
+        "author_id": 279,
+        "published": "2026-04-11T11:20:00-04:00",
         "categories": [
-          "Esporte"
+          "Notícias"
         ],
         "category_ids": [
-          509
+          5
         ]
       },
       {
-        "title": "Professor aparece pelado durante reunião virtual com reitora da UFMT ; veja vídeo",
-        "link": "https://perrenguematogrosso.com/professor-pelado-reuniao-virtual-reitora-ufmt-video/",
-        "author": "Mhylenna",
+        "title": "Assalto armado na porta de condomínio deixa mulher em choque; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/assalto-armado-na-porta-de-condominio-deixa-mulher-em-choque-veja-video/",
+        "author": "Desconhecido",
+        "author_id": 290,
+        "published": "2026-04-11T11:45:41-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Suspeito ferido em confronto com a PM é capturado após tentativa de suborno em unidade de saúde em VG; veja vídeo",
+        "link": "https://perrenguematogrosso.com/suspeito-ferido-confronto-tentativa-suborno-vg-video/",
+        "author": "Desconhecido",
         "author_id": 279,
-        "published": "2026-04-10T13:13:47-04:00",
+        "published": "2026-04-11T12:20:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -215,11 +124,11 @@
         ]
       },
       {
-        "title": "Esbarrão em bar termina em tiros, prisão e dupla tentativa de homicídio; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/confusao-evoluiu-para-violencia/",
-        "author": "Karolina silva",
+        "title": "Saiba como está a aluna que sofreu fratura nos joelhos após acidente com 160 kg em academia; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/a-atividade-fazia-parte-de-u/",
+        "author": "Desconhecido",
         "author_id": 290,
-        "published": "2026-04-10T13:40:33-04:00",
+        "published": "2026-04-11T12:53:08-04:00",
         "categories": [
           "Notícias"
         ],
@@ -228,24 +137,63 @@
         ]
       },
       {
-        "title": "“Vai movimentar toda a cidade”: Fábio Tardin destaca impacto da EXPOVG após 21 anos sem grandes eventos; veja vídeo",
-        "link": "https://perrenguematogrosso.com/vai-movimentar-toda-a-cidade-fabio-tardin-destaca-impacto-da-expovg-apos-21-anos-sem-grandes-eventos-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-10T13:49:03-04:00",
+        "title": "Polícia prende dois criminosos enquanto colocavam corpo de jovem dentro de carro em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/criminosos-enquanto-corpo-jovem-carro-mt-video/",
+        "author": "Desconhecido",
+        "author_id": 279,
+        "published": "2026-04-11T13:20:00-04:00",
         "categories": [
-          "Política"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          510
+          16
         ]
       },
       {
-        "title": "Ibovespa em movimento: ações disparam e outras recuam ao meio-dia; veja quem lidera o jogo",
-        "link": "https://perrenguematogrosso.com/ibovespa-em-movimento-acoes-disparam-e-outras-recuam-ao-meio-dia-veja-quem-lidera-o-jogo/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-10T13:57:09-04:00",
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3223/",
+        "author": "Desconhecido",
+        "author_id": 279,
+        "published": "2026-04-11T13:47:10-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3224/",
+        "author": "Desconhecido",
+        "author_id": 279,
+        "published": "2026-04-11T13:48:30-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3225/",
+        "author": "Desconhecido",
+        "author_id": 279,
+        "published": "2026-04-11T13:49:52-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      },
+      {
+        "title": "Homem é indiciado por injúria após ofensas a deputada durante sessão na Câmara dos Deputados",
+        "link": "https://perrenguematogrosso.com/caso-aconteceu-em-comissao-d/",
+        "author": "Desconhecido",
+        "author_id": 290,
+        "published": "2026-04-11T13:51:51-04:00",
         "categories": [
           "Política"
         ],
@@ -255,296 +203,8 @@
       }
     ],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "PM desmonta “escritório do golpe” e prende quadrilha por estelionato em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/pm-desmonta-escritorio-golpe-quadrilha-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-10T08:13:25-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Mercados Sem Direção Única: Ásia Avança, EUA Recuam e Petróleo Volta a Subir",
-        "link": "https://omatogrossense.com/mercados-sem-direcao-unica-asia-avanca-eua-recuam-e-petroleo-volta-a-subir/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-10T08:18:18-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Parabéns em dobro vira correria e arranca risadas em família; Veja vídeo",
-        "link": "https://omatogrossense.com/comemoracao-em-dose-dupla/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-10T08:19:55-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Macacos surpreendem ao se unir e formar “ponte” durante chuva; veja o vídeo",
-        "link": "https://omatogrossense.com/um-video-gravado-no-brasil/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-10T09:00:45-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Corrida ao Planalto: 11 pré-candidatos já se movimentam para 2026",
-        "link": "https://omatogrossense.com/corrida-ao-planalto-11-pre-candidatos-ja-se-movimentam-para-2026/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-10T09:31:53-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Ataque com explosões em agência bancária assusta cidade e mobiliza polícia; Veja vídeo",
-        "link": "https://omatogrossense.com/criminosos-explodem-banco/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-10T10:09:02-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Carro da Prefeitura cai em buraco e deixa frente do veículo completamente presa em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/carro-prefeitura-cai-buraco-presa-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-10T10:23:59-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Polícia prende peça-chave da fuga de mega-assalto em Confresa; veja vídeo",
-        "link": "https://omatogrossense.com/peca-chave-fuga-mega-assalto-confresa-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-10T10:49:47-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "“Divergência é Democracia” Wellington Fagundes comenta embates no PL e defende unidade para 2026: veja vídeo",
-        "link": "https://omatogrossense.com/divergencia-e-democracia-wellington-fagundes-comenta-embates-no-pl-e-defende-unidade-para-2026-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-10T10:55:03-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Filhote é salvo de fossa de 6 metros após resgate tenso; Veja vídeo",
-        "link": "https://omatogrossense.com/cachorro-caiu-em-buraco-profundo/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-10T11:34:56-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Federação reforça defesa de sargento na Casa Militar e aponta resistência de oficiais em MT",
-        "link": "https://omatogrossense.com/federacao-reforca-defesa-de-sargento-na-casa-militar-e-aponta-resistencia-de-oficiais-em-mt/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-10T11:50:10-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Expectativa em Alta: Prefeita Destaca Impacto da I EXPOVG para Economia e Cultura de Várzea Grande; veja vídeo",
-        "link": "https://omatogrossense.com/expectativa-em-alta-prefeita-destaca-impacto-da-i-expovg-para-economia-e-cultura-de-varzea-grande-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-10T11:54:31-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "VÍDEO: João Fonseca entra no top 40 e repete feito de Guga em Monte Carlo",
-        "link": "https://omatogrossense.com/joao-fonseca-entra-no-top-40/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-10T12:15:52-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Mulher pede ajuda em silêncio dentro de avião e caso de tensão a bordo choca passageiros; Veja vídeo",
-        "link": "https://omatogrossense.com/vitima-usa-mensagem-na-pele/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-10T12:37:08-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "VÍDEO: Chute de Messi atinge câmera e quebra lente em treino do Inter Miami",
-        "link": "https://omatogrossense.com/chute-de-messi-atinge-camera/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-10T13:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Professor aparece pelado durante reunião com reitora da UFMT e causa constrangimento; veja vídeo",
-        "link": "https://omatogrossense.com/professor-pelado-reuniao-reitora-ufmt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-10T13:13:49-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Briga por esbarrão termina em tiros, prisão e dupla tentativa de homicídio; Veja vídeo",
-        "link": "https://omatogrossense.com/discussao-em-bar-terminou-com/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-10T13:40:29-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "“Vai movimentar toda a cidade”: Fábio Tardin destaca impacto da EXPOVG após 21 anos sem grandes eventos; veja vídeo",
-        "link": "https://omatogrossense.com/vai-movimentar-toda-a-cidade-fabio-tardin-destaca-impacto-da-expovg-apos-21-anos-sem-grandes-eventos-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-10T13:51:40-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Ibovespa em movimento: ações disparam e outras recuam ao meio-dia; veja quem lidera o jogo",
-        "link": "https://omatogrossense.com/ibovespa-em-movimento-acoes-disparam-e-outras-recuam-ao-meio-dia-veja-quem-lidera-o-jogo/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-10T13:55:14-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "VÍDEO: Cuiabá recebe seleções femininas para treinos no CT Manoel Dresch",
-        "link": "https://omatogrossense.com/cuiaba-recebe-selecoes-femininas/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-10T14:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
-    "portalnortemt": [
-      {
-        "title": "Jovem é encontrada morta dentro de casa e imagens revelam último contato com suspeito em Sinop; Veja vídeo",
-        "link": "https://portalnortemt.com/vitima-de-24-anos-foi/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T13:26:33-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      },
-      {
-        "title": "Erro em certificado tira vaga de professora e gera indenização de quase R$ 93 mil em Sinop; Veja vídeo",
-        "link": "https://portalnortemt.com/falha-em-documento-impediu/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T13:47:33-04:00",
-        "categories": [
-          "Sinop"
-        ],
-        "category_ids": [
-          3030
-        ]
-      }
-    ],
+    "omatogrossense": [],
+    "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
@@ -556,39 +216,10 @@
       509,
       510
     ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
