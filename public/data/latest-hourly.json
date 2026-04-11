@@ -1,33 +1,99 @@
 {
-  "generated_at": "2026-04-11T18:00:05.520855-04:00",
+  "generated_at": "2026-04-11T19:00:05.290644-04:00",
   "window": {
-    "start": "2026-04-11T17:00:05.520855-04:00",
-    "end": "2026-04-11T18:00:05.520855-04:00"
+    "start": "2026-04-11T18:00:05.290644-04:00",
+    "end": "2026-04-11T19:00:05.290644-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Homem mata cães com ferramenta e polícia encontra oficina clandestina de armas em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-mata-caes-ferramenta-oficina-armas-mt-video/",
+        "title": "Corpo de adolescente de 17 anos é encontrado após tentativa de travessia em Querência",
+        "link": "https://perrenguematogrosso.com/corpo-adolescente-encontrado-tentativa-travessia-querencia/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-11T17:20:00-04:00",
+        "published": "2026-04-11T18:20:00-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
+      },
+      {
+        "title": "/",
+        "link": "https://perrenguematogrosso.com/333322-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-11T18:59:10-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "Jovem de 13 anos é apreendida após ameaças a escola em Rondonópolis;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/jovem-de-13-anos-e-apreendida-apos-ameacas-a-escola-em-rondonopolis/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-11T18:11:43-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Jovem de 13 anos é apreendida após ameaças contra escola em Rondonópolis;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/jovem-de-13-anos-e-apreendida-apos-ameacas-contra-escola-em-rondonopolis/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-11T18:35:30-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Incêndio atinge usina fotovoltaica e mobiliza bombeiros em Sinop",
+        "link": "https://afolhalivre.com/um-incendio-em-uma-usina/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-11T18:55:13-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
     "omatogrossense": [
       {
-        "title": "Homem mata cães com ferramenta e polícia encontra oficina clandestina de armas em MT; veja vídeo",
-        "link": "https://omatogrossense.com/homem-mata-caes-policia-encontra-armas-mt-video/",
+        "title": "Corpo de adolescente de 17 anos é encontrado após desaparecer em lago em MT",
+        "link": "https://omatogrossense.com/corpo-adolescente-encontrado-desaparecer-lago-mt/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-11T17:20:00-04:00",
+        "published": "2026-04-11T18:20:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "/",
+        "link": "https://omatogrossense.com/139923-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-11T18:58:15-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -36,8 +102,114 @@
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
+    "portalnortemt": [
+      {
+        "title": "TJMT mantém prisão de mulher investigada por tráfico em Sinop",
+        "link": "https://portalnortemt.com/manteve-a-prisao-de-ariane-meiryellen/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-11T18:03:30-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Adolescente é detida por ameaças contra escola em Rondonópolis;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/adolescente-e-detida-por-ameacas-contra-escola-em-rondonopolis/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-11T18:11:08-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Incêndio atinge usina fotovoltaica e mobiliza bombeiros em Sinop",
+        "link": "https://portalnortemt.com/um-incendio-em-uma-usina-fotovoltaica/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-11T18:17:43-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Polícia Militar recupera moto roubada usada em crimes em Sinop",
+        "link": "https://portalnortemt.com/outubro-do-ano-passado/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-11T18:23:43-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Adolescente é Detida em Rondonópolis por Ameaça a Escola Estadual;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/adolescente-e-detida-em-rondonopolis-por-ameaca-a-escola-estadual/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-11T18:33:16-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Adolescente é detida por ameaças de ataque em escola estadual de Rondonópolis;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/adolescente-e-detida-por-ameacas-de-ataque-em-escola-estadual-de-rondonopolis/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-11T18:34:41-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Menina de 13 anos é apreendida após ameaças a escola em Rondonópolis;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/menina-de-13-anos-e-apreendida-apos-ameacas-a-escola-em-rondonopolis/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-11T18:12:19-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ameaças contra escola em Rondonópolis: adolescente de 13 anos é apreendida;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/ameacas-contra-escola-em-rondonopolis-adolescente-de-13-anos-e-apreendida/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-11T18:36:17-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "roonoticias": []
   },
   "menu_category_ids": {
