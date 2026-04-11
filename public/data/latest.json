@@ -1,30 +1,43 @@
 {
-  "generated_at": "2026-04-11T15:02:06.415205-04:00",
+  "generated_at": "2026-04-11T16:03:05.644669-04:00",
   "window": {
-    "start": "2026-04-11T14:02:06.415205-04:00",
-    "end": "2026-04-11T15:02:06.415205-04:00"
+    "start": "2026-04-11T15:03:05.644669-04:00",
+    "end": "2026-04-11T16:03:05.644669-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Idoso com sinais de embriaguez sofre ferimentos após cair de ponte de cinco metros em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/idoso-embriaguez-ferimentos-cair-ponte-cuiaba-video/",
+        "title": "Preso por envolvimento no maior assalto de Mato Grosso exibia ostentação nas redes sociais; veja vídeo",
+        "link": "https://perrenguematogrosso.com/preso-maior-assalto-mato-grosso-ostentacao-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-11T14:20:00-04:00",
+        "published": "2026-04-11T15:20:00-04:00",
         "categories": [
-          "Notícias"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          5
+          16
+        ]
+      },
+      {
+        "title": "Suécia surpreende no SailGP do Rio e Brasil enfrenta problema antes da largada; veja vídeo",
+        "link": "https://perrenguematogrosso.com/suecia-surpreende-no-sailgp-do-rio-e-brasil-enfrenta-problema-antes-da-largada-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-11T15:50:43-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
         ]
       },
       {
         "title": "/",
-        "link": "https://perrenguematogrosso.com/333283-2/",
+        "link": "https://perrenguematogrosso.com/333297-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-11T14:56:39-04:00",
+        "published": "2026-04-11T15:57:48-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,11 +49,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Idoso com sinais de embriaguez fica ferido após cair de ponte em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/idoso-ferido-apos-cair-ponte-cuiaba-video/",
+        "title": "Preso pelo maior assalto de Mato Grosso ostentava vida de luxo nas redes sociais; veja vídeo",
+        "link": "https://omatogrossense.com/preso-assalto-mato-grosso-ostentava-vida-luxo-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-11T14:20:00-04:00",
+        "published": "2026-04-11T15:20:00-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,11 +62,24 @@
         ]
       },
       {
+        "title": "Suécia surpreende no SailGP do Rio e Brasil enfrenta problema antes da largada; veja vídeo",
+        "link": "https://omatogrossense.com/suecia-surpreende-no-sailgp-do-rio-e-brasil-enfrenta-problema-antes-da-largada-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-11T15:50:50-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
         "title": "/",
-        "link": "https://omatogrossense.com/139890-2/",
+        "link": "https://omatogrossense.com/139895-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-11T14:56:46-04:00",
+        "published": "2026-04-11T15:57:43-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -63,8 +89,62 @@
       }
     ],
     "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalpantanalmt": [
+      {
+        "title": "Operações em Cáceres resultam em 82 prisões e apreensão de 40 armas em ações contra facções criminosas em MT; Veja vídeo",
+        "link": "https://portalpantanalmt.com/forcas-de-seguranca-intensificam/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-04-11T15:57:40-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Vídeo mostra carro em zigue-zague antes de capotar e motorista morrer em Rondonópolis (MT); Veja vídeo",
+        "link": "https://roonoticias.com/imagens-registram-instantes-antes/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-04-11T15:31:45-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Estudante relata constrangimento após ser impedida de assistir aula com a filha na UNEMAT em Rondonópolis",
+        "link": "https://roonoticias.com/caso-ocorreu-durante-disciplina-de-letras/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-04-11T15:42:57-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Pedestre morre após ser atropelado ao tentar atravessar BR-364 em Rondonópolis (MT); Veja vídeo",
+        "link": "https://roonoticias.com/vitima-foi-atingida-por-carro-e/",
+        "author": "Redação",
+        "author_id": 4,
+        "published": "2026-04-11T15:48:22-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
