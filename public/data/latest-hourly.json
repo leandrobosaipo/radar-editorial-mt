@@ -1,98 +1,44 @@
 {
-  "generated_at": "2026-04-10T19:03:38.487410-04:00",
+  "generated_at": "2026-04-10T20:07:03.398764-04:00",
   "window": {
-    "start": "2026-04-10T18:03:38.487410-04:00",
-    "end": "2026-04-10T19:03:38.487410-04:00"
+    "start": "2026-04-10T19:07:03.398764-04:00",
+    "end": "2026-04-10T20:07:03.398764-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Filhote de macaco-bugio é resgatado em área urbana de Mato Grosso; veja vídeo",
-        "link": "https://perrenguematogrosso.com/filhote-macaco-bugio-resgatado-mato-grosso-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-10T18:14:12-04:00",
+        "title": "Real Madrid empata com Girona em casa e mantém 2ª posição no Espanhol; veja os gols",
+        "link": "https://perrenguematogrosso.com/real-madrid-empata-com-girona/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-10T20:00:00-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Esporte"
         ],
         "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Tilápia Importada Avança e Já Representa 10% do Mercado Nacional",
-        "link": "https://perrenguematogrosso.com/tilapia-importada-avanca-e-ja-representa-10-do-mercado-nacional/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-10T18:24:49-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
+          509
         ]
       }
     ],
-    "afolhalivre": [
-      {
-        "title": "Bombeiros realizam treino coletivo “longão” em preparação para Corrida Homens do Fogo em Primavera do Leste",
-        "link": "https://afolhalivre.com/treino-coletivo-aberto-a-comunidade/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T18:16:27-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Filhote de macaco-bugio é salvo por equipes ambientais em região urbana de MT; veja vídeo",
-        "link": "https://omatogrossense.com/filhote-macaco-bugio-salvo-regiao-urbana-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-10T18:15:06-04:00",
+        "title": "Real Madrid empata com Girona no Bernabéu pelo Campeonato Espanhol; veja os gols",
+        "link": "https://omatogrossense.com/real-madrid-empata-com-girona/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-10T20:00:00-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Tilápia Importada Avança e Já Representa 10% do Mercado Nacional",
-        "link": "https://omatogrossense.com/tilapia-importada-avanca-e-ja-representa-10-do-mercado-nacional/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-10T18:26:49-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
+          7
         ]
       }
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "Adolescente é levada à delegacia após ameaças de ataque em escola de Rondonópolis",
-        "link": "https://roonoticias.com/possivel-ataque-em-uma-escola/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-10T18:39:08-04:00",
-        "categories": [
-          "Rondonópolis"
-        ],
-        "category_ids": [
-          3118
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
