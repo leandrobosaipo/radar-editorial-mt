@@ -1,23 +1,86 @@
 {
-  "generated_at": "2026-04-12T14:05:38.667531-04:00",
+  "generated_at": "2026-04-12T15:00:00.302974-04:00",
   "window": {
-    "start": "2026-04-12T13:05:38.667531-04:00",
-    "end": "2026-04-12T14:05:38.667531-04:00"
+    "start": "2026-04-12T14:00:00.302974-04:00",
+    "end": "2026-04-12T15:00:00.302974-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Delegado da PF tenta furtar produto de luxo em shopping",
+        "link": "https://perrenguematogrosso.com/um-delegado-da-policia-federal-foi-flagrado-por-cameras-de-seguranca-ao-tentar-furtar-um-produto-de-luxo-em-um-supermercado-dentro-de-um/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 296,
+        "published": "2026-04-12T14:49:47-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Delegado da PF tenta furtar produto de luxo em shopping do Recife",
+        "link": "https://omatogrossense.com/um-delegado-da-policia-federal-foi-flagrado-por-cameras-de-seguranca-ao-tentar-furtar-um-produto-de-luxo-em-um-supermercado-dentro-de-um/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 31,
+        "published": "2026-04-12T14:59:52-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
