@@ -1,126 +1,23 @@
 {
-  "generated_at": "2026-04-12T13:08:05.138330-04:00",
+  "generated_at": "2026-04-12T14:05:38.667531-04:00",
   "window": {
-    "start": "2026-04-12T12:08:05.138330-04:00",
-    "end": "2026-04-12T13:08:05.138330-04:00"
+    "start": "2026-04-12T13:05:38.667531-04:00",
+    "end": "2026-04-12T14:05:38.667531-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Panela esquecida no fogo causa incêndio em Rondonópolis; veja vídeo",
-        "link": "https://perrenguematogrosso.com/panela-esquecida-no-fogo-causa-incendio-em-rondonopolis-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 293,
-        "published": "2026-04-12T12:15:00-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Casa desaba com 15 pessoas em imóvel e mobiliza resgate; veja vídeo",
-        "link": "https://perrenguematogrosso.com/uma-casa-desabou-com-15-pessoas-dentro-neste-domingo-12-no-bairro-monte-castelo-em-juiz-de-fora-na-zona-da-mata-de-minas-gerais/",
-        "author": "Isabelli Pereira Pinheiro",
-        "author_id": 296,
-        "published": "2026-04-12T12:25:10-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Panela esquecida no fogo causa incêndio em Rondonópolis; veja vídeo",
-        "link": "https://omatogrossense.com/panela-esquecida-no-fogo-causa-incendio-em-rondonopolis-veja-video/",
-        "author": "Victor Hugo Moreira do Nascimento",
-        "author_id": 28,
-        "published": "2026-04-12T12:15:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Casa desaba com 15 pessoas em imóvel e mobiliza resgate; veja vídeo",
-        "link": "https://omatogrossense.com/uma-casa-desabou-com-15-pessoas-dentro-neste-domingo-12-no-bairro-monte-castelo-em-juiz-de-fora-na-zona-da-mata-de-minas-gerais/",
-        "author": "Isabelli Pereira Pinheiro",
-        "author_id": 31,
-        "published": "2026-04-12T12:59:32-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
-    "portalpantanalmt": [
-      {
-        "title": "Arena Cacerense é inaugurada com festa e homenagens em Cáceres",
-        "link": "https://portalpantanalmt.com/arena-cacerense-e-inaugurada/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-12T12:22:11-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
+    "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
