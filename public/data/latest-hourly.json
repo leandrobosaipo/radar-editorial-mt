@@ -1,19 +1,111 @@
 {
-  "generated_at": "2026-04-12T18:00:00.278876-04:00",
+  "generated_at": "2026-04-12T19:00:00.282208-04:00",
   "window": {
-    "start": "2026-04-12T17:00:00.278876-04:00",
-    "end": "2026-04-12T18:00:00.278876-04:00"
+    "start": "2026-04-12T18:00:00.282208-04:00",
+    "end": "2026-04-12T19:00:00.282208-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Botafogo empata com Coritiba em casa após sofrer gol no fim; veja os gols",
+        "link": "https://perrenguematogrosso.com/botafogo-empata-com-coritiba/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T18:09:07-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Operação contra pipas com cerol avança em Várzea Grande e revela risco pouco percebido: VEJA VÍDEO",
+        "link": "https://perrenguematogrosso.com/operacao-contra-pipas-com-cerol-avanca-em-varzea-grande-e-revela-risco-pouco-percebido-veja-video/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 295,
+        "published": "2026-04-12T18:10:00-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Mistério em motel de Cuiabá: homem é encontrado morto e caso levanta dúvidas: VEJA VÍDEO",
+        "link": "https://perrenguematogrosso.com/misterio-em-motel-de-cuiaba-homem-e-encontrado-morto-e-caso-levanta-duvidas-veja-video/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 295,
+        "published": "2026-04-12T18:40:42-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Polícia Ambiental realiza varredura após avistamento de felino; veja vídeo",
-        "link": "https://omatogrossense.com/policia-ambiental-realiza-varredura-apos-avistamento-de-felino/",
+        "title": "Athletico-PR vence Chapecoense por 2 a 0 e se aproxima do G4; veja os gols",
+        "link": "https://omatogrossense.com/athletico-pr-vence-chapecoense/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-12T18:00:00-04:00",
+        "published": "2026-04-12T18:03:30-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Pipas viram alvo de operação em Várzea Grande e ação chama atenção para risco nas ruas: VEJA VÍDEO",
+        "link": "https://omatogrossense.com/pipas-viram-alvo-de-operacao-em-varzea-grande-e-acao-chama-atencao-para-risco-nas-ruas-veja-video/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 30,
+        "published": "2026-04-12T18:09:39-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Botafogo cede empate ao Coritiba e fica no 2 a 2 no Nilton Santos; veja os gols",
+        "link": "https://omatogrossense.com/botafogo-cede-empate-ao-coritiba/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T18:13:36-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Homem é encontrado morto em motel de Cuiabá e detalhe intriga investigadores: VEJA VÍDEO",
+        "link": "https://omatogrossense.com/homem-e-encontrado-morto-em-motel-de-cuiaba-e-detalhe-intriga-investigadores-veja-video/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 30,
+        "published": "2026-04-12T18:40:37-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "VÍDEO: Universidade registra desova de tartarugas com drones e inteligência artificial",
+        "link": "https://omatogrossense.com/universidade-registra-desova-de-tartarugas/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T19:00:00-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -24,73 +116,7 @@
     ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": [
-      {
-        "title": "TCU investiga emenda de R$ 4 milhões de Janones à prefeitura de sua ex",
-        "link": "https://roonoticias.com/o-tribunal-de-contas-da-uniao-abriu-auditoria-para-investigar/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-12T17:02:11-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Menino leva choque elétrico em portão e é salvo por amigo em condomínio; veja vídeo",
-        "link": "https://roonoticias.com/um-menino-sofreu-uma-descarga-eletrica-ao-tentar/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-12T17:13:33-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Virginia ganha presente de Kim Kardashian; veja vídeo",
-        "link": "https://roonoticias.com/a-influenciadora-virginia-fonseca-chamou-atencao-ao-revelar/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-12T17:16:32-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Homem morre após capotar o carro em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/um-homem-identificado-como-helio-camilo-de-oliveira/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-12T17:25:08-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Panela esquecida no fogo causa incêndio em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/um-principio-de-incendio-assustou-moradores-do-bairro/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-12T17:35:38-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ]
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
