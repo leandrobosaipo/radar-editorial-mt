@@ -1,86 +1,19 @@
 {
-  "generated_at": "2026-04-12T17:00:00.273975-04:00",
+  "generated_at": "2026-04-12T18:00:00.278876-04:00",
   "window": {
-    "start": "2026-04-12T16:00:00.273975-04:00",
-    "end": "2026-04-12T17:00:00.273975-04:00"
+    "start": "2026-04-12T17:00:00.278876-04:00",
+    "end": "2026-04-12T18:00:00.278876-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Athletico-PR vence Chapecoense por 2 a 0 e sobe na tabela do Brasileirão; veja os gols",
-        "link": "https://perrenguematogrosso.com/athletico-pr-vence-chapecoense/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-12T16:12:11-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      }
-    ],
-    "afolhalivre": [
-      {
-        "title": "Operação Tolerância Zero apreende três suspeitos por tráfico de drogas em Mato Grosso",
-        "link": "https://afolhalivre.com/operacao-tolerancia-zero/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-12T16:01:03-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      },
-      {
-        "title": "Primavera do Leste tem noite marcada por brigas em locais movimentados",
-        "link": "https://afolhalivre.com/primavera-do-leste-tem-noite-marcada/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-12T16:10:26-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      },
-      {
-        "title": "Acidente na MT-344 em Dom Aquino termina com capotamento e mobiliza atenção",
-        "link": "https://afolhalivre.com/acidente-na-mt-344-em-dom-aquino/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-12T16:18:20-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Elogio inesperado na Europa revela detalhe que colocou Leila Malouf em destaque: VEJA VÍDEO",
-        "link": "https://omatogrossense.com/elogio-inesperado-na-europa-revela-detalhe-que-colocou-leila-malouf-em-destaque-veja-video/",
-        "author": "Ykaro Amazonas Albernaz Souza Garcia",
-        "author_id": 30,
-        "published": "2026-04-12T17:00:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "VÍDEO: Posto de combustíveis entrega volume menor e Procon lacra unidade",
-        "link": "https://omatogrossense.com/posto-de-combustiveis-entrega-volume-menor/",
+        "title": "Polícia Ambiental realiza varredura após avistamento de felino; veja vídeo",
+        "link": "https://omatogrossense.com/policia-ambiental-realiza-varredura-apos-avistamento-de-felino/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-12T17:00:00-04:00",
+        "published": "2026-04-12T18:00:00-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -90,72 +23,71 @@
       }
     ],
     "portalnortemt": [],
-    "portalpantanalmt": [
-      {
-        "title": "Casal é preso com revólver e munições no bairro Vila Irene, em Cáceres",
-        "link": "https://portalpantanalmt.com/casal-e-preso-com-revolver-e-municoes-no-bairro-vila-irene-em-caceres/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-12T16:26:37-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      },
-      {
-        "title": "Chicão retorna ao Cacerense após 18 anos e reforça projeto para 2026",
-        "link": "https://portalpantanalmt.com/chicao-retorna-ao-cacerense/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-12T16:34:35-04:00",
-        "categories": [
-          "Cáceres"
-        ],
-        "category_ids": [
-          3105
-        ]
-      }
-    ],
+    "portalpantanalmt": [],
     "roonoticias": [
       {
-        "title": "Deco admite ‘falta de ajuda’ a Vitor Roque no Barcelona, vê atacante como vítima e diz que contratação foi em ‘timing’ ruim",
-        "link": "https://roonoticias.com/o-diretor-esportivo-do-barcelona-deco-admitiu-erros/",
+        "title": "TCU investiga emenda de R$ 4 milhões de Janones à prefeitura de sua ex",
+        "link": "https://roonoticias.com/o-tribunal-de-contas-da-uniao-abriu-auditoria-para-investigar/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-12T16:35:39-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Bundesliga terá mulher como treinadora de um time pela primeira vez na história",
-        "link": "https://roonoticias.com/o-union-berlin-anunciou-marie-louise-eta-de-34-anos/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-12T16:48:55-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "“Laranja”: deputado é condenado após treta em grupo de WhatsApp",
-        "link": "https://roonoticias.com/o-deputado-federal-gabriel-mota-foi-condenado-a-pagar/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-12T16:56:25-04:00",
+        "published": "2026-04-12T17:02:11-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
+        ]
+      },
+      {
+        "title": "Menino leva choque elétrico em portão e é salvo por amigo em condomínio; veja vídeo",
+        "link": "https://roonoticias.com/um-menino-sofreu-uma-descarga-eletrica-ao-tentar/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T17:13:33-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Virginia ganha presente de Kim Kardashian; veja vídeo",
+        "link": "https://roonoticias.com/a-influenciadora-virginia-fonseca-chamou-atencao-ao-revelar/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T17:16:32-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Homem morre após capotar o carro em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-homem-identificado-como-helio-camilo-de-oliveira/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T17:25:08-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Panela esquecida no fogo causa incêndio em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-principio-de-incendio-assustou-moradores-do-bairro/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T17:35:38-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
         ]
       }
     ]
