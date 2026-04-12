@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-04-12T15:00:00.302974-04:00",
+  "generated_at": "2026-04-12T16:00:00.374696-04:00",
   "window": {
-    "start": "2026-04-12T14:00:00.302974-04:00",
-    "end": "2026-04-12T15:00:00.302974-04:00"
+    "start": "2026-04-12T15:00:00.374696-04:00",
+    "end": "2026-04-12T16:00:00.374696-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Delegado da PF tenta furtar produto de luxo em shopping",
-        "link": "https://perrenguematogrosso.com/um-delegado-da-policia-federal-foi-flagrado-por-cameras-de-seguranca-ao-tentar-furtar-um-produto-de-luxo-em-um-supermercado-dentro-de-um/",
+        "title": "Idoso sofre queda de pelo menos 5 metros em ponte de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/idoso-sofre-queda-de-pelo-menos-5-metros-em-ponte-de-cuiaba-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-12T15:06:54-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Tumulto em ponto turístico deixa ao menos 30 mortos durante evento",
+        "link": "https://perrenguematogrosso.com/tumulto-em-ponto-turistico-deixa-ao-menos-30-mortos-durante-eventoum-tumulto-em-um-dos-principais-pontos-turisticos-do-haiti-deixou-pelo-menos-30-mortos-neste-sabado-11-segundo-autoridades-locais/",
         "author": "Isabelli Pereira Pinheiro",
         "author_id": 296,
-        "published": "2026-04-12T14:49:47-04:00",
+        "published": "2026-04-12T15:15:25-04:00",
         "categories": [
           "Notícias"
         ],
@@ -23,11 +36,50 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Delegado da PF tenta furtar produto de luxo em shopping do Recife",
-        "link": "https://omatogrossense.com/um-delegado-da-policia-federal-foi-flagrado-por-cameras-de-seguranca-ao-tentar-furtar-um-produto-de-luxo-em-um-supermercado-dentro-de-um/",
+        "title": "Idoso sofre queda de pelo menos 5 metros em ponte de Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/idoso-sofre-queda-de-pelo-menos-5-metros-em-ponte-de-cuiaba-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-12T15:06:50-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Tumulto em ponto turístico deixa ao menos 30 mortos durante evento",
+        "link": "https://omatogrossense.com/um-tumulto-em-um-dos-principais-pontos-turisticos-do-haiti-deixou-pelo-menos-30-mortos-neste-sabado-11-segundo-autoridades-locais/",
         "author": "Isabelli Pereira Pinheiro",
         "author_id": 31,
-        "published": "2026-04-12T14:59:52-04:00",
+        "published": "2026-04-12T15:15:34-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Manobra de ré termina em tragédia: idosa de 104 anos morre em Várzea Grande; VEJA VÍDEO",
+        "link": "https://omatogrossense.com/manobra-de-re-termina-em-tragedia-idosa-de-104-anos/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 30,
+        "published": "2026-04-12T16:00:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "VÍDEO: Papa Leão XIV cobra cessar-fogo no Líbano durante oração no Vaticano",
+        "link": "https://omatogrossense.com/papa-leao-xiv-cobra-cessar-fogo/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T16:00:00-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
