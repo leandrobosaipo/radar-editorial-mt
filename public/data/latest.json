@@ -1,11 +1,286 @@
 {
-  "generated_at": "2026-04-12T19:00:00.282208-04:00",
+  "generated_at": "2026-04-12T20:00:00.307486-04:00",
   "window": {
-    "start": "2026-04-12T18:00:00.282208-04:00",
-    "end": "2026-04-12T19:00:00.282208-04:00"
+    "start": "2026-04-12T00:00:00-04:00",
+    "end": "2026-04-12T20:00:00-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
+      {
+        "title": "Brasil vence Coreia do Sul por 5 a 1 na estreia do Fifa Series em Cuiabá; veja os gols",
+        "link": "https://perrenguematogrosso.com/brasil-vence-coreia-do-sul-por-5-a-1/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T01:25:22-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Ataques contra estátuas da Havan em quatro estados levantam suspeita de ação coordenada; veja vídeo",
+        "link": "https://perrenguematogrosso.com/a-rede-havan-registrou-ataques-contra-suas-tradicionais-estatuas-da-liberdade-em-quatro-estados-brasileiros-segundo-relato-do-empresario/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 296,
+        "published": "2026-04-12T09:50:50-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "“Está dando mais alegria para a população cuiabana” Diz prefeito de Cuiabá sobre a vitória da seleção feminina na Arena Pantanal; veja vídeo",
+        "link": "https://perrenguematogrosso.com/esta-dando-mais-alegria-para-a-populacao-cuiabana-diz-prefeito-de-cuiaba-sobre-a-vitoria-da-selecao-feminina-na-arena-pantanal-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-12T09:57:15-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Homem morre após capotar o carro em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-morre-apos-capotar-o-carro-em-rondonopolis-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-12T10:40:34-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Idosa de 104 anos morre atropelada por caminhão em Varzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/idosa-de-104-anos-morre-atropelada-por-caminhao-em-varzea-grande-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-12T11:04:02-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Incêndio atinge casa dos pais de MC Gui em São Paulo e destrói carros na garagem; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/a-casa-dos-pais-de-mc-gui-pegou-fogo-na-manha-deste-domingo-12-em-sao-paulo-o-incendio-iniciou-as-7h-da-manha-e-atingiu-a-garagem-do/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 296,
+        "published": "2026-04-12T11:09:47-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Panela esquecida no fogo causa incêndio em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/panela-esquecida-no-fogo-causa-incendio-em-rondonopolis-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-12T12:15:00-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Casa desaba com 15 pessoas em imóvel e mobiliza resgate; veja vídeo",
+        "link": "https://perrenguematogrosso.com/uma-casa-desabou-com-15-pessoas-dentro-neste-domingo-12-no-bairro-monte-castelo-em-juiz-de-fora-na-zona-da-mata-de-minas-gerais/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 296,
+        "published": "2026-04-12T12:25:10-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Adolescente ameaça atacar escola em Rondonópolis; veja vídeo",
+        "link": "https://perrenguematogrosso.com/adolescente-ameaca-atacar-escola-em-rondonopolis-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-12T13:24:46-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "MC Mestrão reaparece após prisão e afirma que está de volta ao público",
+        "link": "https://perrenguematogrosso.com/o-funkeiro-mc-mestrao-reapareceu-em-video-nas-redes-sociais-apos-deixar-a-prisao-e-alem-disso-afirmou-aos-seguidores-que-esta-de-volta-ao/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 296,
+        "published": "2026-04-12T13:37:55-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Brigas em avenidas movimentadas protagonizam a noite em Primavera do Leste; veja vídeo",
+        "link": "https://perrenguematogrosso.com/brigas-em-avenidas-movimentadas-protagonizam-a-noite-em-primavera-do-leste-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-12T13:44:01-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Morador se revolta com cartazes de uber colados na UPA em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/morador-se-revolta-com-cartazes-de-uber-colados-na-upa-em-cuiaba-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-12T14:00:00-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Delegado da PF tenta furtar produto de luxo em shopping",
+        "link": "https://perrenguematogrosso.com/um-delegado-da-policia-federal-foi-flagrado-por-cameras-de-seguranca-ao-tentar-furtar-um-produto-de-luxo-em-um-supermercado-dentro-de-um/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 296,
+        "published": "2026-04-12T14:49:47-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Idoso sofre queda de pelo menos 5 metros em ponte de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/idoso-sofre-queda-de-pelo-menos-5-metros-em-ponte-de-cuiaba-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-12T15:06:54-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Tumulto em ponto turístico deixa ao menos 30 mortos durante evento",
+        "link": "https://perrenguematogrosso.com/tumulto-em-ponto-turistico-deixa-ao-menos-30-mortos-durante-eventoum-tumulto-em-um-dos-principais-pontos-turisticos-do-haiti-deixou-pelo-menos-30-mortos-neste-sabado-11-segundo-autoridades-locais/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 296,
+        "published": "2026-04-12T15:15:25-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Várzea Grande: idosa de 104 anos morre após acidente; VEJA VÍDEO",
+        "link": "https://perrenguematogrosso.com/varzea-grande-idosa-de-104-anos-morre-apos-acidente-veja-video/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 295,
+        "published": "2026-04-12T16:00:00-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Papa Leão XIV pede cessar-fogo no Líbano e cobra proteção de civis em meio à guerra; veja vídeo",
+        "link": "https://perrenguematogrosso.com/papa-leao-xiv-pede-cessar-fogo/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T16:00:00-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Athletico-PR vence Chapecoense por 2 a 0 e sobe na tabela do Brasileirão; veja os gols",
+        "link": "https://perrenguematogrosso.com/athletico-pr-vence-chapecoense/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T16:12:11-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Na Europa, Leila Malouf chama atenção de especialista internacional e surpreende; VEJA VÍDEO",
+        "link": "https://perrenguematogrosso.com/na-europa-leila-malouf-chama-atencao-de-especialista-internacional-e-surpreende-veja-video/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 295,
+        "published": "2026-04-12T17:00:00-04:00",
+        "categories": [
+          "Notícias",
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          5,
+          16
+        ]
+      },
+      {
+        "title": "Posto é lacrado após fiscalização identificar bomba com irregularidade; veja vídeo",
+        "link": "https://perrenguematogrosso.com/posto-e-lacrado-apos-fiscalizacao/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T17:00:00-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Batalhão Ambiental faz buscas após relato de onça-preta; veja vídeo",
+        "link": "https://perrenguematogrosso.com/batalhao-ambiental-faz-buscas-apos-relato-de-onca/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T18:00:00-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
       {
         "title": "Botafogo empata com Coritiba em casa após sofrer gol no fim; veja os gols",
         "link": "https://perrenguematogrosso.com/botafogo-empata-com-coritiba/",
@@ -39,15 +314,395 @@
         "author_id": 295,
         "published": "2026-04-12T18:40:42-04:00",
         "categories": [
+          "Notícias",
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          5,
+          16
+        ]
+      },
+      {
+        "title": "Universidade usa drones e inteligência artificial para monitorar desova de tartarugas; veja vídeo",
+        "link": "https://perrenguematogrosso.com/universidade-usa-drones/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T19:00:00-04:00",
+        "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Pedro marca dois gols, Flamengo vence o Fluminense e assume vice-liderança do Brasileirão; veja os gols",
+        "link": "https://perrenguematogrosso.com/flamengo-vence-o-fluminense/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T19:12:02-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Cuiabá empata com Operário-PR, amplia jejum e chega a 24 jogos sem vencer fora de casa; veja a tabela",
+        "link": "https://perrenguematogrosso.com/cuiaba-empata-com-operario-pr/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T19:24:20-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Operário-VG perde fora e Primavera é derrotado em casa na Série D",
+        "link": "https://perrenguematogrosso.com/operario-vg-perde-fora-e-primavera-e-derrotado/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T19:43:08-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Cruzeiro vira sobre o Bragantino no Mineirão, mas segue no Z4 do Brasileirão; veja os gols",
+        "link": "https://perrenguematogrosso.com/cruzeiro-vira-sobre-o-bragantino/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T19:53:04-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Rachas e barulho na MT-251 tiram o sossego e chamam atenção; VEJA VÍDEO",
+        "link": "https://perrenguematogrosso.com/rachas-e-barulho-na-mt-251-tiram-o-sossego-e-chamam-atencao-veja-video/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 295,
+        "published": "2026-04-12T19:59:23-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
       }
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "Operação Tolerância Zero apreende três suspeitos por tráfico de drogas em Mato Grosso",
+        "link": "https://afolhalivre.com/operacao-tolerancia-zero/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T16:01:03-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Primavera do Leste tem noite marcada por brigas em locais movimentados",
+        "link": "https://afolhalivre.com/primavera-do-leste-tem-noite-marcada/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T16:10:26-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Acidente na MT-344 em Dom Aquino termina com capotamento e mobiliza atenção",
+        "link": "https://afolhalivre.com/acidente-na-mt-344-em-dom-aquino/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T16:18:20-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
     "omatogrossense": [
+      {
+        "title": "Brasil goleia Coreia do Sul por 5 a 1 na Arena Pantanal; veja os gols",
+        "link": "https://omatogrossense.com/brasil-goleia-coreia-do-sul/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T01:43:58-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "“Está dando mais alegria para a população cuiabana” Diz prefeito de Cuiabá sobre a vitória da seleção feminina na Arena Pantanal; veja vídeo",
+        "link": "https://omatogrossense.com/esta-dando-mais-alegria-para-a-populacao-cuiabana-diz-prefeito-de-cuiaba-sobre-a-vitoria-da-selecao-feminina-na-arena-pantanal-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-12T09:59:28-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Homem morre após capotar o carro em Rondonópolis; veja vídeo",
+        "link": "https://omatogrossense.com/homem-morre-apos-capotar-o-carro-em-rondonopolis-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-12T10:43:52-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ataques contra estátuas da Havan em quatro estados levantam suspeita de ação coordenada; veja vídeo",
+        "link": "https://omatogrossense.com/a-rede-havan-registrou-ataques-contra-suas-tradicionais-estatuas-da-liberdade-em-quatro-estados-brasileiros-segundo-relato-do-empresario/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 31,
+        "published": "2026-04-12T10:45:59-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Idosa de 104 anos morre atropelada por caminhão em Varzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/idosa-de-104-anos-morre-atropelada-por-caminhao-em-varzea-grande-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-12T11:03:57-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Incêndio atinge casa dos pais de MC Gui em São Paulo e destrói carros na garagem; veja vídeo",
+        "link": "https://omatogrossense.com/a-casa-dos-pais-de-mc-gui-pegou-fogo-na-manha-deste-domingo-12-em-sao-paulo-o-incendio-iniciou-as-7h-da-manha-e-atingiu-a-garagem-do/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 31,
+        "published": "2026-04-12T11:29:26-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Panela esquecida no fogo causa incêndio em Rondonópolis; veja vídeo",
+        "link": "https://omatogrossense.com/panela-esquecida-no-fogo-causa-incendio-em-rondonopolis-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-12T12:15:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Casa desaba com 15 pessoas em imóvel e mobiliza resgate; veja vídeo",
+        "link": "https://omatogrossense.com/uma-casa-desabou-com-15-pessoas-dentro-neste-domingo-12-no-bairro-monte-castelo-em-juiz-de-fora-na-zona-da-mata-de-minas-gerais/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 31,
+        "published": "2026-04-12T12:59:32-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Adolescente ameaça atacar escola em Rondonópolis; veja vídeo",
+        "link": "https://omatogrossense.com/adolescente-ameaca-atacar-escola-em-rondonopolis-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-12T13:24:50-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Brigas em avenidas movimentadas protagonizam a noite em Primavera do Leste; veja vídeo",
+        "link": "https://omatogrossense.com/brigas-em-avenidas-movimentadas-protagonizam-a-noite-em-primavera-do-leste-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-12T13:43:55-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "MC Mestrão reaparece após prisão e afirma que está de volta ao público",
+        "link": "https://omatogrossense.com/o-funkeiro-mc-mestrao-reapareceu-em-video-nas-redes-sociais-apos-deixar-a-prisao-e-alem-disso-afirmou-aos-seguidores-que-esta-de-volta-ao/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 31,
+        "published": "2026-04-12T13:45:37-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Morador se revolta com cartazes de uber colados na UPA em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/morador-se-revolta-com-cartazes-de-uber-colados-na-upa-em-cuiaba-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-12T14:00:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Delegado da PF tenta furtar produto de luxo em shopping do Recife",
+        "link": "https://omatogrossense.com/um-delegado-da-policia-federal-foi-flagrado-por-cameras-de-seguranca-ao-tentar-furtar-um-produto-de-luxo-em-um-supermercado-dentro-de-um/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 31,
+        "published": "2026-04-12T14:59:52-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Idoso sofre queda de pelo menos 5 metros em ponte de Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/idoso-sofre-queda-de-pelo-menos-5-metros-em-ponte-de-cuiaba-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-12T15:06:50-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Tumulto em ponto turístico deixa ao menos 30 mortos durante evento",
+        "link": "https://omatogrossense.com/um-tumulto-em-um-dos-principais-pontos-turisticos-do-haiti-deixou-pelo-menos-30-mortos-neste-sabado-11-segundo-autoridades-locais/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 31,
+        "published": "2026-04-12T15:15:34-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Manobra de ré termina em tragédia: idosa de 104 anos morre em Várzea Grande; VEJA VÍDEO",
+        "link": "https://omatogrossense.com/manobra-de-re-termina-em-tragedia-idosa-de-104-anos/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 30,
+        "published": "2026-04-12T16:00:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "VÍDEO: Papa Leão XIV cobra cessar-fogo no Líbano durante oração no Vaticano",
+        "link": "https://omatogrossense.com/papa-leao-xiv-cobra-cessar-fogo/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T16:00:00-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Elogio inesperado na Europa revela detalhe que colocou Leila Malouf em destaque: VEJA VÍDEO",
+        "link": "https://omatogrossense.com/elogio-inesperado-na-europa-revela-detalhe-que-colocou-leila-malouf-em-destaque-veja-video/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 30,
+        "published": "2026-04-12T17:00:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "VÍDEO: Posto de combustíveis entrega volume menor e Procon lacra unidade",
+        "link": "https://omatogrossense.com/posto-de-combustiveis-entrega-volume-menor/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T17:00:00-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Polícia Ambiental realiza varredura após avistamento de felino; veja vídeo",
+        "link": "https://omatogrossense.com/policia-ambiental-realiza-varredura-apos-avistamento-de-felino/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T18:00:00-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
       {
         "title": "Athletico-PR vence Chapecoense por 2 a 0 e se aproxima do G4; veja os gols",
         "link": "https://omatogrossense.com/athletico-pr-vence-chapecoense/",
@@ -112,11 +767,300 @@
         "category_ids": [
           973
         ]
+      },
+      {
+        "title": "Flamengo vence Fluminense com dois gols de Pedro e assume vice-liderança; veja os gols",
+        "link": "https://omatogrossense.com/flamengo-vence-fluminense/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T19:17:06-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Cuiabá empata fora de casa e soma 24 jogos sem vitória como visitante; veja a tabela",
+        "link": "https://omatogrossense.com/cuiaba-empata-fora-de-casa/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T19:30:12-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Operário-VG é derrotado no DF e Primavera cai no Cerradão",
+        "link": "https://omatogrossense.com/operario-vg-e-derrotado-no-df-e-primavera-cai-no-cerradao/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T19:47:46-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Cruzeiro vira sobre o Bragantino por 2 a 1 no Mineirão; veja os gols",
+        "link": "https://omatogrossense.com/cruzeiro-vira-sobre-o-bragantino/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T19:57:21-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Finais de semana na MT-251 viram cenário de rachas; VEJA VÍDEO",
+        "link": "https://omatogrossense.com/finais-de-semana-na-mt-251-viram-cenario-de-rachas-veja-video/",
+        "author": "Ykaro Amazonas Albernaz Souza Garcia",
+        "author_id": 30,
+        "published": "2026-04-12T19:59:30-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalnortemt": [
+      {
+        "title": "Câmeras registram colisão fatal e dois jovens morrem em Alta Floresta; veja vídeo",
+        "link": "https://portalnortemt.com/cameras-registram-colisao-fatal-e-dois-jovens-morrem-em-alta-floresta/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T11:41:46-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Disputa por caixa de som termina com dois jovens na delegacia em Nova Mutum",
+        "link": "https://portalnortemt.com/disputa-por-caixa-de-som-termina-com-dois-jovens-na-delegacia-em-nova-mutum/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T11:54:35-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Domingo nublado em Sorriso tem previsão de chuva e alerta para instabilidade",
+        "link": "https://portalnortemt.com/domingo-nublado-em-sorriso/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T12:06:55-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Arena Cacerense é inaugurada com festa e homenagens em Cáceres",
+        "link": "https://portalpantanalmt.com/arena-cacerense-e-inaugurada/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T12:22:11-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      },
+      {
+        "title": "Casal é preso com revólver e munições no bairro Vila Irene, em Cáceres",
+        "link": "https://portalpantanalmt.com/casal-e-preso-com-revolver-e-municoes-no-bairro-vila-irene-em-caceres/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T16:26:37-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      },
+      {
+        "title": "Chicão retorna ao Cacerense após 18 anos e reforça projeto para 2026",
+        "link": "https://portalpantanalmt.com/chicao-retorna-ao-cacerense/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T16:34:35-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Panela esquecida no fogão provoca incêndio e assusta moradores no Celina Bezerra em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/panela-esquecida-no-fogao/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T09:55:12-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Corrida da Apae reúne cerca de 800 atletas e reforça inclusão em Rondonópolis, veja vídeo",
+        "link": "https://roonoticias.com/corrida-da-apae-reune-cerca-de-800-atletas/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T10:25:42-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Manutenção na Serra de São Vicente altera tráfego na BR-364 entre segunda e quarta",
+        "link": "https://roonoticias.com/manutencao-na-serra-de-sao-vicente/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-12T10:39:18-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Deco admite ‘falta de ajuda’ a Vitor Roque no Barcelona, vê atacante como vítima e diz que contratação foi em ‘timing’ ruim",
+        "link": "https://roonoticias.com/o-diretor-esportivo-do-barcelona-deco-admitiu-erros/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T16:35:39-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Bundesliga terá mulher como treinadora de um time pela primeira vez na história",
+        "link": "https://roonoticias.com/o-union-berlin-anunciou-marie-louise-eta-de-34-anos/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T16:48:55-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "“Laranja”: deputado é condenado após treta em grupo de WhatsApp",
+        "link": "https://roonoticias.com/o-deputado-federal-gabriel-mota-foi-condenado-a-pagar/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T16:56:25-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "TCU investiga emenda de R$ 4 milhões de Janones à prefeitura de sua ex",
+        "link": "https://roonoticias.com/o-tribunal-de-contas-da-uniao-abriu-auditoria-para-investigar/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T17:02:11-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Menino leva choque elétrico em portão e é salvo por amigo em condomínio; veja vídeo",
+        "link": "https://roonoticias.com/um-menino-sofreu-uma-descarga-eletrica-ao-tentar/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T17:13:33-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Virginia ganha presente de Kim Kardashian; veja vídeo",
+        "link": "https://roonoticias.com/a-influenciadora-virginia-fonseca-chamou-atencao-ao-revelar/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T17:16:32-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Homem morre após capotar o carro em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-homem-identificado-como-helio-camilo-de-oliveira/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T17:25:08-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Panela esquecida no fogo causa incêndio em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/um-principio-de-incendio-assustou-moradores-do-bairro/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-12T17:35:38-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
