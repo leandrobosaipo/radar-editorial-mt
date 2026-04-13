@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-13T15:00:04.142213-04:00",
+  "generated_at": "2026-04-13T16:00:05.415447-04:00",
   "window": {
-    "start": "2026-04-13T14:00:04.142213-04:00",
-    "end": "2026-04-13T15:00:04.142213-04:00"
+    "start": "2026-04-13T15:00:05.415447-04:00",
+    "end": "2026-04-13T16:00:05.415447-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Empresário é sequestrado em área rural e criminoso morre após troca de tiros com policiais em Alta Floresta; veja vídeo",
-        "link": "https://perrenguematogrosso.com/empresario-sequestrado-area-rural-criminoso-morre-alta-floresta-video/",
+        "title": "Moradora cobra providências após pessoas em situação de rua ocuparem calçadas em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/ocupacao-calcada-moradores-rua-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-13T14:39:50-04:00",
+        "published": "2026-04-13T15:21:40-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -21,10 +21,10 @@
       },
       {
         "title": "/",
-        "link": "https://perrenguematogrosso.com/333750-2/",
+        "link": "https://perrenguematogrosso.com/333796-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-13T14:56:23-04:00",
+        "published": "2026-04-13T15:54:08-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,41 +33,106 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/333752-2/",
+        "title": "Tribunais de Contas mudam postura e passam a orientar gestores antes de punir; veja vídeo",
+        "link": "https://perrenguematogrosso.com/tribunais-de-contas-mudam-postura-e-passam-a-orientar-gestores-antes-de-punir-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-13T14:57:15-04:00",
+        "published": "2026-04-13T15:55:55-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           510
         ]
+      },
+      {
+        "title": "“Ponto importante fora de casa”: técnico do Cuiabá valoriza empate com Operário na Série B; veja vídeo",
+        "link": "https://perrenguematogrosso.com/tecnico-do-cuiaba-valoriza-empate/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-13T16:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
       }
     ],
     "afolhalivre": [
       {
-        "title": "Trump elogia lutador brasileiro após vitória no UFC 327: “Você poderia ser modelo”;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/trump-elogia-lutador-brasileiro-apos-vitoria-no-ufc-327-voce-poderia-ser-modelo/",
+        "title": "Velório termina em briga após mulheres descobrirem relacionamento com o falecido;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/velorio-termina-em-briga-apos-mulheres-descobrirem-relacionamento-com-o-falecido/",
         "author": "Código5 Bot",
         "author_id": 1,
-        "published": "2026-04-13T14:31:40-04:00",
+        "published": "2026-04-13T15:11:48-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
         ]
+      },
+      {
+        "title": "City lidera ‘guerra’ na Premier League por joia de R$ 625 milhões do Palmeiras e tenta acelerar negócio",
+        "link": "https://afolhalivre.com/city-lidera-guerra-na-premier-league-por-joia-de-r-625-milhoes-do-palmeiras-e-te/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:21:34-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Pedro, do Flamengo, é o melhor da 11ª rodada no Prêmio ESPN Bola de Prata 2026",
+        "link": "https://afolhalivre.com/pedro-do-flamengo-e-o-melhor-da-11-rodada-no-premio-espn-bola-de-prata-2026/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:41:32-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Gleisi sobre ataques de Trump ao papa Leão XIV: “Ofensas intoleráveis”",
+        "link": "https://afolhalivre.com/gleisi-sobre-ataques-de-trump-ao-papa-leao-xiv-ofensas-intoleraveis/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:43:16-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Saiba quem é Ana Cristina Viana Silveira, nova presidente do INSS",
+        "link": "https://afolhalivre.com/saiba-quem-e-ana-cristina-viana-silveira-nova-presidente-do-inss/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:51:45-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "omatogrossense": [
       {
-        "title": "Sequestro em fazenda termina com morte de suspeito em confronto com a PM em Alta Floresta; veja vídeo",
-        "link": "https://omatogrossense.com/sequestro-fazenda-termina-com-morte-suspeito-alta-floresta-video/",
+        "title": "Moradora relata aumento de pessoas em situação de rua ocupando calçadas em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/aumento-pessoas-situacao-rua-espaco-publico-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-13T14:39:12-04:00",
+        "published": "2026-04-13T15:21:37-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -77,10 +142,10 @@
       },
       {
         "title": "/",
-        "link": "https://omatogrossense.com/140322-2/",
+        "link": "https://omatogrossense.com/140372-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-13T14:56:09-04:00",
+        "published": "2026-04-13T15:54:12-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -89,11 +154,11 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://omatogrossense.com/140325-2/",
+        "title": "Tribunais de Contas mudam postura e passam a orientar gestores antes de punir; veja vídeo",
+        "link": "https://omatogrossense.com/tribunais-de-contas-mudam-postura-e-passam-a-orientar-gestores-antes-de-punir-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-13T14:57:27-04:00",
+        "published": "2026-04-13T15:56:10-04:00",
         "categories": [
           "Política"
         ],
@@ -102,11 +167,11 @@
         ]
       },
       {
-        "title": "Ex-Arsenal, Partey nega novas acusações de estupro e caso avança na Justiça",
-        "link": "https://omatogrossense.com/partey-nega-novas-acusacoes-de-estupro/",
+        "title": "VÍDEO: Barros valoriza empate fora e destaca evolução do Cuiabá na Série B",
+        "link": "https://omatogrossense.com/barros-valoriza-empate-fora/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-13T15:00:00-04:00",
+        "published": "2026-04-13T16:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -117,46 +182,202 @@
     ],
     "portalnortemt": [
       {
-        "title": "Trump elogia lutador brasileiro após vitória no UFC 327: “Você poderia ser modelo”;VEJA VÍDEO.",
-        "link": "https://portalnortemt.com/trump-elogia-lutador-brasileiro-apos-vitoria-no-ufc-327-voce-poderia-ser-modelo/",
+        "title": "Velório termina em briga após mulheres descobrirem relacionamento com o falecido;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/velorio-termina-em-briga-apos-mulheres-descobrirem-relacionamento-com-o-falecido/",
         "author": "Código5 Bot",
         "author_id": 1,
-        "published": "2026-04-13T14:31:15-04:00",
+        "published": "2026-04-13T15:11:18-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
+        ]
+      },
+      {
+        "title": "City lidera ‘guerra’ na Premier League por joia de R$ 625 milhões do Palmeiras e tenta acelerar negócio",
+        "link": "https://portalnortemt.com/city-lidera-guerra-na-premier-league-por-joia-de-r-625-milhoes-do-palmeiras-e-te/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:21:10-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Pedro, do Flamengo, é o melhor da 11ª rodada no Prêmio ESPN Bola de Prata 2026",
+        "link": "https://portalnortemt.com/pedro-do-flamengo-e-o-melhor-da-11-rodada-no-premio-espn-bola-de-prata-2026/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:41:10-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Gleisi sobre ataques de Trump ao papa Leão XIV: “Ofensas intoleráveis”",
+        "link": "https://portalnortemt.com/gleisi-sobre-ataques-de-trump-ao-papa-leao-xiv-ofensas-intoleraveis/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:42:25-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Saiba quem é Ana Cristina Viana Silveira, nova presidente do INSS",
+        "link": "https://portalnortemt.com/saiba-quem-e-ana-cristina-viana-silveira-nova-presidente-do-inss/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:51:13-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ],
     "portalpantanalmt": [
       {
-        "title": "Trump elogia lutador brasileiro após vitória no UFC 327: “Você poderia ser modelo”;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/trump-elogia-lutador-brasileiro-apos-vitoria-no-ufc-327-voce-poderia-ser-modelo/",
+        "title": "Velório termina em briga após mulheres descobrirem relacionamento com o falecido;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/velorio-termina-em-briga-apos-mulheres-descobrirem-relacionamento-com-o-falecido/",
         "author": "Código5 Bot",
         "author_id": 1,
-        "published": "2026-04-13T14:32:06-04:00",
+        "published": "2026-04-13T15:12:15-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
         ]
+      },
+      {
+        "title": "City lidera ‘guerra’ na Premier League por joia de R$ 625 milhões do Palmeiras e tenta acelerar negócio",
+        "link": "https://portalpantanalmt.com/city-lidera-guerra-na-premier-league-por-joia-de-r-625-milhoes-do-palmeiras-e-te/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:22:02-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Pedro, do Flamengo, é o melhor da 11ª rodada no Prêmio ESPN Bola de Prata 2026",
+        "link": "https://portalpantanalmt.com/pedro-do-flamengo-e-o-melhor-da-11-rodada-no-premio-espn-bola-de-prata-2026/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:41:52-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Gleisi sobre ataques de Trump ao papa Leão XIV: “Ofensas intoleráveis”",
+        "link": "https://portalpantanalmt.com/gleisi-sobre-ataques-de-trump-ao-papa-leao-xiv-ofensas-intoleraveis/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:43:41-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Saiba quem é Ana Cristina Viana Silveira, nova presidente do INSS",
+        "link": "https://portalpantanalmt.com/saiba-quem-e-ana-cristina-viana-silveira-nova-presidente-do-inss/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T15:52:13-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
     "roonoticias": [
       {
-        "title": "Trump elogia lutador brasileiro após vitória no UFC 327: “Você poderia ser modelo”; veja vídeo",
-        "link": "https://roonoticias.com/o-presidente-dos-estados-unidos-donald-trump-6/",
+        "title": "Velório termina em briga após mulheres descobrirem relacionamento com o falecido; veja vídeo",
+        "link": "https://roonoticias.com/uma-cerimonia-funebre-no-estado-de-veracruz-terminou/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-13T14:29:39-04:00",
+        "published": "2026-04-13T15:01:30-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
+        ]
+      },
+      {
+        "title": "City lidera ‘guerra’ na Premier League por joia de R$ 625 milhões do Palmeiras e tenta acelerar negócio",
+        "link": "https://roonoticias.com/o-jovem-eduardo-conceicao-avaliado-em-cifras-milionarias/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-13T15:19:59-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Pedro, do Flamengo, é o melhor da 11ª rodada no Prêmio ESPN Bola de Prata 2026",
+        "link": "https://roonoticias.com/o-atacante-pedro-foi-o-grande-destaque-da-rodada/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-13T15:32:58-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Gleisi sobre ataques de Trump ao papa Leão XIV: “Ofensas intoleráveis”",
+        "link": "https://roonoticias.com/a-ministra-chefe-da-secretaria-de-relacoes-institucionais/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-13T15:40:15-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Saiba quem é Ana Cristina Viana Silveira, nova presidente do INSS",
+        "link": "https://roonoticias.com/o-inss-anunciou-nesta-segunda-feira-13-4/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-13T15:49:01-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ]
