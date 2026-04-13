@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-12T19:00:00.282208-04:00",
+  "generated_at": "2026-04-12T20:00:00.307486-04:00",
   "window": {
-    "start": "2026-04-12T18:00:00.282208-04:00",
-    "end": "2026-04-12T19:00:00.282208-04:00"
+    "start": "2026-04-12T19:00:00.307486-04:00",
+    "end": "2026-04-12T20:00:00.307486-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Botafogo empata com Coritiba em casa após sofrer gol no fim; veja os gols",
-        "link": "https://perrenguematogrosso.com/botafogo-empata-com-coritiba/",
+        "title": "Pedro marca dois gols, Flamengo vence o Fluminense e assume vice-liderança do Brasileirão; veja os gols",
+        "link": "https://perrenguematogrosso.com/flamengo-vence-o-fluminense/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-04-12T18:09:07-04:00",
+        "published": "2026-04-12T19:12:02-04:00",
         "categories": [
           "Esporte"
         ],
@@ -20,40 +20,66 @@
         ]
       },
       {
-        "title": "Operação contra pipas com cerol avança em Várzea Grande e revela risco pouco percebido: VEJA VÍDEO",
-        "link": "https://perrenguematogrosso.com/operacao-contra-pipas-com-cerol-avanca-em-varzea-grande-e-revela-risco-pouco-percebido-veja-video/",
+        "title": "Cuiabá empata com Operário-PR, amplia jejum e chega a 24 jogos sem vencer fora de casa; veja a tabela",
+        "link": "https://perrenguematogrosso.com/cuiaba-empata-com-operario-pr/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T19:24:20-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Operário-VG perde fora e Primavera é derrotado em casa na Série D",
+        "link": "https://perrenguematogrosso.com/operario-vg-perde-fora-e-primavera-e-derrotado/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T19:43:08-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Cruzeiro vira sobre o Bragantino no Mineirão, mas segue no Z4 do Brasileirão; veja os gols",
+        "link": "https://perrenguematogrosso.com/cruzeiro-vira-sobre-o-bragantino/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-12T19:53:04-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Rachas e barulho na MT-251 tiram o sossego e chamam atenção; VEJA VÍDEO",
+        "link": "https://perrenguematogrosso.com/rachas-e-barulho-na-mt-251-tiram-o-sossego-e-chamam-atencao-veja-video/",
         "author": "Ykaro Amazonas Albernaz Souza Garcia",
         "author_id": 295,
-        "published": "2026-04-12T18:10:00-04:00",
+        "published": "2026-04-12T19:59:23-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
-      },
-      {
-        "title": "Mistério em motel de Cuiabá: homem é encontrado morto e caso levanta dúvidas: VEJA VÍDEO",
-        "link": "https://perrenguematogrosso.com/misterio-em-motel-de-cuiaba-homem-e-encontrado-morto-e-caso-levanta-duvidas-veja-video/",
-        "author": "Ykaro Amazonas Albernaz Souza Garcia",
-        "author_id": 295,
-        "published": "2026-04-12T18:40:42-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Athletico-PR vence Chapecoense por 2 a 0 e se aproxima do G4; veja os gols",
-        "link": "https://omatogrossense.com/athletico-pr-vence-chapecoense/",
+        "title": "Flamengo vence Fluminense com dois gols de Pedro e assume vice-liderança; veja os gols",
+        "link": "https://omatogrossense.com/flamengo-vence-fluminense/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-12T18:03:30-04:00",
+        "published": "2026-04-12T19:17:06-04:00",
         "categories": [
           "Esporte"
         ],
@@ -62,24 +88,11 @@
         ]
       },
       {
-        "title": "Pipas viram alvo de operação em Várzea Grande e ação chama atenção para risco nas ruas: VEJA VÍDEO",
-        "link": "https://omatogrossense.com/pipas-viram-alvo-de-operacao-em-varzea-grande-e-acao-chama-atencao-para-risco-nas-ruas-veja-video/",
-        "author": "Ykaro Amazonas Albernaz Souza Garcia",
-        "author_id": 30,
-        "published": "2026-04-12T18:09:39-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Botafogo cede empate ao Coritiba e fica no 2 a 2 no Nilton Santos; veja os gols",
-        "link": "https://omatogrossense.com/botafogo-cede-empate-ao-coritiba/",
+        "title": "Cuiabá empata fora de casa e soma 24 jogos sem vitória como visitante; veja a tabela",
+        "link": "https://omatogrossense.com/cuiaba-empata-fora-de-casa/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-12T18:13:36-04:00",
+        "published": "2026-04-12T19:30:12-04:00",
         "categories": [
           "Esporte"
         ],
@@ -88,29 +101,42 @@
         ]
       },
       {
-        "title": "Homem é encontrado morto em motel de Cuiabá e detalhe intriga investigadores: VEJA VÍDEO",
-        "link": "https://omatogrossense.com/homem-e-encontrado-morto-em-motel-de-cuiaba-e-detalhe-intriga-investigadores-veja-video/",
+        "title": "Operário-VG é derrotado no DF e Primavera cai no Cerradão",
+        "link": "https://omatogrossense.com/operario-vg-e-derrotado-no-df-e-primavera-cai-no-cerradao/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T19:47:46-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Cruzeiro vira sobre o Bragantino por 2 a 1 no Mineirão; veja os gols",
+        "link": "https://omatogrossense.com/cruzeiro-vira-sobre-o-bragantino/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-12T19:57:21-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Finais de semana na MT-251 viram cenário de rachas; VEJA VÍDEO",
+        "link": "https://omatogrossense.com/finais-de-semana-na-mt-251-viram-cenario-de-rachas-veja-video/",
         "author": "Ykaro Amazonas Albernaz Souza Garcia",
         "author_id": 30,
-        "published": "2026-04-12T18:40:37-04:00",
+        "published": "2026-04-12T19:59:30-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
-        ]
-      },
-      {
-        "title": "VÍDEO: Universidade registra desova de tartarugas com drones e inteligência artificial",
-        "link": "https://omatogrossense.com/universidade-registra-desova-de-tartarugas/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-12T19:00:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
         ]
       }
     ],
