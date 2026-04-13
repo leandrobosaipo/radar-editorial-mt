@@ -1,13 +1,106 @@
 {
-  "generated_at": "2026-04-13T08:00:06.098297-04:00",
+  "generated_at": "2026-04-13T09:00:00.306317-04:00",
   "window": {
-    "start": "2026-04-13T07:00:06.098297-04:00",
-    "end": "2026-04-13T08:00:06.098297-04:00"
+    "start": "2026-04-13T08:00:00.306317-04:00",
+    "end": "2026-04-13T09:00:00.306317-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Casa pega fogo e animais são resgatados no último segundo; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/fogo-intenso-foi-registrado-em-u/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-13T08:12:17-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "PM intercepta grupo de motociclistas após denúncias de direção perigosa em rodovia de Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/grupo-motociclistas-manobras-operacao-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-13T08:24:13-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Inflação em alta e dólar em queda; o que o novo Boletim Focus revela sobre a economia brasileira",
+        "link": "https://perrenguematogrosso.com/inflacao-em-alta-e-dolar-em-queda/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-13T08:25:06-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Memes do vovô",
+        "link": "https://perrenguematogrosso.com/memes-do-vovo-3226/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-13T08:41:25-04:00",
+        "categories": [
+          "Memes do vovô"
+        ],
+        "category_ids": [
+          4
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Casa pega fogo e animais são salvos em meio às chamas; veja vídeo",
+        "link": "https://omatogrossense.com/fogo-intenso-foi-registrado-em-uma-c/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-13T08:12:32-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "PM intercepta grupo de motociclistas após denúncias de manobras em rodovia de Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/pm-intercepta-grupo-motociclistas-manobras-cuiaba/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-13T08:24:17-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Inflação em alta e dólar em queda; o que o novo Boletim Focus revela sobre a economia brasileira",
+        "link": "https://omatogrossense.com/inflacao-em-alta-e-dolar-em-queda-o-que-o-novo-boletim-focus-revela-sobre-a-economia-brasileira/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-13T08:25:28-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
