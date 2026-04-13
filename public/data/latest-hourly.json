@@ -1,43 +1,17 @@
 {
-  "generated_at": "2026-04-13T10:00:05.484439-04:00",
+  "generated_at": "2026-04-13T11:00:01.637966-04:00",
   "window": {
-    "start": "2026-04-13T09:00:05.484439-04:00",
-    "end": "2026-04-13T10:00:05.484439-04:00"
+    "start": "2026-04-13T10:00:01.637966-04:00",
+    "end": "2026-04-13T11:00:01.637966-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "“Só vi isso em filme”: suspeito entra em choque após abordagem com helicóptero; veja vídeo",
-        "link": "https://perrenguematogrosso.com/abordagem-impressionante-foi-registrada/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-13T09:01:52-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Ataque aéreo atinge civis e deixa mais de 100 mortos; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/bombardeio-violento-atingiu-um/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-13T09:19:55-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Trump critica papa Leão XIV e expõe divergências em declarações públicas; veja vídeo",
-        "link": "https://perrenguematogrosso.com/trump-critica-papa-leao-xiv-e-expoe-divergencias-em-declaracoes-publicas-veja-video/",
+        "title": "Petróleo explode e ultrapassa US$ 100 após ameaça de bloqueio no Estreito de Ormuz",
+        "link": "https://perrenguematogrosso.com/petroleo-explode-e-ultrapassa-us-100-apos-ameaca-de-bloqueio-no-estreito-de-ormuz/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-13T09:30:50-04:00",
+        "published": "2026-04-13T10:18:42-04:00",
         "categories": [
           "Política"
         ],
@@ -46,11 +20,24 @@
         ]
       },
       {
-        "title": "Motoristas se envolvem em acidente e veículos ficam danificados em avenida de Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motoristas-acidente-veiculos-danificados-varzea-grande-video/",
+        "title": "Ataque aéreo atinge civis e deixa mais de 100 mortos; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/bombardeio-violento-atingiu-um/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-13T10:27:17-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Homem embriagado ameaça familiares de morte, agride mãe e criança de 2 anos em VG; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-embriagado-ameaca-familiares-vg-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-13T09:31:37-04:00",
+        "published": "2026-04-13T10:27:43-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -61,143 +48,26 @@
     ],
     "afolhalivre": [
       {
-        "title": "Ameaça em escola de Rondonópolis acende alerta para famílias e alunos;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/ameaca-em-escola-de-rondonopolis-acende-alerta-para-familias-e-alunos-2/",
+        "title": "Adolescente é apreendida após ameaças de ataque a escola em Rondonópolis;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/adolescente-e-apreendida-apos-ameacas-de-ataque-a-escola-em-rondonopolis/",
         "author": "Código5 Bot",
         "author_id": 1,
-        "published": "2026-04-13T09:43:15-04:00",
+        "published": "2026-04-13T10:01:13-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
-        ]
-      },
-      {
-        "title": "Ameaça em escola de Rondonópolis acende alerta para famílias e alunos;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/ameaca-em-escola-de-rondonopolis-acende-alerta-para-familias-e-alunos-3/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:45:07-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Ameaça em escola de Rondonópolis acende alerta para famílias e alunos;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/ameaca-em-escola-de-rondonopolis-acende-alerta-para-familias-e-alunos-4/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:46:24-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Ameaça em escola de Rondonópolis acende alerta para famílias e alunos;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/ameaca-em-escola-de-rondonopolis-acende-alerta-para-familias-e-alunos-5/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:47:42-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Bundesliga terá mulher como treinadora de um time pela primeira vez na história",
-        "link": "https://afolhalivre.com/bundesliga-tera-mulher-como-treinadora-de-um-time-pela-primeira-vez-na-historia/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:48:53-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Ameaça em escola de Rondonópolis acende alerta para famílias e alunos;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/ameaca-em-escola-de-rondonopolis-acende-alerta-para-familias-e-alunos-7/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:51:26-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Panela esquecida no fogo causa incêndio em Rondonópolis;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/panela-esquecida-no-fogo-causa-incendio-em-rondonopolis/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:54:59-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "TCU investiga emenda de R$ 4 milhões de Janones à prefeitura de sua ex",
-        "link": "https://afolhalivre.com/tcu-investiga-emenda-de-r-4-milhoes-de-janones-a-prefeitura-de-sua-ex/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:56:12-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "“Laranja”: deputado é condenado após treta em grupo de WhatsApp",
-        "link": "https://afolhalivre.com/laranja-deputado-e-condenado-apos-treta-em-grupo-de-whatsapp/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:57:26-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
         ]
       }
     ],
     "omatogrossense": [
       {
-        "title": "Suspeito se desespera após policiais “caírem do céu” durante abordagem; Veja vídeo",
-        "link": "https://omatogrossense.com/acao-cinematografica-foi-registrada/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-13T09:01:45-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
         "title": "Bombardeio em mercado deixa mais de 100 mortos; Veja vídeo",
         "link": "https://omatogrossense.com/ataque-aereo-devastador-atingiu/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-13T09:19:50-04:00",
+        "published": "2026-04-13T10:17:32-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -206,24 +76,24 @@
         ]
       },
       {
-        "title": "Trump critica papa Leão XIV e expõe divergências em declarações públicas; veja vídeo",
-        "link": "https://omatogrossense.com/trump-critica-papa-leao-xiv-e-expoe-divergencias-em-declaracoes-publicas-veja-video/",
+        "title": "Petróleo explode e ultrapassa US$ 100 após ameaça de bloqueio no Estreito de Ormuz",
+        "link": "https://omatogrossense.com/petroleo-explode-e-ultrapassa-us-100-apos-ameaca-de-bloqueio-no-estreito-de-ormuz/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-13T09:30:21-04:00",
+        "published": "2026-04-13T10:18:23-04:00",
         "categories": [
-          "MT Notícias"
+          "Política"
         ],
         "category_ids": [
-          20
+          5
         ]
       },
       {
-        "title": "Motoristas se envolvem em acidente e veículos ficam danificados em VG; veja vídeo",
-        "link": "https://omatogrossense.com/motoristas-acidente-veiculos-danificados-vg-video/",
+        "title": "Homem ameaça matar a própria família, agride mãe e criança em Várzea Grande; veja vídeo",
+        "link": "https://omatogrossense.com/homem-ameaca-matar-propria-familia-agride-varzea-grande-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-13T09:36:55-04:00",
+        "published": "2026-04-13T10:27:35-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -232,228 +102,19 @@
         ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Panela esquecida no fogo causa incêndio em Rondonópolis;VEJA VÍDEO.",
-        "link": "https://portalnortemt.com/panela-esquecida-no-fogo-causa-incendio-em-rondonopolis/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:29:29-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "TCU investiga emenda de R$ 4 milhões de Janones à prefeitura de sua ex",
-        "link": "https://portalnortemt.com/tcu-investiga-emenda-de-r-4-milhoes-de-janones-a-prefeitura-de-sua-ex/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:33:17-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "“Laranja”: deputado é condenado após treta em grupo de WhatsApp",
-        "link": "https://portalnortemt.com/laranja-deputado-e-condenado-apos-treta-em-grupo-de-whatsapp/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:34:17-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Homem morre após capotar o carro em Rondonópolis;VEJA VÍDEO.",
-        "link": "https://portalnortemt.com/homem-morre-apos-capotar-o-carro-em-rondonopolis/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:42:07-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Virginia ganha presente de Kim Kardashian;VEJA VÍDEO.",
-        "link": "https://portalnortemt.com/virginia-ganha-presente-de-kim-kardashian/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:45:58-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Menino leva choque elétrico em portão e é salvo por amigo em condomínio;VEJA VÍDEO.",
-        "link": "https://portalnortemt.com/menino-leva-choque-eletrico-em-portao-e-e-salvo-por-amigo-em-condominio/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:47:17-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Bundesliga terá mulher como treinadora de um time pela primeira vez na história",
-        "link": "https://portalnortemt.com/bundesliga-tera-mulher-como-treinadora-de-um-time-pela-primeira-vez-na-historia/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:48:33-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Deco admite 'falta de ajuda' a Vitor Roque no Barcelona, vê atacante como vítima e diz que contratação foi em 'timing' ruim",
-        "link": "https://portalnortemt.com/deco-admite-039-falta-de-ajuda-039-a-vitor-roque-no-barcelona-ve-atacante-como-v/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:49:40-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      }
-    ],
+    "portalnortemt": [],
     "portalpantanalmt": [
       {
-        "title": "Caso em escola de Rondonópolis mobiliza comunidade e autoridades;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/caso-em-escola-de-rondonopolis-mobiliza-comunidade-e-autoridades-2/",
+        "title": "Adolescente é apreendida após ameaças de ataque a escola em Rondonópolis;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/adolescente-e-apreendida-apos-ameacas-de-ataque-a-escola-em-rondonopolis/",
         "author": "Código5 Bot",
         "author_id": 1,
-        "published": "2026-04-13T09:44:21-04:00",
+        "published": "2026-04-13T10:02:23-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
-        ]
-      },
-      {
-        "title": "Homem morre após capotar o carro em Rondonópolis;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/homem-morre-apos-capotar-o-carro-em-rondonopolis/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:45:29-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Caso em escola de Rondonópolis mobiliza comunidade e autoridades;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/caso-em-escola-de-rondonopolis-mobiliza-comunidade-e-autoridades-4/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:46:48-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Caso em escola de Rondonópolis mobiliza comunidade e autoridades;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/caso-em-escola-de-rondonopolis-mobiliza-comunidade-e-autoridades-5/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:48:04-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Bundesliga terá mulher como treinadora de um time pela primeira vez na história",
-        "link": "https://portalpantanalmt.com/bundesliga-tera-mulher-como-treinadora-de-um-time-pela-primeira-vez-na-historia/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:49:12-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Caso em escola de Rondonópolis mobiliza comunidade e autoridades;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/caso-em-escola-de-rondonopolis-mobiliza-comunidade-e-autoridades-7/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:52:17-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Panela esquecida no fogo causa incêndio em Rondonópolis;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/panela-esquecida-no-fogo-causa-incendio-em-rondonopolis/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:55:21-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "TCU investiga emenda de R$ 4 milhões de Janones à prefeitura de sua ex",
-        "link": "https://portalpantanalmt.com/tcu-investiga-emenda-de-r-4-milhoes-de-janones-a-prefeitura-de-sua-ex/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:56:35-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "“Laranja”: deputado é condenado após treta em grupo de WhatsApp",
-        "link": "https://portalpantanalmt.com/laranja-deputado-e-condenado-apos-treta-em-grupo-de-whatsapp/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T09:57:51-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
         ]
       }
     ],
