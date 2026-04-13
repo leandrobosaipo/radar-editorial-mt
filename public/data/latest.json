@@ -1,43 +1,17 @@
 {
-  "generated_at": "2026-04-13T13:00:58.208176-04:00",
+  "generated_at": "2026-04-13T14:00:06.121818-04:00",
   "window": {
-    "start": "2026-04-13T12:00:58.208176-04:00",
-    "end": "2026-04-13T13:00:58.208176-04:00"
+    "start": "2026-04-13T13:00:06.121818-04:00",
+    "end": "2026-04-13T14:00:06.121818-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Fim de uma era: eleição histórica na Hungria encerra governo de Viktor Orbán após mais de uma década; veja vídeo",
-        "link": "https://perrenguematogrosso.com/fim-de-uma-era-eleicao-historica-na-hungria-encerra-governo-de-viktor-orban-apos-mais-de-uma-decada-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-13T12:16:10-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Motorista dirige com portas abertas e som alto em via movimentada; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motorista-chamou-a-atencao/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-13T12:18:24-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Motorista de aplicativo capota veículo e deixa passageira ferida em avenida de Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motorista-aplicativo-capota-veiculo-avenida-cuiaba-video/",
+        "title": "Força-tarefa combate avanço de invasões e destruição ambiental em área protegida nas margens do Rio Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/forca-tarefa-combate-avanco-de-invasoes-e-destruicao-ambiental-em-area-protegida-nas-margens-do-rio-cuiaba-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-13T12:23:13-04:00",
+        "published": "2026-04-13T13:17:44-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -46,66 +20,26 @@
         ]
       },
       {
-        "title": "Pênalti ignorado revolta Palmeiras em clássico contra o Corinthians; veja vídeo",
-        "link": "https://perrenguematogrosso.com/penalti-ignorado-revolta-palmeiras/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-13T12:29:43-04:00",
+        "title": "“Dor que nunca sara”: familiares chegam para julgamento da chacina que chocou; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/dor-que-nunca-sara-familiares-chegam-para-julgamento-da-chacina-que-chocou-veja-video/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-13T13:46:35-04:00",
         "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Empate sem gols, mas com emoção: Luverdense para na trave e segue no G-4 da Série D",
-        "link": "https://perrenguematogrosso.com/luverdense-para-na-trave-e-segue-no-g-4/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-13T13:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      }
-    ],
-    "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "Fim de uma era: eleição histórica na Hungria encerra governo de Viktor Orbán após mais de uma década; veja vídeo",
-        "link": "https://omatogrossense.com/fim-de-uma-era-eleicao-historica-na-hungria-encerra-governo-de-viktor-orban-apos-mais-de-uma-decada-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-13T12:16:03-04:00",
-        "categories": [
-          "Política"
+          "Notícias"
         ],
         "category_ids": [
           5
         ]
-      },
+      }
+    ],
+    "afolhalivre": [
       {
-        "title": "Motorista circula com portas abertas e som alto em via pública; Veja vídeo",
-        "link": "https://omatogrossense.com/motorista-colocou-em-risco-a-seguranca/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-13T12:19:24-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Motorista de aplicativo capota veículo e passageira fica ferida em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/motorista-aplicativo-capota-veiculo-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-13T12:23:15-04:00",
+        "title": "Operação contra pipas com cerol avança em Várzea Grande e revela risco pouco percebido;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/operacao-contra-pipas-com-cerol-avanca-em-varzea-grande-e-revela-risco-pouco-per/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T13:21:54-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -114,24 +48,52 @@
         ]
       },
       {
-        "title": "VÍDEO: Palmeiras questiona arbitragem após lance decisivo contra o Corinthians",
-        "link": "https://omatogrossense.com/palmeiras-questiona-arbitragem/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-13T12:42:10-04:00",
+        "title": "Polícia prende suspeito de abusar de criança de 12 anos;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/policia-prende-suspeito-de-abusar-de-crianca-de-12-anos/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T13:51:40-04:00",
         "categories": [
-          "Esporte"
+          "MT Notícias"
         ],
         "category_ids": [
-          7
+          20
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Força-tarefa desmonta invasão irregular e combate degradação ambiental em área protegida de MT; veja vídeo",
+        "link": "https://omatogrossense.com/forca-tarefa-desmonta-invasao-irregular-e-combate-degradacao-ambiental-em-area-protegida-de-mt-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-13T13:17:24-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
         ]
       },
       {
-        "title": "Luverdense empata com Brasiliense e mantém posição no G-4 da Série D",
-        "link": "https://omatogrossense.com/luverdense-empata-com-brasiliense/",
+        "title": "“Saudade que não tem fim”: familiares acompanham julgamento da chacina que chocou o Brasil; Veja vídeo",
+        "link": "https://omatogrossense.com/saudade-que-nao-tem-fim-familiares-acompanham-julgamento-da-chacina-que-chocou-o-brasil-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-13T13:46:25-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Real Madrid decide vender atacante e abre caminho para Endrick",
+        "link": "https://omatogrossense.com/real-madrid-decide-vender-atacante/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-13T13:00:03-04:00",
+        "published": "2026-04-13T14:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -140,9 +102,90 @@
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalnortemt": [
+      {
+        "title": "Operação contra pipas com cerol avança em Várzea Grande e revela risco pouco percebido;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/operacao-contra-pipas-com-cerol-avanca-em-varzea-grande-e-revela-risco-pouco-per/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T13:21:21-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Polícia prende suspeito de abusar de criança de 12 anos;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/policia-prende-suspeito-de-abusar-de-crianca-de-12-anos/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T13:51:11-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Operação contra pipas com cerol avança em Várzea Grande e revela risco pouco percebido;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/operacao-contra-pipas-com-cerol-avanca-em-varzea-grande-e-revela-risco-pouco-per/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T13:22:27-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Polícia prende suspeito de abusar de criança de 12 anos;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/policia-prende-suspeito-de-abusar-de-crianca-de-12-anos/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T13:52:08-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Operação contra pipas com cerol avança em Várzea Grande e revela risco pouco percebido: veja vídeo",
+        "link": "https://roonoticias.com/a-guarda-municipal-de-varzea-grande-intensificou/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-13T13:12:42-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Polícia prende suspeito de abusar de criança de 12 anos; veja vídeo",
+        "link": "https://roonoticias.com/a-policia-civil-do-amapa-prendeu-um-homem-de-39-anos/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-13T13:47:47-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
@@ -172,7 +215,19 @@
       973,
       3030
     ],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
