@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-04-13T11:00:01.637966-04:00",
+  "generated_at": "2026-04-13T12:00:11.400083-04:00",
   "window": {
-    "start": "2026-04-13T10:00:01.637966-04:00",
-    "end": "2026-04-13T11:00:01.637966-04:00"
+    "start": "2026-04-13T11:00:11.400083-04:00",
+    "end": "2026-04-13T12:00:11.400083-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Petróleo explode e ultrapassa US$ 100 após ameaça de bloqueio no Estreito de Ormuz",
-        "link": "https://perrenguematogrosso.com/petroleo-explode-e-ultrapassa-us-100-apos-ameaca-de-bloqueio-no-estreito-de-ormuz/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-13T10:18:42-04:00",
+        "title": "Jovem de MT viaja para encontro com homem da internet e acaba impedida de sair do condomínio; veja vídeo",
+        "link": "https://perrenguematogrosso.com/jovem-mt-viaja-encontro-homem-internet-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-13T11:34:45-04:00",
         "categories": [
-          "Política"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          510
+          16
         ]
       },
       {
-        "title": "Ataque aéreo atinge civis e deixa mais de 100 mortos; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/bombardeio-violento-atingiu-um/",
+        "title": "“Não tenho medo de Trump”: Papa Leão XIV dispara resposta direta e endurece discurso sobre guerra; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/declaracoes-sobre-guerra-geram-forte-reacao/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-13T10:27:17-04:00",
+        "published": "2026-04-13T11:36:35-04:00",
         "categories": [
           "Notícias"
         ],
@@ -33,41 +33,40 @@
         ]
       },
       {
-        "title": "Homem embriagado ameaça familiares de morte, agride mãe e criança de 2 anos em VG; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-embriagado-ameaca-familiares-vg-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-13T10:27:43-04:00",
+        "title": "Governo afirma cenário equilibrado e nega risco fiscal ao fim do mandato; veja vídeo",
+        "link": "https://perrenguematogrosso.com/governo-afirma-cenario-equilibrado-e-nega-risco-fiscal-ao-fim-do-mandato-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-13T11:47:48-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Política"
         ],
         "category_ids": [
-          16
+          510
         ]
       }
     ],
-    "afolhalivre": [
+    "afolhalivre": [],
+    "omatogrossense": [
       {
-        "title": "Adolescente é apreendida após ameaças de ataque a escola em Rondonópolis;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/adolescente-e-apreendida-apos-ameacas-de-ataque-a-escola-em-rondonopolis/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T10:01:13-04:00",
+        "title": "Jovem de MT viaja para encontro e homem impede sua saída de condomínio; veja vídeo",
+        "link": "https://omatogrossense.com/jovem-mt-viaja-encontro-saida-condominio-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-13T11:30:21-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
         ]
-      }
-    ],
-    "omatogrossense": [
+      },
       {
-        "title": "Bombardeio em mercado deixa mais de 100 mortos; Veja vídeo",
-        "link": "https://omatogrossense.com/ataque-aereo-devastador-atingiu/",
+        "title": "Papa Leão XIV enfrenta Trump e dispara recado sobre guerra e paz em meio à tensão global; Veja vídeo",
+        "link": "https://omatogrossense.com/declaracao-direta-foi-feita-pelo-pontifice/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-13T10:17:32-04:00",
+        "published": "2026-04-13T11:37:02-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -76,48 +75,21 @@
         ]
       },
       {
-        "title": "Petróleo explode e ultrapassa US$ 100 após ameaça de bloqueio no Estreito de Ormuz",
-        "link": "https://omatogrossense.com/petroleo-explode-e-ultrapassa-us-100-apos-ameaca-de-bloqueio-no-estreito-de-ormuz/",
+        "title": "Governo afirma cenário equilibrado e nega risco fiscal ao fim do mandato; veja vídeo",
+        "link": "https://omatogrossense.com/governo-afirma-cenario-equilibrado-e-nega-risco-fiscal-ao-fim-do-mandato-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-13T10:18:23-04:00",
+        "published": "2026-04-13T11:47:57-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
         ]
-      },
-      {
-        "title": "Homem ameaça matar a própria família, agride mãe e criança em Várzea Grande; veja vídeo",
-        "link": "https://omatogrossense.com/homem-ameaca-matar-propria-familia-agride-varzea-grande-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-13T10:27:35-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
       }
     ],
     "portalnortemt": [],
-    "portalpantanalmt": [
-      {
-        "title": "Adolescente é apreendida após ameaças de ataque a escola em Rondonópolis;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/adolescente-e-apreendida-apos-ameacas-de-ataque-a-escola-em-rondonopolis/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T10:02:23-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
