@@ -1,23 +1,256 @@
 {
-  "generated_at": "2026-04-13T17:04:11.218602-04:00",
+  "generated_at": "2026-04-13T18:11:35.659411-04:00",
   "window": {
-    "start": "2026-04-13T16:04:11.218602-04:00",
-    "end": "2026-04-13T17:04:11.218602-04:00"
+    "start": "2026-04-13T17:11:35.659411-04:00",
+    "end": "2026-04-13T18:11:35.659411-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Sítio é reaberto após restauração e volta a receber visitantes; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/arqueologico-foi-reaberto-ao-publico/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-13T17:15:14-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Onça-pintada surpreende motorista e mantém olhar fixo após atravessar estrada em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/onca-pintada-surpreende-motorista-estrada-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-13T17:15:54-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Ibovespa sobe e bolsas globais avançam; o que movimentou os mercados nesta segunda",
+        "link": "https://perrenguematogrosso.com/ibovespa-sobe-e-bolsas-globais-avancam-o-que-movimentou-os-mercados-nesta-segunda/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-13T17:33:41-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Motorista que matou idosa atropelada paga fiança de R$ 7,5 mil e responde em liberdade em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/motorista-matou-idosa-atropelada-paga-fianca-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-13T17:42:35-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Agro brasileiro cresce e Minas Gerais ganha força como potência no setor",
+        "link": "https://perrenguematogrosso.com/agro-brasileiro-cresce-e-minas-gerais-ganha-forca-como-potencia-no-setor/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-13T17:58:42-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Palmeiras ironiza Flamengo após fala de dirigente e esquenta rivalidade fora de campo; veja vídeo",
+        "link": "https://perrenguematogrosso.com/palmeiras-ironiza-flamengo/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-13T18:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "Plano Mato Grosso 2050 promete mudar o estado e expõe desafios que ainda persistem; veja vídeo",
+        "link": "https://perrenguematogrosso.com/plano-mato-grosso-2050-promete-mudar-o-estado-e-expoe-desafios-que-ainda-persistem-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-13T18:11:09-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Sítio reabre após restauração e revela tesouros históricos; Veja vídeo",
+        "link": "https://omatogrossense.com/importante-sitio-arqueologico/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-13T17:14:00-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Onça-pintada é vista cruzando estrada de terra e observa motorista em Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/onca-pintada-cruzando-estrada-mato-grosso-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-13T17:15:45-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ibovespa sobe e bolsas globais avançam; o que movimentou os mercados nesta segunda",
+        "link": "https://omatogrossense.com/ibovespa-sobe-e-bolsas-globais-avancam-o-que-movimentou-os-mercados-nesta-segunda/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-13T17:33:48-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Motorista paga R$ 7,5 mil e deixa prisão após atropelar e matar idosa em MT; veja vídeo",
+        "link": "https://omatogrossense.com/motorista-paga-75-mil-deixa-prisao-matar-idosa-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-13T17:42:38-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Agro brasileiro cresce e Minas Gerais ganha força como potência no setor",
+        "link": "https://omatogrossense.com/agro-brasileiro-cresce-e-minas-gerais-ganha-forca-como-potencia-no-setor/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-13T17:59:16-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "VÍDEO: Palmeiras ironiza Flamengo após fala de dirigente e esquenta clima",
+        "link": "https://omatogrossense.com/palmeiras-ironiza-flamengo/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-13T18:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Plano Mato Grosso 2050 promete mudar o estado e expõe desafios que ainda persistem; veja vídeo",
+        "link": "https://omatogrossense.com/plano-mato-grosso-2050-promete-mudar-o-estado-e-expoe-desafios-que-ainda-persistem-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-13T18:11:32-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
-    "roonoticias": []
+    "roonoticias": [
+      {
+        "title": "Motorista perde controle, invade casa e capota carro em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/motorista-perde-controle-invade-casa-e-capota-carro/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-13T18:11:17-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
