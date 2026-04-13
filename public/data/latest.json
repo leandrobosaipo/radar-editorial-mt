@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-13T14:00:06.121818-04:00",
+  "generated_at": "2026-04-13T15:00:04.142213-04:00",
   "window": {
-    "start": "2026-04-13T13:00:06.121818-04:00",
-    "end": "2026-04-13T14:00:06.121818-04:00"
+    "start": "2026-04-13T14:00:04.142213-04:00",
+    "end": "2026-04-13T15:00:04.142213-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Força-tarefa combate avanço de invasões e destruição ambiental em área protegida nas margens do Rio Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/forca-tarefa-combate-avanco-de-invasoes-e-destruicao-ambiental-em-area-protegida-nas-margens-do-rio-cuiaba-veja-video/",
+        "title": "Empresário é sequestrado em área rural e criminoso morre após troca de tiros com policiais em Alta Floresta; veja vídeo",
+        "link": "https://perrenguematogrosso.com/empresario-sequestrado-area-rural-criminoso-morre-alta-floresta-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-13T13:17:44-04:00",
+        "published": "2026-04-13T14:39:50-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,80 +20,93 @@
         ]
       },
       {
-        "title": "“Dor que nunca sara”: familiares chegam para julgamento da chacina que chocou; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/dor-que-nunca-sara-familiares-chegam-para-julgamento-da-chacina-que-chocou-veja-video/",
+        "title": "/",
+        "link": "https://perrenguematogrosso.com/333750-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-13T13:46:35-04:00",
+        "published": "2026-04-13T14:56:23-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/333752-2/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-13T14:57:15-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
       }
     ],
     "afolhalivre": [
       {
-        "title": "Operação contra pipas com cerol avança em Várzea Grande e revela risco pouco percebido;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/operacao-contra-pipas-com-cerol-avanca-em-varzea-grande-e-revela-risco-pouco-per/",
+        "title": "Trump elogia lutador brasileiro após vitória no UFC 327: “Você poderia ser modelo”;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/trump-elogia-lutador-brasileiro-apos-vitoria-no-ufc-327-voce-poderia-ser-modelo/",
         "author": "Código5 Bot",
         "author_id": 1,
-        "published": "2026-04-13T13:21:54-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Polícia prende suspeito de abusar de criança de 12 anos;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/policia-prende-suspeito-de-abusar-de-crianca-de-12-anos/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T13:51:40-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "omatogrossense": [
-      {
-        "title": "Força-tarefa desmonta invasão irregular e combate degradação ambiental em área protegida de MT; veja vídeo",
-        "link": "https://omatogrossense.com/forca-tarefa-desmonta-invasao-irregular-e-combate-degradacao-ambiental-em-area-protegida-de-mt-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-13T13:17:24-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "“Saudade que não tem fim”: familiares acompanham julgamento da chacina que chocou o Brasil; Veja vídeo",
-        "link": "https://omatogrossense.com/saudade-que-nao-tem-fim-familiares-acompanham-julgamento-da-chacina-que-chocou-o-brasil-veja-video/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-13T13:46:25-04:00",
+        "published": "2026-04-13T14:31:40-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
         ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Sequestro em fazenda termina com morte de suspeito em confronto com a PM em Alta Floresta; veja vídeo",
+        "link": "https://omatogrossense.com/sequestro-fazenda-termina-com-morte-suspeito-alta-floresta-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-13T14:39:12-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
       },
       {
-        "title": "Real Madrid decide vender atacante e abre caminho para Endrick",
-        "link": "https://omatogrossense.com/real-madrid-decide-vender-atacante/",
+        "title": "/",
+        "link": "https://omatogrossense.com/140322-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-13T14:56:09-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": ".",
+        "link": "https://omatogrossense.com/140325-2/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-13T14:57:27-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Ex-Arsenal, Partey nega novas acusações de estupro e caso avança na Justiça",
+        "link": "https://omatogrossense.com/partey-nega-novas-acusacoes-de-estupro/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-13T14:00:00-04:00",
+        "published": "2026-04-13T15:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -104,85 +117,46 @@
     ],
     "portalnortemt": [
       {
-        "title": "Operação contra pipas com cerol avança em Várzea Grande e revela risco pouco percebido;VEJA VÍDEO.",
-        "link": "https://portalnortemt.com/operacao-contra-pipas-com-cerol-avanca-em-varzea-grande-e-revela-risco-pouco-per/",
+        "title": "Trump elogia lutador brasileiro após vitória no UFC 327: “Você poderia ser modelo”;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/trump-elogia-lutador-brasileiro-apos-vitoria-no-ufc-327-voce-poderia-ser-modelo/",
         "author": "Código5 Bot",
         "author_id": 1,
-        "published": "2026-04-13T13:21:21-04:00",
+        "published": "2026-04-13T14:31:15-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Polícia prende suspeito de abusar de criança de 12 anos;VEJA VÍDEO.",
-        "link": "https://portalnortemt.com/policia-prende-suspeito-de-abusar-de-crianca-de-12-anos/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T13:51:11-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
+          973
         ]
       }
     ],
     "portalpantanalmt": [
       {
-        "title": "Operação contra pipas com cerol avança em Várzea Grande e revela risco pouco percebido;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/operacao-contra-pipas-com-cerol-avanca-em-varzea-grande-e-revela-risco-pouco-per/",
+        "title": "Trump elogia lutador brasileiro após vitória no UFC 327: “Você poderia ser modelo”;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/trump-elogia-lutador-brasileiro-apos-vitoria-no-ufc-327-voce-poderia-ser-modelo/",
         "author": "Código5 Bot",
         "author_id": 1,
-        "published": "2026-04-13T13:22:27-04:00",
+        "published": "2026-04-13T14:32:06-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Polícia prende suspeito de abusar de criança de 12 anos;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/policia-prende-suspeito-de-abusar-de-crianca-de-12-anos/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-13T13:52:08-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
+          973
         ]
       }
     ],
     "roonoticias": [
       {
-        "title": "Operação contra pipas com cerol avança em Várzea Grande e revela risco pouco percebido: veja vídeo",
-        "link": "https://roonoticias.com/a-guarda-municipal-de-varzea-grande-intensificou/",
+        "title": "Trump elogia lutador brasileiro após vitória no UFC 327: “Você poderia ser modelo”; veja vídeo",
+        "link": "https://roonoticias.com/o-presidente-dos-estados-unidos-donald-trump-6/",
         "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-13T13:12:42-04:00",
+        "published": "2026-04-13T14:29:39-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Polícia prende suspeito de abusar de criança de 12 anos; veja vídeo",
-        "link": "https://roonoticias.com/a-policia-civil-do-amapa-prendeu-um-homem-de-39-anos/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-13T13:47:47-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
+          973
         ]
       }
     ]
