@@ -1,89 +1,11 @@
 {
-  "generated_at": "2026-04-13T18:11:35.659411-04:00",
+  "generated_at": "2026-04-13T19:00:05.719971-04:00",
   "window": {
-    "start": "2026-04-13T17:11:35.659411-04:00",
-    "end": "2026-04-13T18:11:35.659411-04:00"
+    "start": "2026-04-13T18:00:05.719971-04:00",
+    "end": "2026-04-13T19:00:05.719971-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
-      {
-        "title": "Sítio é reaberto após restauração e volta a receber visitantes; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/arqueologico-foi-reaberto-ao-publico/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-13T17:15:14-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Onça-pintada surpreende motorista e mantém olhar fixo após atravessar estrada em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/onca-pintada-surpreende-motorista-estrada-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-13T17:15:54-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Ibovespa sobe e bolsas globais avançam; o que movimentou os mercados nesta segunda",
-        "link": "https://perrenguematogrosso.com/ibovespa-sobe-e-bolsas-globais-avancam-o-que-movimentou-os-mercados-nesta-segunda/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-13T17:33:41-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Motorista que matou idosa atropelada paga fiança de R$ 7,5 mil e responde em liberdade em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/motorista-matou-idosa-atropelada-paga-fianca-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-13T17:42:35-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Agro brasileiro cresce e Minas Gerais ganha força como potência no setor",
-        "link": "https://perrenguematogrosso.com/agro-brasileiro-cresce-e-minas-gerais-ganha-forca-como-potencia-no-setor/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-13T17:58:42-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Palmeiras ironiza Flamengo após fala de dirigente e esquenta rivalidade fora de campo; veja vídeo",
-        "link": "https://perrenguematogrosso.com/palmeiras-ironiza-flamengo/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-13T18:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
       {
         "title": "Plano Mato Grosso 2050 promete mudar o estado e expõe desafios que ainda persistem; veja vídeo",
         "link": "https://perrenguematogrosso.com/plano-mato-grosso-2050-promete-mudar-o-estado-e-expoe-desafios-que-ainda-persistem-veja-video/",
@@ -96,88 +18,63 @@
         "category_ids": [
           510
         ]
+      },
+      {
+        "title": "Secretário é derrubado de moto após ser atingido por fio de internet no pescoço em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/secretario-moto-atingido-fio-pescoco-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-13T18:18:49-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Explosivo é encontrado perto de palco de show de Shakira",
+        "link": "https://perrenguematogrosso.com/um-artefato-explosivo-foi-encontrado-nas-proximidades-do-palco-montado-para-o-show-de-shakira-em-copacabana-no-rio-de-janeiro/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 296,
+        "published": "2026-04-13T18:51:08-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
       }
     ],
-    "afolhalivre": [],
+    "afolhalivre": [
+      {
+        "title": "Batida entre carros no bairro Buritis, em Primavera, assusta moradores e chama atenção pela destruição; veja vídeo",
+        "link": "https://afolhalivre.com/batida-entre-carros-no-bairro-buritis/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-13T18:36:26-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "Motociclista é flagrado “pegando rabeira” em caminhão; veja vídeo",
+        "link": "https://afolhalivre.com/motociclista-e-flagrado-pegando-rabeira-em-caminhao/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-13T18:44:35-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      }
+    ],
     "omatogrossense": [
-      {
-        "title": "Sítio reabre após restauração e revela tesouros históricos; Veja vídeo",
-        "link": "https://omatogrossense.com/importante-sitio-arqueologico/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-13T17:14:00-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Onça-pintada é vista cruzando estrada de terra e observa motorista em Mato Grosso; veja vídeo",
-        "link": "https://omatogrossense.com/onca-pintada-cruzando-estrada-mato-grosso-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-13T17:15:45-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Ibovespa sobe e bolsas globais avançam; o que movimentou os mercados nesta segunda",
-        "link": "https://omatogrossense.com/ibovespa-sobe-e-bolsas-globais-avancam-o-que-movimentou-os-mercados-nesta-segunda/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-13T17:33:48-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Motorista paga R$ 7,5 mil e deixa prisão após atropelar e matar idosa em MT; veja vídeo",
-        "link": "https://omatogrossense.com/motorista-paga-75-mil-deixa-prisao-matar-idosa-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-13T17:42:38-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Agro brasileiro cresce e Minas Gerais ganha força como potência no setor",
-        "link": "https://omatogrossense.com/agro-brasileiro-cresce-e-minas-gerais-ganha-forca-como-potencia-no-setor/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-13T17:59:16-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "VÍDEO: Palmeiras ironiza Flamengo após fala de dirigente e esquenta clima",
-        "link": "https://omatogrossense.com/palmeiras-ironiza-flamengo/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-13T18:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
       {
         "title": "Plano Mato Grosso 2050 promete mudar o estado e expõe desafios que ainda persistem; veja vídeo",
         "link": "https://omatogrossense.com/plano-mato-grosso-2050-promete-mudar-o-estado-e-expoe-desafios-que-ainda-persistem-veja-video/",
@@ -190,6 +87,45 @@
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Secretário sofre queda de moto após fio solto atingir pescoço durante trajeto em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/secretario-queda-moto-fio-pescoco-cuiaba/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-13T18:18:10-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Explosivo é encontrado perto de palco de show de Shakira",
+        "link": "https://omatogrossense.com/um-artefato-explosivo-foi-encontrado-nas-proximidades-do-palco-montado-para-o-show-de-shakira-em-copacabana-no-rio-de-janeiro-e/",
+        "author": "Isabelli Pereira Pinheiro",
+        "author_id": 31,
+        "published": "2026-04-13T18:54:15-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Arena Pantanal vira palco internacional e impulsiona futebol feminino em MT",
+        "link": "https://omatogrossense.com/arena-pantanal-vira-palco-internacional/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-13T19:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
       }
     ],
     "portalnortemt": [],
@@ -201,6 +137,32 @@
         "author": "Lindy Oliveira",
         "author_id": 27,
         "published": "2026-04-13T18:11:17-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Colisão entre motos deixa dois feridos em Rondonópolis; vítima aguardava na placa de “Pare”",
+        "link": "https://roonoticias.com/colisao-entre-motos-deixa-dois-feridos-em-rondonopolis/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-13T18:18:22-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Ônibus com trabalhadores pega fogo próximo à BR-364 em Rondonópolis; veja vídeo",
+        "link": "https://roonoticias.com/onibus-com-trabalhadores-pega-fogo/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-13T18:26:59-04:00",
         "categories": [
           "Rondonópolis"
         ],
