@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-04-14T16:00:05.665310-04:00",
+  "generated_at": "2026-04-14T17:00:03.564771-04:00",
   "window": {
-    "start": "2026-04-14T15:00:05.665310-04:00",
-    "end": "2026-04-14T16:00:05.665310-04:00"
+    "start": "2026-04-14T16:00:03.564771-04:00",
+    "end": "2026-04-14T17:00:03.564771-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Mixto não libera Dutrinha e Cuiabá joga em Várzea Grande",
-        "link": "https://perrenguematogrosso.com/mixto-nao-libera-dutrinha/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-14T15:27:32-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Homem transporta quase 200 kg de maconha em veículo e acaba preso em Pontes e Lacerda; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-transporta-maconha-veiculo-pontes-e-lacerda-video/",
+        "title": "Homem é salvo por funcionários de peixaria após ser arrastado pela correnteza no Rio Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-salvo-funcionarios-arrastado-rio-cuiaba-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-14T15:37:44-04:00",
+        "published": "2026-04-14T16:22:28-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,24 +20,11 @@
         ]
       },
       {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/334118-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-14T15:51:32-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Senador propõe indiciamento de ministros do STF e medida chama atenção no cenário político",
-        "link": "https://perrenguematogrosso.com/senador-propoe-indiciamento-de-ministros-do-stf-e-medida-chama-atencao-no-cenario-politico/",
+        "title": "Mudança territorial em Cuiabá movimenta debate entre Prefeitura e Assembleia; veja vídeo",
+        "link": "https://perrenguematogrosso.com/mudanca-territorial-em-cuiaba-movimenta-debate-entre-prefeitura-e-assembleia-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-14T15:57:30-04:00",
+        "published": "2026-04-14T16:56:54-04:00",
         "categories": [
           "Política"
         ],
@@ -59,53 +33,78 @@
         ]
       }
     ],
-    "afolhalivre": [],
-    "omatogrossense": [
+    "afolhalivre": [
       {
-        "title": "Motorista transporta 190 kg de maconha e acaba preso em Pontes e Lacerda; veja vídeo",
-        "link": "https://omatogrossense.com/motorista-maconha-preso-pontes-e-lacerda-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-14T15:36:58-04:00",
+        "title": "Nikolas se manifesta sobre Rama… e mexe com o debate político que afeta o dia a dia do segurado",
+        "link": "https://afolhalivre.com/nikolas-se-manifesta-sobre-rama-e-mexe-com-o-debate-politico-que-afeta-o-dia-a-d/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-14T16:12:02-04:00",
         "categories": [
-          "MT Notícias"
+          "Política"
         ],
         "category_ids": [
-          20
+          5
         ]
       },
       {
-        "title": "Mixto não cede estádio e Cuiabá leva jogo para Várzea Grande",
-        "link": "https://omatogrossense.com/mixto-nao-cede-estadio/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-14T15:42:22-04:00",
+        "title": "Acidente na MT-251 mata morador de Primavera",
+        "link": "https://afolhalivre.com/acidente-na-mt-251/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-14T16:17:14-04:00",
         "categories": [
-          "Esporte"
+          "Primavera"
         ],
         "category_ids": [
-          7
+          3032
         ]
       },
       {
-        "title": ".",
-        "link": "https://omatogrossense.com/140684-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-14T15:50:51-04:00",
+        "title": "Briga violenta assusta moradores em Primavera; veja vídeo",
+        "link": "https://afolhalivre.com/briga-violenta/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-14T16:30:56-04:00",
         "categories": [
-          "MT Notícias"
+          "Primavera"
         ],
         "category_ids": [
-          20
+          3032
         ]
       },
       {
-        "title": "Senador propõe indiciamento de ministros do STF e medida chama atenção no cenário político",
-        "link": "https://omatogrossense.com/senador-propoe-indiciamento-de-ministros-do-stf-e-medida-chama-atencao-no-cenario-politico/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-14T15:58:03-04:00",
+        "title": "Governo oficializa ex-ministro… e mexe com o debate político que afeta o dia a dia do segurado",
+        "link": "https://afolhalivre.com/governo-oficializa-ex-ministro-e-mexe-com-o-debate-politico-que-afeta-o-dia-a-di/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-14T16:32:02-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Jovem morre após perder controle da moto e bater em camionete parada em MT; veja vídeo",
+        "link": "https://afolhalivre.com/jovem-morre-apos-perder-controle-da-moto-e-bater-em-camionete-parada/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-14T16:34:47-04:00",
+        "categories": [
+          "Primavera"
+        ],
+        "category_ids": [
+          3032
+        ]
+      },
+      {
+        "title": "TSE troca comando e terá Nunes… e mexe com o debate político que afeta o dia a dia do segurado",
+        "link": "https://afolhalivre.com/tse-troca-comando-e-tera-nunes-e-mexe-com-o-debate-politico-que-afeta-o-dia-a-di/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-14T16:42:09-04:00",
         "categories": [
           "Política"
         ],
@@ -114,9 +113,209 @@
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "omatogrossense": [
+      {
+        "title": "Banhista é arrastado pela correnteza no Rio Cuiabá e salvo por funcionários; veja vídeo",
+        "link": "https://omatogrossense.com/banhista-arrastado-correnteza-rio-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-14T16:22:37-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Mudança territorial em Cuiabá movimenta debate entre Prefeitura e Assembleia; veja vídeo",
+        "link": "https://omatogrossense.com/mudanca-territorial-em-cuiaba-movimenta-debate-entre-prefeitura-e-assembleia-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-14T16:56:44-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
+    "portalnortemt": [
+      {
+        "title": "Nikolas se manifesta sobre Ramagem apó… e amplia a cobrança por gestão e resposta institucional",
+        "link": "https://portalnortemt.com/nikolas-se-manifesta-sobre-ramagem-apo-e-amplia-a-cobranca-por-gestao-e-resposta/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-14T16:11:28-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Governo oficializa ex-ministro Paulo P… e amplia a cobrança por gestão e resposta institucional",
+        "link": "https://portalnortemt.com/governo-oficializa-ex-ministro-paulo-p-e-amplia-a-cobranca-por-gestao-e-resposta/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-14T16:31:27-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "TSE troca comando e terá Nunes Marques… e amplia a cobrança por gestão e resposta institucional",
+        "link": "https://portalnortemt.com/tse-troca-comando-e-tera-nunes-marques-e-amplia-a-cobranca-por-gestao-e-resposta/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-14T16:41:34-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Nikolas se manifesta sobre Ramagem após pri… e repercute entre lideranças e moradores da região",
+        "link": "https://portalpantanalmt.com/nikolas-se-manifesta-sobre-ramagem-apos-pri-e-repercute-entre-liderancas-e-morad/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-14T16:12:39-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Governo oficializa ex-ministro Paulo Piment… e repercute entre lideranças e moradores da região",
+        "link": "https://portalpantanalmt.com/governo-oficializa-ex-ministro-paulo-piment-e-repercute-entre-liderancas-e-morad/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-14T16:32:41-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "TSE troca comando e terá Nunes Marques na p… e repercute entre lideranças e moradores da região",
+        "link": "https://portalpantanalmt.com/tse-troca-comando-e-tera-nunes-marques-na-p-e-repercute-entre-liderancas-e-morad/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-14T16:42:49-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Nikolas se manifesta sobre Ramagem após prisão nos EUA",
+        "link": "https://roonoticias.com/o-deputado-nikolas-ferreira-comentou-a-prisao/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-14T16:01:24-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Governo oficializa ex-ministro Paulo Pimenta como líder na Câmara",
+        "link": "https://roonoticias.com/o-presidente-luiz-inacio-lula-da-silva-oficializou-a-indicacao/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-14T16:22:24-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "TSE troca comando e terá Nunes Marques na presidência nas eleições",
+        "link": "https://roonoticias.com/o-tribunal-superior-eleitoral-realizara-nesta-terca-feira-14-4/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-14T16:32:49-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Criança vence câncer raro e recebe carreata surpresa na BR 364",
+        "link": "https://roonoticias.com/crianca-vence-cancer-raro-e-recebe-carreata-surpresa/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-14T16:45:09-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "PRF apreende medicamentos e eletrônicos em Rondonópolis",
+        "link": "https://roonoticias.com/prf-apreende-medicamentos-e-eletronicos/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-14T16:49:27-04:00",
+        "categories": [
+          "Rondonópolis"
+        ],
+        "category_ids": [
+          3118
+        ]
+      },
+      {
+        "title": "Corinthians pode ser punido por caso de injúria racial contra Carlos Miguel? Procurador do STJD detalha à ESPN",
+        "link": "https://roonoticias.com/o-caso-de-injuria-racial-contra-o-goleiro-carlos-miguel/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-14T16:55:06-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Acidente entre motos deixa dois feridos em Rondonópolis",
+        "link": "https://roonoticias.com/acidente-entre-motos-deixa-dois-feridos-em-rondonopolis/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-14T16:58:57-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
