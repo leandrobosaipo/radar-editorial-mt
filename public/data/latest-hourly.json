@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-14T15:00:06.128638-04:00",
+  "generated_at": "2026-04-14T16:00:05.665310-04:00",
   "window": {
-    "start": "2026-04-14T14:00:06.128638-04:00",
-    "end": "2026-04-14T15:00:06.128638-04:00"
+    "start": "2026-04-14T15:00:05.665310-04:00",
+    "end": "2026-04-14T16:00:05.665310-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Mixto chega a 10 jogos sem vencer e amplia jejum após título estadual",
-        "link": "https://perrenguematogrosso.com/mixto-chega-a-10-jogos-sem-vencer/",
+        "title": "Mixto não libera Dutrinha e Cuiabá joga em Várzea Grande",
+        "link": "https://perrenguematogrosso.com/mixto-nao-libera-dutrinha/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-04-14T14:21:45-04:00",
+        "published": "2026-04-14T15:27:32-04:00",
         "categories": [
           "Esporte"
         ],
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "title": "PRF flagra 1 kg de cocaína escondida em estepe e prende ocupantes na BR-364 em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/prf-flagra-1-kg-de-cocaina-escondida-em-estepe-e-prende-ocupantes-na-br-364-em-cuiaba-veja-video/",
+        "title": "Homem transporta quase 200 kg de maconha em veículo e acaba preso em Pontes e Lacerda; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-transporta-maconha-veiculo-pontes-e-lacerda-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-14T14:37:32-04:00",
+        "published": "2026-04-14T15:37:44-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,11 +33,11 @@
         ]
       },
       {
-        "title": "Operação apreende 400 kg de cobre e prende empresários por receptação; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/334082-2/",
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/334118-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-14T14:43:57-04:00",
+        "published": "2026-04-14T15:51:32-04:00",
         "categories": [
           "Notícias"
         ],
@@ -46,11 +46,11 @@
         ]
       },
       {
-        "title": "Abilio Brunini resgata vídeos e expõe críticas antigas de deputados a Bolsonaro; veja vídeo",
-        "link": "https://perrenguematogrosso.com/abilio-brunini-resgata-videos-e-expoe-criticas-antigas-de-deputados-a-bolsonaro-veja-video/",
+        "title": "Senador propõe indiciamento de ministros do STF e medida chama atenção no cenário político",
+        "link": "https://perrenguematogrosso.com/senador-propoe-indiciamento-de-ministros-do-stf-e-medida-chama-atencao-no-cenario-politico/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 283,
-        "published": "2026-04-14T14:51:53-04:00",
+        "published": "2026-04-14T15:57:30-04:00",
         "categories": [
           "Política"
         ],
@@ -62,37 +62,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Cuiabá recebe rodada internacional com Brasil em campo na Arena Pantanal",
-        "link": "https://omatogrossense.com/cuiaba-recebe-rodada-internacional/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-14T14:14:59-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Mixto completa 10 jogos sem vitória e acende alerta na temporada",
-        "link": "https://omatogrossense.com/mixto-completa-10-jogos-sem-vitoria/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-14T14:32:10-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "PRF flagra cocaína escondida em estepe e prende ocupantes na BR-364 em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/prf-flagra-cocaina-escondida-em-estepe-e-prende-ocupantes-na-br-364-em-cuiaba-veja-video/",
+        "title": "Motorista transporta 190 kg de maconha e acaba preso em Pontes e Lacerda; veja vídeo",
+        "link": "https://omatogrossense.com/motorista-maconha-preso-pontes-e-lacerda-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-14T14:37:36-04:00",
+        "published": "2026-04-14T15:36:58-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -101,37 +75,37 @@
         ]
       },
       {
-        "title": "Espetáculo gratuito sobre colonização chega a Cuiabá e aposta em teatro sem falas",
-        "link": "https://omatogrossense.com/espetaculo-gratuito-sobre-colonizacao-chega-a-cuiaba-e-aposta-em-teatro-sem-falas/",
+        "title": "Mixto não cede estádio e Cuiabá leva jogo para Várzea Grande",
+        "link": "https://omatogrossense.com/mixto-nao-cede-estadio/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-14T14:40:07-04:00",
+        "published": "2026-04-14T15:42:22-04:00",
         "categories": [
-          "Entretenimento"
+          "Esporte"
         ],
         "category_ids": [
-          6
+          7
         ]
       },
       {
-        "title": "Polícia desmonta esquema de cobre furtado e prende empresários durante operação; Veja vídeo",
-        "link": "https://omatogrossense.com/140651-2/",
+        "title": ".",
+        "link": "https://omatogrossense.com/140684-2/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-14T14:44:33-04:00",
+        "published": "2026-04-14T15:50:51-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       },
       {
-        "title": "Abilio Brunini resgata vídeos e expõe críticas antigas de deputados a Bolsonaro; veja vídeo",
-        "link": "https://omatogrossense.com/abilio-brunini-resgata-videos-e-expoe-criticas-antigas-de-deputados-a-bolsonaro-veja-video/",
+        "title": "Senador propõe indiciamento de ministros do STF e medida chama atenção no cenário político",
+        "link": "https://omatogrossense.com/senador-propoe-indiciamento-de-ministros-do-stf-e-medida-chama-atencao-no-cenario-politico/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-14T14:52:12-04:00",
+        "published": "2026-04-14T15:58:03-04:00",
         "categories": [
           "Política"
         ],
