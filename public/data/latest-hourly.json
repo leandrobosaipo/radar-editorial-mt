@@ -1,11 +1,77 @@
 {
-  "generated_at": "2026-04-14T10:01:05.807340-04:00",
+  "generated_at": "2026-04-14T11:00:05.959355-04:00",
   "window": {
-    "start": "2026-04-14T09:01:05.807340-04:00",
-    "end": "2026-04-14T10:01:05.807340-04:00"
+    "start": "2026-04-14T10:00:05.959355-04:00",
+    "end": "2026-04-14T11:00:05.959355-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Jovem morre após perder controle da moto e bater em camionete parada em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/jovem-morre-moto-bater-camionete-mt-video/",
+        "author": "Desconhecido",
+        "author_id": 279,
+        "published": "2026-04-14T10:03:47-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Ibovespa avança e se aproxima dos 200 mil pontos enquanto bancos puxam alta",
+        "link": "https://perrenguematogrosso.com/ibovespa-avanca-e-se-aproxima-dos-200-mil-pontos-enquanto-bancos-puxam-alta/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-14T10:13:36-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Café brasileiro sente impacto global e exportações caem em março",
+        "link": "https://perrenguematogrosso.com/cafe-brasileiro-sente-impacto-global-e-exportacoes-caem-em-marco/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-14T10:35:17-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Homem articula sequestro da ex-companheira e polícia resgata vítima ferida em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-sequestro-ex-companheira-cuiaba-video/",
+        "author": "Desconhecido",
+        "author_id": 279,
+        "published": "2026-04-14T10:50:53-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "/",
+        "link": "https://perrenguematogrosso.com/333998-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-14T10:58:25-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
     "omatogrossense": [],
     "portalnortemt": [],
@@ -13,7 +79,13 @@
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
     "afolhalivre": [],
     "omatogrossense": [],
     "portalnortemt": [],
