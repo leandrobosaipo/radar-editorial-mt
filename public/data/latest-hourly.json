@@ -1,180 +1,23 @@
 {
-  "generated_at": "2026-04-14T09:00:02.980916-04:00",
+  "generated_at": "2026-04-14T10:01:05.807340-04:00",
   "window": {
-    "start": "2026-04-14T08:00:02.980916-04:00",
-    "end": "2026-04-14T09:00:02.980916-04:00"
+    "start": "2026-04-14T09:01:05.807340-04:00",
+    "end": "2026-04-14T10:01:05.807340-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Polícia Civil desarticula quadrilha que utilizava inteligência artificial para invadir contas bancárias em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/quadrilha-inteligencia-artificial-invadir-contas-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-14T08:12:28-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Desaparecimento após queda em rio gera buscas intensas e tensão no interior do Acre; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/queda-desaparecimento-e-desespero-f/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-14T08:25:38-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "“Ilhas de riqueza e miséria”: declaração expõe contraste econômico em Mato Grosso; veja vídeo",
-        "link": "https://perrenguematogrosso.com/ilhas-de-riqueza-e-miseria/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-14T08:47:56-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      }
-    ],
-    "afolhalivre": [
-      {
-        "title": "Turistas flagram macacos formando ponte com o rabo entre árvore… e acende alerta para moradores;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/turistas-flagram-macacos-formando-ponte-com-o-rabo-entre-arvore-e-acende-alerta/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-14T08:03:52-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "omatogrossense": [
-      {
-        "title": "Polícia desarticula grupo criminoso que aplicava golpes com uso de inteligência artificial em MT; veja vídeo",
-        "link": "https://omatogrossense.com/grupo-criminoso-aplicava-golpes-inteligencia-artificial-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-14T08:12:23-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Queda em rio deixa adolescente indígena desaparecido; Veja vídeo",
-        "link": "https://omatogrossense.com/desaparecimento-queda-e-angustia/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-14T08:25:50-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "“Ilhas de riqueza e miséria”: declaração expõe contraste econômico em Mato Grosso; veja vídeo",
-        "link": "https://omatogrossense.com/ilhas-de-riqueza-e-miseria-declaracao-expoe-contraste-economico-em-mato-grosso-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-14T08:48:00-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      }
-    ],
-    "portalnortemt": [
-      {
-        "title": "Turistas flagram macacos formando ponte com o rabo entre árvores em… e reforça alerta regional;VEJA VÍDEO.",
-        "link": "https://portalnortemt.com/turistas-flagram-macacos-formando-ponte-com-o-rabo-entre-arvores-em-e-reforca-al/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-14T08:03:17-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "Turistas flagram macacos formando ponte com o rabo entre árvores… e mobiliza a comunidade local;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/turistas-flagram-macacos-formando-ponte-com-o-rabo-entre-arvores-e-mobiliza-a-co/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-14T08:04:27-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
