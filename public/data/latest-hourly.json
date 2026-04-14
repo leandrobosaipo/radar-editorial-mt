@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-04-14T14:13:08.271987-04:00",
+  "generated_at": "2026-04-14T15:00:06.128638-04:00",
   "window": {
-    "start": "2026-04-14T13:13:08.271987-04:00",
-    "end": "2026-04-14T14:13:08.271987-04:00"
+    "start": "2026-04-14T14:00:06.128638-04:00",
+    "end": "2026-04-14T15:00:06.128638-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PRF resgata 13 aves em situação de maus-tratos na BR-070 em Barra do Garças; veja vídeo",
-        "link": "https://perrenguematogrosso.com/prf-13-aves-situacao-maus-tratos-br-070-barra-do-garcas-video/",
+        "title": "Mixto chega a 10 jogos sem vencer e amplia jejum após título estadual",
+        "link": "https://perrenguematogrosso.com/mixto-chega-a-10-jogos-sem-vencer/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-14T14:21:45-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
+      },
+      {
+        "title": "PRF flagra 1 kg de cocaína escondida em estepe e prende ocupantes na BR-364 em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/prf-flagra-1-kg-de-cocaina-escondida-em-estepe-e-prende-ocupantes-na-br-364-em-cuiaba-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-14T13:27:48-04:00",
+        "published": "2026-04-14T14:37:32-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,24 +33,11 @@
         ]
       },
       {
-        "title": "Brasil enfrenta Zâmbia hoje e relembra vitória inédita nas Olimpíadas",
-        "link": "https://perrenguematogrosso.com/brasil-enfrenta-zambia-hoje/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-14T13:31:01-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/334064-2/",
+        "title": "Operação apreende 400 kg de cobre e prende empresários por receptação; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/334082-2/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-14T13:53:23-04:00",
+        "published": "2026-04-14T14:43:57-04:00",
         "categories": [
           "Notícias"
         ],
@@ -46,40 +46,27 @@
         ]
       },
       {
-        "title": "Arena Pantanal vira palco internacional e recebe Brasil em dia de rodada dupla feminina",
-        "link": "https://perrenguematogrosso.com/arena-pantanal-vira-palco-internacional/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-14T13:56:47-04:00",
+        "title": "Abilio Brunini resgata vídeos e expõe críticas antigas de deputados a Bolsonaro; veja vídeo",
+        "link": "https://perrenguematogrosso.com/abilio-brunini-resgata-videos-e-expoe-criticas-antigas-de-deputados-a-bolsonaro-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-14T14:51:53-04:00",
         "categories": [
-          "Esporte"
+          "Política"
         ],
         "category_ids": [
-          509
+          510
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "PRF flagra maus-tratos e resgata 13 aves em carro na BR-070 em MT; veja vídeo",
-        "link": "https://omatogrossense.com/prf-flagra-maus-tratos-resgata-13-aves-070-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-14T13:27:41-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Brasil reencontra Zâmbia após vitória histórica e tenta repetir resultado",
-        "link": "https://omatogrossense.com/brasil-reencontra-zambia/",
+        "title": "Cuiabá recebe rodada internacional com Brasil em campo na Arena Pantanal",
+        "link": "https://omatogrossense.com/cuiaba-recebe-rodada-internacional/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-14T13:49:16-04:00",
+        "published": "2026-04-14T14:14:59-04:00",
         "categories": [
           "Esporte"
         ],
@@ -88,16 +75,68 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://omatogrossense.com/140629-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-14T13:53:36-04:00",
+        "title": "Mixto completa 10 jogos sem vitória e acende alerta na temporada",
+        "link": "https://omatogrossense.com/mixto-completa-10-jogos-sem-vitoria/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-14T14:32:10-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "PRF flagra cocaína escondida em estepe e prende ocupantes na BR-364 em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/prf-flagra-cocaina-escondida-em-estepe-e-prende-ocupantes-na-br-364-em-cuiaba-veja-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-14T14:37:36-04:00",
         "categories": [
           "MT Notícias"
         ],
         "category_ids": [
           20
+        ]
+      },
+      {
+        "title": "Espetáculo gratuito sobre colonização chega a Cuiabá e aposta em teatro sem falas",
+        "link": "https://omatogrossense.com/espetaculo-gratuito-sobre-colonizacao-chega-a-cuiaba-e-aposta-em-teatro-sem-falas/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-14T14:40:07-04:00",
+        "categories": [
+          "Entretenimento"
+        ],
+        "category_ids": [
+          6
+        ]
+      },
+      {
+        "title": "Polícia desmonta esquema de cobre furtado e prende empresários durante operação; Veja vídeo",
+        "link": "https://omatogrossense.com/140651-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-14T14:44:33-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      },
+      {
+        "title": "Abilio Brunini resgata vídeos e expõe críticas antigas de deputados a Bolsonaro; veja vídeo",
+        "link": "https://omatogrossense.com/abilio-brunini-resgata-videos-e-expoe-criticas-antigas-de-deputados-a-bolsonaro-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-14T14:52:12-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ],
