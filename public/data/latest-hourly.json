@@ -1,58 +1,32 @@
 {
-  "generated_at": "2026-04-13T19:00:05.719971-04:00",
+  "generated_at": "2026-04-13T20:00:00.908650-04:00",
   "window": {
-    "start": "2026-04-13T18:00:05.719971-04:00",
-    "end": "2026-04-13T19:00:05.719971-04:00"
+    "start": "2026-04-13T19:00:00.908650-04:00",
+    "end": "2026-04-13T20:00:00.908650-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Plano Mato Grosso 2050 promete mudar o estado e expõe desafios que ainda persistem; veja vídeo",
-        "link": "https://perrenguematogrosso.com/plano-mato-grosso-2050-promete-mudar-o-estado-e-expoe-desafios-que-ainda-persistem-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-13T18:11:09-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Secretário é derrubado de moto após ser atingido por fio de internet no pescoço em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/secretario-moto-atingido-fio-pescoco-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-13T18:18:49-04:00",
+        "title": "Ônibus pega fogo no meio da via em Rondonópolis; veja video",
+        "link": "https://perrenguematogrosso.com/onibus-pega-fogo-no-meio-da-via-em-rondonopolis-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-13T19:15:12-04:00",
         "categories": [
           "Vovô de Olho"
         ],
         "category_ids": [
           16
         ]
-      },
-      {
-        "title": "Explosivo é encontrado perto de palco de show de Shakira",
-        "link": "https://perrenguematogrosso.com/um-artefato-explosivo-foi-encontrado-nas-proximidades-do-palco-montado-para-o-show-de-shakira-em-copacabana-no-rio-de-janeiro/",
-        "author": "Isabelli Pereira Pinheiro",
-        "author_id": 296,
-        "published": "2026-04-13T18:51:08-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
       }
     ],
     "afolhalivre": [
       {
-        "title": "Batida entre carros no bairro Buritis, em Primavera, assusta moradores e chama atenção pela destruição; veja vídeo",
-        "link": "https://afolhalivre.com/batida-entre-carros-no-bairro-buritis/",
+        "title": "Caminhão-tanque tomba próximo ao terminal da Rumo; veja vídeo",
+        "link": "https://afolhalivre.com/caminhao-tanque-tomba-proximo-ao-terminal-da-rumo-em-rondonopolis-veja-video/",
         "author": "Lindy Oliveira",
         "author_id": 27,
-        "published": "2026-04-13T18:36:26-04:00",
+        "published": "2026-04-13T19:01:35-04:00",
         "categories": [
           "Primavera"
         ],
@@ -61,39 +35,11 @@
         ]
       },
       {
-        "title": "Motociclista é flagrado “pegando rabeira” em caminhão; veja vídeo",
-        "link": "https://afolhalivre.com/motociclista-e-flagrado-pegando-rabeira-em-caminhao/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-13T18:44:35-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      }
-    ],
-    "omatogrossense": [
-      {
-        "title": "Plano Mato Grosso 2050 promete mudar o estado e expõe desafios que ainda persistem; veja vídeo",
-        "link": "https://omatogrossense.com/plano-mato-grosso-2050-promete-mudar-o-estado-e-expoe-desafios-que-ainda-persistem-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-13T18:11:32-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Secretário sofre queda de moto após fio solto atingir pescoço durante trajeto em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/secretario-queda-moto-fio-pescoco-cuiaba/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-13T18:18:10-04:00",
+        "title": "Motorista perde controle, invade casa e capota carro em Rondonó… e acende alerta para moradores;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/motorista-perde-controle-invade-casa-e-capota-carro-em-rondono-e-acende-alerta-p/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:12:45-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -102,24 +48,65 @@
         ]
       },
       {
-        "title": "Explosivo é encontrado perto de palco de show de Shakira",
-        "link": "https://omatogrossense.com/um-artefato-explosivo-foi-encontrado-nas-proximidades-do-palco-montado-para-o-show-de-shakira-em-copacabana-no-rio-de-janeiro-e/",
-        "author": "Isabelli Pereira Pinheiro",
-        "author_id": 31,
-        "published": "2026-04-13T18:54:15-04:00",
+        "title": "Colisão entre motos deixa dois feridos em Rondonópolis; vítima aguardava na placa de “Pare”",
+        "link": "https://afolhalivre.com/colisao-entre-motos-deixa-dois-feridos-em-rondonopolis-vitima-aguardava-na-placa/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:14:08-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       },
       {
-        "title": "Arena Pantanal vira palco internacional e impulsiona futebol feminino em MT",
-        "link": "https://omatogrossense.com/arena-pantanal-vira-palco-internacional/",
+        "title": "Colisão entre motos deixa dois feridos em Rondonópolis e acende alerta para moradores",
+        "link": "https://afolhalivre.com/colisao-entre-motos-deixa-dois-feridos-em-rondonopolis-e-acende-alerta-para-mora/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:14:18-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ônibus com trabalhadores pega fogo próximo à BR-364 em Rondonóp… e acende alerta para moradores;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/onibus-com-trabalhadores-pega-fogo-proximo-a-br-364-em-rondonop-e-acende-alerta/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:15:43-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "Ônibus pega fogo no meio da via em Rondonópolis; veja video",
+        "link": "https://omatogrossense.com/onibus-pega-fogo-no-meio-da-via-em-rondonopolis-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-13T19:15:39-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Richarlison revela depressão após Copa de 2022 e abre o jogo",
+        "link": "https://omatogrossense.com/richarlison-revela-depressao/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-13T19:00:00-04:00",
+        "published": "2026-04-13T20:00:00-04:00",
         "categories": [
           "Esporte"
         ],
@@ -128,49 +115,167 @@
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+    "portalnortemt": [
       {
-        "title": "Motorista perde controle, invade casa e capota carro em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/motorista-perde-controle-invade-casa-e-capota-carro/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-13T18:11:17-04:00",
+        "title": "Motorista perde controle, invade casa e capota carro em Rondonópolis e reforça alerta regional;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/motorista-perde-controle-invade-casa-e-capota-carro-em-rondonopolis-e-reforca-al/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:12:23-04:00",
         "categories": [
-          "Rondonópolis"
+          "MT Notícias"
         ],
         "category_ids": [
-          3118
+          20
+        ]
+      },
+      {
+        "title": "Colisão entre motos deixa dois feridos em Rondonópolis e reforça alerta regional",
+        "link": "https://portalnortemt.com/colisao-entre-motos-deixa-dois-feridos-em-rondonopolis-e-reforca-alerta-regional/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:13:36-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ônibus com trabalhadores pega fogo próximo à BR-364 em Rondonópolis e reforça alerta regional;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/onibus-com-trabalhadores-pega-fogo-proximo-a-br-364-em-rondonopolis-e-reforca-al/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:15:11-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Ônibus com trabalhadores pega fogo próximo à BR-364 em Rondonópolis e reforça alerta regional;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/onibus-com-trabalhadores-pega-fogo-proximo-a-br-364-em-rondonopolis-e-reforca-al-2/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:15:16-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Criminosos envolvidos no ataque a Confresa, têm histórico internacional e ligação com grandes crimes, aponta investigação",
+        "link": "https://portalnortemt.com/criminosos-de-ataque-em-cidade-de-mt/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-13T19:19:17-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Motorista embriagado invade pista de caminhada e mata idosa de 64 anos em Sinop; suspeito paga fiança e é solto; veja vídeo",
+        "link": "https://portalnortemt.com/motorista-embriagado-invade-pista-de-caminhada/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-13T19:30:38-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      },
+      {
+        "title": "Raio fecha ponto de tráfico em Sorriso e prende suspeito durante ação rápida",
+        "link": "https://portalnortemt.com/raio-fecha-ponto-de-trafico-em-sorriso/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-13T19:41:30-04:00",
+        "categories": [
+          "Sinop"
+        ],
+        "category_ids": [
+          3030
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Motorista perde controle, invade casa e capota carro em Rondonóp… e mobiliza a comunidade local;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/motorista-perde-controle-invade-casa-e-capota-carro-em-rondonop-e-mobiliza-a-com/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:13:05-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
         ]
       },
       {
         "title": "Colisão entre motos deixa dois feridos em Rondonópolis; vítima aguardava na placa de “Pare”",
-        "link": "https://roonoticias.com/colisao-entre-motos-deixa-dois-feridos-em-rondonopolis/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-13T18:18:22-04:00",
+        "link": "https://portalpantanalmt.com/colisao-entre-motos-deixa-dois-feridos-em-rondonopolis-vitima-aguardava-na-placa/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:14:36-04:00",
         "categories": [
-          "Rondonópolis"
+          "MT Notícias"
         ],
         "category_ids": [
-          3118
+          20
         ]
       },
       {
-        "title": "Ônibus com trabalhadores pega fogo próximo à BR-364 em Rondonópolis; veja vídeo",
-        "link": "https://roonoticias.com/onibus-com-trabalhadores-pega-fogo/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-13T18:26:59-04:00",
+        "title": "Colisão entre motos deixa dois feridos em Rondonópolis e mobiliza a comunidade local",
+        "link": "https://portalpantanalmt.com/colisao-entre-motos-deixa-dois-feridos-em-rondonopolis-e-mobiliza-a-comunidade-l/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:14:44-04:00",
         "categories": [
-          "Rondonópolis"
+          "MT Notícias"
         ],
         "category_ids": [
-          3118
+          20
+        ]
+      },
+      {
+        "title": "Ônibus com trabalhadores pega fogo próximo à BR-364 em Rondonópo… e mobiliza a comunidade local;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/onibus-com-trabalhadores-pega-fogo-proximo-a-br-364-em-rondonopo-e-mobiliza-a-co/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-13T19:16:16-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Jovem executado a tiros na Rua dos Cravos é identificado em Cáceres (MT)",
+        "link": "https://portalpantanalmt.com/jovem-executado-a-tiros-na-rua-dos-cravos-e-identificado-em-caceres-mt/",
+        "author": "Lindy Oliveira",
+        "author_id": 27,
+        "published": "2026-04-13T19:54:04-04:00",
+        "categories": [
+          "Cáceres"
+        ],
+        "category_ids": [
+          3105
         ]
       }
-    ]
+    ],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
