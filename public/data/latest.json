@@ -1,74 +1,35 @@
 {
-  "generated_at": "2026-04-14T11:00:05.959355-04:00",
+  "generated_at": "2026-04-14T12:00:02.706435-04:00",
   "window": {
-    "start": "2026-04-14T10:00:05.959355-04:00",
-    "end": "2026-04-14T11:00:05.959355-04:00"
+    "start": "2026-04-14T11:00:02.706435-04:00",
+    "end": "2026-04-14T12:00:02.706435-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Jovem morre após perder controle da moto e bater em camionete parada em MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/jovem-morre-moto-bater-camionete-mt-video/",
-        "author": "Desconhecido",
-        "author_id": 279,
-        "published": "2026-04-14T10:03:47-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Ibovespa avança e se aproxima dos 200 mil pontos enquanto bancos puxam alta",
-        "link": "https://perrenguematogrosso.com/ibovespa-avanca-e-se-aproxima-dos-200-mil-pontos-enquanto-bancos-puxam-alta/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-14T10:13:36-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Café brasileiro sente impacto global e exportações caem em março",
-        "link": "https://perrenguematogrosso.com/cafe-brasileiro-sente-impacto-global-e-exportacoes-caem-em-marco/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-14T10:35:17-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Homem articula sequestro da ex-companheira e polícia resgata vítima ferida em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-sequestro-ex-companheira-cuiaba-video/",
-        "author": "Desconhecido",
-        "author_id": 279,
-        "published": "2026-04-14T10:50:53-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/333998-2/",
+        "title": "Jovem de 20 anos é morta com facadas após invasão do ex-marido; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/sabrina-oliveira-brito-de-20-anos/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-14T10:58:25-04:00",
+        "published": "2026-04-14T11:22:32-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
+        ]
+      },
+      {
+        "title": "Entregadores de aplicativo se unem em Cuiabá e realizam carreata até a ALMT em protesto contra o PL 152; veja vídeo",
+        "link": "https://perrenguematogrosso.com/entregadores-cuiaba-carreata-protesto-pl-152-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-14T11:46:56-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
         ]
       }
     ],
@@ -86,10 +47,39 @@
       509,
       510
     ],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
