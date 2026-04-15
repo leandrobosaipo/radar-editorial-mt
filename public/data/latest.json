@@ -1,138 +1,23 @@
 {
-  "generated_at": "2026-04-15T09:00:05.283107-04:00",
+  "generated_at": "2026-04-15T10:00:39.635566-04:00",
   "window": {
-    "start": "2026-04-15T08:00:05.283107-04:00",
-    "end": "2026-04-15T09:00:05.283107-04:00"
+    "start": "2026-04-15T09:00:39.635566-04:00",
+    "end": "2026-04-15T10:00:39.635566-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "Homem grava encontro com onça-pintada e filhote durante caminhada na Transpantaneira; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-encontro-onca-pintada-filhote-transpantaneira-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-15T08:09:32-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "MC Poze do Rodo e MC Ryan SP são presos em operação bilionária da Polícia Federal; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/mc-ryan-sp-e-mc-poze/",
-        "author": "Redação",
-        "author_id": 276,
-        "published": "2026-04-15T08:10:05-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Polícia Civil identifica indícios de fraude em licitação e cumpre mandados no interior de MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-civil-indicios-fraude-licitacao-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-15T08:54:54-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "MC Poze do Rodo e MC Ryan SP são capturados em megaoperação bilionária; Veja vídeo",
-        "link": "https://omatogrossense.com/prisao-de-artistas-foi-realizada-e/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-15T08:10:36-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Homem registra onça-pintada com filhote durante caminhada na estrada Transpantaneira; veja vídeo",
-        "link": "https://omatogrossense.com/onca-pintada-filhote-caminhada-transpantaneira-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-15T08:10:49-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Polícia Civil apura fraude em licitação e cumpre mandados em MT; veja vídeo",
-        "link": "https://omatogrossense.com/policia-apura-fraude-licitacao-mandados-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-15T08:54:58-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
