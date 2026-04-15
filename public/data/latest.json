@@ -1,112 +1,23 @@
 {
-  "generated_at": "2026-04-15T13:00:05.333062-04:00",
+  "generated_at": "2026-04-15T14:04:56.029789-04:00",
   "window": {
-    "start": "2026-04-15T12:00:05.333062-04:00",
-    "end": "2026-04-15T13:00:05.333062-04:00"
+    "start": "2026-04-15T13:04:56.029789-04:00",
+    "end": "2026-04-15T14:04:56.029789-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [
-      {
-        "title": "“Playboy dos consignados” é preso em SC após golpe milionário com empréstimos falsos; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/334344-2/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-15T12:36:42-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Suspeito de seis homicídios e tentativas continua foragido e mobiliza forças de segurança no norte de MT; veja vídeo",
-        "link": "https://perrenguematogrosso.com/suspeito-seis-homicidios-tentativas-foragido-norte-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-15T12:44:14-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      }
-    ],
+    "perrenguematogrosso": [],
     "afolhalivre": [],
-    "omatogrossense": [
-      {
-        "title": "“Playboy dos consignados” é preso após aplicar golpes e ostentar vida de luxo; Veja vídeo",
-        "link": "https://omatogrossense.com/140882-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-15T12:36:47-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Autor de seis homicídios e tentativas é procurado pela polícia no norte de MT; veja vídeo",
-        "link": "https://omatogrossense.com/autor-seis-homicidios-tentativas-procurado-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-15T12:46:18-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
+    "omatogrossense": [],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [
-      4,
-      5,
-      16,
-      509,
-      510
-    ],
-    "afolhalivre": [
-      5,
-      7,
-      20,
-      973,
-      3032
-    ],
-    "omatogrossense": [
-      5,
-      7,
-      20,
-      973
-    ],
-    "portalnortemt": [
-      5,
-      7,
-      20,
-      973,
-      3030
-    ],
-    "portalpantanalmt": [
-      5,
-      7,
-      20,
-      973,
-      3105
-    ],
-    "roonoticias": [
-      5,
-      7,
-      20,
-      973,
-      3118
-    ]
+    "perrenguematogrosso": [],
+    "afolhalivre": [],
+    "omatogrossense": [],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   }
 }
