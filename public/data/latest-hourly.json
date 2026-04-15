@@ -1,23 +1,140 @@
 {
-  "generated_at": "2026-04-15T10:00:39.635566-04:00",
+  "generated_at": "2026-04-15T11:00:05.937788-04:00",
   "window": {
-    "start": "2026-04-15T09:00:39.635566-04:00",
-    "end": "2026-04-15T10:00:39.635566-04:00"
+    "start": "2026-04-15T10:00:05.937788-04:00",
+    "end": "2026-04-15T11:00:05.937788-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Crianças Xavante apresentam produção de alimentos durante entrega de veículo agrícola em MT; veja vídeo",
+        "link": "https://perrenguematogrosso.com/criancas-xavante-producao-alimentos-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-15T10:30:38-04:00",
+        "categories": [
+          "Notícias",
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          5,
+          16
+        ]
+      },
+      {
+        "title": "Acidente no Eixão envolve três veículos e deixa feridos; câmeras registram colisão",
+        "link": "https://perrenguematogrosso.com/acidente-no-eixao-envolve-tres-veiculos-e-deixa-feridos-cameras-registram-colisao/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-15T10:45:52-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Carta entre gigantes: Trump revela pedido direto a Xi sobre armas ao Irã; veja vídeo",
+        "link": "https://perrenguematogrosso.com/carta-entre-gigantes-trump-revela-pedido-direto-a-xi-sobre-armas-ao-ira-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-15T10:58:23-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Crianças Xavante mostram alimentos produzidos na aldeia durante entrega de veículo em MT; veja vídeo",
+        "link": "https://omatogrossense.com/criancas-xavante-alimentos-produzidos-aldeia-mt-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-15T10:30:41-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Carta entre gigantes: Trump revela pedido direto a Xi sobre armas ao Irã; veja vídeo",
+        "link": "https://omatogrossense.com/carta-entre-gigantes-trump-revela-pedido-direto-a-xi-sobre-armas-ao-ira-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-15T10:58:52-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Sequência de manobras termina em acidente no Eixão e deixa três feridos;  Veja video",
+        "link": "https://omatogrossense.com/sequencia-de-manobras-termina-em-acidente-no-eixao-e-deixa-tres-feridos-veja-video/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-15T10:59:59-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
   },
   "menu_category_ids": {
-    "perrenguematogrosso": [],
-    "afolhalivre": [],
-    "omatogrossense": [],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    "perrenguematogrosso": [
+      4,
+      5,
+      16,
+      509,
+      510
+    ],
+    "afolhalivre": [
+      5,
+      7,
+      20,
+      973,
+      3032
+    ],
+    "omatogrossense": [
+      5,
+      7,
+      20,
+      973
+    ],
+    "portalnortemt": [
+      5,
+      7,
+      20,
+      973,
+      3030
+    ],
+    "portalpantanalmt": [
+      5,
+      7,
+      20,
+      973,
+      3105
+    ],
+    "roonoticias": [
+      5,
+      7,
+      20,
+      973,
+      3118
+    ]
   }
 }
