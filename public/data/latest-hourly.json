@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-16T11:00:05.679423-04:00",
+  "generated_at": "2026-04-16T12:00:06.548111-04:00",
   "window": {
-    "start": "2026-04-16T10:00:05.679423-04:00",
-    "end": "2026-04-16T11:00:05.679423-04:00"
+    "start": "2026-04-16T11:00:06.548111-04:00",
+    "end": "2026-04-16T12:00:06.548111-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Homem sob efeito de entorpecentes entra em surto e assusta passageiros em rodoviária de Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-efeito-entorpecentes-surto-rodoviaria-cuiaba-video/",
+        "title": "Polícia Civil desmonta esquema de tráfico que usava decisão fraudulenta do STF em Cuiabá e VG; veja vídeo",
+        "link": "https://perrenguematogrosso.com/policia-desmonta-esquema-trafico-decisao-fraudulenta-mt-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-16T10:13:35-04:00",
+        "published": "2026-04-16T11:13:43-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -20,11 +20,24 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://perrenguematogrosso.com/334647-2/",
+        "title": "Disputa pela Mesa Diretora Ganha Forma e Bastidores Revelam Articulação Até o Último Voto; veja vídeo",
+        "link": "https://perrenguematogrosso.com/disputa-pela-mesa-diretora-ganha-forma-e-bastidores-revelam-articulacao-ate-o-ultimo-voto-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-16T11:40:48-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "“Eu fiz o máximo que pude”, diz caminhoneiro após acidente que matou cinegrafista da Band na BR-381 e deixa rastro de tragédia; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/acidente-grave-mata-cinegrafista-em-mg-e/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-16T10:51:32-04:00",
+        "published": "2026-04-16T11:52:59-04:00",
         "categories": [
           "Notícias"
         ],
@@ -36,11 +49,11 @@
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Usuário de drogas entra em surto e é contido após apresentar agressividade na rodoviária de Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/usuario-drogas-surto-agressividade-rodoviaria-cuiaba-video/",
+        "title": "Polícia Civil desmonta esquema de tráfico com uso fraudulento do STF em Mato Grosso; veja vídeo",
+        "link": "https://omatogrossense.com/policia-desmonta-esquema-trafico-fraudulento-stf-mato-grosso-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-16T10:13:31-04:00",
+        "published": "2026-04-16T11:15:39-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -49,16 +62,29 @@
         ]
       },
       {
-        "title": "/",
-        "link": "https://omatogrossense.com/141149-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-16T10:51:23-04:00",
+        "title": "Disputa pela Mesa Diretora Ganha Forma e Bastidores Revelam Articulação Até o Último Voto; veja vídeo",
+        "link": "https://omatogrossense.com/disputa-pela-mesa-diretora-ganha-forma-e-bastidores-revelam-articulacao-ate-o-ultimo-voto-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-16T11:42:56-04:00",
         "categories": [
-          "MT Notícias"
+          "Política"
         ],
         "category_ids": [
-          20
+          5
+        ]
+      },
+      {
+        "title": "“Tentei frear e jogar para o acostamento”, diz caminhoneiro após acidente que matou cinegrafista na BR-381; Veja vídeo",
+        "link": "https://omatogrossense.com/colisao-na-br-381-deixa-cinegrafista/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-16T11:52:52-04:00",
+        "categories": [
+          "Brasil e Mundo"
+        ],
+        "category_ids": [
+          973
         ]
       }
     ],
