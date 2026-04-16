@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-04-15T19:00:00.264853-04:00",
+  "generated_at": "2026-04-15T20:09:05.827111-04:00",
   "window": {
-    "start": "2026-04-15T18:00:00.264853-04:00",
-    "end": "2026-04-15T19:00:00.264853-04:00"
+    "start": "2026-04-15T19:09:05.827111-04:00",
+    "end": "2026-04-15T20:09:05.827111-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "PM desmantela esquema de facção criminosa e recupera veículo roubado de outro estado em VG; veja vídeo",
-        "link": "https://perrenguematogrosso.com/pm-desmantela-faccao-recupera-veiculo-roubado-vg-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-15T18:04:22-04:00",
+        "title": "Novo lança Marcelo Maluf ao governo de MT e aposta em campanha intensa pelo interior; veja vídeo",
+        "link": "https://perrenguematogrosso.com/novo-lanca-marcelo-maluf-ao-governo-de-mt-e-aposta-em-campanha-intensa-pelo-interior-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-15T19:09:30-04:00",
         "categories": [
-          "Vovô de Olho"
+          "Política"
         ],
         "category_ids": [
-          16
+          510
         ]
       },
       {
-        "title": "Barcelona: Fermín vai ao hospital após choque com goleiro na Champions; veja vídeo",
-        "link": "https://perrenguematogrosso.com/fermin-vai-ao-hospital-apos-choque-com-goleiro/",
+        "title": "STJD condena Pedrinho e afasta presidente do Vasco por 15 dias após confusão",
+        "link": "https://perrenguematogrosso.com/stjd-condena-pedrinho/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-04-15T18:27:07-04:00",
+        "published": "2026-04-15T19:49:31-04:00",
         "categories": [
           "Esporte"
         ],
@@ -33,11 +33,11 @@
         ]
       },
       {
-        "title": "Manequim coberto de seda é lançado a 33 km da Terra em projeto artístico espacial; veja vídeo",
-        "link": "https://perrenguematogrosso.com/um-manequim-coberto-de-seda-e-com-apenas-700-gramas-foi-lancado-a-estratosfera-como-parte-de-um-projeto-artistico-experimental-que-uniu-arte/",
+        "title": "Criador da Choquei é preso em operação da PF contra esquema bilionário de lavagem de dinheiro",
+        "link": "https://perrenguematogrosso.com/o-influenciador-raphael-sousa-oliveira-responsavel-pela-pagina-choquei-foi-preso-pela-policia-federal-nesta-quarta-feira-15-durante-uma/",
         "author": "Isabelli Pereira Pinheiro",
         "author_id": 296,
-        "published": "2026-04-15T18:40:00-04:00",
+        "published": "2026-04-15T19:59:17-04:00",
         "categories": [
           "Notícias"
         ],
@@ -46,117 +46,29 @@
         ]
       },
       {
-        "title": "Bayern vira no fim, vence Real Madrid e avança à semifinal da Champions; veja os gols",
-        "link": "https://perrenguematogrosso.com/bayern-vira-no-fim-vence-real-madrid/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-15T18:48:56-04:00",
+        "title": "Operação investiga esquema de fraude em licitações de Araguaiana; veja vídeo",
+        "link": "https://perrenguematogrosso.com/operacao-investiga-esquema-de-fraude-em-licitacoes-de-araguaiana-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 293,
+        "published": "2026-04-15T20:00:00-04:00",
         "categories": [
-          "Esporte"
+          "Notícias",
+          "Vovô de Olho"
         ],
         "category_ids": [
-          509
-        ]
-      },
-      {
-        "title": "Apoio declarado: Romeu Zema ganha força como nome à Presidência; veja vídeo",
-        "link": "https://perrenguematogrosso.com/apoio-declarado-romeu-zema-ganha-forca-como-nome-a-presidencia-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-15T18:53:01-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
+          5,
+          16
         ]
       }
     ],
-    "afolhalivre": [
+    "afolhalivre": [],
+    "omatogrossense": [
       {
-        "title": "Crianças indígenas destacam produção agrícola em evento no em MT e acende alerta para moradores;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/criancas-indigenas-destacam-producao-agricola-em-evento-no-em-mt-e-acende-alerta/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:01:46-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Polícia prende suspeito por tráfico em Primavera do Leste",
-        "link": "https://afolhalivre.com/policia-prende-suspeito-por-trafico-em-primavera-do-leste/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-15T18:09:50-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      },
-      {
-        "title": "Corpo de caseiro é encontrado em decomposição em fazenda localizada em Poxoréo",
-        "link": "https://afolhalivre.com/corpo-de-caseiro-e-encontrado-em-decomposicao-em-fazenda-localizada-em-poxoreo/",
-        "author": "Lindy Oliveira",
-        "author_id": 27,
-        "published": "2026-04-15T18:15:51-04:00",
-        "categories": [
-          "Primavera"
-        ],
-        "category_ids": [
-          3032
-        ]
-      },
-      {
-        "title": "Educador físico de Cuiabá supera câncer e encara desafio intern… e acende alerta para moradores;VEJA VÍDEO.",
-        "link": "https://afolhalivre.com/educador-fisico-de-cuiaba-supera-cancer-e-encara-desafio-intern-e-acende-alerta/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:21:27-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Neymar faz forte desabafo após ser xingado em jogo do San… e movimenta torcedores após a rodada",
-        "link": "https://afolhalivre.com/neymar-faz-forte-desabafo-apos-ser-xingado-em-jogo-do-san-e-movimenta-torcedores/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:31:41-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Liverpool e movimenta torcedores após a rodada",
-        "link": "https://afolhalivre.com/liverpool-e-movimenta-torcedores-apos-a-rodada/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:41:40-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Genial/Quaest e mexe com o debate político que afeta o dia a dia do segurado",
-        "link": "https://afolhalivre.com/genial-quaest-e-mexe-com-o-debate-politico-que-afeta-o-dia-a-dia-do-segurado/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:42:01-04:00",
+        "title": "Novo lança Marcelo Maluf ao governo de MT e aposta em campanha intensa pelo interior; veja vídeo",
+        "link": "https://omatogrossense.com/novo-lanca-marcelo-maluf-ao-governo-de-mt-e-aposta-em-campanha-intensa-pelo-interior-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-15T19:09:41-04:00",
         "categories": [
           "Política"
         ],
@@ -165,26 +77,11 @@
         ]
       },
       {
-        "title": "Moraes rejeita pedido de Bolsonaro para que cunhado seja seu cu… e acende alerta para moradores",
-        "link": "https://afolhalivre.com/moraes-rejeita-pedido-de-bolsonaro-para-que-cunhado-seja-seu-cu-e-acende-alerta/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:51:28-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "omatogrossense": [
-      {
-        "title": "VÍDEO: Ex-Flamengo e Vasco, Erazo troca futebol pela cozinha e vence MasterChef",
-        "link": "https://omatogrossense.com/erazo-troca-futebol-pela-cozinha/",
+        "title": "JP se desculpa após expulsão e critica decisão da arbitragem",
+        "link": "https://omatogrossense.com/jp-se-desculpa-apos-expulsao/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-15T18:00:24-04:00",
+        "published": "2026-04-15T19:15:57-04:00",
         "categories": [
           "Esporte"
         ],
@@ -193,24 +90,11 @@
         ]
       },
       {
-        "title": "PM intercepta veículo roubado de outro estado e desarticula esquema de facção criminosa em VG; veja vídeo",
-        "link": "https://omatogrossense.com/pm-veiculo-roubado-faccao-criminosa-vg-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-15T18:05:25-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "VÍDEO: Fermín vai ao hospital após choque em jogo do Barcelona na Champions",
-        "link": "https://omatogrossense.com/fermin-vai-ao-hospital-apos-choque/",
+        "title": "STJD condena Pedrinho e afasta presidente do Vasco por confusão",
+        "link": "https://omatogrossense.com/stjd-condena-pedrinho/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-15T18:33:32-04:00",
+        "published": "2026-04-15T19:53:59-04:00",
         "categories": [
           "Esporte"
         ],
@@ -219,272 +103,35 @@
         ]
       },
       {
-        "title": "Manequim coberto de seda é lançado a 33 km da Terra em projeto artístico espacial; veja vídeo",
-        "link": "https://omatogrossense.com/um-manequim-coberto-de-seda-e-com-apenas-700-gramas-foi-lancado-a-estratosfera-como-parte-de-um-projeto-artistico-experimental-que-uniu-arte/",
+        "title": "Operação investiga esquema de fraude em licitações de Araguaiana; veja vídeo",
+        "link": "https://omatogrossense.com/operacao-investiga-esquema-de-fraude-em-licitacoes-de-araguaiana-veja-video/",
+        "author": "Victor Hugo Moreira do Nascimento",
+        "author_id": 28,
+        "published": "2026-04-15T20:00:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Criador da Choquei é preso em operação da PF contra esquema bilionário de lavagem de dinheiro",
+        "link": "https://omatogrossense.com/o-influenciador-raphael-sousa-oliveira-responsavel-pela-pagina-choquei-foi-preso-pela-policia-federal-nesta-quarta-feira-15-durante-uma/",
         "author": "Isabelli Pereira Pinheiro",
         "author_id": 31,
-        "published": "2026-04-15T18:40:00-04:00",
+        "published": "2026-04-15T20:00:44-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
         "category_ids": [
           973
         ]
-      },
-      {
-        "title": "Apoio declarado: Romeu Zema ganha força como nome à Presidência; veja vídeo",
-        "link": "https://omatogrossense.com/apoio-declarado-romeu-zema-ganha-forca-como-nome-a-presidencia-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-15T18:53:06-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Bayern vira nos minutos finais, elimina Real Madrid e avança na Champions; veja os gols",
-        "link": "https://omatogrossense.com/bayern-vira-nos-minutos-finais/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-15T18:53:36-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
       }
     ],
-    "portalnortemt": [
-      {
-        "title": "Crianças indígenas destacam produção agrícola em evento no em MT e reforça alerta regional;VEJA VÍDEO.",
-        "link": "https://portalnortemt.com/criancas-indigenas-destacam-producao-agricola-em-evento-no-em-mt-e-reforca-alert/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:01:06-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Educador físico de Cuiabá supera câncer e encara desafio internacion… e reforça alerta regional;VEJA VÍDEO.",
-        "link": "https://portalnortemt.com/educador-fisico-de-cuiaba-supera-cancer-e-encara-desafio-internacion-e-reforca-a/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:20:53-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Neymar faz forte desabafo após ser xingado em jogo do Santos e amplia debate sobre a rodada",
-        "link": "https://portalnortemt.com/neymar-faz-forte-desabafo-apos-ser-xingado-em-jogo-do-santos-e-amplia-debate-sob/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:30:59-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Liverpool e amplia debate sobre a rodada",
-        "link": "https://portalnortemt.com/liverpool-e-amplia-debate-sobre-a-rodada/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:40:54-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Genial/Quaest e amplia a cobrança por gestão e resposta institucional",
-        "link": "https://portalnortemt.com/genial-quaest-e-amplia-a-cobranca-por-gestao-e-resposta-institucional/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:41:21-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Moraes rejeita pedido de Bolsonaro para que cunhado seja seu cuidador e reforça alerta regional",
-        "link": "https://portalnortemt.com/moraes-rejeita-pedido-de-bolsonaro-para-que-cunhado-seja-seu-cuidador-e-reforca/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:50:54-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "portalpantanalmt": [
-      {
-        "title": "Crianças indígenas destacam produção agrícola em evento no em MT e mobiliza a comunidade local;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/criancas-indigenas-destacam-producao-agricola-em-evento-no-em-mt-e-mobiliza-a-co/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:02:31-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Educador físico de Cuiabá supera câncer e encara desafio interna… e mobiliza a comunidade local;VEJA VÍDEO.",
-        "link": "https://portalpantanalmt.com/educador-fisico-de-cuiaba-supera-cancer-e-encara-desafio-interna-e-mobiliza-a-co/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:21:58-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Neymar faz forte desabafo após ser xingado em jogo do S… e repercute entre torcedores da região",
-        "link": "https://portalpantanalmt.com/neymar-faz-forte-desabafo-apos-ser-xingado-em-jogo-do-s-e-repercute-entre-torced/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:32:22-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Liverpool e repercute entre torcedores da região",
-        "link": "https://portalpantanalmt.com/liverpool-e-repercute-entre-torcedores-da-regiao/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:42:09-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Genial/Quaest e repercute entre lideranças e moradores da região",
-        "link": "https://portalpantanalmt.com/genial-quaest-e-repercute-entre-liderancas-e-moradores-da-regiao/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:42:33-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Moraes rejeita pedido de Bolsonaro para que cunhado seja seu cui… e mobiliza a comunidade local",
-        "link": "https://portalpantanalmt.com/moraes-rejeita-pedido-de-bolsonaro-para-que-cunhado-seja-seu-cui-e-mobiliza-a-co/",
-        "author": "Código5 Bot",
-        "author_id": 1,
-        "published": "2026-04-15T18:52:00-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ],
-    "roonoticias": [
-      {
-        "title": "Educador físico de Cuiabá supera câncer e encara desafio internacional na Patagônia; veja vídeo",
-        "link": "https://roonoticias.com/o-educador-fisico-tiago-andriolli-de-cuiaba-voltou-a-enfrentar/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-15T18:12:29-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Neymar faz forte desabafo após ser xingado em jogo do Santos: ‘Dou a vida por esse clube e faço até mais do que deveria fazer’",
-        "link": "https://roonoticias.com/o-atacante-neymar-deixou-a-vila-belmiro-chateado-apos-o-empate/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-15T18:24:41-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Liverpool: Ekitike sofre ruptura do tendão de Aquiles e perderá a Copa do Mundo pela França",
-        "link": "https://roonoticias.com/o-atacante-hugo-ekitike-sofreu-uma-grave-lesao-ao-romper/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-15T18:31:44-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Genial/Quaest: governo Lula é desaprovado por 52%; 43% aprovam",
-        "link": "https://roonoticias.com/levantamento-da-genial-quaest-divulgado-nesta-quarta-feira-15-4/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-15T18:39:17-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Moraes rejeita pedido de Bolsonaro para que cunhado seja seu cuidador",
-        "link": "https://roonoticias.com/o-ministro-alexandre-de-moraes-do-supremo-tribunal-federal-8/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-15T18:44:18-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      }
-    ]
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": []
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
