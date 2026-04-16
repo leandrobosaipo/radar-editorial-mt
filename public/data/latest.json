@@ -1,199 +1,17 @@
 {
-  "generated_at": "2026-04-16T14:00:05.741724-04:00",
+  "generated_at": "2026-04-16T15:00:05.169866-04:00",
   "window": {
-    "start": "2026-04-16T00:00:00-04:00",
-    "end": "2026-04-16T14:00:00-04:00"
+    "start": "2026-04-16T14:00:05.169866-04:00",
+    "end": "2026-04-16T15:00:05.169866-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Polícia Civil cumpre mandados contra organização criminosa envolvida em roubo a cooperativa em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-mandados-organizacao-roubo-cooperativa-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-16T08:10:00-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Cadeia não é eterna diz homem ao ameaçar ex e acaba preso por violência doméstica; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-e-preso-apos-ameacar/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-16T08:18:32-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Câmera registra momento da discussão e agressão entre entregador e funcionário no Shopping Estação; veja vídeo",
-        "link": "https://perrenguematogrosso.com/momento-discussao-agressao-entregador-funcionario-shopping-estacao-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-16T09:15:56-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Ibovespa Avança com Apoio de Vale e Bancos Enquanto Exterior Mostra Otimismo Moderado",
-        "link": "https://perrenguematogrosso.com/ibovespa-avanca-com-apoio-de-vale-e-bancos-enquanto-exterior-mostra-otimismo-moderado/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-16T09:20:56-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Mudança no Comando: Saída de Executiva Marca Nova Fase em Gigante do Café",
-        "link": "https://perrenguematogrosso.com/mudanca-no-comando-saida-de-executiva-marca-nova-fase-em-gigante-do-cafe/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-16T09:26:10-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Golpe do Pix explode e quadrilha cria roubos falsos para arrancar dinheiro de bancos no interior; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/esquema-criminoso-e-alvo-de-grande/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-16T09:50:44-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Homem sob efeito de entorpecentes entra em surto e assusta passageiros em rodoviária de Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-efeito-entorpecentes-surto-rodoviaria-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-16T10:13:35-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Instagram de MC Ryan SP e Chrys Dias é derrubado após mega operação e prisões; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/influenciadores-sao-presos-e/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-16T10:51:32-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Polícia Civil desmonta esquema de tráfico que usava decisão fraudulenta do STF em Cuiabá e VG; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-desmonta-esquema-trafico-decisao-fraudulenta-mt-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-16T11:13:43-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Disputa pela Mesa Diretora Ganha Forma e Bastidores Revelam Articulação Até o Último Voto; veja vídeo",
-        "link": "https://perrenguematogrosso.com/disputa-pela-mesa-diretora-ganha-forma-e-bastidores-revelam-articulacao-ate-o-ultimo-voto-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-16T11:40:48-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "“Eu fiz o máximo que pude”, diz caminhoneiro após acidente que matou cinegrafista da Band; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/acidente-grave-mata-cinegrafista-em-mg-e/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-16T11:52:59-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Ônibus da linha pega fogo  e assusta passageiros em horário de pico; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/chamas-tomam-onibus-em-avenida/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-16T12:18:25-04:00",
-        "categories": [
-          "Notícias"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Suspeito de agredir ex-companheira é detido com grande quantidade de drogas em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/suspeito-agredir-ex-companheira-detido-drogas-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-16T12:34:46-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "Ilde Reage e Promete Ir à Tribuna: Vereador se Posiciona Contra Mudança que Pode Ampliar Mandato na Câmara; veja vídeo",
-        "link": "https://perrenguematogrosso.com/ilde-reage-e-promete-ir-a-tribuna-vereador-se-posiciona-contra-mudanca-que-pode-ampliar-mandato-na-camara-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-16T12:41:27-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Presidente do Cuiabá chama torcedores de “vagabundos” após nova eliminação; veja vídeo",
-        "link": "https://perrenguematogrosso.com/presidente-do-cuiaba-chama-torcedores-de-vagabundos/",
+        "title": "Cuiabá perde para Porto Vitória, segue sem vencer e é eliminado da Copa Verde",
+        "link": "https://perrenguematogrosso.com/cuiaba-perde-para-porto-vitoria/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-04-16T13:40:55-04:00",
+        "published": "2026-04-16T14:26:04-04:00",
         "categories": [
           "Esporte"
         ],
@@ -202,53 +20,66 @@
         ]
       },
       {
-        "title": "Polícia apreende drogas e prende suspeito ligado a facção em Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-apreende-drogas-e-prende-suspeito-ligado-a-faccao-em-varzea-grande-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-16T13:52:21-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/334702-2/",
+        "title": "Acidente entre três veículos deixa feridos e provoca interdição de faixas; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/acidente-entre-tres-veiculos-deixa-feridos-e-provoca-interdicao-de-faixas-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-16T13:57:39-04:00",
+        "published": "2026-04-16T14:26:27-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Alerta silencioso: milhões de processos no INSS expõem idosos a novo tipo de golpe; veja vídeo",
+        "link": "https://perrenguematogrosso.com/alerta-silencioso-milhoes-de-processos-no-inss-expoem-idosos-a-novo-tipo-de-golpe-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-16T14:51:26-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Após goleada, público lota Arena Pantanal e aguarda novo jogo da Seleção Feminina",
+        "link": "https://perrenguematogrosso.com/apos-goleada-publico-lota-arena-pantanal/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-16T15:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Polícia cumpre mandados contra quadrilha ligada a roubo em cooperativa de crédito em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/policia-mandados-quadrilha-roubo-cooperativa-credito-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-16T08:10:00-04:00",
+        "title": "VÍDEO: Presidente do Cuiabá xinga torcedores após eliminação na Copa Verde",
+        "link": "https://omatogrossense.com/presidente-do-cuiaba-xinga-torcedores/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-16T14:08:51-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       },
       {
-        "title": "Homem ameaça ex-companheira e desafia polícia ao ser expulso de casa; Veja vídeo",
-        "link": "https://omatogrossense.com/homem-e-preso-apos-ameaca-contra/",
+        "title": "Acidente envolve três carros, interdita faixas e mobiliza bombeiros; Veja vídeo",
+        "link": "https://omatogrossense.com/acidente-no-eixao-envolve-tres-carros-interdita-faixas-e-mobiliza-bombeiros-veja-video/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-16T08:18:43-04:00",
+        "published": "2026-04-16T14:25:07-04:00",
         "categories": [
           "Brasil e Mundo"
         ],
@@ -257,185 +88,29 @@
         ]
       },
       {
-        "title": "Câmera revela discussão seguida de agressão entre entregador e funcionário no Shopping Estação; veja vídeo",
-        "link": "https://omatogrossense.com/camera-discussao-agressao-entregador-funcionario-shopping-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-16T09:17:08-04:00",
+        "title": "Cuiabá perde para o Porto Vitória e é eliminado da Copa Verde",
+        "link": "https://omatogrossense.com/cuiaba-perde-para-o-porto-vitoria/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-16T14:48:36-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       },
       {
-        "title": "Ibovespa Avança com Apoio de Vale e Bancos Enquanto Exterior Mostra Otimismo Moderado",
-        "link": "https://omatogrossense.com/ibovespa-avanca-com-apoio-de-vale-e-bancos-enquanto-exterior-mostra-otimismo-moderado/",
+        "title": "Alerta silencioso: milhões de processos no INSS expõem idosos a novo tipo de golpe; veja vídeo",
+        "link": "https://omatogrossense.com/alerta-silencioso-milhoes-de-processos-no-inss-expoem-idosos-a-novo-tipo-de-golpe-veja-video/",
         "author": "Fabíola Maria Costa Silva",
         "author_id": 25,
-        "published": "2026-04-16T09:22:54-04:00",
+        "published": "2026-04-16T14:51:39-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
-        ]
-      },
-      {
-        "title": "Mudança no Comando: Saída de Executiva Marca Nova Fase em Gigante do Café",
-        "link": "https://omatogrossense.com/mudanca-no-comando-saida-de-executiva-marca-nova-fase-em-gigante-do-cafe/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-16T09:27:50-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Quadrilha do Pix é desmascarada e usava roubos falsos para arrancar dinheiro de bancos; Veja vídeo",
-        "link": "https://omatogrossense.com/operacao-mira-grupo-envolvido/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-16T09:51:06-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Usuário de drogas entra em surto e é contido após apresentar agressividade na rodoviária de Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/usuario-drogas-surto-agressividade-rodoviaria-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-16T10:13:31-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "MC Ryan SP e Chrys Dias têm perfis derrubados após serem presos pela Polícia Federal; Veja vídeo",
-        "link": "https://omatogrossense.com/influenciadores-sao-presos-em-operacao/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-16T10:51:23-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Polícia Civil desmonta esquema de tráfico com uso fraudulento do STF em Mato Grosso; veja vídeo",
-        "link": "https://omatogrossense.com/policia-desmonta-esquema-trafico-fraudulento-stf-mato-grosso-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-16T11:15:39-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Disputa pela Mesa Diretora Ganha Forma e Bastidores Revelam Articulação Até o Último Voto; veja vídeo",
-        "link": "https://omatogrossense.com/disputa-pela-mesa-diretora-ganha-forma-e-bastidores-revelam-articulacao-ate-o-ultimo-voto-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-16T11:42:56-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "“Tentei frear e jogar para o acostamento”, diz caminhoneiro após acidente que matou cinegrafista; Veja vídeo",
-        "link": "https://omatogrossense.com/colisao-na-br-381-deixa-cinegrafista/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-16T11:52:52-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Ônibus pega fogo e causa correria em horário de pico; Veja vídeo",
-        "link": "https://omatogrossense.com/chamas-tomam-onibus-na-manha-desta/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-16T12:17:50-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Homem suspeito de agressão e ameaça contra ex-companheira é preso com drogas em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/homem-agressao-ameaca-ex-companheira-preso-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-16T12:37:55-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Ilde Reage e Promete Ir à Tribuna: Vereador se Posiciona Contra Mudança que Pode Ampliar Mandato na Câmara; veja vídeo",
-        "link": "https://omatogrossense.com/ilde-reage-e-promete-ir-a-tribuna-vereador-se-posiciona-contra-mudanca-que-pode-ampliar-mandato-na-camara-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-16T12:44:03-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          5
-        ]
-      },
-      {
-        "title": "Polícia apreende drogas e prende suspeito ligado a facção em VG; veja vídeo",
-        "link": "https://omatogrossense.com/policia-apreende-drogas-e-prende-suspeito-ligado-a-faccao-em-vg-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-16T13:52:33-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://omatogrossense.com/141202-2/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-16T13:57:11-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
         ]
       }
     ],

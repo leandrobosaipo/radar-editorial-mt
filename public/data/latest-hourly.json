@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-16T14:00:05.741714-04:00",
+  "generated_at": "2026-04-16T15:00:05.169866-04:00",
   "window": {
-    "start": "2026-04-16T13:00:05.741714-04:00",
-    "end": "2026-04-16T14:00:05.741714-04:00"
+    "start": "2026-04-16T14:00:05.169866-04:00",
+    "end": "2026-04-16T15:00:05.169866-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Presidente do Cuiabá chama torcedores de “vagabundos” após nova eliminação; veja vídeo",
-        "link": "https://perrenguematogrosso.com/presidente-do-cuiaba-chama-torcedores-de-vagabundos/",
+        "title": "Cuiabá perde para Porto Vitória, segue sem vencer e é eliminado da Copa Verde",
+        "link": "https://perrenguematogrosso.com/cuiaba-perde-para-porto-vitoria/",
         "author": "marcosfeitosa20120",
         "author_id": 289,
-        "published": "2026-04-16T13:40:55-04:00",
+        "published": "2026-04-16T14:26:04-04:00",
         "categories": [
           "Esporte"
         ],
@@ -20,58 +20,97 @@
         ]
       },
       {
-        "title": "Polícia apreende drogas e prende suspeito ligado a facção em Várzea Grande; veja vídeo",
-        "link": "https://perrenguematogrosso.com/policia-apreende-drogas-e-prende-suspeito-ligado-a-faccao-em-varzea-grande-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-16T13:52:21-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": ".",
-        "link": "https://perrenguematogrosso.com/334702-2/",
+        "title": "Acidente entre três veículos deixa feridos e provoca interdição de faixas; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/acidente-entre-tres-veiculos-deixa-feridos-e-provoca-interdicao-de-faixas-veja-video/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-16T13:57:39-04:00",
+        "published": "2026-04-16T14:26:27-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
+      },
+      {
+        "title": "Alerta silencioso: milhões de processos no INSS expõem idosos a novo tipo de golpe; veja vídeo",
+        "link": "https://perrenguematogrosso.com/alerta-silencioso-milhoes-de-processos-no-inss-expoem-idosos-a-novo-tipo-de-golpe-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-16T14:51:26-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Após goleada, público lota Arena Pantanal e aguarda novo jogo da Seleção Feminina",
+        "link": "https://perrenguematogrosso.com/apos-goleada-publico-lota-arena-pantanal/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-16T15:00:00-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          509
+        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Polícia apreende drogas e prende suspeito ligado a facção em VG; veja vídeo",
-        "link": "https://omatogrossense.com/policia-apreende-drogas-e-prende-suspeito-ligado-a-faccao-em-vg-veja-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-16T13:52:33-04:00",
+        "title": "VÍDEO: Presidente do Cuiabá xinga torcedores após eliminação na Copa Verde",
+        "link": "https://omatogrossense.com/presidente-do-cuiaba-xinga-torcedores/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-16T14:08:51-04:00",
         "categories": [
-          "MT Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          20
+          7
         ]
       },
       {
-        "title": ".",
-        "link": "https://omatogrossense.com/141202-2/",
+        "title": "Acidente envolve três carros, interdita faixas e mobiliza bombeiros; Veja vídeo",
+        "link": "https://omatogrossense.com/acidente-no-eixao-envolve-tres-carros-interdita-faixas-e-mobiliza-bombeiros-veja-video/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-16T13:57:11-04:00",
+        "published": "2026-04-16T14:25:07-04:00",
         "categories": [
-          "MT Notícias"
+          "Brasil e Mundo"
         ],
         "category_ids": [
-          20
+          973
+        ]
+      },
+      {
+        "title": "Cuiabá perde para o Porto Vitória e é eliminado da Copa Verde",
+        "link": "https://omatogrossense.com/cuiaba-perde-para-o-porto-vitoria/",
+        "author": "Marcos Feitosa Silva",
+        "author_id": 23,
+        "published": "2026-04-16T14:48:36-04:00",
+        "categories": [
+          "Esporte"
+        ],
+        "category_ids": [
+          7
+        ]
+      },
+      {
+        "title": "Alerta silencioso: milhões de processos no INSS expõem idosos a novo tipo de golpe; veja vídeo",
+        "link": "https://omatogrossense.com/alerta-silencioso-milhoes-de-processos-no-inss-expoem-idosos-a-novo-tipo-de-golpe-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-16T14:51:39-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
         ]
       }
     ],
