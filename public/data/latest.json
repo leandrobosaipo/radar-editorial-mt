@@ -1,72 +1,46 @@
 {
-  "generated_at": "2026-04-16T15:00:05.169866-04:00",
+  "generated_at": "2026-04-16T16:00:05.504879-04:00",
   "window": {
-    "start": "2026-04-16T14:00:05.169866-04:00",
-    "end": "2026-04-16T15:00:05.169866-04:00"
+    "start": "2026-04-16T15:00:05.504879-04:00",
+    "end": "2026-04-16T16:00:05.504879-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Cuiabá perde para Porto Vitória, segue sem vencer e é eliminado da Copa Verde",
-        "link": "https://perrenguematogrosso.com/cuiaba-perde-para-porto-vitoria/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-16T14:26:04-04:00",
+        "title": "Homem é carregado por seguranças após surto em atendimento do INSS em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-carregado-segurancas-surto-inss-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-16T15:07:29-04:00",
         "categories": [
-          "Esporte"
+          "Vovô de Olho"
         ],
         "category_ids": [
-          509
+          16
         ]
       },
       {
-        "title": "Acidente entre três veículos deixa feridos e provoca interdição de faixas; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/acidente-entre-tres-veiculos-deixa-feridos-e-provoca-interdicao-de-faixas-veja-video/",
+        "title": "China acelera mecanização agrícola com drones e robôs em áreas de difícil acesso",
+        "link": "https://perrenguematogrosso.com/china-acelera-mecanizacao-agricola-com-drones-e-robos-em-areas-de-dificil-acesso/",
         "author": "Karolina silva",
         "author_id": 290,
-        "published": "2026-04-16T14:26:27-04:00",
+        "published": "2026-04-16T15:55:24-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
-      },
-      {
-        "title": "Alerta silencioso: milhões de processos no INSS expõem idosos a novo tipo de golpe; veja vídeo",
-        "link": "https://perrenguematogrosso.com/alerta-silencioso-milhoes-de-processos-no-inss-expoem-idosos-a-novo-tipo-de-golpe-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-16T14:51:26-04:00",
-        "categories": [
-          "Política"
-        ],
-        "category_ids": [
-          510
-        ]
-      },
-      {
-        "title": "Após goleada, público lota Arena Pantanal e aguarda novo jogo da Seleção Feminina",
-        "link": "https://perrenguematogrosso.com/apos-goleada-publico-lota-arena-pantanal/",
-        "author": "marcosfeitosa20120",
-        "author_id": 289,
-        "published": "2026-04-16T15:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          509
-        ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "VÍDEO: Presidente do Cuiabá xinga torcedores após eliminação na Copa Verde",
-        "link": "https://omatogrossense.com/presidente-do-cuiaba-xinga-torcedores/",
+        "title": "Após goleada, torcida volta à Arena Pantanal e espera novo jogo da Seleção",
+        "link": "https://omatogrossense.com/apos-goleada-torcida-volta-a-arena-pantanal/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-16T14:08:51-04:00",
+        "published": "2026-04-16T15:04:17-04:00",
         "categories": [
           "Esporte"
         ],
@@ -75,37 +49,54 @@
         ]
       },
       {
-        "title": "Acidente envolve três carros, interdita faixas e mobiliza bombeiros; Veja vídeo",
-        "link": "https://omatogrossense.com/acidente-no-eixao-envolve-tres-carros-interdita-faixas-e-mobiliza-bombeiros-veja-video/",
+        "title": "Homem é carregado por seguranças após surto durante atendimento no INSS em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/homem-carregado-surto-atendimento-inss-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-16T15:07:19-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "China amplia uso de drones e robôs e acelera mecanização na agricultura em áreas montanhosas; Veja vídeo",
+        "link": "https://omatogrossense.com/china-amplia-uso-de-drones-e-robos-e-acelera-mecanizacao-na-agricultura-em-areas-montanhosas-veja-video/",
         "author": "Karolina Coelho da Silva",
         "author_id": 22,
-        "published": "2026-04-16T14:25:07-04:00",
+        "published": "2026-04-16T15:38:52-04:00",
         "categories": [
-          "Brasil e Mundo"
+          "MT Notícias"
         ],
         "category_ids": [
-          973
+          20
         ]
       },
       {
-        "title": "Cuiabá perde para o Porto Vitória e é eliminado da Copa Verde",
-        "link": "https://omatogrossense.com/cuiaba-perde-para-o-porto-vitoria/",
+        "title": "Sem vencer, Cuiabá encara Goiás que não perdeu como mandante",
+        "link": "https://omatogrossense.com/cuiaba-encara-goias/",
         "author": "Marcos Feitosa Silva",
         "author_id": 23,
-        "published": "2026-04-16T14:48:36-04:00",
+        "published": "2026-04-16T16:00:00-04:00",
         "categories": [
           "Esporte"
         ],
         "category_ids": [
           7
         ]
-      },
+      }
+    ],
+    "portalnortemt": [],
+    "portalpantanalmt": [],
+    "roonoticias": [
       {
-        "title": "Alerta silencioso: milhões de processos no INSS expõem idosos a novo tipo de golpe; veja vídeo",
-        "link": "https://omatogrossense.com/alerta-silencioso-milhoes-de-processos-no-inss-expoem-idosos-a-novo-tipo-de-golpe-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
+        "title": "Trump volta a atacar Powell, do Fed: “Se não sair, terei de demiti-lo”",
+        "link": "https://roonoticias.com/elevou-a-tensao-entre-o-governo-e-a-autoridade/",
+        "author": "Valiatt Arruda",
         "author_id": 25,
-        "published": "2026-04-16T14:51:39-04:00",
+        "published": "2026-04-16T15:51:51-04:00",
         "categories": [
           "Política"
         ],
@@ -113,10 +104,7 @@
           5
         ]
       }
-    ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": []
+    ]
   },
   "menu_category_ids": {
     "perrenguematogrosso": [
