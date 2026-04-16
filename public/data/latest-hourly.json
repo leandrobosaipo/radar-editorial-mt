@@ -1,107 +1,357 @@
 {
-  "generated_at": "2026-04-16T16:00:05.504879-04:00",
+  "generated_at": "2026-04-16T17:00:03.947506-04:00",
   "window": {
-    "start": "2026-04-16T15:00:05.504879-04:00",
-    "end": "2026-04-16T16:00:05.504879-04:00"
+    "start": "2026-04-16T16:00:03.947506-04:00",
+    "end": "2026-04-16T17:00:03.947506-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Homem é carregado por seguranças após surto em atendimento do INSS em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/homem-carregado-segurancas-surto-inss-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 279,
-        "published": "2026-04-16T15:07:29-04:00",
-        "categories": [
-          "Vovô de Olho"
-        ],
-        "category_ids": [
-          16
-        ]
-      },
-      {
-        "title": "China acelera mecanização agrícola com drones e robôs em áreas de difícil acesso",
-        "link": "https://perrenguematogrosso.com/china-acelera-mecanizacao-agricola-com-drones-e-robos-em-areas-de-dificil-acesso/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-16T15:55:24-04:00",
+        "title": ":",
+        "link": "https://perrenguematogrosso.com/334774-2/",
+        "author": "Redação",
+        "author_id": 276,
+        "published": "2026-04-16T16:54:40-04:00",
         "categories": [
           "Notícias"
         ],
         "category_ids": [
           5
         ]
-      }
-    ],
-    "afolhalivre": [],
-    "omatogrossense": [
+      },
       {
-        "title": "Após goleada, torcida volta à Arena Pantanal e espera novo jogo da Seleção",
-        "link": "https://omatogrossense.com/apos-goleada-torcida-volta-a-arena-pantanal/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-16T15:04:17-04:00",
+        "title": "Acordo histórico à vista: Trump diz que Irã está perto de cessar-fogo e promete pacto sem armas nucleares; veja vídeo",
+        "link": "https://perrenguematogrosso.com/acordo-historico-a-vista-trump-diz-que-ira-esta-perto-de-cessar-fogo-e-promete-pacto-sem-armas-nucleares-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-16T16:55:18-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "“Brasília está difícil”: ministro do STJ expõe pressão e levanta alerta sobre interferências; veja vídeo",
+        "link": "https://perrenguematogrosso.com/brasilia-esta-dificil-ministro-do-stj-expoe-pressao-e-levanta-alerta-sobre-interferencias-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-16T16:56:58-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Proposta polêmica: Romeu Zema promete mudar STF e defende mandatos para ministros; veja vídeo",
+        "link": "https://perrenguematogrosso.com/proposta-polemica-romeu-zema-promete-mudar-stf-e-defende-mandatos-para-ministros-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 283,
+        "published": "2026-04-16T16:59:55-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          510
+        ]
+      },
+      {
+        "title": "Cuiabano Leonardo Storck vence mais uma e decide vaga na semifinal nesta sexta",
+        "link": "https://perrenguematogrosso.com/cuiabano-leonardo-storck-vence/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-16T17:00:00-04:00",
         "categories": [
           "Esporte"
         ],
         "category_ids": [
-          7
-        ]
-      },
-      {
-        "title": "Homem é carregado por seguranças após surto durante atendimento no INSS em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/homem-carregado-surto-atendimento-inss-cuiaba-video/",
-        "author": "Mhylenna",
-        "author_id": 16,
-        "published": "2026-04-16T15:07:19-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "China amplia uso de drones e robôs e acelera mecanização na agricultura em áreas montanhosas; Veja vídeo",
-        "link": "https://omatogrossense.com/china-amplia-uso-de-drones-e-robos-e-acelera-mecanizacao-na-agricultura-em-areas-montanhosas-veja-video/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-16T15:38:52-04:00",
-        "categories": [
-          "MT Notícias"
-        ],
-        "category_ids": [
-          20
-        ]
-      },
-      {
-        "title": "Sem vencer, Cuiabá encara Goiás que não perdeu como mandante",
-        "link": "https://omatogrossense.com/cuiaba-encara-goias/",
-        "author": "Marcos Feitosa Silva",
-        "author_id": 23,
-        "published": "2026-04-16T16:00:00-04:00",
-        "categories": [
-          "Esporte"
-        ],
-        "category_ids": [
-          7
+          509
         ]
       }
     ],
-    "portalnortemt": [],
-    "portalpantanalmt": [],
-    "roonoticias": [
+    "afolhalivre": [
       {
-        "title": "Trump volta a atacar Powell, do Fed: “Se não sair, terei de demiti-lo”",
-        "link": "https://roonoticias.com/elevou-a-tensao-entre-o-governo-e-a-autoridade/",
-        "author": "Valiatt Arruda",
-        "author_id": 25,
-        "published": "2026-04-16T15:51:51-04:00",
+        "title": "Trump volta a atacar Powell, do… e mexe com o debate político que afeta o dia a dia do segurado",
+        "link": "https://afolhalivre.com/trump-volta-a-atacar-powell-do-e-mexe-com-o-debate-politico-que-afeta-o-dia-a-di/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:01:25-04:00",
         "categories": [
           "Política"
         ],
         "category_ids": [
           5
+        ]
+      },
+      {
+        "title": "Moraes suspende julgamento sobr… e mexe com o debate político que afeta o dia a dia do segurado",
+        "link": "https://afolhalivre.com/moraes-suspende-julgamento-sobr-e-mexe-com-o-debate-politico-que-afeta-o-dia-a-d/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:21:15-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Jovem é preso em Cuiabá por violência doméstica e suspeita de e… e acende alerta para moradores;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/jovem-e-preso-em-cuiaba-por-violencia-domestica-e-suspeita-de-e-e-acende-alerta/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:31:15-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Homem é morto a facadas por enteada em Cuiabá e acende alerta para moradores;VEJA VÍDEO.",
+        "link": "https://afolhalivre.com/homem-e-morto-a-facadas-por-enteada-em-cuiaba-e-acende-alerta-para-moradores/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:41:19-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "omatogrossense": [
+      {
+        "title": "/",
+        "link": "https://omatogrossense.com/141271-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-16T16:54:35-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Acordo histórico à vista: Trump diz que Irã está perto de cessar-fogo e promete pacto sem armas nucleares; veja vídeo",
+        "link": "https://omatogrossense.com/acordo-historico-a-vista-trump-diz-que-ira-esta-perto-de-cessar-fogo-e-promete-pacto-sem-armas-nucleares-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-16T16:55:23-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "“Brasília está difícil”: ministro do STJ expõe pressão e levanta alerta sobre interferências; veja vídeo",
+        "link": "https://omatogrossense.com/brasilia-esta-dificil-ministro-do-stj-expoe-pressao-e-levanta-alerta-sobre-interferencias-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-16T16:57:04-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Proposta polêmica: Romeu Zema promete mudar STF e defende mandatos para ministros; veja vídeo",
+        "link": "https://omatogrossense.com/proposta-polemica-romeu-zema-promete-mudar-stf-e-defende-mandatos-para-ministros-veja-video/",
+        "author": "Fabíola Maria Costa Silva",
+        "author_id": 25,
+        "published": "2026-04-16T16:59:52-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
+    "portalnortemt": [
+      {
+        "title": "Trump volta a atacar Powell, do Fed e amplia a cobrança por gestão e resposta institucional",
+        "link": "https://portalnortemt.com/trump-volta-a-atacar-powell-do-fed-e-amplia-a-cobranca-por-gestao-e-resposta-ins/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:00:47-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Moraes suspende julgamento sobre direi… e amplia a cobrança por gestão e resposta institucional",
+        "link": "https://portalnortemt.com/moraes-suspende-julgamento-sobre-direi-e-amplia-a-cobranca-por-gestao-e-resposta/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:20:42-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Jovem é preso em Cuiabá por violência doméstica e suspeita de envolv… e reforça alerta regional;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/jovem-e-preso-em-cuiaba-por-violencia-domestica-e-suspeita-de-envolv-e-reforca-a/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:30:42-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Homem é morto a facadas por enteada em Cuiabá e reforça alerta regional;VEJA VÍDEO.",
+        "link": "https://portalnortemt.com/homem-e-morto-a-facadas-por-enteada-em-cuiaba-e-reforca-alerta-regional/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:40:44-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "portalpantanalmt": [
+      {
+        "title": "Trump volta a atacar Powell, do Fed e repercute entre lideranças e moradores da região",
+        "link": "https://portalpantanalmt.com/trump-volta-a-atacar-powell-do-fed-e-repercute-entre-liderancas-e-moradores-da-r/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:02:01-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Moraes suspende julgamento sobre direito ao… e repercute entre lideranças e moradores da região",
+        "link": "https://portalpantanalmt.com/moraes-suspende-julgamento-sobre-direito-ao-e-repercute-entre-liderancas-e-morad/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:21:46-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Jovem é preso em Cuiabá por violência doméstica e suspeita de en… e mobiliza a comunidade local;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/jovem-e-preso-em-cuiaba-por-violencia-domestica-e-suspeita-de-en-e-mobiliza-a-co/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:31:46-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Homem é morto a facadas por enteada em Cuiabá e mobiliza a comunidade local;VEJA VÍDEO.",
+        "link": "https://portalpantanalmt.com/homem-e-morto-a-facadas-por-enteada-em-cuiaba-e-mobiliza-a-comunidade-local/",
+        "author": "Código5 Bot",
+        "author_id": 1,
+        "published": "2026-04-16T16:41:53-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
+    "roonoticias": [
+      {
+        "title": "Messias projeta ter votos de senadores do PL",
+        "link": "https://roonoticias.com/o-ministro-da-advocacia-geral-da-uniao-jorge-messias/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-16T16:05:16-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Moraes suspende julgamento sobre direito ao silêncio em abordagens",
+        "link": "https://roonoticias.com/o-ministro-alexandre-de-moraes-do-supremo-tribunal-federal-9/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-16T16:10:25-04:00",
+        "categories": [
+          "Política"
+        ],
+        "category_ids": [
+          5
+        ]
+      },
+      {
+        "title": "Jovem é preso em Cuiabá por violência doméstica e suspeita de envolvimento com drogas; veja vídeos",
+        "link": "https://roonoticias.com/a-policia-civil-prendeu-um-homem-de-26-anos-na-noite/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-16T16:24:34-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Homem é morto a facadas por enteada em Cuiabá, veja vídeo",
+        "link": "https://roonoticias.com/um-homem-identificado-como-sandro-rodrigues-de-assis/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-16T16:30:28-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Fugini é condenada em MT após crianças passarem mal com molho contaminado; veja vídeo",
+        "link": "https://roonoticias.com/criancas-de-primavera-do-leste-precisaram-de-atendimento/",
+        "author": "Valiatt Arruda",
+        "author_id": 25,
+        "published": "2026-04-16T16:55:06-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
         ]
       }
     ]
