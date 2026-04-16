@@ -1,13 +1,67 @@
 {
-  "generated_at": "2026-04-16T08:00:05.756116-04:00",
+  "generated_at": "2026-04-16T09:00:02.253037-04:00",
   "window": {
-    "start": "2026-04-16T07:00:05.756116-04:00",
-    "end": "2026-04-16T08:00:05.756116-04:00"
+    "start": "2026-04-16T08:00:02.253037-04:00",
+    "end": "2026-04-16T09:00:02.253037-04:00"
   },
   "sites": {
-    "perrenguematogrosso": [],
+    "perrenguematogrosso": [
+      {
+        "title": "Polícia Civil cumpre mandados contra organização criminosa envolvida em roubo a cooperativa em Cuiabá; veja vídeo",
+        "link": "https://perrenguematogrosso.com/policia-mandados-organizacao-roubo-cooperativa-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 279,
+        "published": "2026-04-16T08:10:00-04:00",
+        "categories": [
+          "Vovô de Olho"
+        ],
+        "category_ids": [
+          16
+        ]
+      },
+      {
+        "title": "Cadeia não é eterna diz homem ao ameaçar ex e acaba preso por violência doméstica; Veja vídeo",
+        "link": "https://perrenguematogrosso.com/homem-e-preso-apos-ameacar/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-16T08:18:32-04:00",
+        "categories": [
+          "Notícias"
+        ],
+        "category_ids": [
+          5
+        ]
+      }
+    ],
     "afolhalivre": [],
-    "omatogrossense": [],
+    "omatogrossense": [
+      {
+        "title": "Polícia cumpre mandados contra quadrilha ligada a roubo em cooperativa de crédito em Cuiabá; veja vídeo",
+        "link": "https://omatogrossense.com/policia-mandados-quadrilha-roubo-cooperativa-credito-cuiaba-video/",
+        "author": "Mhylenna",
+        "author_id": 16,
+        "published": "2026-04-16T08:10:00-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      },
+      {
+        "title": "Homem ameaça ex-companheira e desafia polícia ao ser expulso de casa; Veja vídeo",
+        "link": "https://omatogrossense.com/homem-e-preso-apos-ameaca-contra/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-16T08:18:43-04:00",
+        "categories": [
+          "MT Notícias"
+        ],
+        "category_ids": [
+          20
+        ]
+      }
+    ],
     "portalnortemt": [],
     "portalpantanalmt": [],
     "roonoticias": []
