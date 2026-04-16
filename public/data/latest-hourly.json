@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-04-16T13:00:01.243379-04:00",
+  "generated_at": "2026-04-16T14:00:05.741714-04:00",
   "window": {
-    "start": "2026-04-16T12:00:01.243379-04:00",
-    "end": "2026-04-16T13:00:01.243379-04:00"
+    "start": "2026-04-16T13:00:05.741714-04:00",
+    "end": "2026-04-16T14:00:05.741714-04:00"
   },
   "sites": {
     "perrenguematogrosso": [
       {
-        "title": "Ônibus da linha pega fogo  e assusta passageiros em horário de pico; Veja vídeo",
-        "link": "https://perrenguematogrosso.com/chamas-tomam-onibus-em-avenida/",
-        "author": "Karolina silva",
-        "author_id": 290,
-        "published": "2026-04-16T12:18:25-04:00",
+        "title": "Presidente do Cuiabá chama torcedores de “vagabundos” após nova eliminação; veja vídeo",
+        "link": "https://perrenguematogrosso.com/presidente-do-cuiaba-chama-torcedores-de-vagabundos/",
+        "author": "marcosfeitosa20120",
+        "author_id": 289,
+        "published": "2026-04-16T13:40:55-04:00",
         "categories": [
-          "Notícias"
+          "Esporte"
         ],
         "category_ids": [
-          5
+          509
         ]
       },
       {
-        "title": "Suspeito de agredir ex-companheira é detido com grande quantidade de drogas em Cuiabá; veja vídeo",
-        "link": "https://perrenguematogrosso.com/suspeito-de-agredir-ex-companheira-e-detido-com-grande-quantidade-de-drogas-em-cuiaba-veja-video/",
+        "title": "Polícia apreende drogas e prende suspeito ligado a facção em Várzea Grande; veja vídeo",
+        "link": "https://perrenguematogrosso.com/policia-apreende-drogas-e-prende-suspeito-ligado-a-faccao-em-varzea-grande-veja-video/",
         "author": "Mhylenna",
         "author_id": 279,
-        "published": "2026-04-16T12:34:46-04:00",
+        "published": "2026-04-16T13:52:21-04:00",
         "categories": [
           "Vovô de Olho"
         ],
@@ -33,40 +33,27 @@
         ]
       },
       {
-        "title": "Ilde Reage e Promete Ir à Tribuna: Vereador se Posiciona Contra Mudança que Pode Ampliar Mandato na Câmara; veja vídeo",
-        "link": "https://perrenguematogrosso.com/ilde-reage-e-promete-ir-a-tribuna-vereador-se-posiciona-contra-mudanca-que-pode-ampliar-mandato-na-camara-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 283,
-        "published": "2026-04-16T12:41:27-04:00",
+        "title": ".",
+        "link": "https://perrenguematogrosso.com/334702-2/",
+        "author": "Karolina silva",
+        "author_id": 290,
+        "published": "2026-04-16T13:57:39-04:00",
         "categories": [
-          "Política"
+          "Notícias"
         ],
         "category_ids": [
-          510
+          5
         ]
       }
     ],
     "afolhalivre": [],
     "omatogrossense": [
       {
-        "title": "Ônibus pega fogo e causa correria em horário de pico; Veja vídeo",
-        "link": "https://omatogrossense.com/chamas-tomam-onibus-na-manha-desta/",
-        "author": "Karolina Coelho da Silva",
-        "author_id": 22,
-        "published": "2026-04-16T12:17:50-04:00",
-        "categories": [
-          "Brasil e Mundo"
-        ],
-        "category_ids": [
-          973
-        ]
-      },
-      {
-        "title": "Homem suspeito de agressão e ameaça contra ex-companheira é preso com drogas em Cuiabá; veja vídeo",
-        "link": "https://omatogrossense.com/homem-suspeito-de-agressao-e-ameaca-contra-ex-companheira-e-preso-com-drogas-em-cuiaba-veja-video/",
+        "title": "Polícia apreende drogas e prende suspeito ligado a facção em VG; veja vídeo",
+        "link": "https://omatogrossense.com/policia-apreende-drogas-e-prende-suspeito-ligado-a-faccao-em-vg-veja-video/",
         "author": "Mhylenna",
         "author_id": 16,
-        "published": "2026-04-16T12:37:55-04:00",
+        "published": "2026-04-16T13:52:33-04:00",
         "categories": [
           "MT Notícias"
         ],
@@ -75,16 +62,16 @@
         ]
       },
       {
-        "title": "Ilde Reage e Promete Ir à Tribuna: Vereador se Posiciona Contra Mudança que Pode Ampliar Mandato na Câmara; veja vídeo",
-        "link": "https://omatogrossense.com/ilde-reage-e-promete-ir-a-tribuna-vereador-se-posiciona-contra-mudanca-que-pode-ampliar-mandato-na-camara-veja-video/",
-        "author": "Fabíola Maria Costa Silva",
-        "author_id": 25,
-        "published": "2026-04-16T12:44:03-04:00",
+        "title": ".",
+        "link": "https://omatogrossense.com/141202-2/",
+        "author": "Karolina Coelho da Silva",
+        "author_id": 22,
+        "published": "2026-04-16T13:57:11-04:00",
         "categories": [
-          "Política"
+          "MT Notícias"
         ],
         "category_ids": [
-          5
+          20
         ]
       }
     ],
